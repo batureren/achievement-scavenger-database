@@ -1,0 +1,422 @@
+[
+  {
+    "apiname": "ACH00",
+    "display_name": "Elden Ring",
+    "description": "Obtained all achievements",
+    "chapter": "The Lands Between",
+    "hint": "Unlock every other achievement in the game. Due to the different ending achievements, this will require either playing through the game three times (NG+2) or utilizing save-file backups.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH01",
+    "display_name": "Elden Lord",
+    "description": "Achieved the \"Elden Lord\" ending",
+    "chapter": "Ending",
+    "hint": "Defeat the final boss and choose to Mend the Elden Ring. Do not use Ranni's summon sign, and ensure you have not inherited the Frenzied Flame (or have reversed it).",
+    "is_missable": true,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH02",
+    "display_name": "Age of the Stars",
+    "description": "Achieved the \"Age of the Stars\" ending",
+    "chapter": "Ending",
+    "hint": "Complete Ranni the Witch's questline. After defeating the final boss, do not interact with the statue; instead, use Ranni's blue summon sign on the floor.",
+    "is_missable": true,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH03",
+    "display_name": "Lord of Frenzied Flame",
+    "description": "Achieved the \"Lord of Frenzied Flame\" ending",
+    "chapter": "Ending",
+    "hint": "Find the Three Fingers at the bottom of the Subterranean Shunning-Grounds beneath Leyndell. Unequip your armor to pass through the door and inherit the flame. Proceed to the ending.",
+    "is_missable": true,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH04",
+    "display_name": "Shardbearer Godrick",
+    "description": "Defeated Shardbearer Godrick",
+    "chapter": "Stormveil Castle",
+    "hint": "Located at the end of Stormveil Castle. You can summon Nepheli Loux to help with the fight if you speak to her in a room near the boss arena beforehand.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH05",
+    "display_name": "Shardbearer Radahn",
+    "description": "Defeated Shardbearer Radahn",
+    "chapter": "Caelid",
+    "hint": "Trigger the Radahn Festival at Redmane Castle. During the fight, utilize the terrain to block his arrows and continually summon the NPC allies from the glowing signs on the ground.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH06",
+    "display_name": "Shardbearer Morgott",
+    "description": "Defeated Shardbearer Morgott",
+    "chapter": "Leyndell, Royal Capital",
+    "hint": "Found at the Elden Throne. If you purchased Margit's Shackle from Patches, you can use it to pin him to the ground twice during his first phase.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH07",
+    "display_name": "Shardbearer Rykard",
+    "description": "Defeated Shardbearer Rykard",
+    "chapter": "Volcano Manor",
+    "hint": "Upon entering the boss arena, pick up the Serpent-Hunter Greatspear on your left. Equip it, as its attacks create massive wind blades that easily slay the boss.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH08",
+    "display_name": "Shardbearer Malenia",
+    "description": "Defeated Shardbearer Malenia",
+    "chapter": "Miquella's Haligtree",
+    "hint": "Located at the bottom of Elphael. She heals upon striking you, even if you block. Use weapons that inflict Bleed or Frostbite, and learn the timing to dodge her devastating Waterfowl Dance.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH09",
+    "display_name": "Shardbearer Mohg",
+    "description": "Defeated Shardbearer Mohg",
+    "chapter": "Mohgwyn Palace",
+    "hint": "Mix the Purifying Crystal Tear (found in Altus Plateau) into your Flask of Wondrous Physick. Drink it before his phase transition to nullify his unavoidable life-draining curse.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH10",
+    "display_name": "Maliketh the Black Blade",
+    "description": "Defeated Maliketh the Black Blade",
+    "chapter": "Crumbling Farum Azula",
+    "hint": "His attacks reduce your maximum HP and deal damage over time. The Blasphemous Claw (dropped by Invader Bernahl) can be used to parry his attacks when his sword glows gold.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH11",
+    "display_name": "Hoarah Loux, Warrior",
+    "description": "Defeated Hoarah Loux, Warrior",
+    "chapter": "Leyndell, Ashen Capital",
+    "hint": "This is Godfrey's second phase. He drops his weapon and becomes a berserker. Roll into his grabs rather than away from them, and jump over his arena-wide ground stomps.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH12",
+    "display_name": "Dragonlord Placidusax",
+    "description": "Defeated Dragonlord Placidusax",
+    "chapter": "Crumbling Farum Azula",
+    "hint": "From the 'Beside the Great Bridge' grace, ride the elevator down, run past the beasts, and drop off the cliff edge onto floating rocks. Lie down in the empty grave to trigger the secret fight.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH13",
+    "display_name": "God-Slaying Armament",
+    "description": "Upgraded any armament to its highest stage",
+    "chapter": "Roundtable Hold",
+    "hint": "Upgrade a regular weapon to +25 using an Ancient Dragon Smithing Stone, or a special weapon to +10 using a Somber Ancient Dragon Smithing Stone.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH14",
+    "display_name": "Legendary Armaments",
+    "description": "Acquired all legendary armaments",
+    "chapter": "Various",
+    "hint": "Find all 9 Legendary Weapons. **Highly Missable:** The 'Bolt of Gransax' located in Leyndell MUST be picked up before defeating Maliketh, as the city changes state afterward.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH15",
+    "display_name": "Legendary Ashen Remains",
+    "description": "Acquired all legendary ashen remains",
+    "chapter": "Various",
+    "hint": "Find all 6 Legendary Spirit Ashes: Lhutel the Headless, Black Knife Tiche, Mimic Tear, Redmane Knight Ogha, Ancient Dragon Knight Kristoff, and Cleanrot Knight Finlay.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH16",
+    "display_name": "Legendary Sorceries and Incantations",
+    "description": "Acquired all legendary sorceries and incantations",
+    "chapter": "Various",
+    "hint": "Find all 7 Legendary Spells/Incantations: Flame of the Fell God, Foundal Rain of Stars, Elden Stars, Ranni's Dark Moon, Comet Azur, Stars of Ruin, and Greyoll's Roar.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH17",
+    "display_name": "Legendary Talismans",
+    "description": "Acquired all legendary talismans",
+    "chapter": "Various",
+    "hint": "Find all 8 Legendary Talismans: Radagon Icon, Radagon's Soreseal, Godfrey Icon, Moon of Nokstella, Dragoncrest Greatshield, Marika's Soreseal, Old Lord's Talisman, and Erdtree's Favor +2.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH18",
+    "display_name": "Rennala, Queen of the Full Moon",
+    "description": "Defeated Rennala, Queen of the Full Moon",
+    "chapter": "Academy of Raya Lucaria",
+    "hint": "In phase one, kill the glowing scholars to break her shield. In phase two, rush her aggressively; she has very low poise and can be easily staggered by physical attacks.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH19",
+    "display_name": "Lichdragon Fortissax",
+    "description": "Defeated Lichdragon Fortissax",
+    "chapter": "Deeproot Depths",
+    "hint": "Complete Fia's questline. Retrieve the Cursemark of Death from Ranni's Divine Tower, give it to Fia in the Deeproot Depths, and interact with her to enter the Deathbed Dream.",
+    "is_missable": true,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH20",
+    "display_name": "Godskin Duo",
+    "description": "Defeated Godskin Duo",
+    "chapter": "Crumbling Farum Azula",
+    "hint": "Both bosses share a collective health pool and will respawn each other until it depletes. They are extremely vulnerable to Sleep Pots; put one to sleep while you deal with the other.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH21",
+    "display_name": "Fire Giant",
+    "description": "Defeated Fire Giant",
+    "chapter": "Mountaintops of the Giants",
+    "hint": "In phase 1, target his left ankle (the one wrapped in braids). In phase 2, stay behind him to avoid his massive fire AoE attacks, or aim for his wrists for bonus damage.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH22",
+    "display_name": "Dragonkin Soldier of Nokstella",
+    "description": "Defeated Dragonkin Soldier of Nokstella",
+    "chapter": "Ainsel River",
+    "hint": "Located at the end of the lower Ainsel River. In his second phase, he imbues his attacks with Frost Lightning. Stay under his legs to avoid most of his wide swings.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH23",
+    "display_name": "Regal Ancestor Spirit",
+    "description": "Defeated Regal Ancestor Spirit",
+    "chapter": "Nokron, Eternal City",
+    "hint": "Light all 6 obelisks in the Ancestral Woods section of Nokron, then touch the glowing carcass. Burst it down quickly as it has a move that drains health from spirit animals to heal itself.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH24",
+    "display_name": "Valiant Gargoyles",
+    "description": "Defeated Valiant Gargoyles",
+    "chapter": "Siofra Aqueduct",
+    "hint": "A dual boss fight. The second Gargoyle joins when the first reaches half health. Burst down the first one as quickly as possible. Beware of their poison breath attacks.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH25",
+    "display_name": "Margit, the Fell Omen",
+    "description": "Defeated Margit, the Fell Omen",
+    "chapter": "Stormhill",
+    "hint": "The first major roadblock. Explore Limgrave and the Weeping Peninsula to level up if you struggle. Use Margit's Shackle (bought from Patches) to pin him during phase one.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH26",
+    "display_name": "Red Wolf of Radagon",
+    "description": "Defeated the Red Wolf of Radagon",
+    "chapter": "Academy of Raya Lucaria",
+    "hint": "Highly aggressive and fast but possesses very low health and poise. Dodge its magic glintblades first, then wait for its lunging sword bite to counterattack.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH27",
+    "display_name": "Godskin Noble",
+    "description": "Defeated Godskin Noble",
+    "chapter": "Volcano Manor",
+    "hint": "Found in the Temple of Eiglay. When his belly inflates and he starts rolling, hide behind the pillars in the arena or run in a tight circle to avoid getting crushed.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH28",
+    "display_name": "Magma Wyrm Makar",
+    "description": "Defeated Magma Wyrm Makar",
+    "chapter": "Ruin-Strewn Precipice",
+    "hint": "Found at the end of the climb to Altus Plateau. Bring Fireproof Dried Livers. Stay by his back legs to attack safely, and unlock your camera when he charges and spews lava.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH29",
+    "display_name": "Godfrey, First Elden Lord",
+    "description": "Defeated Godfrey, First Elden Lord",
+    "chapter": "Leyndell, Royal Capital",
+    "hint": "This is the Golden Shade version of Godfrey. He mostly uses heavily telegraphed axe swings and foot stomps. Jump over the stomps to maintain offensive pressure.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH30",
+    "display_name": "Mohg, the Omen",
+    "description": "Defeated Mohg, the Omen",
+    "chapter": "Subterranean Shunning-Grounds",
+    "hint": "Found at the very bottom of the Leyndell sewers. Unlike his blood-lord variant, this version is completely immune to status effects like Bleed and Frostbite. Rely on raw damage.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH31",
+    "display_name": "Mimic Tear",
+    "description": "Defeated Mimic Tear",
+    "chapter": "Nokron, Eternal City",
+    "hint": "The boss copies your exact equipment layout right as it spawns. Unequip your weapons and armor before entering the fog gate, then re-equip them once the boss forms to fight an unarmed mimic.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH32",
+    "display_name": "Loretta, Knight of the Haligtree",
+    "description": "Defeated Loretta, Knight of the Haligtree",
+    "chapter": "Miquella's Haligtree",
+    "hint": "Use the large circular arena to your advantage. Roll diagonally towards her magic arrows and close the distance. Equip the Spelldrake Talisman to significantly reduce her magic damage.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH33",
+    "display_name": "Astel, Naturalborn of the Void",
+    "description": "Defeated Astel, Naturalborn of the Void",
+    "chapter": "Lake of Rot",
+    "hint": "Found past the Grand Cloister. Lock onto its head for maximum damage. When it teleports, immediately look around—if it appears above you, prepare to dodge its lethal grab attack.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH34",
+    "display_name": "Leonine Misbegotten",
+    "description": "Defeated Leonine Misbegotten",
+    "chapter": "Castle Morne",
+    "hint": "Located at the southern edge of the Weeping Peninsula. Very fast and relentless, but guard counters with a good shield or heavy jumping attacks will easily break its poise.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH35",
+    "display_name": "Royal Knight Loretta",
+    "description": "Defeated Royal Knight Loretta",
+    "chapter": "Caria Manor",
+    "hint": "The spirit version of Loretta. Stay close to her side to avoid her ranged magic, but be ready to dodge her sweeping halberd slashes.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH36",
+    "display_name": "Elemer of the Briar",
+    "description": "Defeated Elemer of the Briar",
+    "chapter": "The Shaded Castle",
+    "hint": "He uses telekinetic swords that gain massive range if you back away. Stay glued to his body and strafe to his right, forcing him into close-quarters shield bashes instead of his deadly sword throws.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH37",
+    "display_name": "Ancestor Spirit",
+    "description": "Defeated Ancestor Spirit",
+    "chapter": "Siofra River",
+    "hint": "Light the 8 obelisks around the Siofra River basin to access the fight. A relatively straightforward boss with slow, telegraphed sweeps and magic breath attacks.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH38",
+    "display_name": "Commander Niall",
+    "description": "Defeated Commander Niall",
+    "chapter": "Castle Sol",
+    "hint": "He summons two highly durable Banished Knights. Use a Bewitching Branch on the dual-wielding knight right as he spawns to turn him against Niall and completely trivialize the first phase.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH39",
+    "display_name": "Roundtable Hold",
+    "description": "Arrived at Roundtable Hold",
+    "chapter": "Limgrave",
+    "hint": "Unlocks early in the game. Simply rest at a Site of Grace outside Limgrave or confront Margit, and Melina will appear to offer you passage to the Hold.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH40",
+    "display_name": "Great Rune",
+    "description": "Restored the power of a Great Rune",
+    "chapter": "Divine Towers",
+    "hint": "After obtaining your first Great Rune from a Shardbearer (like Godrick), take it to the top of its corresponding Divine Tower (Divine Tower of Limgrave) to restore its power.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH41",
+    "display_name": "Erdtree Aflame",
+    "description": "Used kindling to set the Erdtree aflame",
+    "chapter": "Forge of the Giants",
+    "hint": "Unmissable story achievement. Talk to Melina at the Site of Grace on the lip of the Forge of the Giants after defeating the Fire Giant.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  }
+]
