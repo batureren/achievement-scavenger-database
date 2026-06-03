@@ -1,0 +1,42 @@
+[
+  {
+    "apiname": "BAL_01",
+    "chapter": "Early Game",
+    "hint": "Just play naturally. Focus on a single strong hand type like Flushes or Two Pair early on."
+  },
+  {
+    "apiname": "BAL_02",
+    "is_missable": true,
+    "chapter": "Mid Game",
+    "hint": "Make sure your deck is scaling! If you don't have a good X-Mult Joker by Ante 5, you might struggle to pass the Ante 8 boss."
+  },
+  {
+    "apiname": "BAL_06",
+    "chapter": "End Game",
+    "hint": "Gold stake is brutal. The 'Plasma Deck' or 'Yellow Deck' are highly recommended. Focus on economy early.",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  },
+  {
+    "apiname": "BAL_09",
+    "display_name": "Nest Egg (Economy Guide)",
+    "description": "Have $400 or more during a single run. (Community tip: Interest is key!)",
+    "chapter": "Grinding",
+    "hint": "Use the 'Anaglyph Deck' and save your Double Tags for an 'Economy Tag' which doubles your money up to $40."
+  },
+  {
+    "apiname": "BAL_10",
+    "chapter": "Deck Building",
+    "hint": "Use the 'Lover' Tarot card to turn standard cards into Wild cards. The 'DNA' Joker helps duplicate them easily."
+  },
+  {
+    "apiname": "BAL_11",
+    "is_missable": true,
+    "chapter": "Speedrun",
+    "hint": "Skip blinds aggressively. You need to skip almost every Small/Big blind and only fight the Bosses to keep the round count low."
+  },
+  {
+    "apiname": "BAL_14",
+    "chapter": "Luck Based",
+    "hint": "Play the 'Checkered Deck' (contains only Spades and Hearts) to make drawing a Royal Flush significantly easier."
+  }
+]
