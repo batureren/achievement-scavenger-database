@@ -1,27 +1,51 @@
 [
   {
     "apiname": "BAL_01",
-    "chapter": "Early Game",
-    "hint": "Just play naturally. Focus on a single strong hand type like Flushes or Two Pair early on."
+    "chapter": "Progression",
+    "hint": "Just play naturally. Focus on a single strong hand type like Flushes or Two Pair early on to get through the first few Antes."
   },
   {
     "apiname": "BAL_02",
-    "is_missable": true,
-    "chapter": "Mid Game",
-    "hint": "Make sure your deck is scaling! If you don't have a good X-Mult Joker by Ante 5, you might struggle to pass the Ante 8 boss."
+    "chapter": "Progression",
+    "hint": "This unlocks when you beat the Boss Blind in Ante 8. Make sure your Jokers are scaling (giving you xMult) by Ante 5, or you will struggle to meet the score requirements."
+  },
+  {
+    "apiname": "BAL_03",
+    "chapter": "Progression",
+    "hint": "Win a run on any difficulty. The Blue Deck (+1 Hand) or Yellow Deck (Start with extra money) are great for beginners."
+  },
+  {
+    "apiname": "BAL_04",
+    "chapter": "Stakes",
+    "hint": "Red Stake removes the reward money for having leftover Discards. You will need to rely more on Interest and Economy Jokers."
+  },
+  {
+    "apiname": "BAL_05",
+    "chapter": "Stakes",
+    "hint": "Black Stake gives some Jokers an 'Eternal' sticker (they cannot be sold or destroyed). Be very careful what you buy, as it will take up a Joker slot forever!"
   },
   {
     "apiname": "BAL_06",
-    "chapter": "End Game",
-    "hint": "Gold stake is brutal. The 'Plasma Deck' or 'Yellow Deck' are highly recommended. Focus on economy early.",
-    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    "chapter": "Stakes",
+    "hint": "Gold stake is brutal. The 'Plasma Deck' or 'Yellow Deck' are highly recommended. Focus on surviving the early antes while building a massive economy.",
+    "video_url": "https://www.youtube.com/watch?v=sO6w0qBwN4Q"
+  },
+  {
+    "apiname": "BAL_07",
+    "chapter": "Grinding",
+    "hint": "This will unlock naturally as you play the game. Just keep playing hands!"
+  },
+  {
+    "apiname": "BAL_08",
+    "chapter": "Grinding",
+    "hint": "This will unlock naturally. Don't be afraid to use your discards to find the cards you actually need."
   },
   {
     "apiname": "BAL_09",
-    "display_name": "Nest Egg (Economy Guide)",
-    "description": "Have $400 or more during a single run. (Community tip: Interest is key!)",
+    "display_name": "Nest Egg",
     "chapter": "Grinding",
-    "hint": "Use the 'Anaglyph Deck' and save your Double Tags for an 'Economy Tag' which doubles your money up to $40."
+    "hint": "Use the 'Anaglyph Deck'. Every time you defeat a Boss, you get a Double Tag. Save these up until you see an 'Economy Tag' (Doubles your money up to $40). Skip the blind, and all your Double Tags will trigger, multiplying your money massively!",
+    "video_url": "https://www.youtube.com/watch?v=pD4Jv8O46p8"
   },
   {
     "apiname": "BAL_10",
@@ -32,11 +56,113 @@
     "apiname": "BAL_11",
     "is_missable": true,
     "chapter": "Speedrun",
-    "hint": "Skip blinds aggressively. You need to skip almost every Small/Big blind and only fight the Bosses to keep the round count low."
+    "hint": "You must skip almost every single Small and Big blind, only fighting the Bosses. The 'Throwback' Joker is incredible here, as it gives you xMult for every blind you skip.",
+    "video_url": "https://www.youtube.com/watch?v=nDFH3tTq88E"
+  },
+  {
+    "apiname": "BAL_12",
+    "is_missable": true,
+    "chapter": "Economy",
+    "hint": "You must buy 5 Vouchers before beating Ante 4. Make sure you keep $10 in your bank going into every shop, and prioritize Vouchers over everything else early on."
+  },
+  {
+    "apiname": "BAL_13",
+    "chapter": "Luck Based",
+    "hint": "Use the 'Justice' tarot card to turn your cards into Glass. Glass cards have a 1 in 4 chance of breaking when scored. Play a 5-card hand made entirely of Glass cards to maximize your odds."
   },
   {
     "apiname": "BAL_14",
     "chapter": "Luck Based",
-    "hint": "Play the 'Checkered Deck' (contains only Spades and Hearts) to make drawing a Royal Flush significantly easier."
+    "hint": "Don't try to force this naturally. Play the 'Checkered Deck' (contains only Spades and Hearts) to make drawing a straight flush/royal flush significantly easier."
+  },
+  {
+    "apiname": "BAL_15",
+    "chapter": "Deck Building",
+    "hint": "Level up a single hand type to Level 10. Buy every Planet card for your favorite hand, and use the 'Telescope' Voucher to guarantee that planet appears in Celestial Packs."
+  },
+  {
+    "apiname": "BAL_16",
+    "chapter": "High Score",
+    "hint": "10,000 points in a single hand. Unlocks naturally as you learn to build your Jokers with a mix of +Chips, +Mult, and xMult."
+  },
+  {
+    "apiname": "BAL_17",
+    "chapter": "High Score",
+    "hint": "1,000,000 points. You will need strong xMult Jokers like 'Vampire', 'Campfire', or 'Hologram' leveled up."
+  },
+  {
+    "apiname": "BAL_18",
+    "chapter": "High Score",
+    "hint": "100,000,000 points. The 'Plasma Deck' is fantastic for this, as it balances your Chips and Mult. Focus entirely on massive Chip generation or massive xMult Jokers.",
+    "video_url": "https://www.youtube.com/watch?v=JmSst2GgQ2s"
+  },
+  {
+    "apiname": "BAL_19",
+    "chapter": "Deck Building",
+    "hint": "Thin your deck to 20 or fewer cards. Use the 'Trading Card' Joker (destroys the first discarded card), 'Hanged Man' Tarots, and 'Immolate' Spectral cards."
+  },
+  {
+    "apiname": "BAL_20",
+    "chapter": "Deck Building",
+    "hint": "Grow your deck to 80 or more cards. The 'Marble Joker' (adds 1 Stone card every blind) and 'Certificate' Joker (adds a card every round) make this very easy."
+  },
+  {
+    "apiname": "BAL_21",
+    "chapter": "Luck Based",
+    "hint": "The 'Space Joker' has a 1 in 4 chance to upgrade your played hand. You must trigger this success 4 times in a single run. Keep it in your inventory and just keep playing hands!"
+  },
+  {
+    "apiname": "BAL_22",
+    "chapter": "Collection",
+    "hint": "Discover every Planet card. Just keep opening Celestial packs. Note: Planet X (Five of a Kind), Ceres (Flush House), and Eris (Flush Five) only appear AFTER you play those hidden hands."
+  },
+  {
+    "apiname": "BAL_23",
+    "chapter": "Collection",
+    "hint": "Discover every Tarot card. Open Arcana packs whenever you can."
+  },
+  {
+    "apiname": "BAL_24",
+    "chapter": "Collection",
+    "hint": "Discover every Spectral card. Open Spectral packs."
+  },
+  {
+    "apiname": "BAL_25",
+    "chapter": "Collection",
+    "hint": "Discover every Voucher. Some Vouchers have specific unlock requirements (like playing a certain amount of cards) before they can appear in the shop."
+  },
+  {
+    "apiname": "BAL_26",
+    "chapter": "Collection",
+    "hint": "Discover 100% of your collection (Decks, Jokers, Tarots, Planets, Spectrals, Vouchers). Check your 'Collection' tab on the main menu to see what you are missing.",
+    "is_spoiler": true
+  },
+  {
+    "apiname": "BAL_27",
+    "chapter": "Completionist",
+    "hint": "Win a run on Gold Stake difficulty with every single Deck. This is an incredibly long grind.",
+    "is_spoiler": true
+  },
+  {
+    "apiname": "BAL_28",
+    "chapter": "Completionist",
+    "hint": "Get a Gold Sticker on every Joker. This means you must have every Joker in your active inventory at the exact moment you beat Ante 8 on Gold Stake. The ultimate Balatro grind.",
+    "is_spoiler": true
+  },
+  {
+    "apiname": "BAL_29",
+    "chapter": "Challenges",
+    "hint": "Complete any challenge run. Challenges are unlocked after winning your first standard run."
+  },
+  {
+    "apiname": "BAL_30",
+    "chapter": "Challenges",
+    "hint": "Complete all 20 challenge runs. Some of these completely change the rules of the game!"
+  },
+  {
+    "apiname": "BAL_31",
+    "chapter": "Secrets",
+    "hint": "Discover a Legendary Joker. These can only be obtained by finding 'The Soul' card, which has a very rare chance of replacing a card in Tarot or Spectral packs.",
+    "is_spoiler": true
   }
 ]
