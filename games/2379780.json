@@ -44,7 +44,8 @@
     "apiname": "BAL_09",
     "display_name": "Nest Egg",
     "chapter": "Economy",
-    "hint": "Use the 'Anaglyph Deck'. Every time you defeat a Boss, you get a Double Tag. Save these up until you see an 'Economy Tag' (Doubles your money up to $40). Skip the blind, and all your Double Tags will trigger, multiplying your money massively!"
+    "hint": "Use the 'Anaglyph Deck'. Every time you defeat a Boss, you get a Double Tag. Save these up until you see an 'Economy Tag' (Doubles your money up to $40). Skip the blind, and all your Double Tags will trigger, multiplying your money massively!",
+    "video_url": "https://www.youtube.com/watch?v=tyh9TwGR6GE"
   },
   {
     "apiname": "BAL_10",
@@ -55,7 +56,8 @@
     "apiname": "BAL_11",
     "is_missable": true,
     "chapter": "Speedrun",
-    "hint": "Win in 12 or fewer rounds. There are 8 Bosses in a run. This means you only have 4 'spare' rounds you can play. You MUST skip almost every single Small and Big blind. The 'Throwback' Joker is incredible here, as it gives you xMult for every blind you skip."
+    "hint": "Win in 12 or fewer rounds. There are 8 Bosses in a run. This means you only have 4 'spare' rounds you can play. You MUST skip almost every single Small and Big blind. The 'Throwback' Joker is incredible here, as it gives you xMult for every blind you skip.",
+    "video_url": "https://www.youtube.com/watch?v=yahgNAJD29c"
   },
   {
     "apiname": "BAL_12",
@@ -91,7 +93,8 @@
   {
     "apiname": "BAL_18",
     "chapter": "High Score",
-    "hint": "100,000,000 points. The 'Plasma Deck' is fantastic for this, as it balances your Chips and Mult. Focus entirely on massive Chip generation or massive Mult generation, and the deck will do the math for you."
+    "hint": "100,000,000 points. The 'Plasma Deck' is fantastic for this, as it balances your Chips and Mult. Focus entirely on massive Chip generation or massive Mult generation, and the deck will do the math for you.",
+    "video_url": "https://www.youtube.com/watch?v=wszSC8I4zJs"
   },
   {
     "apiname": "BAL_19",
@@ -139,7 +142,8 @@
     "apiname": "BAL_27",
     "chapter": "Completionist",
     "hint": "Get a Gold Sticker on every Joker. This means you must have every Joker in your active inventory at the exact moment you beat Ante 8 on Gold Stake. The ultimate Balatro grind.",
-    "is_spoiler": true
+    "is_spoiler": true,
+    "video_url": "https://www.youtube.com/watch?v=ytVqT3KnuhI"
   },
   {
     "apiname": "BAL_28",
