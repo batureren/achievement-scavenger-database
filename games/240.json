@@ -1,0 +1,1472 @@
+[
+  {
+    "apiname": "WIN_BOMB_PLANT",
+    "display_name": "Someone Set Up Us The Bomb",
+    "description": "Win a round by planting a bomb",
+    "chapter": "Bomb Scenarios",
+    "hint": "Play as a Terrorist on any 'de_' map (like de_dust2). Plant the C4 at site A or B and ensure it detonates.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "BOMB_PLANT_LOW",
+    "display_name": "Boomala Boomala",
+    "description": "Plant 100 bombs",
+    "chapter": "Bomb Scenarios",
+    "hint": "You just need to plant the C4. You don't actually need to win the round for the plant to count towards the 100 total.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "BOMB_DEFUSE_LOW",
+    "display_name": "The Hurt Blocker",
+    "description": "Defuse 100 bombs",
+    "chapter": "Bomb Scenarios",
+    "hint": "Play as a Counter-Terrorist. Always buy a Defuse Kit to cut the defusal time in half (from 10 seconds to 5 seconds).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_ENEMY_LOW",
+    "display_name": "Body Bagger",
+    "description": "Kill 25 enemies",
+    "chapter": "Kills & Damage",
+    "hint": "Unlocks naturally as you play the game.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_ENEMY_MED",
+    "display_name": "Corpseman",
+    "description": "Kill 500 enemies",
+    "chapter": "Kills & Damage",
+    "hint": "Unlocks naturally. Can be farmed quickly in Deathmatch or by playing offline with bots.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_ENEMY_HIGH",
+    "display_name": "God of War",
+    "description": "Kill 10,000 enemies",
+    "chapter": "Kills & Damage",
+    "hint": "A long-term grind. To farm, create an offline server with lots of harmless bots on a small map.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "BOMB_DEFUSE_CLOSE_CALL",
+    "display_name": "Second to None",
+    "description": "Successfully defuse a bomb with less than one second remaining",
+    "chapter": "Bomb Scenarios",
+    "hint": "Wait near the bomb until the beeping becomes extremely rapid. Start the defuse right at the last moment. A Defuse Kit makes timing this easier.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "BOMB_DEFUSE_NEEDED_KIT",
+    "display_name": "Combat Ready",
+    "description": "Defuse a bomb with a kit when it would have failed without one",
+    "chapter": "Bomb Scenarios",
+    "hint": "Ensure you have a Defuse Kit. Start the defusal process when the bomb timer has between 5 and 10 seconds remaining.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_BOMB_DEFUSER",
+    "display_name": "Counter-Counter-Terrorist",
+    "description": "Kill a CT while he is defusing the bomb",
+    "chapter": "Bomb Scenarios",
+    "hint": "As a Terrorist, hide near the planted bomb. Wait until you hear the defusal sound cue, peek out, and kill the Counter-Terrorist.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "WIN_BOMB_DEFUSE",
+    "display_name": "Rite of First Defusal",
+    "description": "Win a round by defusing a bomb",
+    "chapter": "Bomb Scenarios",
+    "hint": "As a Counter-Terrorist on a 'de_' map, let the Terrorists plant the C4, then eliminate them and successfully defuse it.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "BOMB_PLANT_IN_25_SECONDS",
+    "display_name": "Short Fuse",
+    "description": "Plant a bomb within 25 seconds",
+    "chapter": "Bomb Scenarios",
+    "hint": "Play a map with a short run to the bomb site (like de_dust2 B site). Rush immediately with your knife out and plant as soon as you touch the site.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "WIN_ROUNDS_LOW",
+    "display_name": "Newb World Order",
+    "description": "Win 10 rounds",
+    "chapter": "Win Conditions",
+    "hint": "Unlocks naturally as you play.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "WIN_ROUNDS_MED",
+    "display_name": "Pro-moted",
+    "description": "Win 200 rounds",
+    "chapter": "Win Conditions",
+    "hint": "Unlocks naturally over time.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "WIN_ROUNDS_HIGH",
+    "display_name": "Leet-er of Men",
+    "description": "Win 5000 rounds",
+    "chapter": "Win Conditions",
+    "hint": "Long-term grind. Can be farmed offline by using console commands to speed up round times with bots.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "GIVE_DAMAGE_LOW",
+    "display_name": "Points in Your Favor",
+    "description": "Inflict 2,500 total points of damage to enemy players",
+    "chapter": "Kills & Damage",
+    "hint": "Unlocks naturally. A single kill is typically 100 points of damage.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "GIVE_DAMAGE_MED",
+    "display_name": "You've Made Your Points",
+    "description": "Inflict 50,000 total points of damage to enemy players",
+    "chapter": "Kills & Damage",
+    "hint": "Unlocks naturally as you play.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "GIVE_DAMAGE_HIGH",
+    "display_name": "A Million Points of Blight",
+    "description": "Inflict 1,000,000 total points of damage to enemy players",
+    "chapter": "Kills & Damage",
+    "hint": "A major lifetime milestone. Corresponds roughly to 10,000 total kills.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILLING_SPREE",
+    "display_name": "Ballistic",
+    "description": "Kill 5 enemy players within 15 seconds",
+    "chapter": "Special Kills",
+    "hint": "Best done offline against 'Easy' bots. Use a high-capacity weapon like the P90 or M249 and spray down a choke point.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_WITH_OWN_GUN",
+    "display_name": "Lost and F0wnd",
+    "description": "KIll an enemy player with a gun they dropped that round",
+    "chapter": "Special Kills",
+    "hint": "Kill an enemy, pick up their primary weapon, and use it to kill another enemy (or the same enemy if they respawn in deathmatch).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "RESCUE_HOSTAGES_LOW",
+    "display_name": "Cowboy Diplomacy",
+    "description": "Rescue 100 hostages",
+    "chapter": "Hostage Rescue",
+    "hint": "Play on 'cs_' maps like cs_office. Press your 'Use' key on hostages and escort them to the rescue zone.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "RESCUE_HOSTAGES_MED",
+    "display_name": "SAR Czar",
+    "description": "Rescue 500 hostages",
+    "chapter": "Hostage Rescue",
+    "hint": "Play 'cs_' maps heavily, or farm against bots by rushing the hostage room.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "RESCUE_ALL_HOSTAGES",
+    "display_name": "Good Shepherd",
+    "description": "Rescue all hostages in a single round",
+    "chapter": "Hostage Rescue",
+    "hint": "Collect all 4 hostages on a map like cs_office and successfully escort them all to the rescue zone.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "FAST_HOSTAGE_RESCUE",
+    "display_name": "Freed With Speed",
+    "description": "Rescue all hostages within 90 seconds",
+    "chapter": "Hostage Rescue",
+    "hint": "Use a map with a very short distance to the hostage room, like cs_assault or cs_italy, and rush immediately.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_TWO_WITH_ONE_SHOT",
+    "display_name": "Ammo Conservation",
+    "description": "Kill two enemy players with a single bullet",
+    "chapter": "Special Kills",
+    "hint": "Use the AWP. Wait at a narrow choke point (like the Dust2 double doors) for two enemies to line up, and shoot.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "EARN_MONEY_LOW",
+    "display_name": "War Bonds",
+    "description": "Earn $125,000 total cash",
+    "chapter": "Economy",
+    "hint": "Unlocks naturally. You earn money for getting kills, planting/defusing bombs, and winning/losing rounds.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "EARN_MONEY_MED",
+    "display_name": "Spoils of War",
+    "description": "Earn $2,500,000 total cash",
+    "chapter": "Economy",
+    "hint": "Unlocks naturally as you play.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "EARN_MONEY_HIGH",
+    "display_name": "Blood Money",
+    "description": "Earn $50,000,000 total cash",
+    "chapter": "Economy",
+    "hint": "A massive lifetime grind achievement. Just keep playing.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "DEAD_GRENADE_KILL",
+    "display_name": "Premature Burial",
+    "description": "Kill an enemy with a grenade after you've died",
+    "chapter": "Special Kills",
+    "hint": "During a firefight, throw an HE Grenade at the enemy's feet right before they deal the lethal shot to you.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_ENEMY_DEAGLE",
+    "display_name": "Night Hawk .50c Expert",
+    "description": "Kill 200 enemy players with the Night Hawk .50c",
+    "chapter": "Weapons - Pistols",
+    "hint": "The 'Night Hawk .50c' is the Desert Eagle (Deagle).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_ENEMY_USP",
+    "display_name": "KM Tactical .45 Expert",
+    "description": "Kill 200 enemy players with the KM Tactical .45",
+    "chapter": "Weapons - Pistols",
+    "hint": "The 'KM Tactical .45' is the USP (the default CT pistol).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_ENEMY_GLOCK",
+    "display_name": "9x19 Sidearm Expert",
+    "description": "Kill 200 enemy players with the 9x19 Sidearm",
+    "chapter": "Weapons - Pistols",
+    "hint": "The '9x19 Sidearm' is the Glock (the default Terrorist pistol).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_ENEMY_P228",
+    "display_name": "228 Compact Expert",
+    "description": "Kill 200 enemy players with the 228 Compact",
+    "chapter": "Weapons - Pistols",
+    "hint": "The '228 Compact' is the P228.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_ENEMY_ELITE",
+    "display_name": ".40 Dual Elites Expert",
+    "description": "Kill 100 enemy players with the .40 Dual Elites",
+    "chapter": "Weapons - Pistols",
+    "hint": "The '.40 Dual Elites' are the Dual Berettas (Terrorist only).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_ENEMY_FIVESEVEN",
+    "display_name": "ES Five-Seven Expert",
+    "description": "Kill 100 enemy players with the ES Five-Seven",
+    "chapter": "Weapons - Pistols",
+    "hint": "The 'ES Five-Seven' is the Five-SeveN (CT only).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "META_PISTOL",
+    "display_name": "Pistol Master",
+    "description": "Unlock all 6 Pistol kill achievements",
+    "chapter": "Weapon Master",
+    "hint": "Complete the kill quotas for the Glock, USP, P228, Deagle, Five-SeveN, and Dual Elites.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_ENEMY_AWP",
+    "display_name": "Magnum Sniper Rifle Expert",
+    "description": "Kill 1,000 enemy players with the Magnum Sniper Rifle",
+    "chapter": "Weapons - Rifles",
+    "hint": "The 'Magnum Sniper Rifle' is the AWP.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_ENEMY_AK47",
+    "display_name": "CV-47 Expert",
+    "description": "Kill 1,000 enemy players with the CV-47",
+    "chapter": "Weapons - Rifles",
+    "hint": "The 'CV-47' is the AK-47 (Terrorist only).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_ENEMY_M4A1",
+    "display_name": "Maverick M4A1 Carbine Expert",
+    "description": "Kill 1,000 enemy players with the Maverick M4A1 Carbine",
+    "chapter": "Weapons - Rifles",
+    "hint": "The 'Maverick M4A1 Carbine' is the M4A1 (CT only).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_ENEMY_AUG",
+    "display_name": "Bullpup Expert",
+    "description": "Kill 500 enemy players with the Bullpup",
+    "chapter": "Weapons - Rifles",
+    "hint": "The 'Bullpup' is the AUG (CT only).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_ENEMY_SG552",
+    "display_name": "Krieg 552 Expert",
+    "description": "Kill 500 enemy players with the Krieg 552",
+    "chapter": "Weapons - Rifles",
+    "hint": "The 'Krieg 552' is the SG 552 (Terrorist only).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_ENEMY_SG550",
+    "display_name": "Krieg 550 Commando Expert",
+    "description": "Kill 500 enemy players with the Krieg 550 Commando",
+    "chapter": "Weapons - Rifles",
+    "hint": "The 'Krieg 550 Commando' is the CT Auto-Sniper.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_ENEMY_GALIL",
+    "display_name": "IDF Defender Expert",
+    "description": "Kill 500 enemy players with the IDF Defender",
+    "chapter": "Weapons - Rifles",
+    "hint": "The 'IDF Defender' is the Galil (Terrorist only).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_ENEMY_FAMAS",
+    "display_name": "Clarion 5.56 Expert",
+    "description": "Kill 500 enemy players with the Clarion 5.56",
+    "chapter": "Weapons - Rifles",
+    "hint": "The 'Clarion 5.56' is the FAMAS (CT only).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_ENEMY_SCOUT",
+    "display_name": "Schmidt Scout Expert",
+    "description": "Kill 1,000 enemy players with the Schmidt Scout",
+    "chapter": "Weapons - Rifles",
+    "hint": "The 'Schmidt Scout' is the Scout (light sniper rifle).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_ENEMY_G3SG1",
+    "display_name": "D3/AU-1 Expert",
+    "description": "Kill 500 enemy players with the D3/AU-1",
+    "chapter": "Weapons - Rifles",
+    "hint": "The 'D3/AU-1' is the G3SG1 (Terrorist Auto-Sniper).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "META_RIFLE",
+    "display_name": "Rifle Master",
+    "description": "Unlock all 10 rifle kill achievements",
+    "chapter": "Weapon Master",
+    "hint": "Complete the kill quotas for the AWP, AK47, M4A1, AUG, SG552, Auto-Snipers, Galil, FAMAS, and Scout.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_ENEMY_P90",
+    "display_name": "ES C90 Expert",
+    "description": "Kill 1,000 enemy players with the ES C90",
+    "chapter": "Weapons - SMGs",
+    "hint": "The 'ES C90' is the P90.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_ENEMY_MP5NAVY",
+    "display_name": "KM Sub-Machine Gun Expert",
+    "description": "Kill 1,000 enemy players with the KM Sub-Machine Gun",
+    "chapter": "Weapons - SMGs",
+    "hint": "The 'KM Sub-Machine Gun' is the MP5.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_ENEMY_TMP",
+    "display_name": "Schmidt Machine Pistol Expert",
+    "description": "Kill 500 enemy players with the Schmidt Machine Pistol",
+    "chapter": "Weapons - SMGs",
+    "hint": "The 'Schmidt Machine Pistol' is the TMP (CT only).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_ENEMY_MAC10",
+    "display_name": "Ingram Mac-10 Expert",
+    "description": "Kill 500 enemy players with the Ingram Mac-10",
+    "chapter": "Weapons - SMGs",
+    "hint": "The 'Ingram Mac-10' is the MAC-10 (Terrorist only).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_ENEMY_UMP45",
+    "display_name": "KM UMP45 Expert",
+    "description": "Kill 1,000 enemy players with the KM UMP45",
+    "chapter": "Weapons - SMGs",
+    "hint": "The 'KM UMP45' is the UMP-45.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "META_SMG",
+    "display_name": "Sub-Machine Gun Master",
+    "description": "Unlock all 5 sub-machine gun kill achievements",
+    "chapter": "Weapon Master",
+    "hint": "Complete the kill quotas for the P90, MP5, TMP, MAC-10, and UMP-45.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_ENEMY_M3",
+    "display_name": "Leone 12 Gauge Super Expert",
+    "description": "Kill 200 enemy players with the Leone 12 Gauge Super",
+    "chapter": "Weapons - Shotguns",
+    "hint": "The 'Leone 12 Gauge Super' is the M3 pump-action shotgun.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_ENEMY_XM1014",
+    "display_name": "Leone YG1265 Auto Shotgun Expert",
+    "description": "Kill 200 enemy players with the Leone YG1265 Auto Shotgun",
+    "chapter": "Weapons - Shotguns",
+    "hint": "The 'Leone YG1265 Auto Shotgun' is the XM1014 automatic shotgun.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "META_SHOTGUN",
+    "display_name": "Shotgun Master",
+    "description": "Unlock both shotgun kill achievements",
+    "chapter": "Weapon Master",
+    "hint": "Complete the kill quotas for both the M3 and the XM1014 shotguns.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_ENEMY_HEGRENADE",
+    "display_name": "HE Grenade Expert",
+    "description": "Kill 500 enemy players with the HE grenade",
+    "chapter": "Weapons - Grenades",
+    "hint": "Throw HE grenades into populated choke points. Can be farmed easily against offline bots.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_ENEMY_KNIFE",
+    "display_name": "Knife Expert",
+    "description": "Kill 100 enemy players with the knife",
+    "chapter": "Weapons - Melee",
+    "hint": "Use the right-click (secondary fire) for a slower, high-damage stab that instantly kills from behind.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_ENEMY_M249",
+    "display_name": "M249 Expert",
+    "description": "Kill 500 enemy players with the M249",
+    "chapter": "Weapons - Machine Guns",
+    "hint": "The M249 is the heavy machine gun. Buy it and spray down choke points.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "META_WEAPONMASTER",
+    "display_name": "Master At Arms",
+    "description": "Unlock every weapon kill achievement",
+    "chapter": "Weapon Master",
+    "hint": "Earn all 'Expert' achievements for pistols, SMGs, rifles, shotguns, the machine gun, knife, and HE grenade.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_ENEMY_TEAM",
+    "display_name": "The Cleaner",
+    "description": "Kill the entire enemy team (with at least 5 players) in a single round",
+    "chapter": "Special Kills",
+    "hint": "Get an 'Ace'. Very easy to do in a 5v5 bot match.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILLS_WITH_MULTIPLE_GUNS",
+    "display_name": "Variety Hour",
+    "description": "Get kills with 5 different guns in a round",
+    "chapter": "Special Kills",
+    "hint": "Get a kill with your primary, drop it, use your pistol, then pick up weapons from dead enemies.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_HOSTAGE_RESCUER",
+    "display_name": "Dead Shepherd",
+    "description": "Kill an enemy player who is leading the hostages without injuring any hostages",
+    "chapter": "Hostage Rescue",
+    "hint": "As a Terrorist, wait for a CT to grab the hostages, then carefully headshot them without letting stray bullets hit a hostage.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "LAST_PLAYER_ALIVE",
+    "display_name": "War of Attrition",
+    "description": "Be the last player alive in a round (with at least 5 players on your team)",
+    "chapter": "Win Conditions",
+    "hint": "Survive a brutal round where all 4+ of your teammates die, and you clutch the win.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_ENEMY_LAST_BULLET",
+    "display_name": "Magic Bullet",
+    "description": "Kill an enemy with the last bullet in your magazine (excluding sniper rifles)",
+    "chapter": "Special Kills",
+    "hint": "Fire your gun (like an AK47 or Deagle) into a wall until 1 bullet remains, then hunt down a weak enemy.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILLING_SPREE_ENDER",
+    "display_name": "Kill One, Get One Spree",
+    "description": "Kill an enemy player who is on a killing spree",
+    "chapter": "Special Kills",
+    "hint": "Kill an enemy who has secured 3 or more kills in the current round.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "BREAK_WINDOWS",
+    "display_name": "A World of Pane",
+    "description": "Shoot out 14 windows in a single round on cs_office",
+    "chapter": "Map Veterans",
+    "hint": "Load up cs_office and simply shoot out all the large glass windows in the main office area.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "HEADSHOTS",
+    "display_name": "Battle Sight Zero",
+    "description": "Kill 250 enemy players with headshots",
+    "chapter": "Kills & Damage",
+    "hint": "Aim for the head. Will unlock naturally as you improve your crosshair placement.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "DAMAGE_NO_KILL",
+    "display_name": "Primer",
+    "description": "Do at least 95% damage to an enemy who is then killed by a another player",
+    "chapter": "Special Kills",
+    "hint": "Hit an enemy with an AWP in the leg or chest, then let your teammate finish them off with a pistol or rifle.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_LOW_DAMAGE",
+    "display_name": "Finishing Schooled",
+    "description": "Kill an enemy player who has been reduced to less than 5% health by other players",
+    "chapter": "Special Kills",
+    "hint": "Clean up a kill that your teammate heavily damaged (like finishing off an enemy hit by an AWP).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_ENEMY_RELOADING",
+    "display_name": "Shot With Their Pants Down",
+    "description": "Kill an enemy player while they are reloading",
+    "chapter": "Special Kills",
+    "hint": "Push aggressively when you hear an enemy's gun click empty and they retreat to reload.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_ENEMY_BLINDED",
+    "display_name": "Blind Ambition",
+    "description": "Kill a total of 25 enemy players blinded by flashbangs",
+    "chapter": "Special Kills",
+    "hint": "Throw a flashbang around a corner, peek immediately after it pops, and kill the enemies holding their arms up.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_ENEMIES_WHILE_BLIND",
+    "display_name": "Blind Fury",
+    "description": "Kill an enemy player while you are blinded from a flashbang",
+    "chapter": "Special Kills",
+    "hint": "When you get flashed, rely on map knowledge and sound to keep spraying where you know the enemy is.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILLS_ENEMY_WEAPON",
+    "display_name": "Friendly Firearms",
+    "description": "Kill 100 enemy players with enemy weapons",
+    "chapter": "Weapons",
+    "hint": "As a CT, pick up dropped AK-47s or Galils. As a T, pick up dropped M4A1s or FAMAS rifles.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_WITH_EVERY_WEAPON",
+    "display_name": "Expert Marksman",
+    "description": "Get a kill with every weapon",
+    "chapter": "Weapon Master",
+    "hint": "Requires at least one kill with every single firearm, the knife, and the HE grenade.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "SURVIVE_GRENADE",
+    "display_name": "Shrapnelproof",
+    "description": "Take 80 points of damage from enemy grenades and still survive the round",
+    "chapter": "Special Kills",
+    "hint": "Buy Kevlar + Helmet to survive the blast, stand near an exploding HE grenade, and hide for the rest of the round.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "WIN_KNIFE_FIGHTS_LOW",
+    "display_name": "Make the Cut",
+    "description": "Win a knife fight",
+    "chapter": "Weapons - Melee",
+    "hint": "Kill an enemy wielding a knife while you are also wielding a knife.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "WIN_KNIFE_FIGHTS_HIGH",
+    "display_name": "The Bleeding Edge",
+    "description": "Win 100 knife fights",
+    "chapter": "Weapons - Melee",
+    "hint": "Can be farmed quickly by starting a local server with bots restricted to knives only.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILLED_DEFUSER_WITH_GRENADE",
+    "display_name": "Defuse This!",
+    "description": "Kill the defuser with an HE grenade",
+    "chapter": "Bomb Scenarios",
+    "hint": "As a Terrorist, wait until you hear the defuse sound, then bounce an HE grenade perfectly onto the bomb site.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "SURVIVED_HEADSHOT_DUE_TO_HELMET",
+    "display_name": "Safety First",
+    "description": "Survive a shot to the head because you had the good sense to wear a helmet",
+    "chapter": "Kills & Damage",
+    "hint": "Buy Kevlar + Helmet. Get shot in the head by a weapon that doesn't 1-shot armored targets (like a Glock or long-range M4A1).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "HIP_SHOT",
+    "display_name": "Hip Shot",
+    "description": "Kill an enemy with an un-zoomed sniper rifle",
+    "chapter": "Weapons - Rifles",
+    "hint": "Use the AWP or Scout and 'no-scope' an enemy. Easiest when they are right in front of you.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_SNIPER_WITH_SNIPER",
+    "display_name": "Eye to Eye",
+    "description": "Kill a zoomed-in enemy sniper with a sniper rifle of your own",
+    "chapter": "Special Kills",
+    "hint": "Win a classic sniper duel against someone who is actively looking through their scope.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_SNIPER_WITH_KNIFE",
+    "display_name": "Sknifed",
+    "description": "Kill a zoomed-in enemy sniper with a knife",
+    "chapter": "Special Kills",
+    "hint": "Flank an enemy sniper who is hard-scoping down a lane, sneak up behind them, and right-click with the knife.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_SNIPERS",
+    "display_name": "Snipe Hunter",
+    "description": "Kill 100 zoomed-in enemy snipers",
+    "chapter": "Special Kills",
+    "hint": "Focus on killing players who are using the AWP, Scout, or Auto-Snipers while aimed down sights.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_WHEN_AT_LOW_HEALTH",
+    "display_name": "Dead Man Stalking",
+    "description": "Kill an enemy while at 1 health",
+    "chapter": "Special Kills",
+    "hint": "Survive a fight with exactly 1 HP, and then get another kill. Can be staged easily with bots by shooting each other in the foot.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "GRENADE_MULTIKILL",
+    "display_name": "Three the Hard Way",
+    "description": "Kill 3 enemy players with a single HE grenade",
+    "chapter": "Weapons - Grenades",
+    "hint": "Throw a grenade into a heavily congested choke point where multiple injured enemies are standing.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "PISTOL_ROUND_KNIFE_KILL",
+    "display_name": "Street Fighter",
+    "description": "Kill an enemy player with a knife during the pistol round",
+    "chapter": "Weapons - Melee",
+    "hint": "During the very first round of a half (when players only have $800 and pistols), secure a knife kill.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "FAST_ROUND_WIN",
+    "display_name": "Blitzkrieg",
+    "description": "Win a round in less than 30 seconds (against at least 5 enemy players)",
+    "chapter": "Win Conditions",
+    "hint": "Easiest offline. Set up a 5v5 bot match on a small map and wipe them out immediately with an AWP or P90.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "WIN_PISTOLROUNDS_LOW",
+    "display_name": "Piece Initiative",
+    "description": "Win 5 Pistol Rounds",
+    "chapter": "Win Conditions",
+    "hint": "Win the first round of the half 5 times.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "WIN_PISTOLROUNDS_MED",
+    "display_name": "Give Piece a Chance",
+    "description": "Win 25 Pistol Rounds",
+    "chapter": "Win Conditions",
+    "hint": "Win the first round of the half 25 times.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "WIN_PISTOLROUNDS_HIGH",
+    "display_name": "Piece Treaty",
+    "description": "Win 250 Pistol Rounds",
+    "chapter": "Win Conditions",
+    "hint": "Win the first round of the half 250 times.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "BOMB_MULTIKILL",
+    "display_name": "Clusterstruck",
+    "description": "Kill 5 players in a C4 blast",
+    "chapter": "Bomb Scenarios",
+    "hint": "Easiest offline with bots. Plant the bomb, let the CT bots surround it to defuse, and let it explode.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "GOOSE_CHASE",
+    "display_name": "Wild Gooseman Chase",
+    "description": "As the last living terrorist, distract a defuser long enough for the bomb to explode",
+    "chapter": "Bomb Scenarios",
+    "hint": "When a CT taps the bomb to defuse, shoot near them or step out to make them stop defusing and engage you, stalling until it blows up.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "WIN_BOMB_PLANT_AFTER_RECOVERY",
+    "display_name": "Blast Will and Testament",
+    "description": "Win a round by picking up the bomb from a fallen comrade and successfully planting it",
+    "chapter": "Bomb Scenarios",
+    "hint": "Let the bomb carrier die, pick up the dropped C4, plant it, and ensure it detonates.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "SURVIVE_MANY_ATTACKS",
+    "display_name": "Target-Hardened",
+    "description": "Survive damage from 5 different players within a round",
+    "chapter": "Kills & Damage",
+    "hint": "Take small amounts of chip damage (like a single bullet or grenade splash) from 5 unique enemies and survive.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "LOSSLESS_EXTERMINATION",
+    "display_name": "Mercy Rule",
+    "description": "Kill the entire opposing team without any members of your team dying",
+    "chapter": "Win Conditions",
+    "hint": "Wipe out the enemy team perfectly. Easier in bot matches on 'Easy' difficulty.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "FLAWLESS_VICTORY",
+    "display_name": "Clean Sweep",
+    "description": "Kill the entire opposing team without any members of your team taking any damage",
+    "chapter": "Win Conditions",
+    "hint": "Wipe out the enemy team without a single CT or T taking a single point of damage. Very easy with harmless bots.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "BREAK_PROPS",
+    "display_name": "Mad Props",
+    "description": "Break 15 props in a single round",
+    "chapter": "Kills & Damage",
+    "hint": "Play cs_office and shoot the computers, mugs, pots, and filing cabinets.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "WIN_DUAL_DUEL",
+    "display_name": "Akimbo King",
+    "description": "Use Dual Elites to kill an enemy player that also has Dual Elites equipped",
+    "chapter": "Weapons - Pistols",
+    "hint": "Both you and the enemy must be wielding the Dual Berettas when you kill them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "DECAL_SPRAYS",
+    "display_name": "The Art of War",
+    "description": "Spray 100 decals",
+    "chapter": "General",
+    "hint": "Press 'T' (default spray key) to place your spray on a wall. Do this 100 times over your career.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NIGHTVISION_DAMAGE",
+    "display_name": "Dead of Night",
+    "description": "Do 5,000 damage with nightvision active",
+    "chapter": "General",
+    "hint": "Buy Nightvision goggles, turn them on, and play normally until you deal 5,000 damage.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "UNSTOPPABLE_FORCE",
+    "display_name": "The Unstoppable Force",
+    "description": "Kill 10 enemy players in a single round",
+    "chapter": "Special Kills",
+    "hint": "Requires playing on a server with at least 10 enemies (e.g., a 10v10 or 16v16 community server).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "IMMOVABLE_OBJECT",
+    "display_name": "The Immovable Object",
+    "description": "Kill an enemy player who has just killed 10 of your teammates in a single round",
+    "chapter": "Special Kills",
+    "hint": "Requires a 10v10+ server. Let an enemy wipe out 10 of your teammates, then kill them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "HEADSHOTS_IN_ROUND",
+    "display_name": "Head Shred Redemption",
+    "description": "Kill 5 enemy players with headshots in a single round",
+    "chapter": "Special Kills",
+    "hint": "Easiest offline with bots. Use an AK-47, Desert Eagle, or AWP and aim for the head.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "WIN_MAP_CS_ASSAULT",
+    "display_name": "Assault Map Veteran",
+    "description": "Win 100 rounds on the CS_Assault map",
+    "chapter": "Map Veterans",
+    "hint": "To farm quickly, create an offline bot match, open the developer console, and type 'mp_maxrounds 100' and 'bot_kill' to instantly win rounds.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "WIN_MAP_CS_COMPOUND",
+    "display_name": "Compound Map Veteran",
+    "description": "Win 100 rounds on the CS_Compound map",
+    "chapter": "Map Veterans",
+    "hint": "Win 100 rounds on cs_compound.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "WIN_MAP_CS_HAVANA",
+    "display_name": "Havana Map Veteran",
+    "description": "Win 100 rounds on the CS_Havana map",
+    "chapter": "Map Veterans",
+    "hint": "Win 100 rounds on cs_havana.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "WIN_MAP_CS_ITALY",
+    "display_name": "Italy Map Veteran",
+    "description": "Win 100 rounds on the CS_Italy map",
+    "chapter": "Map Veterans",
+    "hint": "Win 100 rounds on cs_italy.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "WIN_MAP_CS_MILITIA",
+    "display_name": "Militia Map Veteran",
+    "description": "Win 100 rounds on the CS_Militia map",
+    "chapter": "Map Veterans",
+    "hint": "Win 100 rounds on cs_militia.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "WIN_MAP_CS_OFFICE",
+    "display_name": "Office Map Veteran",
+    "description": "Win 100 rounds on the CS_Office map",
+    "chapter": "Map Veterans",
+    "hint": "Win 100 rounds on cs_office.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "WIN_MAP_DE_AZTEC",
+    "display_name": "Aztec Map Veteran",
+    "description": "Win 100 rounds on the DE_Aztec map",
+    "chapter": "Map Veterans",
+    "hint": "Win 100 rounds on de_aztec.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "WIN_MAP_DE_CBBLE",
+    "display_name": "Cobblestone Map Veteran",
+    "description": "Win 100 rounds on the DE_Cbble map",
+    "chapter": "Map Veterans",
+    "hint": "Win 100 rounds on de_cbble.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "WIN_MAP_DE_CHATEAU",
+    "display_name": "Chateau Map Veteran",
+    "description": "Win 100 rounds on the DE_Chateau map",
+    "chapter": "Map Veterans",
+    "hint": "Win 100 rounds on de_chateau.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "WIN_MAP_DE_DUST",
+    "display_name": "Dust Map Veteran",
+    "description": "Win 100 rounds on the DE_Dust map",
+    "chapter": "Map Veterans",
+    "hint": "Win 100 rounds on de_dust.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "WIN_MAP_DE_DUST2",
+    "display_name": "Dust2 Map Veteran",
+    "description": "Win 100 rounds on the DE_Dust2 map",
+    "chapter": "Map Veterans",
+    "hint": "Win 100 rounds on de_dust2.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "WIN_MAP_DE_INFERNO",
+    "display_name": "Inferno Map Veteran",
+    "description": "Win 100 rounds on the DE_Inferno map",
+    "chapter": "Map Veterans",
+    "hint": "Win 100 rounds on de_inferno.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "WIN_MAP_DE_NUKE",
+    "display_name": "Nuke Map Veteran",
+    "description": "Win 100 rounds on the DE_Nuke map",
+    "chapter": "Map Veterans",
+    "hint": "Win 100 rounds on de_nuke.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "WIN_MAP_DE_PIRANESI",
+    "display_name": "Piranesi Map Veteran",
+    "description": "Win 100 rounds on the DE_Piranesi map",
+    "chapter": "Map Veterans",
+    "hint": "Win 100 rounds on de_piranesi.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "WIN_MAP_DE_PORT",
+    "display_name": "Port Map Veteran",
+    "description": "Win 100 rounds on the DE_Port map",
+    "chapter": "Map Veterans",
+    "hint": "Win 100 rounds on de_port.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "WIN_MAP_DE_PRODIGY",
+    "display_name": "Prodigy Map Veteran",
+    "description": "Win 100 rounds on the DE_Prodigy map",
+    "chapter": "Map Veterans",
+    "hint": "Win 100 rounds on de_prodigy.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "WIN_MAP_DE_TIDES",
+    "display_name": "Tides Map Veteran",
+    "description": "Win 100 rounds on the DE_Tides map",
+    "chapter": "Map Veterans",
+    "hint": "Win 100 rounds on de_tides.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "WIN_MAP_DE_TRAIN",
+    "display_name": "Train Map Veteran",
+    "description": "Win 100 rounds on the DE_Train map",
+    "chapter": "Map Veterans",
+    "hint": "Win 100 rounds on de_train.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_WHILE_IN_AIR",
+    "display_name": "Death From Above",
+    "description": "Kill an enemy player while you are airborne",
+    "chapter": "Special Kills",
+    "hint": "Jump off a ledge or structure and spray an enemy before you hit the ground. Shotguns and P90s work best for this.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_ENEMY_IN_AIR",
+    "display_name": "Bunny Hunt",
+    "description": "Kill an airborne enemy",
+    "chapter": "Special Kills",
+    "hint": "Shoot an enemy while they are jumping around a corner or falling.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILLER_AND_ENEMY_IN_AIR",
+    "display_name": "Aerial Necrobatics",
+    "description": "Kill an airborne enemy while you are also airborne",
+    "chapter": "Special Kills",
+    "hint": "Play on maps with jump-pads, low gravity servers, or just coordinate jumping at the same time with a bot.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "SILENT_WIN",
+    "display_name": "Black Bag Operation",
+    "description": "Win a round while making no footstep noise and killing at least one enemy",
+    "chapter": "Win Conditions",
+    "hint": "Hold the 'Walk' key (Shift) for the entire round. Do not run or jump. Get a kill, and win the round.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "BLOODLESS_VICTORY",
+    "display_name": "Cold War",
+    "description": "Win a round without your team killing any enemy players",
+    "chapter": "Win Conditions",
+    "hint": "Win via the objective (like the C4 exploding) without anyone on your team getting a kill.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "DONATE_WEAPONS",
+    "display_name": "Killanthropist",
+    "description": "Donate 100 weapons to your teammates",
+    "chapter": "Economy",
+    "hint": "Buy weapons at spawn and drop them (G) for your teammates.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "WIN_ROUNDS_WITHOUT_BUYING",
+    "display_name": "The Frugal Beret",
+    "description": "Win 10 rounds without dying and not spending any cash",
+    "chapter": "Win Conditions",
+    "hint": "Survive 10 rounds using only your starting pistol or by picking up weapons off the ground, without accessing the buy menu.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "DEFUSE_DEFENSE",
+    "display_name": "Defusus Interruptus",
+    "description": "Stop defusing to kill a terrorist and then successfully finish defusing the bomb",
+    "chapter": "Bomb Scenarios",
+    "hint": "Start defusing the C4, let go of the 'Use' key, kill an attacking Terrorist, and then finish defusing the C4.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_BOMB_PICKUP",
+    "display_name": "Participation Award",
+    "description": "Kill an enemy player within 3 seconds of them recovering a dropped bomb",
+    "chapter": "Bomb Scenarios",
+    "hint": "As a CT, guard a dropped C4 package. When a Terrorist runs over it to pick it up, kill them immediately.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "DOMINATIONS_LOW",
+    "display_name": "Repeat Offender",
+    "description": "Dominate an enemy player",
+    "chapter": "Dominations & Revenges",
+    "hint": "Kill the same enemy player 4 times in a row without them killing you.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "DOMINATIONS_HIGH",
+    "display_name": "Decimator",
+    "description": "Dominate a total of 10 enemy players",
+    "chapter": "Dominations & Revenges",
+    "hint": "Unlocks naturally as you play the game and perform well against specific opponents.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "DOMINATION_OVERKILLS_LOW",
+    "display_name": "Overkill",
+    "description": "Kill an opponent you are already dominating",
+    "chapter": "Dominations & Revenges",
+    "hint": "Once you have the Domination icon over a player, kill them a 5th time.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "DOMINATION_OVERKILLS_HIGH",
+    "display_name": "Command and Control",
+    "description": "Get a total of 100 kills on enemy players you are dominating",
+    "chapter": "Dominations & Revenges",
+    "hint": "Keep hunting down players you have already dominated.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "REVENGES_LOW",
+    "display_name": "Insurgent",
+    "description": "Kill an enemy player that is dominating you",
+    "chapter": "Dominations & Revenges",
+    "hint": "When an enemy has the Nemesis icon over their head (meaning they killed you 4 times), kill them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "REVENGES_HIGH",
+    "display_name": "Can't Keep a Good Man Down",
+    "description": "Kill a total of 20 enemy players that are dominating you",
+    "chapter": "Dominations & Revenges",
+    "hint": "Secure 20 Revenge kills over your career.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "SAME_UNIFORM",
+    "display_name": "Dressed to Kill",
+    "description": "Start a round with all players on your team wearing the same uniform (at least 5 players)",
+    "chapter": "General",
+    "hint": "Have all 5+ players on your team choose the exact same player model (e.g., Phoenix Connexion) in the team select menu.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "CONCURRENT_DOMINATIONS",
+    "display_name": "Hat Trick",
+    "description": "Dominate three enemy players simultaneously",
+    "chapter": "Dominations & Revenges",
+    "hint": "Have active dominations on 3 different enemies at the same time in a single match.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "DOMINATION_OVERKILLS_MATCH",
+    "display_name": "Ten Angry Men",
+    "description": "Get 10 kills on enemy players you are already dominating during a single match",
+    "chapter": "Dominations & Revenges",
+    "hint": "Focus completely on players you've dominated and kill them 10 more times before the map changes.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "EXTENDED_DOMINATION",
+    "display_name": "Excessive Brutality",
+    "description": "Kill an enemy player 4 additional times while you are dominating them",
+    "chapter": "Dominations & Revenges",
+    "hint": "Get 8 kills in a row on the exact same player without them killing you.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_ENEMIES_WHILE_BLIND_HARD",
+    "display_name": "Spray and Pray",
+    "description": "Kill two enemy players while you are blinded from a flashbang",
+    "chapter": "Special Kills",
+    "hint": "Throw a flashbang at your feet near multiple enemies and spray them down while your screen is completely white.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "FRIENDS_SAME_UNIFORM",
+    "display_name": "Friendly Attire",
+    "description": "Start a round on the same team as 4 of your friends, with all of you wearing the same outfit",
+    "chapter": "General",
+    "hint": "Queue into a server with 4 Steam friends, join the same team, and all select the exact same player model.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "CAUSE_FRIENDLY_FIRE_WITH_FLASHBANG",
+    "display_name": "The Road to Hell",
+    "description": "Blind an enemy player who then kills a teammate",
+    "chapter": "Special Kills",
+    "hint": "Requires 'mp_friendlyfire 1' enabled on the server. Flash an enemy and have them accidentally shoot their own teammate.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "AVENGE_FRIEND",
+    "display_name": "Avenging Angel",
+    "description": "Kill an enemy player in the same round as they kill a player on your friends list",
+    "chapter": "Special Kills",
+    "hint": "Play on the same team as a Steam friend. When they die, kill the person who killed them in that same round.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "WIN_CLAN_MATCH",
+    "display_name": "Clan Warfare",
+    "description": "Win a match of at least 10 players where the entirety of each team is composed of a single clan.",
+    "chapter": "General",
+    "hint": "Requires a 5v5 match where all players on Team A have the exact same Steam group clan tag, and all on Team B have a different clan tag.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "SNIPE_TWO_FROM_SAME_SPOT",
+    "display_name": "Happy Camper",
+    "description": "Get two kills standing in the same spot with a zoomed sniper rifle.",
+    "chapter": "Weapons - Rifles",
+    "hint": "Find a good camping spot (like T-spawn in Dust2) and get two kills without un-zooming or moving your feet.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "COLLECT_GIFTS",
+    "display_name": "Gift Grab",
+    "description": "Collect three gifts dropped by opponents.",
+    "chapter": "Holiday Event",
+    "hint": "Originally part of the 2011 Steam Holiday Sale. You must play during a seasonal event or on a server with holiday mode forced on to collect the dropped gifts.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  }
+]

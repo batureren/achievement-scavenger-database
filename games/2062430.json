@@ -1,0 +1,632 @@
+[
+  {
+    "apiname": "complete_graveyards",
+    "display_name": "BONExYARD",
+    "description": "Complete the BONExYARD",
+    "chapter": "Biomes",
+    "hint": "Survive all waves and defeat the final boss in the BONExYARD stage.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "complete_snowy",
+    "display_name": "SNOWYxSHORES",
+    "description": "",
+    "chapter": "Biomes",
+    "hint": "Survive all waves and defeat the final boss in the SNOWYxSHORES stage.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "complete_desert",
+    "display_name": "LIMINALxDESERT",
+    "description": "",
+    "chapter": "Biomes",
+    "hint": "Survive all waves and defeat the final boss in the LIMINALxDESERT stage.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "complete_savanna",
+    "display_name": "GORYxGRASSLANDS",
+    "description": "",
+    "chapter": "Biomes",
+    "hint": "Survive all waves and defeat the final boss in the GORYxGRASSLANDS stage.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "complete_shroom",
+    "display_name": "FUNGALxFOREST",
+    "description": "",
+    "chapter": "Biomes",
+    "hint": "Survive all waves and defeat the final boss in the FUNGALxFOREST stage.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "complete_fiery",
+    "display_name": "SMOLDERINGxDEPTHS",
+    "description": "",
+    "chapter": "Biomes",
+    "hint": "Survive all waves and defeat the final boss in the SMOLDERINGxDEPTHS stage.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "complete_heaven",
+    "display_name": "HEAVENLYxGATES",
+    "description": "",
+    "chapter": "Biomes",
+    "hint": "Survive all waves and defeat the final boss in the HEAVENLYxGATES stage.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "complete_void",
+    "display_name": "VASTxVOID",
+    "description": "",
+    "chapter": "Biomes",
+    "hint": "Survive all waves and defeat the final boss in the VASTxVOID stage.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "complete_graveyards10",
+    "display_name": "BONExYARD Conquered",
+    "description": "Complete the BONExYARD with 10 different characters",
+    "chapter": "Biome Mastery",
+    "hint": "You must beat the BONExYARD stage 10 separate times, selecting a different class for each successful run.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "complete_snowy10",
+    "display_name": "SNOWYxSHORES Conquered",
+    "description": "",
+    "chapter": "Biome Mastery",
+    "hint": "Beat the SNOWYxSHORES stage 10 separate times, using a different class for each successful run.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "complete_desert10",
+    "display_name": "LIMINALxDESERT Conquered",
+    "description": "",
+    "chapter": "Biome Mastery",
+    "hint": "Beat the LIMINALxDESERT stage 10 separate times, using a different class for each successful run.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "complete_savanna10",
+    "display_name": "GORYxGRASSLANDS Conquered",
+    "description": "",
+    "chapter": "Biome Mastery",
+    "hint": "Beat the GORYxGRASSLANDS stage 10 separate times, using a different class for each successful run.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "complete_shroom10",
+    "display_name": "FUNGALxFOREST Conquered",
+    "description": "",
+    "chapter": "Biome Mastery",
+    "hint": "Beat the FUNGALxFOREST stage 10 separate times, using a different class for each successful run.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "complete_fiery10",
+    "display_name": "SMOLDERINGxDEPTHS Conquered",
+    "description": "",
+    "chapter": "Biome Mastery",
+    "hint": "Beat the SMOLDERINGxDEPTHS stage 10 separate times, using a different class for each successful run.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "complete_heaven10",
+    "display_name": "HEAVENLYxGATES Conquered",
+    "description": "",
+    "chapter": "Biome Mastery",
+    "hint": "Beat the HEAVENLYxGATES stage 10 separate times, using a different class for each successful run.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "complete_void10",
+    "display_name": "VASTxVOID Conquered",
+    "description": "",
+    "chapter": "Biome Mastery",
+    "hint": "Beat the VASTxVOID stage 10 separate times, using a different class for each successful run.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "warrior_all_levels",
+    "display_name": "True Warrior",
+    "description": "Complete every level with The Warrior",
+    "chapter": "Classes",
+    "hint": "Play as The Warrior and successfully complete all 8 standard biomes.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "recaller_all_levels",
+    "display_name": "Repentance",
+    "description": "",
+    "chapter": "Classes",
+    "hint": "Play as the Recaller and successfully complete all 8 standard biomes.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "itchyfinger_all_levels",
+    "display_name": "Itch Scratched",
+    "description": "",
+    "chapter": "Classes",
+    "hint": "Play as the Itchy Finger and successfully complete all 8 standard biomes.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "cogitator_all_levels",
+    "display_name": "Cogitated",
+    "description": "",
+    "chapter": "Classes",
+    "hint": "Play as the Cogitator and successfully complete all 8 standard biomes.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "tactician_all_levels",
+    "display_name": "Master General",
+    "description": "",
+    "chapter": "Classes",
+    "hint": "Play as the Tactician and successfully complete all 8 standard biomes.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "spendthrift_all_levels",
+    "display_name": "All Spent",
+    "description": "",
+    "chapter": "Classes",
+    "hint": "Play as the Spendthrift and successfully complete all 8 standard biomes.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "embedded_all_levels",
+    "display_name": "Embedder",
+    "description": "",
+    "chapter": "Classes",
+    "hint": "Play as the Embedded and successfully complete all 8 standard biomes.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "radicalai_all_levels",
+    "display_name": "Radicalized",
+    "description": "",
+    "chapter": "Classes",
+    "hint": "Play as the Radical AI and successfully complete all 8 standard biomes.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "emptynester_all_levels",
+    "display_name": "Golden Years",
+    "description": "",
+    "chapter": "Classes",
+    "hint": "Play as the Empty Nester and successfully complete all 8 standard biomes.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "shade_all_levels",
+    "display_name": "Long Shadow",
+    "description": "",
+    "chapter": "Classes",
+    "hint": "Play as the Shade and successfully complete all 8 standard biomes.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "cohabitants_all_levels",
+    "display_name": "Unpacked",
+    "description": "",
+    "chapter": "Classes",
+    "hint": "Play as the Cohabitants and successfully complete all 8 standard biomes.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "physicist_all_levels",
+    "display_name": "Gravity's Rainbow",
+    "description": "",
+    "chapter": "Classes",
+    "hint": "Play as the Physicist and successfully complete all 8 standard biomes.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "brickhead_all_levels",
+    "display_name": "Brick Breaker",
+    "description": "",
+    "chapter": "Classes",
+    "hint": "Play as the Brickhead and successfully complete all 8 standard biomes.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "sisyphus_all_levels",
+    "display_name": "Herculean",
+    "description": "",
+    "chapter": "Classes",
+    "hint": "Play as Sisyphus and successfully complete all 8 standard biomes.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "flagellant_all_levels",
+    "display_name": "Masochist",
+    "description": "",
+    "chapter": "Classes",
+    "hint": "Play as the Flagellant and successfully complete all 8 standard biomes.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "wimp_all_levels",
+    "display_name": "Entertainer",
+    "description": "",
+    "chapter": "Classes",
+    "hint": "Play as the Wimp and successfully complete all 8 standard biomes.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "first_evo",
+    "display_name": "Evolution",
+    "description": "Create your first evolution",
+    "chapter": "Balls & Fusions",
+    "hint": "Upgrade any base ball to its maximum level during a run, and select its Evolution when offered.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "first_fusion",
+    "display_name": "Fusion",
+    "description": "Fuse two balls for the first time",
+    "chapter": "Balls & Fusions",
+    "hint": "Max out and evolve two compatible balls. Once both are fully upgraded, the Fusion option will appear during your next level up.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "create_nosferatu",
+    "display_name": "Nosferatu",
+    "description": "",
+    "chapter": "Balls & Fusions",
+    "hint": "Evolve and fuse the Bat and Leech/Blood type balls during a run. Check your Encyclopedia for the exact recipe.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "create_nuclearbomb",
+    "display_name": "Nuclear Bomb",
+    "description": "",
+    "chapter": "Balls & Fusions",
+    "hint": "Evolve and fuse the compatible explosive/bomb-type balls during a run. Check the Encyclopedia if you need the exact required balls.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "create_satan",
+    "display_name": "Satan",
+    "description": "",
+    "chapter": "Balls & Fusions",
+    "hint": "Evolve and fuse the appropriate demonic/fire-type balls during a run. Use the in-game Encyclopedia for recipe hints.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "create_soulreaver",
+    "display_name": "Soul Reaver",
+    "description": "",
+    "chapter": "Balls & Fusions",
+    "hint": "Evolve and fuse the compatible ghost/scythe/soul balls to create the Soul Reaver.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "create_deadeyescross",
+    "display_name": "Deadeye's Cross",
+    "description": "",
+    "chapter": "Balls & Fusions",
+    "hint": "Evolve and fuse the compatible sniper/projectile-based balls during a run.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "100000_kills",
+    "display_name": "Legion Slayer",
+    "description": "Kill 100,000 enemies",
+    "chapter": "Milestones",
+    "hint": "This is cumulative across all your runs. Focus on AoE fusions and high-density late-game stages to farm kills quickly.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "5000_gold",
+    "display_name": "Riches",
+    "description": "Collect 5000 gold in total",
+    "chapter": "Gathering",
+    "hint": "Cumulative across all runs. Destroy gold veins and collect drops over time.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "1000_wheat",
+    "display_name": "Wheat Farmer",
+    "description": "Collect 1000 wheat in total",
+    "chapter": "Gathering",
+    "hint": "Cumulative across all runs. Destroy wheat patches in grassy biomes.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "1000_wood",
+    "display_name": "Woodcutter",
+    "description": "Collect 1000 wood in total",
+    "chapter": "Gathering",
+    "hint": "Cumulative across all runs. Bounce your balls against trees to gather wood.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "1000_stone",
+    "display_name": "Stone Miner",
+    "description": "Collect 1000 stone in total",
+    "chapter": "Gathering",
+    "hint": "Cumulative across all runs. Break rocks and boulders to gather stone.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "1000_gold_harvest",
+    "display_name": "Gold Miner",
+    "description": "Mine 1000 gold in a single harvest",
+    "chapter": "Gathering",
+    "hint": "Must be done in a single run. Equip balls with high piercing and bounce traits, and play on stages with high gold vein density.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "100_wheat_harvest",
+    "display_name": "Bountiful Harvest",
+    "description": "Collect 100 wheat in a single harvest",
+    "chapter": "Gathering",
+    "hint": "Must be done in a single run. Use wide AoE or bouncing balls on stages with lots of wheat.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "100_wood_harvest",
+    "display_name": "Deforestation",
+    "description": "Collect 100 wood in a single harvest",
+    "chapter": "Gathering",
+    "hint": "Must be done in a single run. Prioritize forest-themed stages and use balls with high destruction/piercing stats.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "100_stone_harvest",
+    "display_name": "Boulder Breaker",
+    "description": "Collect 100 stone in a single harvest",
+    "chapter": "Gathering",
+    "hint": "Must be done in a single run. Use heavy/bouncing balls to clear lots of rock nodes quickly.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "collect_all_blueprints",
+    "display_name": "City Planner",
+    "description": "Collect 50 blueprints",
+    "chapter": "Base Building",
+    "hint": "Blueprints drop from bosses and specific nodes during your runs. Keep playing and surviving longer to collect them all.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "construct_trophy",
+    "display_name": "Trophy",
+    "description": "Construct a trophy",
+    "chapter": "Base Building",
+    "hint": "Find a Trophy blueprint during a run, then use resources to build it in your base menu.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "construct_monument",
+    "display_name": "Monument",
+    "description": "Construct an infinitely upgradeable building",
+    "chapter": "Base Building",
+    "hint": "Find a Monument blueprint during a run and construct it in your base to grant yourself infinitely scaling stats.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "construct_workersguild",
+    "display_name": "Worker's Guild",
+    "description": "Construct the Worker's Guild",
+    "chapter": "Base Building",
+    "hint": "Unlock the Worker's Guild blueprint and build it in your base to improve resource automation and gathering.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "construct_evochamber",
+    "display_name": "Evolution Chamber",
+    "description": "Construct the Evolution Chamber",
+    "chapter": "Base Building",
+    "hint": "Unlock the Evolution Chamber blueprint and construct it to assist in tracking and upgrading your ball evolutions.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "construct_reliccollector",
+    "display_name": "Relic Collector",
+    "description": "Construct the Relic Collector",
+    "chapter": "Base Building",
+    "hint": "Unlock the Relic Collector blueprint and build it to manage your collected run relics.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "construct_bagmaker",
+    "display_name": "Bag Maker",
+    "description": "Construct the Bag Maker",
+    "chapter": "Base Building",
+    "hint": "Unlock the Bag Maker blueprint and construct it in your base.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "construct_carpenter",
+    "display_name": "Carpenter",
+    "description": "Construct the Carpenter",
+    "chapter": "Base Building",
+    "hint": "Unlock the Carpenter blueprint and construct it to unlock further wood-based upgrades and structures.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "expand5",
+    "display_name": "Land Grabber",
+    "description": "Expand your base 5 times",
+    "chapter": "Base Building",
+    "hint": "Purchase land expansions in your base menu using resources. Do this 5 times.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "stat_building_full_upgrade",
+    "display_name": "Structural Power",
+    "description": "Reach +5 bonus in any attribute from a building",
+    "chapter": "Base Building",
+    "hint": "Continuously invest resources to upgrade a stat-boosting building in your base until it provides a +5 bonus.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "stat_scaling_full_upgrade",
+    "display_name": "S Rank",
+    "description": "Reach S stat scaling in any attribute",
+    "chapter": "Base Building",
+    "hint": "Upgrade the scaling multiplier of a specific attribute in your base until it reaches 'S' tier.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "place_15_houses",
+    "display_name": "Neighborhood",
+    "description": "Build 15 housing structures",
+    "chapter": "Base Building",
+    "hint": "Build 15 houses in your base to increase your population and worker capacity.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "fuse_evolved_balls",
+    "display_name": "Fusion Evolution",
+    "description": "Fuse two evolved balls",
+    "chapter": "Balls & Fusions",
+    "hint": "Max out and evolve two separate balls during a run, then combine those two evolved forms into a single powerful Fusion.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "complete_encyclopedia",
+    "display_name": "Scholar",
+    "description": "Unlock every entry in the Encyclopedia",
+    "chapter": "Completionist",
+    "hint": "Play with every character, unlock every base ball, trigger every evolution, and discover every fusion.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "complete_game",
+    "display_name": "Ballbylon Has Risen",
+    "description": "",
+    "chapter": "Story",
+    "hint": "Defeat the final boss in VASTxVOID and complete the main progression of the game.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  }
+]

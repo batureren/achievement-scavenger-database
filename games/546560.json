@@ -1,0 +1,422 @@
+[
+  {
+    "apiname": "TRACK_A1_INTRO_WORLD_2",
+    "display_name": "Hit and Run",
+    "description": "",
+    "chapter": "Chapter 1: Entanglement",
+    "hint": "Unmissable story achievement. Break out of the Combine prisoner transport van.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TRACK_A2_QUARANTINE_ENTRANCE",
+    "display_name": "Quaranta Giorni",
+    "description": "",
+    "chapter": "Chapter 2: The Quarantine Zone",
+    "hint": "Unmissable story achievement. Enter the Quarantine Zone.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "SIDE_GLOBAL_BREAK_BOTTLES",
+    "display_name": "Mazel Tov",
+    "description": "Pick up and smash 50 glass bottles.",
+    "chapter": "General",
+    "hint": "Grab glass bottles (especially wine/liquor bottles) and physically throw them against walls or the floor to break them. Keep doing this throughout the game.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "SIDE_FEED_SNARK",
+    "display_name": "Good Grub",
+    "description": "Feed the snark.",
+    "chapter": "Chapter 1: Entanglement",
+    "hint": "Inside Alyx's hideout at the very start of the game, find the glass terrarium containing a Snark. Grab the shaker of food nearby and sprinkle it into the tank.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "SIDE_HL2_PLAYGROUND",
+    "display_name": "On a Roll",
+    "description": "Interact with the playground somehow.",
+    "chapter": "Chapter 1: Entanglement",
+    "hint": "Just after exiting the hideout, you will drop down into a small playground area. Grab a bucket or nearby object and roll it down the yellow plastic slide.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "SIDE_RUSSELL_SCENE",
+    "display_name": "Little Slugger",
+    "description": "",
+    "chapter": "Chapter 1: Entanglement",
+    "hint": "When looking out of Russell's lab window, he asks you to throw him an object to test the Gravity Gloves. Grab the baseball sitting on the desk and throw it to him.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "SIDE_GEIGER_COUNTER",
+    "display_name": "Eye of the Geiger",
+    "description": "",
+    "chapter": "Chapter 1: Entanglement",
+    "hint": "Inside Russell's lab, find Russell. Use the Gravity Gloves or your hands to pick up the yellow Geiger counter and hold it close to his face.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "SIDE_CATCH_AMMO_CLIP",
+    "display_name": "Mag-Snagger",
+    "description": "",
+    "chapter": "Chapter 1: Entanglement",
+    "hint": "Right after Russell throws you the pistol, he will toss a magazine of ammo out the window. Catch it out of the air using the Gravity Gloves.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TRACK_A2_HIDEOUT",
+    "display_name": "Sustenance",
+    "description": "Receive a tasty treat.",
+    "chapter": "Chapter 2: The Quarantine Zone",
+    "hint": "Unmissable story achievement. Given when a Vortigaunt throws you a Headcrab heart to use in the healing station.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "SIDE_SQUEEZE_HC_HEART",
+    "display_name": "Freshly Squeezed",
+    "description": "Test your grip on a headcrab heart.",
+    "chapter": "Chapter 2: The Quarantine Zone",
+    "hint": "When the Vortigaunt tosses you the gross, pulsing Headcrab heart, grab it with your hand and physically squeeze your controller's grip button to crush it.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TRACK_A2_HEADCRABS_TUNNEL",
+    "display_name": "Zombie with a Shotgun",
+    "description": "Collect the shotgun.",
+    "chapter": "Chapter 3: Is Or Will Be",
+    "hint": "Unmissable story achievement. You acquire the shotgun from the ceiling-hanging zombie holding it.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TRACK_A2_DRAINAGE",
+    "display_name": "Xen Garden",
+    "description": "",
+    "chapter": "Chapter 3: Is Or Will Be",
+    "hint": "Unmissable story achievement. Enter the explosive Xen flora area.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TRACK_A2_TRAIN_YARD",
+    "display_name": "Off the Rails",
+    "description": "",
+    "chapter": "Chapter 3: Is Or Will Be",
+    "hint": "Unmissable story achievement. Survive the train yard encounter and crash the train.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TRACK_A3_STATION_STREET",
+    "display_name": "Checking In",
+    "description": "",
+    "chapter": "Chapter 4: Superweapon",
+    "hint": "Unmissable story achievement. Reach the Northern Star Hotel.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TRACK_A3_HOTEL_LOBBY_BASEMENT",
+    "display_name": "Heart-Breaker Hotel",
+    "description": "",
+    "chapter": "Chapter 5: The Northern Star",
+    "hint": "Unmissable story achievement. Make your way into the basement of the hotel.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TRACK_A3_HOTEL_UNDERGROUND_PIT",
+    "display_name": "Surface Tension",
+    "description": "",
+    "chapter": "Chapter 5: The Northern Star",
+    "hint": "Unmissable story achievement. Escape the toxic underground pit in the hotel.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TRACK_A3_HOTEL_INTERIOR_ROOFTOP",
+    "display_name": "Unbonded",
+    "description": "Collect the SMG.",
+    "chapter": "Chapter 5: The Northern Star",
+    "hint": "Unmissable story achievement. Acquire the Submachine Gun in the upper levels of the hotel.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TRACK_A3_HOTEL_STREET",
+    "display_name": "Cord-Cutter",
+    "description": "",
+    "chapter": "Chapter 6: Arms Race",
+    "hint": "Unmissable story achievement. Disconnect the substations powering the Vault.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TRACK_A3_C17_PROCESSING_PLANT",
+    "display_name": "Blast From the Past",
+    "description": "",
+    "chapter": "Chapter 6: Arms Race",
+    "hint": "Unmissable story achievement. Defeat the enemies and navigate the processing plant.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TRACK_A3_DISTILLERY_NOKILLBZ",
+    "display_name": "Sound Strategy",
+    "description": "",
+    "chapter": "Chapter 7: Jeff",
+    "hint": "Complete Chapter 7 without ever using the trash compactor to kill 'Jeff'. Lock him inside the freezer instead before you leave the area.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TRACK_A3_DISTILLERY_KILLBZ",
+    "display_name": "Flat Note",
+    "description": "",
+    "chapter": "Chapter 7: Jeff",
+    "hint": "Kill 'Jeff'. Lock him inside the trash compactor at the end of the chapter and press the button to crush him.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "SIDE_KILL_ANNOYING_HC",
+    "display_name": "Crustacean Frustration",
+    "description": "",
+    "chapter": "Chapter 7: Jeff",
+    "hint": "While avoiding Jeff, there is a headcrab locked inside a glass cage. Use your pistol to shoot and kill the headcrab before it breaks out and makes noise.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "SIDE_CATCH_FALLING_BOTTLE",
+    "display_name": "Hold Your Liquor",
+    "description": "",
+    "chapter": "Chapter 7: Jeff",
+    "hint": "When you open a specific cabinet door in the distillery to get a battery, several glass bottles will tumble out. Catch at least one before it hits the floor and breaks.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TRACK_A4_C17_ZOO",
+    "display_name": "Sea Level",
+    "description": "",
+    "chapter": "Chapter 8: Captivity",
+    "hint": "Unmissable story achievement. Make your way through the zoo enclosures.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TRACK_A4_C17_TANKER_YARD",
+    "display_name": "Triple Bypass",
+    "description": "",
+    "chapter": "Chapter 8: Captivity",
+    "hint": "Unmissable story achievement. Bypass the three power locks in the tanker yard.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TRACK_A4_C17_WATER_TOWER",
+    "display_name": "High Water March",
+    "description": "",
+    "chapter": "Chapter 9: Revelations",
+    "hint": "Unmissable story achievement. Ascend the water tower structure.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TRACK_A4_C17_PARKING_GARAGE",
+    "display_name": "Textbook Jinxing",
+    "description": "",
+    "chapter": "Chapter 9: Revelations",
+    "hint": "Unmissable story achievement. Wake up after the Strider attacks the structure.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TRACK_A5_VAULT",
+    "display_name": "Point Extraction",
+    "description": "",
+    "chapter": "Chapter 10: Breaking and Entering",
+    "hint": "Unmissable story achievement. Successfully enter the floating Vault.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TRACK_A5_ENDING",
+    "display_name": "Consequences",
+    "description": "",
+    "chapter": "Chapter 11: Point Extraction",
+    "hint": "Unmissable story achievement. Complete the game.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "TRAINING_LOOT_ZOMBIE",
+    "display_name": "Dead Giveaway",
+    "description": "Loot a corpse.",
+    "chapter": "General",
+    "hint": "Check the pockets or nearby surroundings of dead bodies. Pick up an item (like a resin puck or ammo clip) located directly on a corpse.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TRAINING_BREAK_ITEM_CRATE",
+    "display_name": "Smash and Grab",
+    "description": "Break open a supply crate with your hands.",
+    "chapter": "General",
+    "hint": "Instead of shooting a wooden supply crate, pick it up with your hands and throw it onto the floor/wall to smash it.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TRAINING_FIRST_PISTOL_UPGRADE",
+    "display_name": "Up in Arms",
+    "description": "Install your first pistol upgrade.",
+    "chapter": "General",
+    "hint": "Find a Combine upgrade fabricator, insert enough gathered resin, and purchase any upgrade for your pistol.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TRAINING_KILL_SOLDIER_WITH_GASTANK",
+    "display_name": "Pro-Pain",
+    "description": "Kill a grunt by shooting their gas tank.",
+    "chapter": "General",
+    "hint": "Aim for the red explosive gas tanks strapped to the backs of Combine Grunts.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "SKILL_KILL_CHARGER_WHILE_SHIELD_UP",
+    "display_name": "Indirect Approach",
+    "description": "Kill a Combine Heavy while their shield is up.",
+    "chapter": "General",
+    "hint": "When a Combine Heavy deploys their blue energy shield, toss a grenade over/behind it, or shoot explosive barrels near them to kill them without breaking the shield.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TRAINING_LOOT_LIVING_SOLDIER",
+    "display_name": "Combine Harvester",
+    "description": "Use the gravity gloves to loot an item off a living Combine soldier.",
+    "chapter": "General",
+    "hint": "During combat, point your Gravity Glove at the belt/chest of a living Combine soldier and flick to steal a magazine of ammo or a grenade.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TRAINING_STEAL_XEN_GRENADE",
+    "display_name": "Xen Lootism",
+    "description": "Snatch a Xen grenade from its resting place.",
+    "chapter": "General",
+    "hint": "Approach the glowing blue Xen grenade plants and carefully pluck the grenade from the center without disturbing the tentacles.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "SIDE_HACK_TRIPMINE",
+    "display_name": "Safe Trip",
+    "description": "Use the multitool to hack a tripmine.",
+    "chapter": "General",
+    "hint": "Use your Multi-Tool to trace the wiring on an explosive tripmine to disable it safely without blowing it up.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "SKILL_GGENEMY_GRENADE_MID_FLIGHT",
+    "display_name": "Deadliest Catch",
+    "description": "Use the gravity gloves to intercept an incoming enemy grenade in mid-flight.",
+    "chapter": "General",
+    "hint": "When a Combine soldier throws a grenade at you, use the Gravity Glove flick motion to catch it out of the air.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "SIDE_CLOSE_TO_BLIND_ZOMBIE",
+    "display_name": "Near-Jeff Experience",
+    "description": "",
+    "chapter": "Chapter 7: Jeff",
+    "hint": "Stand extremely close to Jeff (within an arm's length) and hold perfectly still so he sniffs the air but doesn't attack you.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "SIDE_BRING_RUSSELL_VODKA",
+    "display_name": "Team Spirit",
+    "description": "",
+    "chapter": "Chapter 7: Jeff",
+    "hint": "In the distillery, find a bottle of Vodka. Instead of throwing it or dropping it, place it in your wrist inventory slot and carry it until you return to the surface.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "HIDDEN_CARRY_GNOME",
+    "display_name": "Gnome Vault of My Own",
+    "description": "",
+    "chapter": "Chapter 1: Entanglement",
+    "hint": "Find Gnome Chompski on a couch outside Russell's lab. You must carry him in your hands or a bucket through the ENTIRE game, all the way to the Vault.",
+    "is_missable": true,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "GLOBAL_GNOME_ALONE",
+    "display_name": "Gnome Alone",
+    "description": "If you are reading this achievement, Gabe Newell has successfully launched Gnome Chompski into space. If you did not also receive the achievement 'Manufacturing Ascent', Newell has abandoned his plans to shoot Noam Chomsky into space.",
+    "chapter": "General",
+    "hint": "This achievement was globally unlocked automatically for all players when Gabe Newell sent a titanium Gnome Chompski into space with Rocket Lab in 2020. You will earn this simply by launching the game.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  }
+]

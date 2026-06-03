@@ -1,0 +1,692 @@
+[
+  {
+    "apiname": "HL2_HIT_CANCOP_WITHCAN",
+    "display_name": "Defiant",
+    "description": "",
+    "chapter": "Point Insertion (HL2)",
+    "hint": "When the Civil Protection officer knocks over the can and tells you to put it in the trash, pick it up and throw it directly at his face.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "HL2_PUT_CANINTRASH",
+    "display_name": "Submissive",
+    "description": "",
+    "chapter": "Point Insertion (HL2)",
+    "hint": "When the Civil Protection officer knocks over the can, pick it up and place it into the nearby trash can.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "HL2_ESCAPE_APARTMENTRAID",
+    "display_name": "Malcontent",
+    "description": "Escape the apartment block raid.",
+    "chapter": "Point Insertion (HL2)",
+    "hint": "Unmissable story achievement. Run from the Combine through the apartment complex and over the rooftops.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "HL2_BREAK_MINITELEPORTER",
+    "display_name": "What cat?",
+    "description": "Break the mini-teleporter in Kleiner's lab.",
+    "chapter": "A Red Letter Day (HL2)",
+    "hint": "Inside Dr. Kleiner's lab, find the mini-teleporter on the desk. Repeatedly teleport the cactus or books until the machine sparks and breaks.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "HL2_GET_CROWBAR",
+    "display_name": "Trusty Hardware",
+    "description": "Get the crowbar.",
+    "chapter": "A Red Letter Day (HL2)",
+    "hint": "Unmissable story achievement. Barney will drop this to you just after you get your HEV suit.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "HL2_KILL_BARNACLESWITHBARREL",
+    "display_name": "Barnacle Bowling",
+    "description": "Kill five barnacles with one barrel.",
+    "chapter": "Route Kanal (HL2)",
+    "hint": "Near the start of the canals, there is a ramp with a red explosive barrel at the top and a bridge covered in Barnacles below. Roll the barrel down the ramp so they grab it, then shoot it.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "HL2_GET_AIRBOAT",
+    "display_name": "Anchor's Aweigh!",
+    "description": "Get the airboat.",
+    "chapter": "Route Kanal (HL2)",
+    "hint": "Unmissable story achievement. You receive this vehicle at Station 20.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "HL2_GET_AIRBOATGUN",
+    "display_name": "Heavy Weapons",
+    "description": "Get the airboat's mounted gun.",
+    "chapter": "Water Hazard (HL2)",
+    "hint": "Unmissable story achievement. A Vortigaunt will install a Combine chopper gun onto your airboat.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "HL2_FIND_VORTIGAUNTCAVE",
+    "display_name": "Vorticough",
+    "description": "Discover the hidden singing vortigaunt cave in chapter Water Hazard.",
+    "chapter": "Water Hazard (HL2)",
+    "hint": "Right after destroying the Hunter-Chopper, you will open a large gate. Before passing through, look for a large drainage pipe hidden behind two grates on the left wall of the cliff. Run through the toxic sludge into the cave.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "HL2_KILL_CHOPPER",
+    "display_name": "Revenge!",
+    "description": "Destroy the hunter-chopper in Half-Life 2.",
+    "chapter": "Water Hazard (HL2)",
+    "hint": "Unmissable story achievement. Defeat the chopper boss at the end of the airboat section using your mounted gun.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "HL2_FIND_HEVFACEPLATE",
+    "display_name": "Blast from the Past",
+    "description": "Find the HEV Suit Charger faceplate in Eli's scrapyard.",
+    "chapter": "Black Mesa East (HL2)",
+    "hint": "While Alyx is opening the door to the scrapyard, look around the shelves to your left to find a destroyed HEV charger from Half-Life 1.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "HL2_GET_GRAVITYGUN",
+    "display_name": "Zero-Point Energy",
+    "description": "Get the Gravity Gun in Black Mesa East.",
+    "chapter": "Black Mesa East (HL2)",
+    "hint": "Unmissable story achievement. Alyx will hand this to you before introducing you to Dog.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "HL2_MAKEABASKET",
+    "display_name": "Two Points",
+    "description": "Use DOG's ball to make a basket in Eli's scrapyard.",
+    "chapter": "Black Mesa East (HL2)",
+    "hint": "During the Gravity Gun tutorial with Dog, look up at the scrapyard walls. There is a makeshift basketball hoop attached to a panel. Shoot Dog's Rollermine ball through it.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "HL2_BEAT_RAVENHOLM_NOWEAPONS",
+    "display_name": "Zombie Chopper",
+    "description": "Play through Ravenholm using only the Gravity Gun.",
+    "chapter": "We Don't Go To Ravenholm (HL2)",
+    "hint": "From the moment you enter Ravenholm until you exit the mines to meet the resistance fighters, do not fire a single weapon, swing the crowbar, or use grenades. Only use the Gravity Gun to throw sawblades, explosive barrels, and objects at enemies.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "HL2_BEAT_CEMETERY",
+    "display_name": "Hallowed Ground",
+    "description": "",
+    "chapter": "We Don't Go To Ravenholm (HL2)",
+    "hint": "Unmissable story achievement. Escort Father Grigori through the graveyard.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "HL2_KILL_ENEMIES_WITHCRANE",
+    "display_name": "OSHA Violation",
+    "description": "Kill 3 enemies using the crane.",
+    "chapter": "Highway 17 (HL2)",
+    "hint": "When you use the large magnetic crane to move your buggy, use it to pick up shipping containers and drop them on the Combine soldiers attacking you.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "HL2_PIN_SOLDIER_TOBILLBOARD",
+    "display_name": "Targetted Advertising",
+    "description": "Pin a soldier to the billboard in chapter Highway 17.",
+    "chapter": "Highway 17 (HL2)",
+    "hint": "Just after getting the Crossbow, you'll see a Combine soldier standing on a catwalk directly in front of a billboard. Shoot him with a crossbow bolt to pin his ragdoll to the board.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "HL2_KILL_ODESSAGUNSHIP",
+    "display_name": "Where Cubbage Fears to Tread",
+    "description": "",
+    "chapter": "Highway 17 (HL2)",
+    "hint": "Unmissable story achievement. Shoot down the Gunship attacking NLO (New Little Odessa) using the RPG provided by Odessa Cubbage.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "HL2_KILL_THREEGUNSHIPS",
+    "display_name": "One Man Army",
+    "description": "Destroy six gunships in Half-Life 2.",
+    "chapter": "Multiple (HL2)",
+    "hint": "Unmissable story achievement. Destroy all 6 Combine Gunships encountered during the campaign. They are mandatory boss fights.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "HL2_BEAT_DONTTOUCHSAND",
+    "display_name": "Keep Off the Sand!",
+    "description": "Cross the antlion beach in chapter Sandtraps without touching the sand.",
+    "chapter": "Sandtraps (HL2)",
+    "hint": "Use the Gravity Gun to move wooden pallets, doors, and rocks to create a bridge for yourself. Save often! The achievement triggers once you reach the rocky cliff where the Antlion Guard spawns.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "HL2_KILL_ENEMIES_WITHANTLIONS",
+    "display_name": "Bug Hunt",
+    "description": "Use the antlions to kill 50 enemies.",
+    "chapter": "Nova Prospekt (HL2)",
+    "hint": "Use the Pheropod (Bugbait) to direct your infinite squad of Antlions to attack Combine soldiers in Nova Prospekt.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "HL2_KILL_ENEMY_WITHTOILET",
+    "display_name": "Flushed",
+    "description": "Kill an enemy with a toilet.",
+    "chapter": "Nova Prospekt (HL2)",
+    "hint": "Inside the prison cells of Nova Prospekt, use the Gravity Gun to pick up a broken toilet and launch it at a Combine soldier's head.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "HL2_BEAT_TURRETSTANDOFF2",
+    "display_name": "Warden Freeman",
+    "description": "Survive the second turret standoff in Nova Prospekt.",
+    "chapter": "Entanglement (HL2)",
+    "hint": "Unmissable story achievement. Survive the long Combine ambush alongside Alyx using the deployable turrets.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "HL2_FOLLOWFREEMAN",
+    "display_name": "Follow Freeman",
+    "description": "Gain command of a squad of rebels in the uprising.",
+    "chapter": "Anticitizen One (HL2)",
+    "hint": "Unmissable story achievement. Met shortly after Dog takes down the Combine Dropship.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "HL2_BEAT_TOXICTUNNEL",
+    "display_name": "Radiation Levels Detected",
+    "description": "Get through the toxic tunnel under City 17 in Half-Life 2.",
+    "chapter": "Anticitizen One (HL2)",
+    "hint": "Unmissable story achievement. Navigate the underground toxic waste filled tunnels.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "HL2_BEAT_PLAZASTANDOFF",
+    "display_name": "Plaza Defender",
+    "description": "Survive the generator plaza standoff in chapter Anticitizen One.",
+    "chapter": "Anticitizen One (HL2)",
+    "hint": "Unmissable story achievement. Survive the wave of Combine soldiers while waiting for Alyx to disable the forcefield generator.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "HL2_KILL_ALLC1709SNIPERS",
+    "display_name": "Counter-Sniper",
+    "description": "Kill all of the snipers in City 17.",
+    "chapter": "Anticitizen One (HL2)",
+    "hint": "Toss grenades or launch explosive barrels with the Gravity Gun into every sniper window (blue lasers) you encounter in the street level.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "HL2_BEAT_SUPRESSIONDEVICE",
+    "display_name": "Fight the Power",
+    "description": "Shut down the supression device by disabling its generators.",
+    "chapter": "Follow Freeman! (HL2)",
+    "hint": "Unmissable story achievement. Use Combine energy balls to overload the generators in the Overwatch Nexus building.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "HL2_BEAT_C1713STRIDERSTANDOFF",
+    "display_name": "Giant Killer",
+    "description": "Survive the rooftop strider battle in the ruins of City 17.",
+    "chapter": "Follow Freeman! (HL2)",
+    "hint": "Unmissable story achievement. Defeat the Striders attacking the rebel outpost to clear the path to the Citadel.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "HL2_DISINTEGRATE_SOLDIERSINFIELD",
+    "display_name": "Atomizer",
+    "description": "Disintegrate 15 soldiers by throwing them into a Combine ball field.",
+    "chapter": "Our Benefactors (HL2)",
+    "hint": "Inside the Citadel, your Gravity Gun is overcharged. Use it to grab Combine soldiers and throw them directly into the large pillars of light/energy balls.",
+    "is_missable": true,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "HL2_BEAT_GAME",
+    "display_name": "Singularity Collapse",
+    "description": "",
+    "chapter": "Dark Energy (HL2)",
+    "hint": "Unmissable story achievement. Destroy the reactor at the top of the Citadel to complete Half-Life 2.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "HL2_FIND_ALLLAMBDAS",
+    "display_name": "Lambda Locator",
+    "description": "Find all lambda caches in Half-Life 2.",
+    "chapter": "Multiple (HL2)",
+    "hint": "There are 45 hidden Lambda symbol spray-paints marking secret supply caches across the entire game. Keep an eye out for yellow symbols.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "HLX_KILL_ENEMIES_WITHMANHACK",
+    "display_name": "Hack Attack!",
+    "description": "Kill five enemies with a Manhack.",
+    "chapter": "General",
+    "hint": "Catch a flying Manhack with your Gravity Gun and launch it at Combine soldiers or Zombies. Repeat 5 times.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "EP1_BEAT_MAINELEVATOR",
+    "display_name": "Watch Your Head!",
+    "description": "Make it to the bottom of the Citadel's main elevator shaft in one piece.",
+    "chapter": "Undue Alarm (EP1)",
+    "hint": "Unmissable story achievement. Survive the falling debris in the elevator shaft while riding down with Alyx.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "EP1_BEAT_CITADELCORE",
+    "display_name": "Containment",
+    "description": "Contain the Citadel core.",
+    "chapter": "Direct Intervention (EP1)",
+    "hint": "Unmissable story achievement. Reactivate the containment bridges using energy balls.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "EP1_BEAT_CITADELCORE_NOSTALKERKILLS",
+    "display_name": "Pacifist",
+    "description": "Contain the Citadel core without killing any stalkers.",
+    "chapter": "Direct Intervention (EP1)",
+    "hint": "During the core stabilization puzzles, the Stalkers will constantly destroy your energy balls. You must out-speed them or block their lasers without killing them.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "EP1_KILL_ANTLIONS_WITHCARS",
+    "display_name": "Car Crusher",
+    "description": "Use the cars to squash 15 antlions in Episode One.",
+    "chapter": "Lowlife (EP1)",
+    "hint": "In the underground garage area where Antlions spawn infinitely from burrows, use the Gravity Gun to slam the wrecked cars into them before plugging the holes.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "EP1_BEAT_GARAGEELEVATORSTANDOFF",
+    "display_name": "Elevator Action",
+    "description": "Survive long enough to get on the parking garage elevator.",
+    "chapter": "Lowlife (EP1)",
+    "hint": "Unmissable story achievement. Hold off the massive zombie horde in pitch darkness until the elevator arrives.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "EP1_KILL_ENEMIES_WITHSNIPERALYX",
+    "display_name": "Live Bait",
+    "description": "Help Alyx snipe 30 enemies in Episode One.",
+    "chapter": "Urban Flight (EP1)",
+    "hint": "When Alyx mounts the sniper rifle to cover you, avoid killing enemies yourself. Instead, bait the zombies into her line of sight so she can shoot them.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "EP1_BEAT_HOSPITALATTICGUNSHIP",
+    "display_name": "Attica!",
+    "description": "Destroy the gunship in the hospital attic.",
+    "chapter": "Urban Flight (EP1)",
+    "hint": "Unmissable story achievement. Use the RPG to shoot down the Combine Gunship destroying the roof.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "EP1_BEAT_CITIZENESCORT_NOCITIZENDEATHS",
+    "display_name": "Citizen Escort",
+    "description": "Don't let any citizens die when escorting them to the escape train.",
+    "chapter": "Exit 17 (EP1)",
+    "hint": "Save often. When escorting the groups of rebels to the train station, take point and quickly eliminate all Combine soldiers and snipers before they can shoot the rebels.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "EP1_BEAT_GAME",
+    "display_name": "Escape From City 17",
+    "description": "Escape City 17 with Alyx.",
+    "chapter": "Exit 17 (EP1)",
+    "hint": "Unmissable story achievement. Defeat the final Strider and board the escape train.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "EP1_BEAT_GAME_ONEBULLET",
+    "display_name": "The One Free Bullet",
+    "description": "Finish the game firing exactly one bullet. Grenade, crowbar, rocket, and Gravity Gun kills are okay!",
+    "chapter": "Episode One",
+    "hint": "Play through the entirety of Episode 1 without firing a gun (pistol, shotgun, SMG, AR2). You MUST use your single allowed bullet to shoot off the padlock in the chapter 'Lowlife'.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "HLX_KILL_ENEMIES_WITHONEENERGYBALL",
+    "display_name": "Conservationist",
+    "description": "Kill five enemies with the same energy ball.",
+    "chapter": "Our Benefactors (HL2) / EP1",
+    "hint": "Grab a bouncing energy ball with the Gravity Gun and launch it down a narrow hallway filled with Combine soldiers. Inside the Citadel is the best place to do this.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "HLX_KILL_ELITESOLDIER_WITHHISENERGYBALL",
+    "display_name": "Think Fast!",
+    "description": "Kill an Elite Soldier with his own energy ball.",
+    "chapter": "General",
+    "hint": "Combine Elite soldiers (the ones in white armor) shoot energy balls from their AR2s. Catch one with your Gravity Gun and throw it straight back at him.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "EPX_KILL_ZOMBIES_WITHFLARES",
+    "display_name": "Zombie-que",
+    "description": "Use flares to light 15 zombies on fire.",
+    "chapter": "Lowlife (EP1)",
+    "hint": "In the pitch-black underground areas, pick up the red glowing flares with your Gravity Gun and throw them at Zombies. Kills are not required, just igniting them.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "EP2_KILL_POISONANTLION",
+    "display_name": "Acid Reflex",
+    "description": "Kill an acid antlion worker.",
+    "chapter": "To the White Forest (EP2)",
+    "hint": "Unmissable story achievement. You will encounter these glowing green, acid-spitting Antlions in the mine shafts.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "EP2_KILL_ALLGRUBS",
+    "display_name": "Get Some Grub",
+    "description": "Squish every antlion grub in Episode Two.",
+    "chapter": "To the White Forest / This Vortal Coil (EP2)",
+    "hint": "There are exactly 333 glowing grubs hidden throughout the Antlion caves. You must step on, shoot, or smash every single one. Save often and check every corner.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "EP2_BREAK_ALLWEBS",
+    "display_name": "Piñata Party",
+    "description": "Find and break every web cache in Episode Two.",
+    "chapter": "To the White Forest / This Vortal Coil (EP2)",
+    "hint": "There are 9 item caches stuck inside Antlion webbing. You must break open all of them. Most are hidden slightly off the main path in the mines.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "EP2_BEAT_ANTLIONINVASION",
+    "display_name": "Into the Breach",
+    "description": "Help Griggs and Sheckley hold off the antlion invasion inside the mine shaft.",
+    "chapter": "This Vortal Coil (EP2)",
+    "hint": "Unmissable story achievement. Survive the massive multi-tunnel Antlion defense sequence using the auto-turrets.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "EP2_BEAT_ANTLIONGUARDS",
+    "display_name": "Twofer",
+    "description": "Defeat both antlion guards outside the White Forest.",
+    "chapter": "Freeman Pontifex (EP2)",
+    "hint": "Unmissable story achievement. You must defeat both the standard and glowing Antlion Guards in the large arena before getting the car.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "EP2_KILL_ENEMIES_WITHCAR",
+    "display_name": "Hit and Run",
+    "description": "Run over 20 enemies with the car in Episode Two.",
+    "chapter": "Riding Shotgun (EP2)",
+    "hint": "While driving the Muscle Car, intentionally run over Combine soldiers, Zombies, and Hunters on the road.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "EP2_BEAT_HUNTERAMBUSH",
+    "display_name": "Meet the Hunters",
+    "description": "Survive the Hunter ambush with Alyx.",
+    "chapter": "Riding Shotgun (EP2)",
+    "hint": "Unmissable story achievement. Defeat the Hunters that ambush you at the radio communications building.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "EP2_KILL_CHOPPER_NOMISSES",
+    "display_name": "Puttin' On a Clinic",
+    "description": "Defeat the chopper in Episode Two without any misses.",
+    "chapter": "Riding Shotgun (EP2)",
+    "hint": "During the boss fight where you must throw the Chopper's own mines back at it with the Gravity Gun, ensure that every single mine you throw connects and deals damage.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "EP2_KILL_COMBINECANNON",
+    "display_name": "Gunishment!",
+    "description": "Destroy the Combine Autogun in the junkyard.",
+    "chapter": "Under The Radar (EP2)",
+    "hint": "Unmissable story achievement. Sneak through the junkyard cover and throw an explosive into the Autogun.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "EP2_FIND_ALLRADARCACHES",
+    "display_name": "Cache Checker",
+    "description": "Find every radar cache in chapter Under The Radar.",
+    "chapter": "Under The Radar (EP2)",
+    "hint": "After the rebel mechanic fixes your car's radar, you must track down and open all 5 hidden rebel supply caches marked by the radar pings.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "EP2_BEAT_RACEWITHDOG",
+    "display_name": "Pedal to the Metal",
+    "description": "Beat DOG in a race to the White Forest base.",
+    "chapter": "Our Mutual Fiend (EP2)",
+    "hint": "When Dog challenges you to a race back to the base, drive flawlessly and boost to beat him to the finish line.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "EP2_BEAT_ROCKETCACHEPUZZLE",
+    "display_name": "Gordon Propelled Rocket",
+    "description": "Unlock the rocket launcher lambda cache in chapter Under The Radar.",
+    "chapter": "Under The Radar (EP2)",
+    "hint": "When you find the cache hidden high up in a hanging basket, use a grenade or explosive barrel to blow the grate off the bottom to drop the supplies.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "EP2_BEAT_WHITEFORESTINN",
+    "display_name": "Quiet Mountain Getaway",
+    "description": "Survive the ambush at White Forest Inn.",
+    "chapter": "Under The Radar (EP2)",
+    "hint": "Unmissable story achievement. Defeat the massive Combine force that traps you in the Inn.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "EP2_PUT_ITEMINROCKET",
+    "display_name": "Little Rocket Man",
+    "description": "Send the garden gnome into space.",
+    "chapter": "Episode Two",
+    "hint": "At the start of Chapter 2 (communications building), find the Gnome under a bed. You must physically carry him using the Gravity Gun through the ENTIRE rest of the game and place him inside the rocket hatch at White Forest.",
+    "is_missable": true,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "EP2_BEAT_MISSILESILO2",
+    "display_name": "Secondary Silo Secured",
+    "description": "Secure the launch doors on missile silo 2.",
+    "chapter": "Our Mutual Fiend (EP2)",
+    "hint": "Unmissable story achievement. Clear the Combine soldiers out of the silo to allow the rocket to be prepped.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "EP2_BEAT_OUTLAND12_NOBUILDINGSDESTROYED",
+    "display_name": "Neighborhood Watch",
+    "description": "Save all buildings outside the missile silo from destruction.",
+    "chapter": "Our Mutual Fiend (EP2)",
+    "hint": "During the massive final battle against the Striders and Hunters, you must use Magnusson Devices to destroy every single Strider before they shoot their warp-cannon at any of the rebel outpost buildings.",
+    "is_missable": true,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "EP2_BEAT_GAME",
+    "display_name": "Defense of the Armament",
+    "description": "Save the missile silo from the Combine offensive.",
+    "chapter": "T-Minus One (EP2)",
+    "hint": "Unmissable story achievement. Defeat all the Striders and watch the rocket launch.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "EP2_KILL_HUNTER_WITHFLECHETTES",
+    "display_name": "Payback",
+    "description": "Kill a Hunter with its own flechettes.",
+    "chapter": "Our Mutual Fiend (EP2)",
+    "hint": "Use the Gravity Gun to pick up a large physics object (like a tire or barrel). Hold it like a shield while a Hunter shoots it with explosive flechettes, then throw the object back at the Hunter.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "HLX_KILL_ENEMIES_WITHPHYSICS",
+    "display_name": "Bone Breaker",
+    "description": "Kill 30 enemies with thrown physics objects.",
+    "chapter": "General",
+    "hint": "Use the Gravity Gun to launch sawblades, radiators, barrels, and cinderblocks into enemies. You will easily get this in Ravenholm.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "HLX_KILL_ENEMY_WITHHOPPERMINE",
+    "display_name": "Deadly Harvest",
+    "description": "Kill an enemy by planting a hopper mine.",
+    "chapter": "General",
+    "hint": "Use the Gravity Gun to pluck a Combine Hopper Mine out of the ground, then place it back down to reprogram it to your side. Lure an enemy into it.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "HLX_KILL_SOLDIER_WITHHISGRENADE",
+    "display_name": "Hot Potat0wned",
+    "description": "Kill a Combine soldier with his own grenade.",
+    "chapter": "General",
+    "hint": "When a Combine soldier throws a frag grenade at you, use the Gravity Gun to catch it mid-air and throw it right back at him.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "EPX_GET_ZOMBINEGRENADE",
+    "display_name": "Grave Robber",
+    "description": "Steal a Zombine's grenade.",
+    "chapter": "Episode One / Two",
+    "hint": "When a Combine Zombie (Zombine) pulls out a live grenade to suicide bomb you, use the Gravity Gun to snatch it out of their hand.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "GLOBAL_GNOME_ALONE",
+    "display_name": "Gnome Alone",
+    "description": "If you are reading this achievement, Gabe Newell has successfully launched Gnome Chompski into space. If you did not also receive the achievement 'Manufacturing Ascent', Newell has abandoned his plans to shoot Noam Chomsky into space.",
+    "chapter": "General",
+    "hint": "This achievement was globally unlocked automatically for all players when Gabe Newell sent a titanium Gnome Chompski into space with Rocket Lab in 2020. You will earn this simply by launching the game.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  }
+]
