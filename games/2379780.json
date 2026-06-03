@@ -7,17 +7,17 @@
   {
     "apiname": "BAL_02",
     "chapter": "Progression",
-    "hint": "This unlocks when you beat the Boss Blind in Ante 8. Make sure your Jokers are scaling (giving you xMult) by Ante 5, or you will struggle to meet the score requirements."
+    "hint": "This unlocks when you beat the Boss Blind in Ante 8. Make sure your Jokers are giving you solid xMult (Multiplicative multiplier) by Ante 5."
   },
   {
     "apiname": "BAL_03",
     "chapter": "Progression",
-    "hint": "Win a run on any difficulty. The Blue Deck (+1 Hand) or Yellow Deck (Start with extra money) are great for beginners."
+    "hint": "Win a run on any difficulty. The Blue Deck (+1 Hand) or Yellow Deck (Start with extra money) are fantastic for beginners."
   },
   {
     "apiname": "BAL_04",
     "chapter": "Stakes",
-    "hint": "Red Stake removes the reward money for having leftover Discards. You will need to rely more on Interest and Economy Jokers."
+    "hint": "Red Stake removes the reward money for having leftover Discards. You will need to rely more on Interest and Economy Jokers to make money."
   },
   {
     "apiname": "BAL_05",
@@ -28,7 +28,7 @@
     "apiname": "BAL_06",
     "chapter": "Stakes",
     "hint": "Gold stake is brutal. The 'Plasma Deck' or 'Yellow Deck' are highly recommended. Focus on surviving the early antes while building a massive economy.",
-    "video_url": "https://www.youtube.com/watch?v=sO6w0qBwN4Q"
+    "is_spoiler": true
   },
   {
     "apiname": "BAL_07",
@@ -43,37 +43,35 @@
   {
     "apiname": "BAL_09",
     "display_name": "Nest Egg",
-    "chapter": "Grinding",
-    "hint": "Use the 'Anaglyph Deck'. Every time you defeat a Boss, you get a Double Tag. Save these up until you see an 'Economy Tag' (Doubles your money up to $40). Skip the blind, and all your Double Tags will trigger, multiplying your money massively!",
-    "video_url": "https://www.youtube.com/watch?v=pD4Jv8O46p8"
+    "chapter": "Economy",
+    "hint": "Use the 'Anaglyph Deck'. Every time you defeat a Boss, you get a Double Tag. Save these up until you see an 'Economy Tag' (Doubles your money up to $40). Skip the blind, and all your Double Tags will trigger, multiplying your money massively!"
   },
   {
     "apiname": "BAL_10",
     "chapter": "Deck Building",
-    "hint": "Use the 'Lover' Tarot card to turn standard cards into Wild cards. The 'DNA' Joker helps duplicate them easily."
+    "hint": "Use the 'Lover' Tarot card to turn standard cards into Wild cards. The 'DNA' Joker helps duplicate them, or use the 'Familiar' Spectral card."
   },
   {
     "apiname": "BAL_11",
     "is_missable": true,
     "chapter": "Speedrun",
-    "hint": "You must skip almost every single Small and Big blind, only fighting the Bosses. The 'Throwback' Joker is incredible here, as it gives you xMult for every blind you skip.",
-    "video_url": "https://www.youtube.com/watch?v=nDFH3tTq88E"
+    "hint": "Win in 12 or fewer rounds. There are 8 Bosses in a run. This means you only have 4 'spare' rounds you can play. You MUST skip almost every single Small and Big blind. The 'Throwback' Joker is incredible here, as it gives you xMult for every blind you skip."
   },
   {
     "apiname": "BAL_12",
     "is_missable": true,
     "chapter": "Economy",
-    "hint": "You must buy 5 Vouchers before beating Ante 4. Make sure you keep $10 in your bank going into every shop, and prioritize Vouchers over everything else early on."
+    "hint": "You must buy 5 Vouchers before beating Ante 4. Make sure you keep $10 in your bank going into every shop, and prioritize buying Vouchers over Jokers early on."
   },
   {
     "apiname": "BAL_13",
     "chapter": "Luck Based",
-    "hint": "Use the 'Justice' tarot card to turn your cards into Glass. Glass cards have a 1 in 4 chance of breaking when scored. Play a 5-card hand made entirely of Glass cards to maximize your odds."
+    "hint": "Use the 'Justice' tarot card to turn your cards into Glass. Glass cards have a 1 in 4 chance of breaking when scored. Play a 5-card hand made entirely of Glass cards to maximize your odds of 2 breaking at once."
   },
   {
     "apiname": "BAL_14",
     "chapter": "Luck Based",
-    "hint": "Don't try to force this naturally. Play the 'Checkered Deck' (contains only Spades and Hearts) to make drawing a straight flush/royal flush significantly easier."
+    "hint": "Don't try to force this naturally. Play the 'Checkered Deck' (contains only Spades and Hearts) to make drawing a Royal Flush significantly easier."
   },
   {
     "apiname": "BAL_15",
@@ -93,8 +91,7 @@
   {
     "apiname": "BAL_18",
     "chapter": "High Score",
-    "hint": "100,000,000 points. The 'Plasma Deck' is fantastic for this, as it balances your Chips and Mult. Focus entirely on massive Chip generation or massive xMult Jokers.",
-    "video_url": "https://www.youtube.com/watch?v=JmSst2GgQ2s"
+    "hint": "100,000,000 points. The 'Plasma Deck' is fantastic for this, as it balances your Chips and Mult. Focus entirely on massive Chip generation or massive Mult generation, and the deck will do the math for you."
   },
   {
     "apiname": "BAL_19",
@@ -108,61 +105,56 @@
   },
   {
     "apiname": "BAL_21",
-    "chapter": "Luck Based",
-    "hint": "The 'Space Joker' has a 1 in 4 chance to upgrade your played hand. You must trigger this success 4 times in a single run. Keep it in your inventory and just keep playing hands!"
+    "chapter": "Collection",
+    "hint": "Discover every Tarot card. Just keep opening Arcana packs whenever you can."
   },
   {
     "apiname": "BAL_22",
     "chapter": "Collection",
-    "hint": "Discover every Planet card. Just keep opening Celestial packs. Note: Planet X (Five of a Kind), Ceres (Flush House), and Eris (Flush Five) only appear AFTER you play those hidden hands."
+    "hint": "Discover every Planet card. Note: Planet X (Five of a Kind), Ceres (Flush House), and Eris (Flush Five) only appear in packs AFTER you play those hidden hands at least once."
   },
   {
     "apiname": "BAL_23",
     "chapter": "Collection",
-    "hint": "Discover every Tarot card. Open Arcana packs whenever you can."
+    "hint": "Discover every Spectral card. Open Spectral packs when they appear in the shop."
   },
   {
     "apiname": "BAL_24",
     "chapter": "Collection",
-    "hint": "Discover every Spectral card. Open Spectral packs."
+    "hint": "Discover every Voucher. Some Vouchers have specific unlock requirements (like playing a certain amount of cards) before they can even appear in the shop."
   },
   {
     "apiname": "BAL_25",
-    "chapter": "Collection",
-    "hint": "Discover every Voucher. Some Vouchers have specific unlock requirements (like playing a certain amount of cards) before they can appear in the shop."
-  },
-  {
-    "apiname": "BAL_26",
     "chapter": "Collection",
     "hint": "Discover 100% of your collection (Decks, Jokers, Tarots, Planets, Spectrals, Vouchers). Check your 'Collection' tab on the main menu to see what you are missing.",
     "is_spoiler": true
   },
   {
-    "apiname": "BAL_27",
+    "apiname": "BAL_26",
     "chapter": "Completionist",
     "hint": "Win a run on Gold Stake difficulty with every single Deck. This is an incredibly long grind.",
     "is_spoiler": true
   },
   {
-    "apiname": "BAL_28",
+    "apiname": "BAL_27",
     "chapter": "Completionist",
     "hint": "Get a Gold Sticker on every Joker. This means you must have every Joker in your active inventory at the exact moment you beat Ante 8 on Gold Stake. The ultimate Balatro grind.",
     "is_spoiler": true
   },
   {
-    "apiname": "BAL_29",
+    "apiname": "BAL_28",
     "chapter": "Challenges",
     "hint": "Complete any challenge run. Challenges are unlocked after winning your first standard run."
   },
   {
-    "apiname": "BAL_30",
+    "apiname": "BAL_29",
     "chapter": "Challenges",
     "hint": "Complete all 20 challenge runs. Some of these completely change the rules of the game!"
   },
   {
-    "apiname": "BAL_31",
+    "apiname": "BAL_30",
     "chapter": "Secrets",
-    "hint": "Discover a Legendary Joker. These can only be obtained by finding 'The Soul' card, which has a very rare chance of replacing a card in Tarot or Spectral packs.",
+    "hint": "Discover a Legendary Joker. These can only be obtained by finding 'The Soul' card, which has a very rare chance of replacing a regular card in Tarot or Spectral packs.",
     "is_spoiler": true
   }
 ]
