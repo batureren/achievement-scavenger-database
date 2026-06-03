@@ -1,0 +1,312 @@
+[
+  {
+    "apiname": "ACH_1",
+    "display_name": "Static Explosion!",
+    "description": "Capture all three Kujaras and bring it back to Pham.",
+    "chapter": "Kujara Ranch",
+    "hint": "After getting the quest from Pham, you need to find the three missing Kujaras located around the Kujara Summit and Ranch areas. Wash them using the nearby water sources to reveal their true colors and return them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_2",
+    "display_name": "Vital Victory",
+    "description": "Reach max health.",
+    "chapter": "Collectibles",
+    "hint": "Collect all the Lunch Boxes scattered throughout the game and complete the associated Events that reward them. This increases your maximum health to the absolute limit.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_3",
+    "display_name": "More Shred Threads",
+    "description": "Obtain all types of pants.",
+    "chapter": "Collectibles",
+    "hint": "You need to collect the Normal, Swimming, Flying, and Turbo pants. The Turbo Pants are usually the last ones you will obtain by completing their specific event.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_4",
+    "display_name": "Ready for Anything",
+    "description": "Obtain all types of suits.",
+    "chapter": "Collectibles",
+    "hint": "Collect the Flying Squirrel Suit, Pig Suit, and Water Suit. These are obtained naturally by completing major quests in Donglin Forest, Kujara Ranch, and the Water Temple respectively.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_5",
+    "display_name": "The Whole Arsenal",
+    "description": "Obtain all types of weapons.",
+    "chapter": "Collectibles",
+    "hint": "Find every weapon in the game (Blackjack, Grapple, Boomerang, Hammers/Maces, and their elemental Ice/Fire/Water variants). Ensure you complete the weapon-upgrade events in the Coal-Mining Town.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_6",
+    "display_name": "Mythical Reveal",
+    "description": "Obtain all types of complete spells.",
+    "chapter": "Collectibles",
+    "hint": "Collect the Fire, Ice, Water, and Earth magic spells, and upgrade them to their ultimate forms by completing the elemental magic events and collecting all the hidden gems.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_7",
+    "display_name": "Full Keychain",
+    "description": "Obtain all types of keys.",
+    "chapter": "Collectibles",
+    "hint": "Collect the various treasure chest keys (Ghost, Earth, Fire, Water, Ice) scattered across the game. These are usually obtained by defeating the Evil Pigs or completing major town quests.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_8",
+    "display_name": "Meet & Greet",
+    "description": "Use the Pig Suit to talk to someone.",
+    "chapter": "Kujara Ranch",
+    "hint": "Equip the Pig Suit (obtained in Kujara Ranch) and try talking to any friendly human NPC. They will react differently, mistaking you for a real pig.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_9",
+    "display_name": "The Hidden Diary!",
+    "description": "Acquire the Traveler's Journal.",
+    "chapter": "Donglin Forest",
+    "hint": "Unlocks by completing the 'Traveler's Journal' event. Explore the hidden areas of Donglin Forest to find the lost diary.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_10",
+    "display_name": "Device Guards the Treasure!",
+    "description": "Open the path to the treasure!",
+    "chapter": "Coal-Mining Town",
+    "hint": "In the Coal-Mining Town, you will find a strange machine blocking a treasure chest. You need to hit the gears in the correct sequence to open the path.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_11",
+    "display_name": "Pedal To The Metal",
+    "description": "Ride the trolley to the finish line under 1 minute and 10 seconds.",
+    "chapter": "Coal-Mining Town",
+    "hint": "Play the trolley minigame in the Coal-Mining Town. Memorize the track layout to lean into corners perfectly and avoid braking too much to beat the 1:10:00 target time.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_12",
+    "display_name": "Feather Fall",
+    "description": "Help the clown by putting the pillow beneath him while falling.",
+    "chapter": "Circus Town",
+    "hint": "Complete the event 'A Pillow for the Clown'. Find the clown falling repeatedly in Circus Town and place the soft pillow exactly where he is about to land.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_13",
+    "display_name": "Music For My Ears",
+    "description": "Let the mermaid use the reassembled harp.",
+    "chapter": "Water Temple",
+    "hint": "Complete the 'Broken Harp' event. Find all the missing harp strings scattered across the area, repair the harp, and return it to the mermaid in the Water Temple.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_14",
+    "display_name": "Golden Dreams",
+    "description": "Obtain the Golden Powder.",
+    "chapter": "Fisherman's Town",
+    "hint": "Complete the 'Golden Powder' event. This requires trading specific rare items through a long sequence with various NPCs.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_15",
+    "display_name": "LAUGH! (Again)",
+    "description": "Enter the Laughing Door in the laughing state.",
+    "chapter": "Donglin Forest",
+    "hint": "Find and eat a Laughing Mushroom to enter the laughing state, then quickly interact with the Laughing Door to open it.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_16",
+    "display_name": "POUT! (Again)",
+    "description": "Enter the Crying Door in the crying state.",
+    "chapter": "Donglin Forest",
+    "hint": "Find and eat a Crying Mushroom to enter the crying state, then quickly interact with the Crying Door to open it.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_17",
+    "display_name": "Washing Machine",
+    "description": "Clear Level 10 of washing the Kujara.",
+    "chapter": "Kujara Ranch",
+    "hint": "Participate in the Kujara washing minigame at the Kujara Ranch. You need to rapidly and accurately wash the animals to clear Level 10.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_18",
+    "display_name": "Old Friends",
+    "description": "Use Holy Water on Baron.",
+    "chapter": "End Game",
+    "hint": "Baron the dog has been cursed. Towards the end of the game, use the Holy Water item on him to lift the curse and save him.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_19",
+    "display_name": "Tiny Cogs",
+    "description": "Make Tomba small with the Minitta Machine.",
+    "chapter": "Circus Town",
+    "hint": "Progress through the events involving the Minitta mushroom and the shrink machine. Once it is fully repaired, step into it to shrink Tomba, allowing him to access tiny doors.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_20",
+    "display_name": "Water Splashes",
+    "description": "Defeat the Water Evil Pig.",
+    "chapter": "Water Temple",
+    "hint": "Locate the Water Pig Bag, find the portal in the Water Temple area, and defeat the Water Evil Pig by tossing it into the bag.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_21",
+    "display_name": "Red Rumble",
+    "description": "Defeat the Fire Evil Pig.",
+    "chapter": "Coal-Mining Town",
+    "hint": "Locate the Fire Pig Bag, open the portal in the Coal-Mining Town/Lava Caves, and defeat the Fire Evil Pig. Be careful not to fall into the lava!",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_22",
+    "display_name": "Dark Downfall",
+    "description": "Defeat the Earth Evil Pig.",
+    "chapter": "Donglin Forest",
+    "hint": "Locate the Earth Pig Bag, find the portal, and defeat the Earth Evil Pig. The Flying Squirrel suit makes dodging his ground attacks much easier.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_23",
+    "display_name": "Ghostbuster",
+    "description": "Defeat the Ghost Evil Pig.",
+    "chapter": "Circus Town",
+    "hint": "Locate the Ghost Pig Bag, open the portal in Circus Town, and defeat the Ghost Evil Pig by tossing it into the bag.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_24",
+    "display_name": "Frozen Fate",
+    "description": "Defeat the Ice Evil Pig.",
+    "chapter": "Kujara Ranch",
+    "hint": "Locate the Ice Pig Bag, open the portal in the Kujara Summit/Ice area, and defeat the Ice Evil Pig. Watch out for the slippery floor.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_25",
+    "display_name": "The Final Pig",
+    "description": "Defeat the final Evil Pig and seal the last pig bag.",
+    "chapter": "End Game",
+    "hint": "After defeating the 5 elemental Evil Pigs, enter the final area to confront the Last Evil Pig. Defeat him to beat the game.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_26",
+    "display_name": "Where's Tabby?",
+    "description": "Resolve the mystery around Tabby's disappearance.",
+    "chapter": "End Game",
+    "hint": "Complete the main story events involving Tabby, leading up to her rescue. This naturally unlocks as you progress toward the finale.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_27",
+    "display_name": "Event Horizon",
+    "description": "Complete all events in the game.",
+    "chapter": "Completionist",
+    "hint": "Complete all 137 Events in the game. Some events require cross-trading items with NPCs, finding hidden areas, or clearing minigames perfectly. Do this before crossing the point of no return at the end of the game.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_28",
+    "display_name": "A Large Flower Seed",
+    "description": "Get a flower from Ranch Area seeds and bring it to the dwarfs.",
+    "chapter": "Kujara Ranch",
+    "hint": "Find the large seed in the Kujara Ranch area, plant it, use water/fertilizer, and take the bloomed flower back to the Dwarfs in Donglin Forest.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_29",
+    "display_name": "Invisible Mirror",
+    "description": "Find and bring back the mirror to Mizuno.",
+    "chapter": "Circus Town",
+    "hint": "Complete the 'Invisible Mirror' event. You'll need to locate Mizuno's hidden/invisible mirror and return it to her.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_30",
+    "display_name": "Yan of the Hidden Village",
+    "description": "Find Yan and talk to him.",
+    "chapter": "Various",
+    "hint": "Yan plays hide-and-seek throughout the game. You must find him in his various hiding spots until he finally returns to his village.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_31",
+    "display_name": "100-Year-Old Man",
+    "description": "Find and bring back the lost amulet to the 100 Year Old Wise Man.",
+    "chapter": "Fisherman's Town",
+    "hint": "Retrieve the wise man's amulet. This is part of the main quest chain early on involving the 100-Year-Old Wise Man's hut.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  }
+]

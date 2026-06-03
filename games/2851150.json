@@ -1,0 +1,312 @@
+[
+  {
+    "apiname": "ACH_BLOW_AWAY_THE_THICK_FOG",
+    "display_name": "Blow Away The Thick Fog",
+    "description": "Clear the thick fog in the Village of All Beginnings.",
+    "chapter": "Village of All Beginnings",
+    "hint": "This is a story-related achievement. It unlocks once you find the Evil Pig Bag for the Forest Pig and defeat him by throwing him into the bag. Doing so will lift the curse and clear the fog.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_THE_100_YEAR_OLD_WISE_MAN",
+    "display_name": "The 100 Year Old Wise Man",
+    "description": "Learn about the Evil Pigs and get the 100 Year Old Key.",
+    "chapter": "Water Forest",
+    "hint": "Make your way to the Water Forest and speak to the 100 Year Old Wise Man. You will need to complete his initial tasks to prove your worth before he hands over the key.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_BEGINNERS_DWARF_LANGUAGE",
+    "display_name": "Beginner's Dwarf Language",
+    "description": "Learn to speak the dwarf language.",
+    "chapter": "Dwarf Village",
+    "hint": "After rescuing the first dwarf in the Spiky Woods, head into the Dwarf Village and interact with the Dwarf Elder. This will start the Dwarf Dictionary event.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_FROG_FRIEND",
+    "display_name": "Frog Friend",
+    "description": "Bring back the frog to the Ol' Pond.",
+    "chapter": "Village of All Beginnings",
+    "hint": "Find the frog wandering around the Dwarf Village, pick it up, and physically carry it all the way back to the Ol' Pond. Toss it into the water to complete the event.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_SEVEN_MISSING_DWARFS",
+    "display_name": "Seven Missing Dwarfs",
+    "description": "Save all 7 missing dwarves.",
+    "chapter": "Dwarf Village",
+    "hint": "You will need to search the surrounding areas including the Watch Tower, Spiky Woods, Wobbly Wharf, and Charity Square. Some dwarves are trapped or hiding and require specific abilities to reach.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_LAUGH",
+    "display_name": "LAUGH!",
+    "description": "Use the mushroom to show the dwarf your laughter in Mushroom Forest.",
+    "chapter": "Mushroom Forest",
+    "hint": "Find and eat the Laughing Mushroom in the Mushroom Forest area. While Tomba is uncontrollably laughing, quickly run and talk to the dwarf blocking the path.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_POUT",
+    "display_name": "POUT!",
+    "description": "Use the mushroom to show the dwarf your pout in Mushroom Forest.",
+    "chapter": "Mushroom Forest",
+    "hint": "Find and eat the Crying/Pouting Mushroom in the Mushroom Forest area. While Tomba is visibly upset, quickly speak to the dwarf who demands to see you pout.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_CIVILIZED_WORLD",
+    "display_name": "Civilized World",
+    "description": "Restore power to The Village of Civilization.",
+    "chapter": "Village of Civilization",
+    "hint": "You must defeat the Water Pig and lift his curse to restore the factory power and bring life back to the Village of Civilization.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_READY_SET_GO",
+    "display_name": "Ready, Set, Go!",
+    "description": "Beat the thief to the top of the Watch Tower.",
+    "chapter": "Watch Tower",
+    "hint": "Speak to Mizuno the thief at the bottom of the Watch Tower to start the race. Having the Animal Dash ability makes this much easier. Ignore all enemies and focus on taking the quickest vertical path up.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_RISE_AND_SHINE_OF_THE_PHOENIX",
+    "display_name": "Rise (and Shine) of the Phoenix",
+    "description": "Ride the Phoenix to the Masakari Jungle.",
+    "chapter": "Phoenix Mountain",
+    "hint": "Feed the Biting Plant on Phoenix Mountain to free the Phoenix. Once freed, jump into its nest, and it will fly you to the Masakari Jungle.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_ANIMAL_DASH",
+    "display_name": "Animal Dash",
+    "description": "Get the Animal Dash ability from Charles.",
+    "chapter": "Village of All Beginnings",
+    "hint": "Find Charles the monkey and give him the Bananas you can find by knocking them out of trees in the starting areas. He will teach you how to dash.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_BE_LIKE_WATER",
+    "display_name": "Be Like Water, My Friend",
+    "description": "Get the Swim ability from Charles.",
+    "chapter": "Mushroom Forest",
+    "hint": "Later in the game, you'll encounter Charles again and he'll be hungry. Feed him his favorite food (a Kokka Bird Egg) and he will teach you how to swim.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_DEEP_BLUE",
+    "display_name": "Deep Blue",
+    "description": "Get the Dive ability from the mermaid.",
+    "chapter": "Haunted Mansion",
+    "hint": "Find the mermaid located inside the Haunted Mansion area. Help her by putting her in a bucket and returning her to the water, and she will grant you the Dive ability.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_GOLD_MEDAL_CHAMP",
+    "display_name": "Gold Medal Champ",
+    "description": "Get the gold medal on the Motocross Course.",
+    "chapter": "Village of Civilization",
+    "hint": "Access the Motocross mini-game in the Village of Civilization (after restoring power). You need to finish the track in under 1 minute and 14 seconds to earn the Gold Medal.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_5_GOLDEN_ITEMS",
+    "display_name": "5 Golden Items",
+    "description": "Get the 5 Golden Items",
+    "chapter": "Endgame",
+    "hint": "You need to collect the Golden Leaf, Golden Flower, Golden Fruit, Golden Candy, and Golden Medal. These are found through late-game exploration and completing NPC quests after capturing the Evil Pigs.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_SHRED_THREADS",
+    "display_name": "Shred Threads",
+    "description": "Get the 4 pants.",
+    "chapter": "Collectibles",
+    "hint": "Collect the Default (Blue), Jumping (Green - found in Dwarf Village), Dashing (Red - found in Baccus Village), and Flash Pants (Blue - found in a 10,000 AP chest).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_MATH_LESSONS",
+    "display_name": "Math Lessons",
+    "description": "Find all the 10 Math Beads hidden in the water of Trick Village.",
+    "chapter": "Trick Village",
+    "hint": "Once you have the Dive ability, search the bottom of the watery sections in Trick Village. Explore thoroughly, as some beads are hidden in corners and alcoves.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_GREEN_THUMB",
+    "display_name": "Green Thumb",
+    "description": "Step on every Pump Rock to prevent the Ol' Tree from dying.",
+    "chapter": "Dwarf Village",
+    "hint": "Locate the pump rocks scattered around the Water Forest and Dwarf Village area. You must jump and press DOWN to ground-pound each of the rocks to pump water to the Ol' Tree.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_FIRE_FIGHTER",
+    "display_name": "Fire Fighter",
+    "description": "Reach level 10 with red experience.",
+    "chapter": "Progression",
+    "hint": "Collect red AP gems dropped by defeating fire-elemental or red-colored enemies (commonly found in the Lava Caves) until your Red AP gauge hits max level.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_WIND_WALKER",
+    "display_name": "Wind Walker",
+    "description": "Reach level 10 with green experience.",
+    "chapter": "Progression",
+    "hint": "Collect green AP gems dropped by defeating wind/forest-elemental or green-colored enemies until your Green AP gauge hits max level.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_WATER_DANCER",
+    "display_name": "Water Dancer",
+    "description": "Reach level 10 with blue experience.",
+    "chapter": "Progression",
+    "hint": "Collect blue AP gems dropped by defeating water-elemental or blue-colored enemies (commonly found in aquatic areas) until your Blue AP gauge hits max level.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_CATS_NINE_LIVES",
+    "display_name": "Cat's Nine Lives",
+    "description": "Get maximum obtainable health bars.",
+    "chapter": "Collectibles",
+    "hint": "Find all the Vitality Max increasing items hidden in chests and rewarded from events throughout the game. Maxing out your elemental AP levels also increases your maximum vitality.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_EVENTFUL_EVENING",
+    "display_name": "Eventful Evening",
+    "description": "Clear all 130 in-game events.",
+    "chapter": "Endgame",
+    "hint": "Complete every quest/event in the game. IMPORTANT: This achievement is MISSABLE. Some quests (like 'Leaf Butterflies' or 'Tears from a Flower') become unavailable if you cure the area's respective Evil Pig before triggering or finishing them.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_CAPTURE_FIRE_PIG",
+    "display_name": "Capture The Fire Pig",
+    "description": "Capture The Fire Pig.",
+    "chapter": "Lava Caves",
+    "hint": "Obtain the correct Evil Pig Bag and find the Fire Pig's boss door located deep within the Lava Caves. Toss him into the bag to lift his curse.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_CAPTURE_GHOST_PIG",
+    "display_name": "Capture the Ghost Pig",
+    "description": "Capture the Ghost Pig.",
+    "chapter": "Haunted Mansion",
+    "hint": "Obtain the correct Evil Pig Bag and find the Ghost Pig's boss door hidden in the Haunted Mansion. Defeat him to cure the area.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_CAPTURE_MOUSE_PIG",
+    "display_name": "Capture the Mouse Pig",
+    "description": "Capture the Mouse Pig.",
+    "chapter": "Baccus Village",
+    "hint": "Obtain the correct Evil Pig Bag and find the Mouse Pig's boss door located in Baccus Village. Capturing him will turn the mice back into humans.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_CAPTURE_STORM_PIG",
+    "display_name": "Capture the Storm Pig",
+    "description": "Capture the Storm Pig.",
+    "chapter": "Phoenix Mountain",
+    "hint": "Obtain the correct Evil Pig Bag and find the Storm Pig's boss door, which is found on Phoenix Mountain.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_CAPTURE_WATER_PIG",
+    "display_name": "Capture the Water Pig",
+    "description": "Capture the Water Pig.",
+    "chapter": "Trick Village",
+    "hint": "Obtain the correct Evil Pig Bag and find the Water Pig's boss door located in Trick Village.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_CAPTURE_FOREST_PIG",
+    "display_name": "Capture the Forest Pig",
+    "description": "Capture the Forest Pig.",
+    "chapter": "Mushroom Forest",
+    "hint": "Obtain the correct Evil Pig Bag and find the Forest Pig's boss door. Defeating him lifts the fog in the beginning areas.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_CAPTURE_JUNGLE_PIG",
+    "display_name": "Capture the Jungle Pig",
+    "description": "Capture the Jungle Pig.",
+    "chapter": "Masakari Jungle",
+    "hint": "Obtain the correct Evil Pig Bag and find the Jungle Pig's boss door hidden in the Masakari Jungle.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_CAPTURE_REAL_EVIL_PIG",
+    "display_name": "Capture the Real Evil Pig",
+    "description": "Capture the Real Evil Pig.",
+    "chapter": "Final Boss",
+    "hint": "After capturing all 7 elemental Evil Pigs and collecting the 5 Golden Items, you will unlock the final area to face the Real Evil Pig. Throw him into the bag to complete the game!",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  }
+]

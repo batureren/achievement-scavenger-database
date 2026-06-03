@@ -1,0 +1,352 @@
+[
+  {
+    "apiname": "ACH_COMBO_BEGINNER",
+    "display_name": "Combo Beginner",
+    "description": "Perform a 4x combo",
+    "chapter": "General",
+    "hint": "Kill 4 enemies in rapid succession. The Zack (Frog) mask extends the combo window time, making this much easier.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_COMBO_INTERMEDIATE",
+    "display_name": "Combo Intermediate",
+    "description": "Perform a 6x combo",
+    "chapter": "General",
+    "hint": "String 6 kills together. Use the Zack mask and lure enemies towards doors so you can chain kills quickly.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_COMBO_PRO",
+    "display_name": "Combo Pro",
+    "description": "Perform a 8x combo",
+    "chapter": "General",
+    "hint": "Chapter 10 (Hot & Heavy) and Chapter 13 (Assault) have high enemy density perfect for an 8x combo. Use the Zack mask.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_COMBO_MASTER",
+    "display_name": "Combo Master",
+    "description": "Perform a 10x combo",
+    "chapter": "General",
+    "hint": "Best done on Chapter 10 or 14 using the Zack mask. Map out your route, execute downed enemies quickly, and use guns to connect kills across long hallways.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_COMBO_KING",
+    "display_name": "Combo King",
+    "description": "Perform a 12x combo",
+    "chapter": "General",
+    "hint": "Chapter 10 (Hot & Heavy) is the easiest place to do this. Wear the Zack mask. Start by clearing the initial rooms quickly, grab a shotgun, and spray down the crowded hallways to keep the combo alive.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_THE_END",
+    "display_name": "The End?",
+    "description": "",
+    "chapter": "Chapter 15",
+    "hint": "Complete Chapter 15: Showdown to finish Jacket's storyline.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_THATS_IT",
+    "display_name": "That's It?",
+    "description": "",
+    "chapter": "Chapter 19",
+    "hint": "Complete Chapter 19: Resolution (the final level of Biker's campaign) to get the normal ending.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_THAT_IS_IT",
+    "display_name": "This Is It",
+    "description": "",
+    "chapter": "Chapter 19",
+    "hint": "To get the secret ending, you must collect all puzzle pieces (purple pixels) hidden in Jacket's chapters, solve the puzzle in the pause menu, and interact with the computer in Chapter 19 before going into the sewers.",
+    "is_missable": true,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_ACED_IT",
+    "display_name": "Aced It",
+    "description": "Get an A+ on any chapter",
+    "chapter": "General",
+    "hint": "Getting an A+ requires speed, high combos, flexibility (using different weapons), and boldness (melee kills grant more points). The Zack (Frog) or Carl (Locust) mask helps tremendously.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_GET_A_LIFE",
+    "display_name": "Get A Life",
+    "description": "Get A+ on all the chapters",
+    "chapter": "General",
+    "hint": "You must achieve an A+ rank on all levels (Prelude to Chapter 19). Equip the Zack (Frog) mask to maintain combos, or the Don Juan (Horse) mask for lethal door slams (which award massive points).",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_1989",
+    "display_name": "1989",
+    "description": "Kill 1989 enemies",
+    "chapter": "General",
+    "hint": "Unlocks naturally as you play the game, replay chapters for masks, and grind for A+ ranks.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_DOGLOVER",
+    "display_name": "Dog Lover",
+    "description": "Kill 99 dogs",
+    "chapter": "General",
+    "hint": "Dogs appear frequently in later chapters. Use guns or well-timed melee swings to kill them. Unlocks naturally over time.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_LET_IN_SOME_FRESH_AIR",
+    "display_name": "Let In Some Air",
+    "description": "Destroy 200 glass panels",
+    "chapter": "General",
+    "hint": "Shoot or throw items through the windows in the game. You'll likely get this naturally while shooting enemies in levels like Chapter 10.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_NIGEL_LOWRIE",
+    "display_name": "Nigel Lowrie",
+    "description": "Use a human shield",
+    "chapter": "General",
+    "hint": "Knock an enemy down, stand over them with an Assault Rifle, Silenced Uzi, or Double Barrel Shotgun equipped, and press Space to pick them up as a shield.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_TWO_BIRDS_WITH_ONE_STONE",
+    "display_name": "Two Birds With One Stone",
+    "description": "Kill two enemies with the same brick in one throw",
+    "chapter": "General",
+    "hint": "Find a brick (common in Chapter 5) and wait for two enemies to line up in a narrow hallway before throwing it.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_PLAIN_LUCK",
+    "display_name": "Plain Luck",
+    "description": "Kill three or more enemies with the same brick in one throw",
+    "chapter": "Chapter 5",
+    "hint": "Best done at the start of Chapter 5. Grab the brick in the first room, attract the attention of the enemies in the hallway, line them up, and throw it.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_PLAYING_POOL",
+    "display_name": "Playing Pool",
+    "description": "Kill an enemy with a brick bounced against a wall",
+    "chapter": "General",
+    "hint": "Grab a brick, aim at a wall near an enemy so the trajectory bounces off the wall and strikes them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_DOMINO_EFFECT",
+    "display_name": "Domino Effect",
+    "description": "Throw a weapon at an enemy so that his weapon hits another",
+    "chapter": "General",
+    "hint": "Throw an item at an enemy holding a weapon. The impact will cause their weapon to fly out of their hands; if it hits another enemy behind them, you get the achievement.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_ZOO_KEEPER",
+    "display_name": "Zoo Keeper",
+    "description": "Collect all the masks",
+    "chapter": "General",
+    "hint": "You get masks by reaching high score thresholds in chapters, or by finding the hidden ones (like the Crocodile mask in Chapter 7 or the Jones mask in Chapter 14).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_SOUNDS_OF_ANIMALS_FIGHTING",
+    "display_name": "Sounds of Animals Fighting",
+    "description": "Wear all masks at least once",
+    "chapter": "General",
+    "hint": "Once you have collected all 26 masks, simply start a level with each of them and immediately die or quit out to register it as 'worn'.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_I_GOT_NEW_FRIENDS",
+    "display_name": "I Got New Friends",
+    "description": "Unlock all weapons",
+    "chapter": "General",
+    "hint": "Weapons unlock automatically as you earn points and complete chapters. Earning A+ ranks speeds this up significantly.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_GUNS_FOR_SHOW",
+    "display_name": "Guns For Show",
+    "description": "use all guns at least once",
+    "chapter": "General",
+    "hint": "Kill an enemy with every firearm. Includes the M16, Shotgun, Double Barrel, Silenced Pistol, Silenced Uzi, Magnum, Skorpion, Uzi, MP5, and the Magnum.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_KNIFE_FOR_PROS",
+    "display_name": "Knife For Pros",
+    "description": "use all melee weapon at least once",
+    "chapter": "General",
+    "hint": "Get a kill with every melee weapon. Make sure to use the rare ones like the Katana, Machete, Sledgehammer, Fire Axe, Frying Pan, Pot, and the Drill (unlocked via the Carl mask).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_PITCHER",
+    "display_name": "Pitcher",
+    "description": "use all throwing weapon at least once",
+    "chapter": "General",
+    "hint": "Throw and kill an enemy with every throwable item: Brick, Glass Bottle, Beer Can, Dart, Ninja Star, Throwing Knife, and the Hammer.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_ALWAYS_ON_TOP",
+    "display_name": "Always On Top",
+    "description": "Perform every ground kill in the game",
+    "chapter": "General",
+    "hint": "Knock enemies down and press Space to execute them. You must do this barehanded, near a wall (wall execution), and with EVERY melee weapon. Don't forget the Drill (Carl mask) and the Brick.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_THESE_ARE_MY_GUNS",
+    "display_name": "These Are My Guns",
+    "description": "Complete chapter five barehanded",
+    "chapter": "Chapter 5",
+    "hint": "Equip the Tony (Tiger) mask, which makes your punches instantly lethal. Complete the entirety of Chapter 5 without picking up a single weapon. If you accidentally pick one up, restart.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_KARMA",
+    "display_name": "Karma",
+    "description": "Die 1000 times",
+    "chapter": "General",
+    "hint": "Hotline Miami is trial and error. You will likely unlock this naturally as you grind for A+ ranks.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_ACHIEVEMENT_WHORE",
+    "display_name": "Achievement Whore",
+    "description": "Unlock all achievements",
+    "chapter": "General",
+    "hint": "Earn all other achievements in the game.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_SMELL_SOMETHING_BURNING",
+    "display_name": "Smell Something Burning",
+    "description": "",
+    "chapter": "Chapter 2 or 6",
+    "hint": "Find the pot of boiling water on the stove (can be found in Chapter 2 or Chapter 6). Pick it up and throw it at an enemy to burn their face off.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_BATMAN",
+    "display_name": "Batman",
+    "description": "",
+    "chapter": "Chapter 2",
+    "hint": "Complete Chapter 2 while wearing the Nigel (Bat) mask. This mask reverses your movement controls, so take it slow.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_SEWER_ALLIGATOR",
+    "display_name": "Sewer Alligator",
+    "description": "",
+    "chapter": "Chapter 7",
+    "hint": "In Chapter 7, clear the level but do not get in the car. Pick up a crowbar on the 1st floor, go outside, use the crowbar on the manhole cover, and climb down to find the Jones (Crocodile) mask.",
+    "is_missable": true,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_CAT_FIGHT",
+    "display_name": "Cat Fight",
+    "description": "",
+    "chapter": "Chapter 15",
+    "hint": "Equip the Brandon (Panther) mask. At the start of the final boss fight, kill the two panthers that charge at you.",
+    "is_missable": true,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_60_TO_CAR",
+    "display_name": "60 To Car",
+    "description": "Go to the car 60 times",
+    "chapter": "General",
+    "hint": "Walking to the car completes the level. This will unlock naturally as you replay levels to get better scores and masks.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_EYE_FOR_DETAILS",
+    "display_name": "Eye For Details",
+    "description": "",
+    "chapter": "General",
+    "hint": "Collect all 16 puzzle pieces. There is one small, flashing purple pixel hidden in every single chapter of Jacket's campaign (Prelude through Chapter 15).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_THE_BOSS",
+    "display_name": "The Boss",
+    "description": "",
+    "chapter": "Puzzle Menu",
+    "hint": "Once you have collected all 16 puzzle pieces, go to the Puzzle section in the pause menu and arrange the letters to spell 'I WAS BORN IN THE USA'.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  }
+]

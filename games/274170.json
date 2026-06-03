@@ -1,0 +1,292 @@
+[
+  {
+    "apiname": "ACHIEVEMENT_WHORE",
+    "display_name": "ACHIEVEMENT WHORE",
+    "description": "Unlock all achievements",
+    "chapter": "General",
+    "hint": "Unlock every other achievement in Hotline Miami 2: Wrong Number.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "1-800-CLEARED",
+    "display_name": "1-800-CLEARED",
+    "description": "Finish the game",
+    "chapter": "Scene 24",
+    "hint": "Unmissable story achievement. Complete Scene 24: Apocalypse.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "1-800-GETHELP",
+    "display_name": "1-800-GETHELP",
+    "description": "Finish the game on hard mode",
+    "chapter": "Hard Mode",
+    "hint": "Hard mode is unlocked after beating the game once. Enemies are faster, ammo is scarce, and levels are flipped upside down. Complete all 24 scenes on this difficulty.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "1-800-GODDAMN",
+    "display_name": "1-800-GODDAMN",
+    "description": "Get A+ on all levels on normal",
+    "chapter": "General",
+    "hint": "Earn an A+ (or S rank) on all 24 standard scenes. Combos are king in HM2; you must string together massive, level-wide combos to hit the required score thresholds.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NUCLEAR_WASTE",
+    "display_name": "NUCLEAR WASTE",
+    "description": "",
+    "chapter": "The Abyss",
+    "hint": "In the secret level 'The Abyss', fight your way to the end and shoot the radioactive waste barrels or the enemies near them.",
+    "is_missable": true,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "FANTASTIC",
+    "display_name": "FANTASTIC!",
+    "description": "Unlock all the Fans",
+    "chapter": "General",
+    "hint": "Unmissable story achievement. You unlock Corey, Tony, Alex & Ash, and Mark as you progress through the Fan levels.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "RIFLES_GUNS",
+    "display_name": "THESE ARE MY RIFLES, THESE ARE MY GUNS...",
+    "description": "Unlock all weapons for the Soldier",
+    "chapter": "General",
+    "hint": "Unmissable story achievement. You unlock the Machine Gun, Shotgun, Heavy Machine Gun, Sniper Rifle, and Flamethrower as you progress through Beard's levels.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "SNAKE_CHARMER",
+    "display_name": "SNAKE CHARMER",
+    "description": "Unlock all snake masks",
+    "chapter": "General",
+    "hint": "Unmissable story achievement. You unlock the Jake, Irvin, and Dallas masks as you complete Jake's levels.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "WHAT_YOU_LEAVE_FOR_YOUR_SONS",
+    "display_name": "WHAT YOU LEAVE FOR YOUR SONS",
+    "description": "Unlock all of the Son's techniques",
+    "chapter": "General",
+    "hint": "Unmissable story achievement. You unlock Bodyguard, Dirty Hands, and Bloodline as you complete The Son's levels.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "FANATIC",
+    "display_name": "FANATIC",
+    "description": "Clear a level with each Fan",
+    "chapter": "Scene 1",
+    "hint": "Replay Scene 1: Down Under (or any other Fan level) and beat it using Corey, Tony, Alex & Ash, and Mark.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "FAMILY_BUSINESS",
+    "display_name": "FAMILY BUSINESS",
+    "description": "Clear a level with each of the Son's techniques",
+    "chapter": "Scene 21",
+    "hint": "Replay Scene 21: Seizure (or any other Son level) and beat it using the Bodyguard, Dirty Hands, and Bloodline techniques.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "SNAKES_ON_A_HEAD",
+    "display_name": "SNAKES ON A HEAD",
+    "description": "Clear a level with each snake mask",
+    "chapter": "Scene 15",
+    "hint": "Replay Scene 15: Withdrawal (or any other Jake level) and beat it using the Jake, Irvin, and Dallas masks.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "DONT_LET_ANGER_GET_THE_BEST_OF_YOU",
+    "display_name": "DON'T LET ANGER GET THE BEST OF YOU",
+    "description": "Clear all of the Writer's levels without killing",
+    "chapter": "Evan Levels",
+    "hint": "Play as Evan in Scene 13: First Trial and Scene 17: Subway. Only use blunt melee weapons to knock enemies out, and unload all guns (Right Click) to disable them. Do not do ground executions, as this enrages Evan and makes him lethal.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "EXTRA_EXTRA",
+    "display_name": "EXTRA! EXTRA! READ ALL ABOUT IT!",
+    "description": "Get the big picture",
+    "chapter": "Scene 15",
+    "hint": "Play Scene 15: Withdrawal. Beat the 3rd floor flawlessly so Jake doesn't die. You will get a cutscene where an assassin shoots Jake. When playing as Evan later in the timeline, pick up the floppy disk from Jake's body before the police find it.",
+    "is_missable": true,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "SOUND_OF_ANIMALS_FIGHTING",
+    "display_name": "A BOX FULL OF SHARP OBJECTS",
+    "description": "Use every weapon in the game at least once",
+    "chapter": "General",
+    "hint": "Kill an enemy with every single weapon. Don't forget rare ones like the Acid Pot and Taser (Scene 21), Skateboard (Scene 1), Toothbrush (Scene 20), and the broken bottle.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "PERCUSSIVE_MAINTENANCE",
+    "display_name": "PERCUSSIVE MAINTENANCE",
+    "description": "Destroy 100 electronic devices",
+    "chapter": "General",
+    "hint": "Shoot or smash TVs, computers, arcade cabinets, and radios. Will likely unlock naturally through crossfire.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KARMA",
+    "display_name": "KARMA",
+    "description": "Die 1000 times",
+    "chapter": "General",
+    "hint": "You will die a lot. This will unlock naturally during your Hard Mode or A+ rank grinds.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "GENOCIDE",
+    "display_name": "GENOCIDE",
+    "description": "Kill 50,000 enemies",
+    "chapter": "General",
+    "hint": "The grindiest achievement in the game. Even after 100% completing everything else, you will likely only be at 15k-20k kills. To farm, load Scene 17: First Blood, clear the first room, die, and repeat for several hours.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "GOT_YOUR_BACK",
+    "display_name": "GOT YOUR BACK",
+    "description": "Shoot two enemies during a chainsaw finish",
+    "chapter": "Scene 1",
+    "hint": "Play as Alex & Ash. Knock an enemy down, press Space to execute them with the chainsaw (Alex), and while the animation is playing, use Ash's gun to shoot two other approaching enemies.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "FOLLOW_THE_SCRIPT",
+    "display_name": "FOLLOW THE SCRIPT",
+    "description": "Do as the Director says!",
+    "chapter": "Scene 1",
+    "hint": "In Scene 1: Midnight Animal, do exactly what the director tells you to do during the tutorial phase without deviating.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ASSASSINS_CRED",
+    "display_name": "ASSASSIN'S CRED",
+    "description": "Clear the 1st floor of NO MERCY with the silencer",
+    "chapter": "Scene 17",
+    "hint": "Play as the Henchman in Scene 17: No Mercy. Use the silenced pistol to kill every single enemy on the first floor without switching weapons or using melee.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "DEAD_SILENT",
+    "display_name": "DEAD SILENT",
+    "description": "Finish SUBWAY without the Gang Leader seeing you",
+    "chapter": "Scene 13",
+    "hint": "In Scene 13: Subway, when you reach the gang leader at the very end of the level, do not let his vision cone touch you. Sneak behind him and knock him out.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "IM_COMING_IN_UNARMED",
+    "display_name": "I'M COMING IN AND I'M UNARMED!",
+    "description": "Finish HOMICIDE without using guns",
+    "chapter": "Scene 4",
+    "hint": "Play as Detective Pardo in Scene 4: Homicide. Discard your gun immediately and beat the entire level using only melee weapons and executions.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "STARE_INTO_THE_ABYSS",
+    "display_name": "STARE INTO THE ABYSS",
+    "description": "",
+    "chapter": "The Abyss",
+    "hint": "Clear the secret level 'The Abyss'. To unlock it, you must have grabbed the floppy disk in Scene 15 (EXTRA! EXTRA! achievement), and used it on the computer in the intro of Scene 22.",
+    "is_missable": true,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "THE_BAR_OF_BROKEN_HEROES",
+    "display_name": "THE BAR OF BROKEN HEROES",
+    "description": "",
+    "chapter": "Scene 13",
+    "hint": "During the intro of Scene 13: Subway, interact with the ringing telephone as Evan. Follow the instructions to go to the secret bar and speak to Biker.",
+    "is_missable": true,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "COMBO_BEGINNER",
+    "display_name": "COMBO BEGINNER",
+    "description": "Perform a 5x combo",
+    "chapter": "General",
+    "hint": "Kill 5 enemies in rapid succession.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "COMBO_INTERMEDIATE",
+    "display_name": "COMBO INTERMEDIATE",
+    "description": "Perform a 10x combo",
+    "chapter": "General",
+    "hint": "Kill 10 enemies in rapid succession. Use guns to lure enemies and connect kills down long hallways.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "COMBO_MASTER",
+    "display_name": "COMBO MASTER",
+    "description": "Perform a 15x combo",
+    "chapter": "General",
+    "hint": "String 15 kills together. Best done on Corey or Tony levels with high enemy density, like Scene 12: Death Wish.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "COMBO_GOD",
+    "display_name": "COMBO GOD",
+    "description": "Perform a 20x combo",
+    "chapter": "General",
+    "hint": "String 20 kills together. Scene 12: Death Wish (as Corey, rolling between rooms) or Scene 24 (using The Son's Bloodline technique to clear out hallways) are the best spots.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  }
+]
