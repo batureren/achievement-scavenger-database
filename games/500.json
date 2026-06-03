@@ -1,0 +1,732 @@
+[
+  {
+    "apiname": "L4D_ACHIEVEMENT_PUNCH_HUNTER",
+    "display_name": "DEAD STOP",
+    "description": "Punch a Hunter as he is pouncing.",
+    "chapter": "",
+    "hint": "Use the secondary fire (shove/melee) right before a leaping Hunter lands on you to knock them back mid-air.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_RESCUE_FROM_SMOKER",
+    "display_name": "DRAG AND DROP",
+    "description": "Rescue a Survivor from a Smoker's tongue before he takes damage.",
+    "chapter": "",
+    "hint": "Quickly shoot the Smoker's tongue or shove the teammate being pulled the moment they are grabbed.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_ONE_SHOT_KILL_WITCH",
+    "display_name": "CR0WND",
+    "description": "Kill a Witch with a single headshot.",
+    "chapter": "",
+    "hint": "Use a Tier 2 Shotgun (Auto or Pump). Turn off your flashlight, sneak up behind her, and shoot her point-blank in the back of the head/neck.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_NO_TEAM_FINALE_DAMAGE",
+    "display_name": "UNTOUCHABLES",
+    "description": "No Survivors take damage after contacting the rescue vehicle.",
+    "chapter": "",
+    "hint": "Best done on the No Mercy rooftop finale. Find a secure camping spot (like under the stairs) and let bots or teammates cover you until the chopper doors open.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_NO_DAMAGE_AFTER_VOMIT",
+    "display_name": "BLIND LUCK",
+    "description": "You or another Survivor take no damage after being vomited on by a Boomer.",
+    "chapter": "",
+    "hint": "When boomed, immediately back into a corner and wildly melee to push away infected while your team shoots them.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_PROTECT_SURVIVORS_X_TIMES",
+    "display_name": "MY BODYGUARD",
+    "description": "Protect any Survivor from an attacking Infected 50 times.",
+    "chapter": "",
+    "hint": "Unlocks naturally over time. Stay near teammates and quickly kill zombies that are actively hitting them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_CAMPAIGN_WITH_PISTOLS",
+    "display_name": "AKIMBO ASSASSIN",
+    "description": "Survive an entire campaign using only pistols.",
+    "chapter": "",
+    "hint": "Equip dual pistols and never switch to your primary weapon. You can still use throwables (pipe bombs, molotovs) and stationary guns.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_HEAL_X_SURVIVORS",
+    "display_name": "FIELD MEDIC",
+    "description": "Heal 25 Survivors with a first aid kit.",
+    "chapter": "",
+    "hint": "Always carry a first aid kit and heal teammates (Right-click) when their health is in the red.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_GIVE_PILLS_X_SURVIVORS",
+    "display_name": "PHARM-ASSIST",
+    "description": "Give pain pills to 10 Survivors.",
+    "chapter": "",
+    "hint": "Right-click to hand your pain pills to teammates who have low health.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_REVIVE_X_SURVIVORS",
+    "display_name": "HELPING HAND",
+    "description": "Revive 50 incapacitated Survivors.",
+    "chapter": "",
+    "hint": "Pick up incapacitated teammates by holding the interact button. Can be farmed by playing on Expert and letting bots go down.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_RESCUE_FROM_CLOSET",
+    "display_name": "HERO CLOSET",
+    "description": "Rescue a Survivor trapped in a closet.",
+    "chapter": "",
+    "hint": "When a teammate dies, they will eventually respawn in a closed room ahead in the map. Open the door to free them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_RESCUE_FROM_HUNTER",
+    "display_name": "HUNTER PUNTER",
+    "description": "Shove a Hunter off of a pinned and helpless Survivor.",
+    "chapter": "",
+    "hint": "Run up to a teammate who is pinned by a Hunter and press the shove/melee button to knock the Hunter off.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_RESCUE_SELF_FROM_SMOKER",
+    "display_name": "TONGUE TWISTER",
+    "description": "Kill a Smoker who has grabbed you with his tongue.",
+    "chapter": "",
+    "hint": "When grabbed by a Smoker, you have a 1-2 second window to quickly aim and shoot him before you are fully ensnared and lose control.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_RESCUE_X_FROM_SMOKER",
+    "display_name": "NO SMOKING SECTION",
+    "description": "Kill 10 Smokers as they are pulling helpless Survivors.",
+    "chapter": "",
+    "hint": "Keep an eye out for Smokers grabbing teammates. Shoot the Smoker itself instead of shoving the teammate or shooting the tongue.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_BURN_X_INFECTED",
+    "display_name": "101 CREMATIONS",
+    "description": "Set 101 Infected on fire.",
+    "chapter": "",
+    "hint": "Throw Molotovs into large hordes or use gas cans during panic events. Unlocks naturally over time.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_DONT_AWAKEN_WITCH",
+    "display_name": "DO NOT DISTURB",
+    "description": "Sneak past all Witches in a campaign without disturbing one.",
+    "chapter": "",
+    "hint": "Turn off flashlights, stop shooting, and sneak carefully around any Witches you hear. Do not get close.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_KILL_TANK_SOLO",
+    "display_name": "MAN VS TANK",
+    "description": "Single-handedly kill a Tank.",
+    "chapter": "",
+    "hint": "Play on Easy solo. Shoot your bot teammates so they go down, then use a Molotov and an assault rifle to kill the Tank yourself.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_KILL_TANK_NO_DAMAGE",
+    "display_name": "TANKBUSTERS",
+    "description": "Kill a Tank without it dealing any damage to a Survivor.",
+    "chapter": "",
+    "hint": "Keep your distance! Throw a Molotov on the Tank and run away until it burns to death. Play on Easy.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_NO_FRIENDLY_FIRE",
+    "display_name": "SAFETY FIRST",
+    "description": "Play an entire campaign with no Survivors taking friendly fire damage.",
+    "chapter": "",
+    "hint": "Play on Easy (where friendly fire damage is minimized/disabled in L4D2, but to be safe, use melee weapons frequently and avoid explosives).",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_ALL_SURVIVORS_ALIVE",
+    "display_name": "NO-ONE LEFT BEHIND",
+    "description": "Beat a campaign with all 4 Survivors.",
+    "chapter": "",
+    "hint": "Play on Easy. Keep everyone healed during the finale and ensure all four players/bots make it to the rescue vehicle.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_NO_SELF_MEDKIT",
+    "display_name": "UNBREAKABLE",
+    "description": "Finish a campaign without ever using a first aid kit on yourself.",
+    "chapter": "",
+    "hint": "Play on Easy. Rely entirely on pain pills/adrenaline, or let teammates heal you. Do not press the heal button on yourself.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_WITCH_NO_DAMAGE",
+    "display_name": "WITCH HUNTER",
+    "description": "Kill a Witch without any Survivor taking damage from her.",
+    "chapter": "",
+    "hint": "Either use the 'Cr0wnd' method (one-shot with a tier 2 shotgun) or ignite her with a Molotov and run away while teammates shoot her.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_KILL_X_WITH_TURRET",
+    "display_name": "RED MIST",
+    "description": "Kill 1000 Infected with a mounted machine gun.",
+    "chapter": "",
+    "hint": "Use the mounted miniguns found in finales like No Mercy or Crash Course. Mow down hordes. Kills accumulate across playthroughs.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_BLOW_UP_X_INFECTED",
+    "display_name": "PYROTECHNICIAN",
+    "description": "Blow up 20 Infected in a single explosion.",
+    "chapter": "",
+    "hint": "Wait for a Boomer bile explosion or pipe bomb to gather a massive horde, then shoot a nearby gas can or propane tank.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_53595_INFECTED",
+    "display_name": "ZOMBIE GENOCIDEST",
+    "description": "Kill 53,595 Infected.",
+    "chapter": "",
+    "hint": "Requires grinding over many hours of gameplay. Finales with infinite hordes or custom survival maps speed this up.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_HEALTH_MARTYR",
+    "display_name": "DEAD GIVEAWAY",
+    "description": "Heal a fellow Survivor when your own health is below 10.",
+    "chapter": "",
+    "hint": "Let your health drop below 10 (screen will be very red/black-and-white), then use a medkit on a teammate instead of yourself.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_COVER_FRIEND_INCAPPED",
+    "display_name": "GROUND COVER",
+    "description": "Save another Survivor from a Special Infected while on the ground.",
+    "chapter": "",
+    "hint": "When you are incapacitated (on the ground with pistols), shoot and kill a Hunter, Smoker, or Jockey that is actively attacking a teammate.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_SHOVE_AND_KILL_BOOMER",
+    "display_name": "CLEAN KILL",
+    "description": "Shove a Boomer and then kill him without him splashing on anyone.",
+    "chapter": "",
+    "hint": "When a Boomer is close, shove (Right-click) to push it back, quickly step backward, and shoot it from a safe distance.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_SURVIVE_WITHOUT_INCAP",
+    "display_name": "STAND TALL",
+    "description": "Survive a campaign without being incapacitated.",
+    "chapter": "",
+    "hint": "Play on Easy difficulty, stick close to your team, and always keep your health above 50 to avoid going down.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_LEAVE_SAFEROOM_AND_REVIVE",
+    "display_name": "BACK 2 HELP",
+    "description": "Leave a safe room to save an incapped teammate and bring them back safely.",
+    "chapter": "",
+    "hint": "Once inside the saferoom, if a teammate goes down outside, leave the room, revive them, and both return inside before closing the door.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_SURVIVE_ANY_IMPOSSIBLE",
+    "display_name": "ZOMBICIDAL MANIAC",
+    "description": "Survive any campaign on Expert.",
+    "chapter": "",
+    "hint": "Take it slow on Expert. Stick to corners, use melee for regular infected to avoid friendly fire, and save Molotovs for Tanks.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_SURVIVE_ALL_IMPOSSIBLE",
+    "display_name": "WHAT ARE YOU TRYING TO PROVE?",
+    "description": "Survive all campaigns on Expert.",
+    "chapter": "",
+    "hint": "Requires completing all original campaigns on Expert. Patience, communication, and corner-camping during hordes are essential.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_SURVIVE_NO_SPECIAL_DAMAGE",
+    "display_name": "NOTHING SPECIAL",
+    "description": "Survive a campaign with no Survivors taking damage from Special Infected.",
+    "chapter": "",
+    "hint": "Extremely difficult. Play on Easy. Move fast, listen for audio cues, and instantly snipe/kill Special Infected before they can attack.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_BURN_WITCH",
+    "display_name": "BURN THE WITCH",
+    "description": "Light a Witch with a Molotov.",
+    "chapter": "",
+    "hint": "Throw a Molotov directly at a Witch from a safe distance.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_BURN_TANK",
+    "display_name": "TOWERING INFERNO",
+    "description": "Light a Tank with a Molotov.",
+    "chapter": "",
+    "hint": "Throw a Molotov directly at a Tank to set it on fire.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_INFECTED_SNEAK_MELEE",
+    "display_name": "SPINAL TAP",
+    "description": "Kill an Infected with a single blow from behind.",
+    "chapter": "",
+    "hint": "Sneak up behind an unaware common zombie and hit it in the back with a melee attack.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_SURVIVE_NO_VOMIT",
+    "display_name": "STOMACH UPSET",
+    "description": "All Survivors complete a campaign without being vomited on.",
+    "chapter": "",
+    "hint": "Play on Easy. Shoot Boomers from far away, constantly check corners so you aren't ambushed, and shove them if they get close.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_MAKE_X_HEADSHOTS",
+    "display_name": "BRAIN SALAD",
+    "description": "Make 100 headshot kills.",
+    "chapter": "",
+    "hint": "Aim for the head! Use sniper rifles, magnums, or assault rifles for accurate shots. Unlocks naturally.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_HEADSHOT_HUNTER",
+    "display_name": "JUMP SHOT",
+    "description": "Headshot a Hunter while he's leaping.",
+    "chapter": "",
+    "hint": "Use a shotgun or sniper. Aim slightly above the Hunter as it leaps toward you and fire. Takes practice and timing.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_SURVIVE_HOSPITAL",
+    "display_name": "MERCY KILLER",
+    "description": "Survive the No Mercy campaign.",
+    "chapter": "No Mercy",
+    "hint": "Complete the No Mercy campaign on any difficulty.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_SURVIVE_SMALLTOWN",
+    "display_name": "TOLL COLLECTOR",
+    "description": "Survive the Death Toll campaign.",
+    "chapter": "Death Toll",
+    "hint": "Complete the Death Toll campaign on any difficulty.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_SURVIVE_AIRPORT",
+    "display_name": "DEAD BARON",
+    "description": "Survive the Dead Air campaign.",
+    "chapter": "Dead Air",
+    "hint": "Complete the Dead Air campaign on any difficulty.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_SURVIVE_FARM",
+    "display_name": "GRIM REAPER",
+    "description": "Survive the Blood Harvest campaign.",
+    "chapter": "Blood Harvest",
+    "hint": "Complete the Blood Harvest campaign on any difficulty.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_COVER_ALL_WITH_BILE",
+    "display_name": "BARF BAGGED",
+    "description": "Cover four Survivors with Boomer bile at once.",
+    "chapter": "",
+    "hint": "In Versus mode, wait until all four survivors are in a tight space (like a closet or saferoom) and vomit on them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_DRAG_SURVIVOR_X_DISTANCE",
+    "display_name": "BIG DRAG",
+    "description": "Drag a Survivor 100 feet with your tongue as a Smoker.",
+    "chapter": "",
+    "hint": "In Versus mode, find a high rooftop or long alleyway (like in No Mercy Chapter 1) and pull a survivor from maximum distance.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_CONSTRICT_X_WITHOUT_DYING",
+    "display_name": "CHAIN SMOKER",
+    "description": "Constrict two Survivors on one life as a Smoker.",
+    "chapter": "",
+    "hint": "In Versus, pull a survivor, wait for your ability to recharge while staying hidden, and pull a second survivor before dying.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_POUNCE_X_WITHOUT_DYING",
+    "display_name": "DOUBLE JUMP",
+    "description": "Pounce two different Survivors on one life as a Hunter.",
+    "chapter": "",
+    "hint": "In Versus, pounce a survivor, wait for teammates to shove you off, run away/hide until your cooldown finishes, and pounce again.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_KILL_ALL_WITHOUT_DYING",
+    "display_name": "All 4 Dead",
+    "description": "Kill all four Survivors on one life as a Tank.",
+    "chapter": "",
+    "hint": "In Versus, wait until survivors are cornered or distracted by a horde, then incapacitate all four of them without dying.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_DOLE_X_TOTAL_DAMAGE",
+    "display_name": "DEAD WRECKENING",
+    "description": "Dole out 5000 total Survivor damage as a Special Infected.",
+    "chapter": "",
+    "hint": "Play Versus matches regularly. This will unlock over time as you deal cumulative damage as the infected.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_INCAP_AFTER_SAFEROOM",
+    "display_name": "LAMB 2 SLAUGHTER",
+    "description": "As an Infected, incap a Survivor who has entered and left a safe room.",
+    "chapter": "",
+    "hint": "In Versus, wait until a survivor steps out of the saferoom (usually to grab an item or save a teammate), then attack them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_INFECTED",
+    "display_name": "OUTBREAK",
+    "description": "Catch a rare strain of infection, then pass it on to someone else.",
+    "chapter": "",
+    "hint": "Kill an infected player (in Versus or Scavenge) who already has this achievement. It is a highly common 'viral' achievement.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_PLAY_LIGHTHOUSE",
+    "display_name": "LAST STAND",
+    "description": "Complete one round of Survival on The Last Stand.",
+    "chapter": "The Last Stand",
+    "hint": "Start a Survival match on the map 'The Last Stand' and let the team die. Just playing it once unlocks this.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_GET_ONE_BRONZE",
+    "display_name": "BRONZE METTLE",
+    "description": "Earn a Bronze medal in Survival mode on any official level.",
+    "chapter": "",
+    "hint": "Survive for 4 minutes in Survival mode. Find a corner with only one or two entry points and stockpile gas cans/propane.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_GET_ONE_SILVER",
+    "display_name": "SILVER BULLETS",
+    "description": "Earn a Silver medal in Survival mode on any official level.",
+    "chapter": "",
+    "hint": "Survive for 7 minutes in Survival mode.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_GET_ONE_GOLD",
+    "display_name": "VIOLENCE IS GOLDEN",
+    "description": "Earn a Gold medal in Survival mode on any official level.",
+    "chapter": "",
+    "hint": "Survive for 10 minutes in Survival mode.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_GET_ALL_BRONZE",
+    "display_name": "DISTINGUISHED SURVIVOR",
+    "description": "Earn at least a Bronze medal on every official Survival level.",
+    "chapter": "",
+    "hint": "Survive for 4 minutes on all original L4D1 Survival maps.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_GET_ALL_SILVER",
+    "display_name": "HEROIC SURVIVOR",
+    "description": "Earn at least a Silver medal on every official Survival level.",
+    "chapter": "",
+    "hint": "Survive for 7 minutes on all original L4D1 Survival maps.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_GET_ALL_GOLD",
+    "display_name": "LEGENDARY SURVIVOR",
+    "description": "Earn a Gold medal on every official Survival level.",
+    "chapter": "",
+    "hint": "Survive for 10 minutes on all original L4D1 Survival maps. Requires great teamwork, map knowledge, and strong camping spots.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_SURVIVE_GARAGE",
+    "display_name": "CRASH-PROOF",
+    "description": "Survive the Crash Course Campaign.",
+    "chapter": "Crash Course",
+    "hint": "Complete the Crash Course campaign on any difficulty.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_REPOWER_GENERATOR",
+    "display_name": "QUICK POWER",
+    "description": "Restart the generator within 30 seconds of it shutting off.",
+    "chapter": "Crash Course",
+    "hint": "During the Crash Course finale, have a player camp next to the generator so they can immediately restart it when it breaks.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_5359_INFECTED_GARAGE",
+    "display_name": "THE LITTLEST GENOCIDE",
+    "description": "Kill 5,359 Infected in the Crash Course campaign.",
+    "chapter": "Crash Course",
+    "hint": "Kills accumulate across multiple playthroughs of the Crash Course campaign.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_WIN_VERSUS_GARAGE",
+    "display_name": "SMASH HIT",
+    "description": "Win a Versus campaign of Crash Course.",
+    "chapter": "Crash Course",
+    "hint": "Play and win a Versus match on Crash Course.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_WIPE_ALL_AFTER_TRUCK",
+    "display_name": "TRUCK STOP",
+    "description": "Your team wipes all Survivors after the escape vehicle has opened in Crash Course.",
+    "chapter": "Crash Course",
+    "hint": "In Versus, wait as infected until the escape truck lowers its ramp in the finale, then coordinate an attack to wipe out the survivors.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_HIT_X_WITH_CAR",
+    "display_name": "20 CAR PILE-UP",
+    "description": "As A Tank hit 20 Survivors with a car in the Crash Course campaign.",
+    "chapter": "Crash Course",
+    "hint": "In Versus, play as the Tank and punch the alarm cars scattered around the map into the survivors. Cumulates over time.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_CAUSE_X_POUNCE_DAMAGE",
+    "display_name": "JUMPIN' JACK SMASH",
+    "description": "Pounce a Survivor for 25 points of damage in the Crash Course campaign.",
+    "chapter": "Crash Course",
+    "hint": "In Versus, get to the highest roof possible as a Hunter and pounce down onto a survivor. The longer the fall, the higher the damage.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_DRAG_BILED_SURVIVOR",
+    "display_name": "SLIPPERY PULL",
+    "description": "Smoker pull a bile-covered Survivor until you hold him during Crash Course.",
+    "chapter": "Crash Course",
+    "hint": "In Versus, wait for a Boomer to vomit on a survivor, then as a Smoker, pull that same survivor.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_TANK_EXPLOSION_STUN",
+    "display_name": "TANK STUMBLE",
+    "description": "Stun a Tank with an explosion in the Crash Course campaign.",
+    "chapter": "Crash Course",
+    "hint": "Shoot a propane tank or use a pipe bomb right next to a Tank to stun it.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_INCAP_3_IN_5_SEC",
+    "display_name": "WIPEFEST",
+    "description": "Your team incapacitates three Survivors within five seconds.",
+    "chapter": "Crash Course",
+    "hint": "Coordinate an attack in Versus. Have a Boomer, Hunter, and Smoker/Charger attack simultaneously.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_COMPLETE_THE_SACRIFICE",
+    "display_name": "Supreme Sacrifice",
+    "description": "Complete \"The Sacrifice\".",
+    "chapter": "The Sacrifice",
+    "hint": "Complete The Sacrifice campaign on any difficulty.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_SACRIFICE_BILL",
+    "display_name": "Kill Bill",
+    "description": "Have Bill sacrifice himself for the team.",
+    "chapter": "The Sacrifice",
+    "hint": "During the finale, when someone needs to drop down to restart the generator, ensure the player playing as Bill does it.",
+    "is_missable": true,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_KILL_SPECIAL_WITH_BARREL",
+    "display_name": "Barrel Rolled",
+    "description": "Kill a Special Infected with an exploding barrel.",
+    "chapter": "The Sacrifice",
+    "hint": "Shoot one of the red explosive barrels scattered throughout The Sacrifice when a Special Infected is standing near it.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_RUN_ALL_GENERATORS",
+    "display_name": "Chaos Generator",
+    "description": "Have all 3 generators running at once in \"The Sacrifice\" finale.",
+    "chapter": "The Sacrifice",
+    "hint": "During the finale, have three players stand by the three generators and press the button on all of them at the exact same time.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "L4D_ACHIEVEMENT_VS_PREVENT_SACRIFICE",
+    "display_name": "Sacrifizzle",
+    "description": "As a Special Infected, incap someone who is trying to sacrifice themselves.",
+    "chapter": "The Sacrifice",
+    "hint": "In Versus, wait until a survivor jumps down to restart the final generator, then incapacitate them (Smoker/Hunter) before they press the button.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  }
+]

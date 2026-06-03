@@ -1,0 +1,1012 @@
+[
+  {
+    "apiname": "ACH_HONK_A_CLOWNS_NOSE",
+    "display_name": "CL0WND",
+    "description": "Honk the noses of 10 Clowns.",
+    "chapter": "Dark Carnival",
+    "hint": "Melee shove 10 clown zombies. Aim for the face to trigger the 'honk' sound.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_INCENDIARY_CLOWN_POSSE",
+    "display_name": "FRIED PIPER",
+    "description": "Using a Molotov, burn a Clown leading at least 10 Common Infected.",
+    "chapter": "Dark Carnival",
+    "hint": "Wait until a clown is leading a large horde with its squeaky shoes, then throw a Molotov directly into the group.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_MELEE_A_CHARGER",
+    "display_name": "LEVEL A CHARGE",
+    "description": "Kill a Charger with a melee weapon while they are charging.",
+    "chapter": "",
+    "hint": "Use a sharp, high-damage melee weapon like an Axe or Katana. Time your swing perfectly just as a charging Charger reaches you.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_KILL_SPITTER_FAST",
+    "display_name": "ACID REFLEX",
+    "description": "Kill a Spitter before she is able to spit.",
+    "chapter": "",
+    "hint": "Listen for the Spitter's high-pitched squeal. Snipe her instantly with a rifle or sniper before she finishes her attack animation.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_FINISH_CAMPAIGN_MELEE_ONLY",
+    "display_name": "CONFEDERACY OF CRUNCHES",
+    "description": "Finish a campaign using only melee weapons.",
+    "chapter": "",
+    "hint": "Equip a melee weapon immediately. Do not shoot any firearms at all. Throwables and medkits are allowed.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_KILL_EVERY_UNCOMMON_INFECTED",
+    "display_name": "CRASS MENAGERIE",
+    "description": "Kill one of each Uncommon Infected.",
+    "chapter": "",
+    "hint": "Kill a Riot cop (Parish), Mudman (Swamp Fever), Clown (Carnival), Worker (Hard Rain), and Hazmat (Dead Center). Unlocks over normal gameplay.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_SAVE_PLAYER_FROM_JOCKEY_FAST",
+    "display_name": "A RIDE DENIED",
+    "description": "Kill a Jockey within 2 seconds of it jumping on a Survivor.",
+    "chapter": "",
+    "hint": "Shoot or shove a Jockey immediately when you see it land on a teammate's head.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_CUT_OFF_HEADS_MELEE",
+    "display_name": "HEAD HONCHO",
+    "description": "Decapitate 200 Infected with a melee weapon.",
+    "chapter": "",
+    "hint": "Aim high at the neck/head with a sharp melee weapon (Axe, Katana, Machete) when fighting hordes.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_VS_LEAVE_SAFE_ROOM_DEFIB_TEAMMATE",
+    "display_name": "HEARTWARMER",
+    "description": "In a Versus round, leave the saferoom to defibrillate a dead teammate.",
+    "chapter": "",
+    "hint": "In Versus, grab a defib from the saferoom. If a teammate dies outside, leave, revive them, and safely return before the round ends.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_BEAT_CAMPAIGNS_EXPERT_MODE",
+    "display_name": "STILL SOMETHING TO PROVE",
+    "description": "Survive all campaigns on Expert.",
+    "chapter": "",
+    "hint": "Beat all five original L4D2 campaigns on Expert. Use corners, teamwork, stick to melee for commons, and save throwables for Tanks.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_SURVIVE_EXPERT_REALISM",
+    "display_name": "THE REAL DEAL",
+    "description": "Survive a campaign on Expert skill with Realism mode enabled.",
+    "chapter": "",
+    "hint": "Realism removes glowing outlines and makes zombies tougher. Play Dead Center, communicate heavily, and move quickly.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_VS_FORM_PARTY_AND_WIN_4V4",
+    "display_name": "STRENGTH IN NUMBERS",
+    "description": "Form a team and beat an enemy team in 4v4 Versus or Scavenge.",
+    "chapter": "",
+    "hint": "You need a full lobby of 8 players (4 on your team) to start a team Versus or Scavenge match. Win the game.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_KILL_SUBMERGED_MUDMEN",
+    "display_name": "DEAD IN THE WATER",
+    "description": "Kill 10 swampy Mudmen while they are in the water.",
+    "chapter": "Swamp Fever",
+    "hint": "In Swamp Fever, look for the fast Mudmen zombies crawling in the murky water and shoot them before they reach dry land.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_COLLECT_CEDA_VIALS",
+    "display_name": "ROBBED ZOMBIE",
+    "description": "Collect 10 vials of Boomer vomit from infected CEDA agents you have killed.",
+    "chapter": "Dead Center",
+    "hint": "Kill CEDA Hazmat zombies in Dead Center. Some will drop green Bile Bombs on death. Pick up 10 of them across your playthroughs.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_KILL_ZOMBIES_GRENADE_BLAST",
+    "display_name": "DISMEMBERMENT PLAN",
+    "description": "Kill 15 Infected with a single grenade launcher blast.",
+    "chapter": "",
+    "hint": "Find a Grenade Launcher, wait for a Boomer bile or pipe bomb to group up a massive horde, and fire directly into the center.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_IGNITE_INFECTED_FIRE_AMMO",
+    "display_name": "BURNING SENSATION",
+    "description": "Ignite 50 Common Infected with incendiary ammo.",
+    "chapter": "",
+    "hint": "Deploy an incendiary ammo pack (red box), load it, and shoot 50 zombies. Unlocks easily over natural gameplay.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_DEPLOY_AMMO_UPGRADE",
+    "display_name": "ARMORY OF ONE",
+    "description": "Deploy an ammo upgrade and have your team use it.",
+    "chapter": "",
+    "hint": "Equip an explosive or incendiary ammo pack (found throughout levels), deploy it on the ground, and have a teammate pick some up.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_RES_SURVIVORS_WITH_DEFIB",
+    "display_name": "SHOCK JOCK",
+    "description": "Revive 10 dead Survivors with the defibrillator.",
+    "chapter": "",
+    "hint": "Use the Defibrillator item to revive completely dead teammates 10 times. Can be farmed with bots on higher difficulties.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_SPEED_REVIVE_WITH_ADRENALINE",
+    "display_name": "THE QUICK AND THE DEAD",
+    "description": "Revive 10 incapacitated Survivors while under the speed-boosting effects of adrenaline.",
+    "chapter": "",
+    "hint": "When a teammate is downed, take an Adrenaline shot first, then revive them. Repeat 10 times.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_KILL_INFECTED_WITH_CHAINSAW",
+    "display_name": "CHAIN OF COMMAND",
+    "description": "Kill 100 Common Infected with the chainsaw.",
+    "chapter": "",
+    "hint": "Find a Chainsaw (occupies melee slot) and use it exclusively on hordes until you hit 100 kills.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_BILE_A_TANK",
+    "display_name": "SEPTIC TANK",
+    "description": "Use a bile bomb on a Tank.",
+    "chapter": "",
+    "hint": "Throw a Bile Bomb directly onto a Tank to coat it, causing the horde to attack it.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_KILL_WITH_EVERY_MELEE",
+    "display_name": "CLUB DEAD",
+    "description": "Use every melee weapon to kill Common Infected.",
+    "chapter": "",
+    "hint": "Get at least one kill with the Frying Pan, Bat, Axe, Katana, Machete, Crowbar, Cricket Bat, Guitar, Tonfa (Nightstick), and Golf Club.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_KILL_TANK_MELEE_ONLY",
+    "display_name": "TANK BURGER",
+    "description": "Kill a Tank with melee weapons.",
+    "chapter": "",
+    "hint": "Play on Easy. Have all 4 players equip melee weapons, corner the Tank, and hack away. It will die in just a few hits.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_BRIDGE_TIMED_RUN",
+    "display_name": "BRIDGE OVER TREBLED SLAUGHTER",
+    "description": "Cross the bridge finale in less than three minutes.",
+    "chapter": "The Parish",
+    "hint": "Pop adrenaline and rush the bridge on Easy difficulty. Ignore most zombies and Tanks, just keep running for the rescue chopper.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_SURVIVE_MALL",
+    "display_name": "PRICE CHOPPER",
+    "description": "Survive the Dead Center campaign.",
+    "chapter": "Dead Center",
+    "hint": "Complete the Dead Center campaign on any difficulty.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_SURVIVE_ROAD",
+    "display_name": "MIDNIGHT RIDER",
+    "description": "Survive the Dark Carnival campaign.",
+    "chapter": "Dark Carnival",
+    "hint": "Complete the Dark Carnival campaign on any difficulty.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_SURVIVE_SWAMP",
+    "display_name": "RAGIN' CAJUN",
+    "description": "Survive the Swamp Fever campaign.",
+    "chapter": "Swamp Fever",
+    "hint": "Complete the Swamp Fever campaign on any difficulty.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_SURVIVE_TOWN",
+    "display_name": "WEATHERMAN",
+    "description": "Survive the Hard Rain campaign.",
+    "chapter": "Hard Rain",
+    "hint": "Complete the Hard Rain campaign on any difficulty.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_SURVIVE_BRIDGE",
+    "display_name": "BRIDGE BURNER",
+    "description": "Survive the Parish campaign.",
+    "chapter": "The Parish",
+    "hint": "Complete The Parish campaign on any difficulty.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_IMPOUND_LOT_NO_ALARMS",
+    "display_name": "VIOLENCE IN SILENCE",
+    "description": "Navigate the impound lot and reach the cemetery safe room without tripping any alarms.",
+    "chapter": "The Parish",
+    "hint": "In The Parish Chapter 3, do not shoot or touch any cars with blinking red alarms. Watch your fire closely.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_GNOME_RESCUE",
+    "display_name": "GUARDIN' GNOME",
+    "description": "Rescue Gnome Chompski from the Carnival.",
+    "chapter": "Dark Carnival",
+    "hint": "Score 750 on the Peanut Butter Box shooting minigame in Chapter 2. Pick up the Gnome and carry him all the way to the rescue chopper.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_WITCH_TOWN_NO_WITCH_KILLS",
+    "display_name": "SOB STORY",
+    "description": "Navigate the sugar mill and reach the safe room without killing any Witches.",
+    "chapter": "Hard Rain",
+    "hint": "In Hard Rain Chapter 2, there are many Witches. Do not shoot or startle them. Walk slowly, turn off flashlights, and take long detours.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_AIRLINE_FINALE_NO_DAMAGE",
+    "display_name": "WING AND A PRAYER",
+    "description": "Defend yourself at the crashed airliner without taking damage.",
+    "chapter": "Dead Air",
+    "hint": "During the Dead Air finale, stay behind cover in the far back corner. Let your teammates or bots do the fighting so you don't take a single hit.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_VS_JOCKEY_LONG_RIDE",
+    "display_name": "QUALIFIED RIDE",
+    "description": "As the Jockey, ride a Survivor for more than 12 seconds.",
+    "chapter": "",
+    "hint": "In Versus, jump on a survivor who strays far from their team, or wait until a horde distracts the others, then steer them into a corner.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_VS_JOCKEY_TWO_PLAYERS",
+    "display_name": "BACK IN THE SADDLE",
+    "description": "As the Jockey, ride the Survivors twice in a single life.",
+    "chapter": "",
+    "hint": "In Versus, ride a survivor, let their teammate shove you off (don't get killed), run away to hide, wait for your cooldown, and jump on someone again.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_VS_JOCKEY_INTO_ACID",
+    "display_name": "RODE HARD, PUT AWAY WET",
+    "description": "As the Jockey, ride a Survivor and steer them into a Spitter's acid patch.",
+    "chapter": "",
+    "hint": "Coordinate with a Spitter teammate in Versus. Once they spit, steer the survivor directly into the glowing green acid pool.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_VS_SPIT_ON_ENEMY_TEAM",
+    "display_name": "GREAT EXPECTORATIONS",
+    "description": "As the Spitter, hit every Survivor with a single acid patch.",
+    "chapter": "",
+    "hint": "Wait until the survivors are huddled in a small room, elevator, or saferoom door, then spit right in the middle to hit all four at once.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_VS_SPIT_ON_SMOKERED_PLAYER",
+    "display_name": "A SPITTLE HELP FROM MY FRIENDS",
+    "description": "As the Spitter, spit on a Survivor being choked by a Smoker.",
+    "chapter": "",
+    "hint": "In Versus, wait for a Smoker teammate to pull a survivor, then spit your acid directly onto that trapped survivor.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_VS_BOWL_ENEMY_TEAM",
+    "display_name": "SCATTERING RAM",
+    "description": "As the Charger, bowl through the entire enemy team in a single charge.",
+    "chapter": "",
+    "hint": "Wait for survivors to line up in a narrow hallway or bridge (like in The Parish). Charge straight down the middle to bowl over all four.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_VS_CHARGER_GROUND_SMASH",
+    "display_name": "MEAT TENDERIZER",
+    "description": "As the Charger, grab a Survivor and smash them into the ground for a solid 15 seconds.",
+    "chapter": "",
+    "hint": "Grab a survivor who is lagging far behind the rest of the team so you aren't immediately killed by the other players.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_VS_CHARGER_LONG_CARRY",
+    "display_name": "LONG DISTANCE CARRIER",
+    "description": "As the Charger, grab a Survivor and carry them over 80 feet.",
+    "chapter": "",
+    "hint": "Find a very long straightaway (like the Dead Center hotel hallways or The Parish bridge) and charge from maximum distance.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_SURVIVAL_GET_MEDAL_MELEE_ONLY",
+    "display_name": "BEAT THE RUSH",
+    "description": "In a Survival round, get a medal only using melee weapons.",
+    "chapter": "",
+    "hint": "Get a Bronze medal (4 minutes) using ONLY melee weapons. Camp in a tight corner with your team so infected come right to your swings.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_SCAVENGE_WIN_A_GAME",
+    "display_name": "HUNTING PARTY",
+    "description": "Win a game of Scavenge.",
+    "chapter": "",
+    "hint": "Play the Scavenge multiplayer mode and win a match. You may need friends to populate a lobby since the mode is older.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_SCAVENGE_COLLECT_CAN_GRIND",
+    "display_name": "GAS GUZZLER",
+    "description": "Collect 100 gas cans in Scavenge.",
+    "chapter": "",
+    "hint": "Play Scavenge mode and pour a total of 100 gas cans. This cumulates across all your games over time.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_SCAVENGE_COLLECT_ALL_CANS",
+    "display_name": "CACHE AND CARRY",
+    "description": "Collect 15 gas cans in a single Scavenge round.",
+    "chapter": "",
+    "hint": "In one round of Scavenge, successfully gather and pour 15 gas cans into the generator. Play against bots or uncoordinated teams.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_SCAVENGE_SHUT_OUT",
+    "display_name": "SCAVENGE HUNT",
+    "description": "Stop the enemy team from collecting any gas cans during a Scavenge round.",
+    "chapter": "",
+    "hint": "Play as infected in Scavenge and aggressively defend the generator/cans so the survivor team scores zero before time runs out.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_STRONGMAN_GAME",
+    "display_name": "GONG SHOW",
+    "description": "Prove you are stronger than Moustachio.",
+    "chapter": "Dark Carnival",
+    "hint": "In Dark Carnival Chapter 4, use an adrenaline shot and hit the Strongman bell game with a melee weapon to break it.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_SCAVENGE_MAKE_SURVIVOR_DROP_CAN",
+    "display_name": "FUEL CRISIS",
+    "description": "Make a Survivor drop a gas can during overtime.",
+    "chapter": "",
+    "hint": "In Scavenge, when the timer hits 0 but a survivor is holding a can (Overtime), attack them as an infected to make them drop it, ending the round.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_SCAVENGE_CAN_DROP_GRIND",
+    "display_name": "GAS SHORTAGE",
+    "description": "Cause 25 gas can drops as a Special Infected.",
+    "chapter": "",
+    "hint": "In Scavenge, attack survivors carrying gas cans (e.g., shoot them or pounce them) to force them to drop the can. Do this 25 times.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_STASH_WHACKER",
+    "display_name": "STACHE WHACKER",
+    "description": "Prove you are faster than Moustachio.",
+    "chapter": "Dark Carnival",
+    "hint": "In Dark Carnival Chapter 4, play the Whack-a-Mole game in the arcade. Quickly hit enough moles to reach a score of 42.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_SURVIVE_THE_PASSING",
+    "display_name": "TORCH BEARER",
+    "description": "Survive The Passing Campaign.",
+    "chapter": "The Passing",
+    "hint": "Complete The Passing campaign on any difficulty.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_VS_CHARGE_THROUGH_CHAIRS",
+    "display_name": "WEDDING CRASHER",
+    "description": "As the Charger, grab a Survivor and crash them through 8 chairs at the wedding.",
+    "chapter": "The Passing",
+    "hint": "In The Passing Chapter 1, find the park area with the wedding setup. Grab a survivor and charge them straight through the rows of folding chairs.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_KILLS_WITH_M60",
+    "display_name": "TIL IT GOES CLICK",
+    "description": "Using the M60, kill 25 infected without letting go of the trigger.",
+    "chapter": "The Passing",
+    "hint": "Find the M60 machine gun (frequently found in The Passing). Wait for a large horde, hold down the fire button, and sweep across them without letting go.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_SCAVENGE_FALLEN_SURVIVOR",
+    "display_name": "GRAVE ROBBER",
+    "description": "Collect 10 items dropped by a Fallen Survivor.",
+    "chapter": "The Passing",
+    "hint": "Kill the 'Fallen Survivor' uncommon infected (who runs away from you). Collect the medkits, pills, or pipe bombs they drop. Cumulates over time.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_COMPLETE_CHALLENGE_MODES",
+    "display_name": "MUTANT OVERLORD",
+    "description": "Play 6 Mutations.",
+    "chapter": "",
+    "hint": "Play 6 different Mutation game modes from the main menu. You just need to start the matches.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_HEADS_WITH_GOLF_CLUB",
+    "display_name": "FORE!",
+    "description": "Knock off the heads of 18 infected with the golf club.",
+    "chapter": "The Passing",
+    "hint": "Find a Golf Club (often in The Passing) and aim slightly upwards at the heads of infected to decapitate them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_HEAR_BALLAD",
+    "display_name": "KILLING THEM SWIFTLY TO THIS SONG",
+    "description": "Play the new Midnight Riders song on a jukebox.",
+    "chapter": "",
+    "hint": "In any campaign with a Jukebox (like The Parish Chapter 2 or Swamp Fever Chapter 1), interact with it until it plays the Midnight Riders track.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_KILL_TANK_L4D1_ONLY",
+    "display_name": "KITE LIKE A MAN",
+    "description": "Kill a Tank only with damage from the original Survivors.",
+    "chapter": "The Passing",
+    "hint": "During The Passing finale, run away from the Tank and let the original L4D1 survivors shooting from the balcony kill it for you.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_OPEN_FOOT_LOCKERS",
+    "display_name": "CACHE GRAB",
+    "description": "Open 5 foot lockers.",
+    "chapter": "The Passing",
+    "hint": "Open 5 different metal footlockers (which contain health/throwables) scattered throughout The Passing campaign.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_SCAVENGE_PLAY_C6_FINALE",
+    "display_name": "PORT OF SCAVENGE",
+    "description": "Play 5 full games of Scavenge on The Port.",
+    "chapter": "The Passing",
+    "hint": "Play 5 full matches of the Scavenge mode on 'The Port' map (The Passing finale).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_COMPLETE_THE_SACRIFICE",
+    "display_name": "SUPREME SACRIFICE",
+    "description": "Complete \"The Sacrifice\".",
+    "chapter": "The Sacrifice",
+    "hint": "Complete The Sacrifice campaign on any difficulty.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_SACRIFICE_BILL",
+    "display_name": "KILL BILL",
+    "description": "Have Bill sacrifice himself for the team.",
+    "chapter": "The Sacrifice",
+    "hint": "During the finale, when someone needs to restart the generator, ensure the player controlling Bill does it.",
+    "is_missable": true,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_KILL_SPECIAL_WITH_BARREL",
+    "display_name": "BARREL ROLLED",
+    "description": "Kill a Special Infected with an exploding barrel.",
+    "chapter": "The Sacrifice",
+    "hint": "Shoot one of the red explosive barrels when a Special Infected is standing near it.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_RUN_ALL_GENERATORS",
+    "display_name": "CHAOS GENERATOR",
+    "description": "Have all 3 generators running at once in \"The Sacrifice\" finale.",
+    "chapter": "The Sacrifice",
+    "hint": "During the finale, have three players press the button on all three generators at the exact same time.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_VS_PREVENT_SACRIFICE",
+    "display_name": "SACRIFIZZLE",
+    "description": "As a Special Infected, incap someone who is trying to sacrifice themselves.",
+    "chapter": "The Sacrifice",
+    "hint": "In Versus, wait until a survivor goes down to restart the final generator, then incapacitate them as a Special Infected.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_SURVIVE_COLD_STREAM",
+    "display_name": "STREAM CROSSER",
+    "description": "Survive the Cold Stream campaign on any difficulty.",
+    "chapter": "Cold Stream",
+    "hint": "Complete the Cold Stream campaign.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_VS_COMPLETE_DEAD_AIR",
+    "display_name": "CONNECTING FIGHTS",
+    "description": "Play a Versus game on Dead Air from start to finish.",
+    "chapter": "Dead Air",
+    "hint": "Join a Versus lobby for Dead Air and play through the entire campaign without leaving.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_COLLECT_HOLIDAY_GIFTS",
+    "display_name": "Valve Gift Grab 2011 – L4D2",
+    "description": "Collect three gifts dropped by Special Infected in Versus Mode.",
+    "chapter": "",
+    "hint": "During holiday events (December), Special Infected drop gifts when killed. Collect three of them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_HELP_FREE_PLAYER_SURVIVE",
+    "display_name": "GOOD GUY NICK",
+    "description": "Plays games with free weekend players and helps them survive a campaign.",
+    "chapter": "",
+    "hint": "Only unlockable during official Steam 'Free Weekends' by playing with someone who does not own the game.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_HELP_FREE_CHRISTMAS_PLAYER_SURVIVE",
+    "display_name": "GHOST OF CHRISTMAS PRESENT",
+    "description": "Spread cheer by helping a free holiday player survive a campaign.",
+    "chapter": "",
+    "hint": "Similar to Good Guy Nick, this requires playing with new free players during specific holiday events.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_SURVIVAL_BRONZE_MEDAL",
+    "display_name": "GETTING STARTED",
+    "description": "Earn a bronze medal on any official Survival map.",
+    "chapter": "",
+    "hint": "Survive for 4 minutes in Survival mode. Pick a highly defensible map like Dead Center Mall.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_SURVIVAL_SILVER_MEDAL",
+    "display_name": "ON OUR WAY",
+    "description": "Earn a silver medal on any official survival map.",
+    "chapter": "",
+    "hint": "Survive for 7 minutes in Survival mode.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_SURVIVAL_GOLD_MEDAL",
+    "display_name": "THIS IS WHERE THE FUN BEGINS",
+    "description": "Earn a gold medal on any official survival map.",
+    "chapter": "",
+    "hint": "Survive for 10 minutes in Survival mode. Requires solid teamwork and funneling enemies into choke points.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_SURVIVE_LIGHTHOUSE",
+    "display_name": "STILL STANDING",
+    "description": "Survive The Last Stand campaign on any difficulty.",
+    "chapter": "The Last Stand",
+    "hint": "Complete The Last Stand campaign.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_SURVIVE_LIGHTHOUSE_EXPERT_REALISM",
+    "display_name": "THE LAST FRONTIER",
+    "description": "Survive The Last Stand campaign on Expert Realism.",
+    "chapter": "The Last Stand",
+    "hint": "Extremely difficult. No glowing outlines and high damage. Rely on Bile Bombs for the finale and communicate flawlessly.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_COLLECT_GOLDEN_CROWBARS",
+    "display_name": "GOLDEN FREEMAN",
+    "description": "Find the golden crowbars hidden in the Left 4 Dead 1 survival maps.",
+    "chapter": "",
+    "hint": "Load up L4D1 survival maps in L4D2 and find the hidden golden crowbars (usually tucked in obscure corners or slightly out of bounds).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_REVIVE_WITH_ACTIVE_TANK",
+    "display_name": "ELEPHANT IN THE ROOM",
+    "description": "Revive an incapacitated teammate while a Tank is nearby.",
+    "chapter": "",
+    "hint": "When a Tank spawns, let a teammate go down. Have another teammate kite the Tank away while you revive the downed player.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_VS_SPIT_ON_CHARGED_PLAYER",
+    "display_name": "I SPIT ON YOUR GRAVE",
+    "description": "As the Spitter, spit on a Survivor who is pinned by a Charger.",
+    "chapter": "",
+    "hint": "In Versus, coordinate with a Charger. Once they pin and start pounding a survivor, spit directly onto them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_VS_SPIT_ON_POUNCED_PLAYER",
+    "display_name": "ACID BATH",
+    "description": "As the Spitter, spit on a Survivor who is pinned by a Hunter.",
+    "chapter": "",
+    "hint": "In Versus, coordinate with a Hunter. Once they pounce and pin a survivor, spit directly onto them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_VS_SPIT_ON_GAS_CANS",
+    "display_name": "SPITFIRE",
+    "description": "Destroy 20 gascans as the Spitter.",
+    "chapter": "",
+    "hint": "In Scavenge mode (or the Dead Center finale), spit on the yellow gas cans the survivors drop to destroy them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_VS_CHARGER_INSTANT_KILL",
+    "display_name": "FLIGHT DECK",
+    "description": "Instantly kill a Survivor as the Charger.",
+    "chapter": "",
+    "hint": "In Versus, charge a survivor completely off a fatal edge (like out the window in Dead Air or off the hotel roof in Dead Center).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_VS_BILE_PLAYER_NO_LINE_OF_SIGHT",
+    "display_name": "FAT NINJA",
+    "description": "As the Boomer, vomit on a Survivor without having direct line of sight with them.",
+    "chapter": "",
+    "hint": "In Versus, aim upwards and vomit in an arc over a wall, or vomit through a small crack/ceiling hole so it splashes onto a survivor.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_RESCUE_X_PLAYERS_TOGETHER",
+    "display_name": "THREE’S A CROWD",
+    "description": "Rescue three Survivors from a single rescue closet.",
+    "chapter": "",
+    "hint": "Let 3 teammates die. Once they all respawn together in the same rescue closet ahead, open the door.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_FREE_SELF_FROM_SMOKER_WITH_MELEE",
+    "display_name": "LICKETY-SPLIT",
+    "description": "With a sharp melee weapon, cut a Smoker's tongue before he ensnares you.",
+    "chapter": "",
+    "hint": "Equip a sharp weapon (Axe, Katana, Machete). When a Smoker shoots its tongue at you, time your swing perfectly to cut it mid-air.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_KILL_LEAPING_HUNTER_WITH_SHOTGUN",
+    "display_name": "GET SKEETED ON",
+    "description": "Kill a pouncing Hunter with a shotgun.",
+    "chapter": "",
+    "hint": "When a Hunter leaps towards you, shoot him mid-air with a shotgun for an instant kill. Requires good timing.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_DESTROY_TANK_ROCK",
+    "display_name": "ROCKY HORROR PICTURE THROW",
+    "description": "Destroy a Tank's rock in mid-air.",
+    "chapter": "",
+    "hint": "When a Tank throws a concrete rock at you, shoot the rock with a shotgun or assault rifle to break it before it hits you.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_ONE_SHOT_KILL_WITCH_BRIDE",
+    "display_name": "SHOTGUN WEDDING",
+    "description": "Kill the Witch bride with a single shotgun blast on expert difficulty.",
+    "chapter": "The Passing",
+    "hint": "In The Passing Chapter 1 (Expert), sneak up behind the Witch in the wedding dress with a Tier 2 Shotgun and blast her point-blank in the head.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_CAUSE_X_POUNCE_DAMAGE",
+    "display_name": "ONE HIT WONDER",
+    "description": "As the Hunter, land a 25 damage pounce.",
+    "chapter": "",
+    "hint": "In Versus, find a very high point (like the No Mercy hospital roof) and pounce off it onto a survivor far below. Maximum damage is 25.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_KILL_X_JOCKEYS_WITH_MELEE",
+    "display_name": "PURE SATISFACTION",
+    "description": "Kill 20 Jockeys with the shovel or pitchfork.",
+    "chapter": "",
+    "hint": "Equip a shovel or pitchfork (commonly found in Swamp Fever or Hard Rain) and hit Jockeys. Cumulates over time.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_SURVIVAL_VERSUS_X_MINUTES",
+    "display_name": "THE BIG TEN",
+    "description": "Survive for 10 minutes on any official map in Versus Survival.",
+    "chapter": "",
+    "hint": "Requires coordinated defense against player-controlled infected in Versus Survival mode.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_KILL_X_INFECTED_LIFETIME",
+    "display_name": "Z-GENOCIDEST 2: EPISODE 2",
+    "description": "Kill 53,599 infected. You made sure the dead won't rise anymore!",
+    "chapter": "",
+    "hint": "This is a lifetime achievement that unlocks naturally as you play the game over many hours.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_ESCAPE_MALL_FINALE_NO_TANKS",
+    "display_name": "POLE POSITION",
+    "description": "Escape Liberty Mall's Atrium before the first Tank appears",
+    "chapter": "Dead Center",
+    "hint": "In the Dead Center finale, pre-drop all the gas cans near the car before pouring them. Once you start pouring, do it quickly before the Tank spawns.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_FIND_LIGHTHOUSE_HIDDEN_ROOM",
+    "display_name": "HOUSEHOLD NAMES",
+    "description": "Discover the hidden room in the Last Stand campaign",
+    "chapter": "The Last Stand",
+    "hint": "Look up a guide for the secret developer room in The Last Stand (requires finding and bringing specific items/keys to a hidden door).",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_EARN_ALL_BRONZE_MEDALS",
+    "display_name": "A LITTLE HACK AND SLASH",
+    "description": "Earn a bronze medal on every official survival map",
+    "chapter": "",
+    "hint": "Survive for 4 minutes on all original L4D2 survival maps.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_EARN_ALL_SILVER_MEDALS",
+    "display_name": "LIKE LAMBS TO THE SLAUGHTER",
+    "description": "Earn a silver medal on every official survival map.",
+    "chapter": "",
+    "hint": "Survive for 7 minutes on all original L4D2 survival maps.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_EARN_ALL_GOLD_MEDALS",
+    "display_name": "KILLING SPREE",
+    "description": "Earn a gold medal on every official survival map.",
+    "chapter": "",
+    "hint": "Survive for 10 minutes on all original L4D2 survival maps. Requires elite teamwork and deep map knowledge.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_SURVIVAL_X_MINUTES",
+    "display_name": "SUPREME SURVIVALIST",
+    "description": "Survive for 30 minutes on any official survival map.",
+    "chapter": "",
+    "hint": "The easiest maps for this are typically ones with indestructible camping spots or tight funnels where zombies can't spawn behind you.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_KILL_WITCH_MELEE_ONLY",
+    "display_name": "NEW HAIRCUT",
+    "description": "Kill a Witch using only a sharp melee weapon, without anyone getting incapacitated or killed.",
+    "chapter": "",
+    "hint": "Best done on Easy by having all 4 players rush a Witch simultaneously with Katanas/Axes to kill her instantly.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_CONCERT_FINALE_DONT_LEAVE_STAGE",
+    "display_name": "THE MAIN ATTRACTION",
+    "description": "On the concert finale, survive until the helicopter arrives without leaving the stage",
+    "chapter": "Dark Carnival",
+    "hint": "Stay strictly on the concert stage (the wooden platform) for the entire finale. Do not run up into the stadium bleachers.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACH_LAST_STAND_TIMED",
+    "display_name": "THE LAST DASH",
+    "description": "Complete The Last Stand campaign in 13 minutes or less, without any Survivors dying.",
+    "chapter": "The Last Stand",
+    "hint": "Speedrun the campaign on Easy. Ignore exploration, use adrenaline to bypass hordes, and don't let anyone bleed out.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "GLOBAL_GNOME_ALONE",
+    "display_name": "GNOME ALONE",
+    "description": "If you are reading this achievement, Gabe Newell has successfully launched Gnome Chompski into space.",
+    "chapter": "",
+    "hint": "This unlocked automatically for all players when Valve sent a real Gnome Chompski to space via Rocket Lab in 2020.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  }
+]

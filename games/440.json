@@ -1,0 +1,5202 @@
+[
+  {
+    "apiname": "TF_PLAY_GAME_EVERYCLASS",
+    "display_name": "Head of the Class",
+    "description": "Play a complete round with every class.",
+    "chapter": "General",
+    "hint": "Simply play one full round from start to finish as all 9 classes. You can do this against bots in Training mode.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_PLAY_GAME_EVERYMAP",
+    "display_name": "World Traveler",
+    "description": "Play a complete game on 2Fort, Dustbowl, Granary, Gravel Pit, Hydro, and Well (CP).",
+    "chapter": "General",
+    "hint": "Play a full match on these 6 original launch maps. Hydro rarely appears in casual, so look for a community server.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_GET_HEALPOINTS",
+    "display_name": "Team Doctor",
+    "description": "Accumulate 25000 heal points as a Medic.",
+    "chapter": "Medic",
+    "hint": "This will unlock naturally as you play Medic. Keep your healing beam on injured teammates.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_BURN_PLAYERSINMINIMUMTIME",
+    "display_name": "Flamethrower",
+    "description": "Set five enemies on fire in 30 seconds.",
+    "chapter": "Pyro",
+    "hint": "Flank a group of enemies on a payload cart or control point and spray your flamethrower wildly.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_GET_TURRETKILLS",
+    "display_name": "Sentry Gunner",
+    "description": "Accumulate 10 sentry gun kills with a single sentry.",
+    "chapter": "Engineer",
+    "hint": "Build a Level 3 Sentry in a high-traffic choke point (like the Dustbowl tunnels) and keep it repaired.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_KILL_NEMESIS",
+    "display_name": "Nemesis",
+    "description": "Get five revenge kills.",
+    "chapter": "General",
+    "hint": "When a player kills you 3 times in a row without you killing them, they become your Nemesis. Kill them to get a Revenge kill.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_GET_CONSECUTIVEKILLS_NODEATHS",
+    "display_name": "Hard to Kill",
+    "description": "Get five kills in a row without dying.",
+    "chapter": "General",
+    "hint": "Play cautiously. Heavy with a Medic, or a Sniper hanging in the backline, are the easiest ways to achieve this.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_GET_HEALED_BYENEMY",
+    "display_name": "Master of Disguise",
+    "description": "Trick an opposing Medic into healing you.",
+    "chapter": "Spy",
+    "hint": "Disguise as an enemy Heavy, Soldier, or Demoman, call for Medic (E), and run toward an enemy Medic.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_PLAY_GAME_FRIENDSONLY",
+    "display_name": "With Friends Like these...",
+    "description": "Play in a game with five or more players from your Friends list.",
+    "chapter": "General",
+    "hint": "Join a community server and invite 5 Steam friends to the lobby.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_WIN_MULTIPLEGAMES",
+    "display_name": "Dynasty",
+    "description": "Win 20 games.",
+    "chapter": "General",
+    "hint": "Unlocks naturally as you play and win casual matches or community server rounds.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_GET_MULTIPLEKILLS",
+    "display_name": "Hardcore",
+    "description": "Accumulate 1000 total kills.",
+    "chapter": "General",
+    "hint": "Unlocks naturally over time. All classes count towards this.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_GET_HEADSHOTS",
+    "display_name": "Grey Matter",
+    "description": "Get 25 headshots as a Sniper.",
+    "chapter": "Sniper",
+    "hint": "Use the Sniper Rifle and aim for the head. Fully charged shots are not required, just the headshot kill.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MEDIC_TOP_SCOREBOARD",
+    "display_name": "First Do No Harm",
+    "description": "Play a full round without killing any enemies, and score the highest on a team of 6 or more players.",
+    "chapter": "Medic",
+    "hint": "Unequip your Syringe Gun/Melee to avoid accidental kills. Focus entirely on healing, assisting, and capping objectives.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MEDIC_HEAL_UNDER_FIRE",
+    "display_name": "Quadruple Bypass",
+    "description": "Heal a teammate who's taking fire from 4 enemies at once.",
+    "chapter": "Medic",
+    "hint": "Heal a Heavy while they are pushing into a heavily defended capture point or payload cart.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MEDIC_SIMUL_CHARGE",
+    "display_name": "Group Health",
+    "description": "Work with 2 other Medics to deploy 3 simultaneous ÜberCharges.",
+    "chapter": "Medic",
+    "hint": "Coordinate with two other Medics in voice/text chat. Activate all three ÜberCharges at the exact same time out of spawn.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MEDIC_SETUP_CHARGE",
+    "display_name": "Surgical Prep",
+    "description": "Have an ÜberCharge ready before the Setup phase ends.",
+    "chapter": "Medic",
+    "hint": "During the 60-second pre-round setup (on Attack/Defend or Payload maps), heal teammates continuously until your meter hits 100%.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MEDIC_RAPID_CHARGE",
+    "display_name": "Trauma Queen",
+    "description": "Deploy 3 ÜberCharges in less than 5 minutes, and assist in 5 kills during that time.",
+    "chapter": "Medic",
+    "hint": "Use the default Medi Gun. Stay alive, constantly heal damaged teammates (which builds Über faster), and pop them on damage-dealing classes.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MEDIC_COUNTER_CHARGE",
+    "display_name": "Double Blind Trial",
+    "description": "Deploy an ÜberCharge within 8 seconds of a nearby enemy Medic deploying his.",
+    "chapter": "Medic",
+    "hint": "When an enemy Medic pushes into your team with an ÜberCharge, immediately trigger your own to counter them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MEDIC_SWITCH_TO_MEDIC",
+    "display_name": "Play Doctor",
+    "description": "In a team with no Medics, be the first person to switch to Medic after a teammate calls for 'Medic!', and then heal 500 health.",
+    "chapter": "Medic",
+    "hint": "If your team has no Medic and you see a chat callout for one, immediately switch in spawn and go heal them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MEDIC_SAVE_TEAMMATE",
+    "display_name": "Triage",
+    "description": "Deploy an ÜberCharge on a teammate less than a second before they're hit by a critical explosive.",
+    "chapter": "Medic",
+    "hint": "Requires luck and timing. Pop your ÜberCharge on a teammate just as a glowing (critical) rocket or grenade is about to hit them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MEDIC_CHARGE_BLOCKER",
+    "display_name": "Preventive Medicine",
+    "description": "Block the enemy from capturing a control point with an ÜberCharged teammate.",
+    "chapter": "Medic",
+    "hint": "Deploy an ÜberCharge on a teammate while both of you are standing on your control point that enemies are currently capping.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MEDIC_ASSIST_MEDIC",
+    "display_name": "Consultation",
+    "description": "Assist a fellow Medic in killing 3 enemies in a single life.",
+    "chapter": "Medic",
+    "hint": "Heal another Medic while they run around with the Blutsauger or Ubersaw killing enemies.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MEDIC_SYRINGE_SCOUTS",
+    "display_name": "Does It Hurt When I Do This?",
+    "description": "Kill 50 Scouts with your syringe gun.",
+    "chapter": "Medic",
+    "hint": "Aim ahead of the Scout's movement path, as syringes are slow projectiles with an arc.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MEDIC_BONESAW_MEDICS",
+    "display_name": "Peer Review",
+    "description": "Kill 10 Medics with your bone saw.",
+    "chapter": "Medic",
+    "hint": "Use the Ubersaw or standard Bonesaw. Flank enemy Medics and melee them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MEDIC_ASSIST_HEAVY_LONG",
+    "display_name": "Big Pharma",
+    "description": "Assist a Heavy in killing 10 enemies, where neither of you die.",
+    "chapter": "Medic",
+    "hint": "Pocket a skilled Heavy player on a defensive map like Dustbowl. Stay in cover while healing them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MEDIC_ASSIST_SCOUT",
+    "display_name": "You'll Feel a Little Prick",
+    "description": "Assist in killing 3 enemies with a single ÜberCharge on a Scout.",
+    "chapter": "Medic",
+    "hint": "Use the Kritzkrieg or standard Über on a highly skilled Scout who can quickly two-shot enemies with the Scattergun.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MEDIC_ASSIST_PYRO",
+    "display_name": "Autoclave",
+    "description": "Assist in burning 5 enemies with a single ÜberCharge on a Pyro.",
+    "chapter": "Medic",
+    "hint": "Über a Pyro as they drop into a tight space (like a payload cart) surrounded by enemies.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MEDIC_ASSIST_HEAVY",
+    "display_name": "Blunt Trauma",
+    "description": "Assist in punching 2 enemies with a single ÜberCharge on a Heavy.",
+    "chapter": "Medic",
+    "hint": "Have a Heavy equip the KGB or Fists. Über him and have him run at enemies to punch them to death.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MEDIC_ASSIST_DEMOMAN",
+    "display_name": "Medical Breakthrough",
+    "description": "Assist in destroying 5 enemy Engineer buildings with a single ÜberCharge on a Demoman.",
+    "chapter": "Medic",
+    "hint": "Über a Demoman with a Stickybomb Launcher into an Engineer 'nest' (multiple sentries/dispensers grouped together).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MEDIC_HEAL_ENGINEER",
+    "display_name": "Midwife Crisis",
+    "description": "Heal an Engineer as he repairs his sentry gun while it's under enemy fire.",
+    "chapter": "Medic",
+    "hint": "When your team's Engineer is tanking damage to save his sentry, keep your healing beam on him so he doesn't die.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MEDIC_ASSIST_CAPTURER",
+    "display_name": "Ubi concordia, ibi victoria",
+    "description": "Assist in killing 3 enemies on an enemy control point, in a single life.",
+    "chapter": "Medic",
+    "hint": "Heal a Soldier or Demoman as they push onto an enemy capture point and clear out the defenders.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MEDIC_HEAL_CALLERS",
+    "display_name": "Grand Rounds",
+    "description": "Heal 200 teammates after they've called for 'Medic!'.",
+    "chapter": "Medic",
+    "hint": "Unlocks naturally. Pay attention to the chat and the red cross icons above teammates' heads.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_WIN_2FORT_NOENEMYCAPS",
+    "display_name": "Powerhouse Offense",
+    "description": "Win 2Fort with a shutout.",
+    "chapter": "General",
+    "hint": "Capture the intelligence 3 times without letting the enemy team capture yours once.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_WIN_WELL_MINIMUMTIME",
+    "display_name": "Lightning Offense",
+    "description": "Win Well in 5 minutes or less.",
+    "chapter": "General",
+    "hint": "Coordinate a fast push with Scouts and Medics on CP_Well to steamroll the points before the enemy sets up.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_WIN_HYDRO_NOENEMYCAPS",
+    "display_name": "Relentless Offense",
+    "description": "Win Hydro without giving up a capture.",
+    "chapter": "General",
+    "hint": "Hydro is a Territorial Control map. Win the overall map without losing a single sub-round to the enemy.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_WIN_DUSTBOWL_NOENEMYCAPS",
+    "display_name": "Impenetrable Defense",
+    "description": "Successfully defend Dustbowl without giving up a capture.",
+    "chapter": "General",
+    "hint": "On defense, hold the very first capture point (Stage 1, Point A) until the timer runs out.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_WIN_GRAVELPIT_NOENEMYCAPS",
+    "display_name": "Impossible Defense",
+    "description": "Successfully defend Gravel Pit without giving up a capture.",
+    "chapter": "General",
+    "hint": "On defense, prevent the attacking team from capturing Point A or Point B until time runs out.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MEDIC_EXTINGUISH_TEAMMATES",
+    "display_name": "Infernal Medicine",
+    "description": "Extinguish 100 burning teammates.",
+    "chapter": "Medic",
+    "hint": "Healing a burning teammate with the Medi Gun quickly extinguishes them. Do this 100 times.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MEDIC_ASSIST_VS_NEMESES",
+    "display_name": "Doctor Assisted Homicide",
+    "description": "Assist in killing 20 nemeses.",
+    "chapter": "Medic",
+    "hint": "Heal teammates who are fighting players that are dominating them (indicated by a specific icon over the enemy's head).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MEDIC_KILL_WHILE_CHARGED",
+    "display_name": "Placebo Effect",
+    "description": "Kill 2 enemies in a single life, while having your ÜberCharge ready, but undeployed.",
+    "chapter": "Medic",
+    "hint": "Build your Über to 100%, then switch to your syringe gun or melee to kill 2 enemies without activating it.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MEDIC_BONESAW_NOMISSES",
+    "display_name": "Sawbones",
+    "description": "Hit enemies with your bonesaw 5 times in a row without dying or missing.",
+    "chapter": "Medic",
+    "hint": "Corner a slow class like a Heavy or ambush distracted players. Make sure every single click connects with an enemy.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MEDIC_HEAL_LARGE",
+    "display_name": "Intern",
+    "description": "Accumulate 7000 heal points in a single life.",
+    "chapter": "Medic",
+    "hint": "Play defensively. Stay behind cover, constantly heal teammates, and retreat if your team wipes.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MEDIC_HEAL_HUGE",
+    "display_name": "Specialist",
+    "description": "Accumulate 10000 heal points health in a single life.",
+    "chapter": "Medic",
+    "hint": "Very difficult. Play on a long payload or attack/defend map, stay entirely in the backline, and never take risks.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MEDIC_HEAL_GRIND",
+    "display_name": "Chief of Staff",
+    "description": "Accumulate 1 million total heal points.",
+    "chapter": "Medic",
+    "hint": "A lifetime grind achievement. Just play Medic regularly and this will pop eventually.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MEDIC_KILL_HEALED_SPY",
+    "display_name": "Hypocritical Oath",
+    "description": "Kill an enemy Spy that you have been healing.",
+    "chapter": "Medic",
+    "hint": "If you realize you are healing a disguised Spy, immediately switch to your Ubersaw or Syringe Gun and kill them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MEDIC_SAVE_FALLING_TEAMMATE",
+    "display_name": "Medical Intervention",
+    "description": "Save a falling teammate from dying on impact.",
+    "chapter": "Medic",
+    "hint": "If a teammate is launched high into the air with low health, heal them before they hit the ground so they survive the fall damage.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MEDIC_CHARGE_JUGGLE",
+    "display_name": "Second Opinion",
+    "description": "ÜberCharge 2 teammates at once.",
+    "chapter": "Medic",
+    "hint": "While your ÜberCharge is active, quickly swap your healing beam back and forth between two teammates. The invulnerability lingers for 1 second.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MEDIC_FREEZECAM_RAGDOLL",
+    "display_name": "Autopsy Report",
+    "description": "Provide an enemy with a freezecam shot of you taunting above their ragdoll.",
+    "chapter": "Medic",
+    "hint": "Kill an enemy, stand directly over their dead body, and press the Taunt button (G) immediately.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MEDIC_BONESAW_SPY_CALLERS",
+    "display_name": "FYI I am A Medic",
+    "description": "Use your bonesaw to kill a spy who has been calling for 'Medic!'.",
+    "chapter": "Medic",
+    "hint": "Spies often spam 'Medic!' to blend in. If you suspect one, pull out your melee and hit them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MEDIC_CHARGE_FRIENDS",
+    "display_name": "Family Practice",
+    "description": "ÜberCharge 5 of your Steam Community Friends.",
+    "chapter": "Medic",
+    "hint": "Play in a party with Steam friends and pop an Über on each of them over time.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MEDIC_INVITE_JOIN_CHARGE",
+    "display_name": "House Call",
+    "description": "Join a game that one of your friends is in and then deploy an ÜberCharge on him.",
+    "chapter": "Medic",
+    "hint": "Join a friend's server via the Steam overlay, play Medic, and Über them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MEDIC_HEAL_ACHIEVER",
+    "display_name": "Bedside Manner",
+    "description": "Be healing a teammate as he achieves an achievement of his own.",
+    "chapter": "Medic",
+    "hint": "Keep your healing beam on players frequently. Unlocks naturally over time as newer players earn basic achievements.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MEDIC_ASSIST_SOLDIER",
+    "display_name": "Blast Assist",
+    "description": "Assist in exploding 5 enemies with a single ÜberCharge on a Soldier.",
+    "chapter": "Medic",
+    "hint": "Über a Soldier when pushing a crowded room or point. A Kritzkrieg Über is highly effective for this.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MEDIC_ACHIEVE_PROGRESS1",
+    "display_name": "Medic Milestone 1",
+    "description": "Achieve 10 of the achievements in the Medic pack.",
+    "chapter": "Medic",
+    "hint": "Unlocks the Blutsauger.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MEDIC_ACHIEVE_PROGRESS2",
+    "display_name": "Medic Milestone 2",
+    "description": "Achieve 16 of the achievements in the Medic pack.",
+    "chapter": "Medic",
+    "hint": "Unlocks the Kritzkrieg.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MEDIC_ACHIEVE_PROGRESS3",
+    "display_name": "Medic Milestone 3",
+    "description": "Achieve 22 of the achievements in the Medic pack.",
+    "chapter": "Medic",
+    "hint": "Unlocks the Ubersaw.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_PYRO_KILL_MULTIWEAPONS",
+    "display_name": "Combined Fire",
+    "description": "Use your shotgun to finish off 20 players you've ignited.",
+    "chapter": "Pyro",
+    "hint": "Light an enemy on fire with the Flamethrower, then quickly switch to the Shotgun to deal the killing blow.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_PYRO_SIMULBURN_SCOUTS",
+    "display_name": "Weenie Roast",
+    "description": "Have 2 enemy Scouts on fire at the same time.",
+    "chapter": "Pyro",
+    "hint": "Spray fire wildly into groups of enemies. Eventually, you'll hit a cluster containing two Scouts.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_PYRO_FORCE_WATERJUMP",
+    "display_name": "Baptism by Fire",
+    "description": "Force 10 burning enemies to jump into water.",
+    "chapter": "Pyro",
+    "hint": "Play on maps with water, like 2Fort. Ambush enemies near the bridge; their natural reaction will be to jump in the water to douse the fire.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_PYRO_KILL_POSTDEATH",
+    "display_name": "Fire and Forget",
+    "description": "Kill 15 players while you're dead.",
+    "chapter": "Pyro",
+    "hint": "Afterburn is your friend. If you ignite an enemy and they kill you, but they burn to death shortly after, it counts.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_PYRO_KILL_SPIES",
+    "display_name": "Firewall",
+    "description": "Ignite 5 Spies who have a sapper on a friendly building.",
+    "chapter": "Pyro",
+    "hint": "Act as a 'Pybro'. Hang out near your team's Engineers and spray fire around their buildings to catch Spies.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_PYRO_KILL_CARRIERS",
+    "display_name": "Cooking the Books",
+    "description": "Ignite 5 enemies carrying your intelligence.",
+    "chapter": "Pyro",
+    "hint": "Camp your own intelligence room on CTF maps like 2Fort or Turbine.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_PYRO_REVEAL_SPIES",
+    "display_name": "Spontaneous Combustion",
+    "description": "Ignite 10 cloaked Spies.",
+    "chapter": "Pyro",
+    "hint": "Constantly 'spy-check' by puffing flames into empty corners and choke points.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_PYRO_CAMP_TELEPORTERS",
+    "display_name": "Trailblazer",
+    "description": "Ignite 10 enemies that have recently used a teleporter.",
+    "chapter": "Pyro",
+    "hint": "If you find an enemy teleporter exit, hide nearby instead of destroying it. Burn enemies as soon as they warp through.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_PYRO_CAMP_POSITION",
+    "display_name": "Camp Fire",
+    "description": "Kill 3 enemies in a row, all within the same area.",
+    "chapter": "Pyro",
+    "hint": "Find a tight corner or doorway and ambush enemies with the Flamethrower as they pass through.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_PYRO_KILL_AXE_SMALL",
+    "display_name": "Lumberjack",
+    "description": "Kill 3 people with your axe in one life.",
+    "chapter": "Pyro",
+    "hint": "The Axtinguisher makes this easier. Ignite an enemy, then quickly melee them for critical damage.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_PYRO_KILL_AXE_LARGE",
+    "display_name": "Clearcutter",
+    "description": "Kill 6 people with your axe in one life.",
+    "chapter": "Pyro",
+    "hint": "Use the Axtinguisher and play extremely carefully, picking off isolated targets.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_PYRO_BURN_SPIES_AS_YOU",
+    "display_name": "I Fry",
+    "description": "Ignite 10 disguised Spies.",
+    "chapter": "Pyro",
+    "hint": "Spy-check everyone on your team. If they catch fire, they are a Spy.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_PYRO_BURN_SNIPERS_ZOOMED",
+    "display_name": "Firewatch",
+    "description": "Ignite 10 Snipers while they are zoomed in.",
+    "chapter": "Pyro",
+    "hint": "Flank the enemy battlements on 2Fort or Doublecross and ignite Snipers looking through their scopes.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_PYRO_BURN_MEDICS_CHARGED",
+    "display_name": "Burn Ward",
+    "description": "Ignite 3 Medics that are ready to deploy an ÜberCharge.",
+    "chapter": "Pyro",
+    "hint": "Look for Medics with crackling electricity on their Medi Gun. Flank and burn them before they pop the charge.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_PYRO_KILL_HEAVIES",
+    "display_name": "Makin' Bacon",
+    "description": "Kill 50 Heavies with your flamethrower.",
+    "chapter": "Pyro",
+    "hint": "Ambush Heavies from behind. Circle-strafe around them so they have trouble tracking you with their Minigun.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_PYRO_KILL_UNDERWATER",
+    "display_name": "Plan B",
+    "description": "Kill 10 enemies while you're both underwater.",
+    "chapter": "Pyro",
+    "hint": "The Neon Annihilator weapon guarantees crits against wet players, making this much easier.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_PYRO_KILL_UBERCHARGE",
+    "display_name": "Pyrotechnics",
+    "description": "Kill 3 enemies in a single ÜberCharge.",
+    "chapter": "Pyro",
+    "hint": "Have a Medic Über you into a crowded room, like the final point on Dustbowl.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_PYRO_DESTROY_BUILDINGS",
+    "display_name": "Arsonist",
+    "description": "Destroy 50 Engineer buildings.",
+    "chapter": "Pyro",
+    "hint": "Circle-strafe around Sentry guns faster than they can track you, or use the Homewrecker melee weapon.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_PYRO_DEFEND_POINTS",
+    "display_name": "Controlled Burn",
+    "description": "Ignite 50 enemies capturing one of your control points.",
+    "chapter": "Pyro",
+    "hint": "Play defense on Payload or CP maps. Drop onto the point when enemies are clustering to capture it.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_PYRO_KILL_GRIND",
+    "display_name": "Firefighter",
+    "description": "Kill 500 enemies.",
+    "chapter": "Pyro",
+    "hint": "Unlocks naturally as you play Pyro.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_PYRO_DAMAGE_GRIND",
+    "display_name": "Pyromancer",
+    "description": "Do 1 million points of total fire damage.",
+    "chapter": "Pyro",
+    "hint": "A long-term grind achievement. Keep playing Pyro and focus on setting groups of enemies on fire.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_PYRO_KILL_TAUNT",
+    "display_name": "OMGWTFBBQ",
+    "description": "Kill an enemy with a taunt.",
+    "chapter": "Pyro",
+    "hint": "Equip the standard Flamethrower. Taunt (G) near an unaware enemy (like a Sniper) to execute the deadly Hadouken taunt.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_PYRO_BURN_SPY_TAUNT",
+    "display_name": "Got A Light?",
+    "description": "Ignite an enemy Spy while he's flicking a cigarette.",
+    "chapter": "Pyro",
+    "hint": "Very situational. You must catch a Spy using their Disguise Kit taunt (flicking a cigarette) and burn them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_PYRO_DOMINATE_LEAVESVR",
+    "display_name": "BarbeQueQ",
+    "description": "Cause a dominated player to leave the server.",
+    "chapter": "Pyro",
+    "hint": "Dominate an enemy (kill them 4 times without dying). When they eventually disconnect from the server, this unlocks.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_PYRO_KILL_TAUNTERS",
+    "display_name": "Dance Dance Immolation",
+    "description": "Kill 3 enemies while they're taunting.",
+    "chapter": "Pyro",
+    "hint": "Look for enemies using group taunts (like the Conga) or showing off after a kill, and burn them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_PYRO_BURN_RJ_SOLDIER",
+    "display_name": "Pilot Light",
+    "description": "Ignite a rocket-jumping Soldier while he's in midair.",
+    "chapter": "Pyro",
+    "hint": "Use the Flare Gun or Detonator to snipe an airborne Soldier.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_PYRO_FREEZECAM_TAUNTS",
+    "display_name": "Freezer Burn",
+    "description": "Provide enemies with freezecam shots of each of your taunts.",
+    "chapter": "Pyro",
+    "hint": "Kill an enemy and immediately taunt with your Primary, Secondary, and Melee weapons over different kills.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_PYRO_BURN_MEDICPAIR",
+    "display_name": "Next of Kindling",
+    "description": "Ignite an enemy, and the Medic healing him.",
+    "chapter": "Pyro",
+    "hint": "Spray fire into a Medic/Heavy combo. Both will easily catch fire.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_PYRO_KILL_FROM_BEHIND",
+    "display_name": "Hot on Your Heels",
+    "description": "Kill 50 enemies with your flamethrower, from behind.",
+    "chapter": "Pyro",
+    "hint": "Use the Backburner, which deals critical damage from behind, to quickly rack up these kills.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_PYRO_KILL_TEAMWORK",
+    "display_name": "Second Degree Burn",
+    "description": "Kill a burning enemy who was ignited by another Pyro.",
+    "chapter": "Pyro",
+    "hint": "Use the Flare Gun, Axtinguisher, or Shotgun to finish off enemies that another friendly Pyro just lit up.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_PYRO_REFLECT_CROCKET_KILL",
+    "display_name": "Hotshot",
+    "description": "Kill a Soldier with a reflected critical rocket.",
+    "chapter": "Pyro",
+    "hint": "Watch for glowing, crackling rockets (crits). Time your right-click (Airblast) perfectly to send it back at the Soldier.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_PYRO_KILL_GRIND_LARGE",
+    "display_name": "Fire Chief",
+    "description": "Kill 1000 enemies.",
+    "chapter": "Pyro",
+    "hint": "Unlocks naturally over a long playtime.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_PYRO_IGNITE_FLAREGUN",
+    "display_name": "Attention Getter",
+    "description": "Ignite 100 enemies with the flare gun.",
+    "chapter": "Pyro",
+    "hint": "Equip the Flare Gun secondary and spam it down choke points or at Snipers.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_PYRO_REFLECT_PROJECTILES",
+    "display_name": "Hot Potato",
+    "description": "Reflect 100 projectiles with your compressed air blast.",
+    "chapter": "Pyro",
+    "hint": "Use right-click (Airblast) to deflect rockets, grenades, stickies, arrows, or jarate. 100 total will pop this.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_PYRO_DOUBLE_KO",
+    "display_name": "Dead Heat",
+    "description": "Kill an enemy in the same second that he kills you.",
+    "chapter": "Pyro",
+    "hint": "Very common as Pyro due to afterburn. You die to bullets, but they burn to death immediately after.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_PYRO_ACHIEVE_PROGRESS1",
+    "display_name": "Pyro Milestone 1",
+    "description": "Achieve 10 of the achievements in the Pyro pack.",
+    "chapter": "Pyro",
+    "hint": "Unlocks the Flare Gun.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_PYRO_ACHIEVE_PROGRESS2",
+    "display_name": "Pyro Milestone 2",
+    "description": "Achieve 16 of the achievements in the Pyro pack.",
+    "chapter": "Pyro",
+    "hint": "Unlocks the Backburner.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_PYRO_ACHIEVE_PROGRESS3",
+    "display_name": "Pyro Milestone 3",
+    "description": "Achieve 22 of the achievements in the Pyro pack.",
+    "chapter": "Pyro",
+    "hint": "Unlocks the Axtinguisher.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HEAVY_ACHIEVE_PROGRESS1",
+    "display_name": "Heavy Milestone 1",
+    "description": "Achieve 10 of the achievements in the Heavy pack.",
+    "chapter": "Heavy",
+    "hint": "Unlocks the Sandvich.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HEAVY_ACHIEVE_PROGRESS2",
+    "display_name": "Heavy Milestone 2",
+    "description": "Achieve 16 of the achievements in the Heavy pack.",
+    "chapter": "Heavy",
+    "hint": "Unlocks the Natascha.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HEAVY_ACHIEVE_PROGRESS3",
+    "display_name": "Heavy Milestone 3",
+    "description": "Achieve 22 of the achievements in the Heavy pack.",
+    "chapter": "Heavy",
+    "hint": "Unlocks the K.G.B. (Killing Gloves of Boxing).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HEAVY_DAMAGE_TAKEN",
+    "display_name": "Iron Kurtain",
+    "description": "Take 1000 points of damage in a single life.",
+    "chapter": "Heavy",
+    "hint": "Have a Medic constantly heal you while you tank damage on the front lines.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HEAVY_DEFEND_MEDIC",
+    "display_name": "Party Loyalty",
+    "description": "Kill 50 enemies within 3 seconds of them attacking your Medic.",
+    "chapter": "Heavy",
+    "hint": "Protect your Medic. If someone shoots them, immediately gun that player down.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HEAVY_ASSIST_MEDIC_LARGE",
+    "display_name": "Division of Labor",
+    "description": "Kill 10 enemies with a Medic assisting you, where neither of you die.",
+    "chapter": "Heavy",
+    "hint": "Play defensively with a dedicated Medic on a map like Dustbowl.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HEAVY_EARN_MEDIC_DOMINATION",
+    "display_name": "Red Oktoberfest",
+    "description": "Earn a domination for a Medic who's healing you.",
+    "chapter": "Heavy",
+    "hint": "Kill the same player 4 times without dying, while your Medic is connected. This shares the Domination with the Medic.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HEAVY_KILL_TAUNT",
+    "display_name": "Show Trial",
+    "description": "Kill an enemy with a taunt.",
+    "chapter": "Heavy",
+    "hint": "Equip the Fists (or variants), stand near an unaware enemy, and taunt to do the 'Showdown' finger-gun kill.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HEAVY_KILL_FLAG_CARRIERS",
+    "display_name": "Crime and Punishment",
+    "description": "Kill 10 enemies carrying your intelligence.",
+    "chapter": "Heavy",
+    "hint": "Defend your intel room on maps like 2Fort or Turbine.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HEAVY_KILL_MEDIC_PAIR",
+    "display_name": "Class Struggle",
+    "description": "Work with a friendly Medic to kill an enemy Heavy & Medic pair.",
+    "chapter": "Heavy",
+    "hint": "When you encounter a mirrored Heavy/Medic combo, focus down the Heavy first, then the Medic.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HEAVY_BLOCK_INVULN_HEAVY",
+    "display_name": "Soviet Block",
+    "description": "While invulnerable and on defense, block an invulnerable enemy Heavy's movement.",
+    "chapter": "Heavy",
+    "hint": "When both you and an enemy Heavy are ÜberCharged, literally stand in front of him to block his path.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HEAVY_BLOCK_CART",
+    "display_name": "Stalin the Kart",
+    "description": "Block the enemy from moving the payload cart 25 times.",
+    "chapter": "Heavy",
+    "hint": "Stand near the payload cart while on the defending team to halt its progress.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HEAVY_RECEIVE_UBER_GRIND",
+    "display_name": "Supreme Soviet",
+    "description": "Get ÜberCharged 50 times.",
+    "chapter": "Heavy",
+    "hint": "Unlocks naturally. Heavies are prime targets for Medics to Über.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HEAVY_STAND_NEAR_DISPENSER",
+    "display_name": "Factory Worker",
+    "description": "Kill 20 enemies while being recharged by a dispenser.",
+    "chapter": "Heavy",
+    "hint": "Stand right next to a friendly Engineer's dispenser while firing into a choke point.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HEAVY_ASSIST_HEAVY_GRIND",
+    "display_name": "Soviet Union",
+    "description": "Get 25 enemy kills where you either assist or are assisted by another Heavy.",
+    "chapter": "Heavy",
+    "hint": "Stick near other Heavies on your team and shoot the same targets.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HEAVY_CLEAR_STICKYBOMBS",
+    "display_name": "0wn the Means of Production",
+    "description": "Remove 20 stickybombs by killing the Demomen who produced them.",
+    "chapter": "Heavy",
+    "hint": "If you see a sticky trap, find and kill the Demoman. His death removes the active stickies.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HEAVY_KILL_UNDERWATER",
+    "display_name": "Krazy Ivan",
+    "description": "Kill 50 enemies while both you and your victim are underwater.",
+    "chapter": "Heavy",
+    "hint": "Camp the underwater routes on maps like 2Fort or Well.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HEAVY_TAKE_MULTI_DAMAGE",
+    "display_name": "Rasputin",
+    "description": "In a single life, get shot, burned, bludgeoned, and receive explosive damage.",
+    "chapter": "Heavy",
+    "hint": "Have a Medic pocket you, then purposefully take a little damage from bullets, fire, melee, and rockets.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HEAVY_KILL_DOMINATED",
+    "display_name": "Icing on the Cake",
+    "description": "Get 20 kills on players that you're dominating.",
+    "chapter": "Heavy",
+    "hint": "Once you dominate a player (4 kills), keep hunting them down.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HEAVY_SURVIVE_CROCKET",
+    "display_name": "Crock Block",
+    "description": "Survive a direct hit from a critical rocket.",
+    "chapter": "Heavy",
+    "hint": "If you have full health or are Overhealed by a Medic, you will survive a crocket (which usually deals 270 damage).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HEAVY_ASSIST_GRIND",
+    "display_name": "Kollectivization",
+    "description": "Get 1000 assists.",
+    "chapter": "Heavy",
+    "hint": "Spray damage onto groups of enemies so teammates can finish them off.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HEAVY_UNCOVER_SPIES",
+    "display_name": "Spyalectical Materialism",
+    "description": "Kill or assist in killing 10 cloaked Spies.",
+    "chapter": "Heavy",
+    "hint": "Spray your minigun into random corners and choke points to catch invisible Spies.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HEAVY_KILL_WHILE_SPUNUP",
+    "display_name": "Permanent Revolution",
+    "description": "Kill 5 enemies without spinning down your gun.",
+    "chapter": "Heavy",
+    "hint": "Hold right-click to stay spun up. Inch around a corner on defense and mow down the attackers.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HEAVY_FIRE_LOTS",
+    "display_name": "Heavy Industry",
+    "description": "Fire $200,000 worth of minigun rounds in a single life.",
+    "chapter": "Heavy",
+    "hint": "Stand next to a Dispenser and just hold down left-click for about 5 continuous minutes.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HEAVY_KILL_CRIT_PUNCH",
+    "display_name": "Communist Mani-Fisto",
+    "description": "Kill an enemy with a critical punch.",
+    "chapter": "Heavy",
+    "hint": "The KGB (Killing Gloves of Boxing) grants crits on a kill, making subsequent punches critical.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HEAVY_HEAL_MEDIKITS",
+    "display_name": "Redistribution of Health",
+    "description": "Heal 1000 damage with med-kits in a single life.",
+    "chapter": "Heavy",
+    "hint": "Camp near a large health pack, take damage, heal, repeat. (Eating the Sandvich does not count).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HEAVY_KILL_SHOTGUN",
+    "display_name": "Rationing",
+    "description": "Kill an enemy with your shotgun while you're out of minigun ammo.",
+    "chapter": "Heavy",
+    "hint": "Waste all your minigun ammo into a wall, then run around with the shotgun and get a kill.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HEAVY_FIRST_TO_CAP",
+    "display_name": "Vanguard Party",
+    "description": "Be the first on your team to start capturing a control point in a round.",
+    "chapter": "Heavy",
+    "hint": "Equip the Gloves of Running Urgently (GRU) to run fast to the mid-point on a 5CP map.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HEAVY_PAYLOAD_CAP_GRIND",
+    "display_name": "Pushkin the Kart",
+    "description": "Get 50 caps on payload maps.",
+    "chapter": "Heavy",
+    "hint": "Ride the payload cart to the end. The cart heals you and dispenses ammo, making Heavy ideal for pushing.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HEAVY_KILL_MIDAIR_MINIGUN",
+    "display_name": "Marxman",
+    "description": "Kill 10 enemies in mid-air with the minigun.",
+    "chapter": "Heavy",
+    "hint": "Track jumping Scouts or rocket-jumping Soldiers with the minigun.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HEAVY_DEFEND_CONTROL_POINT",
+    "display_name": "Gorky Parked",
+    "description": "Kill 25 enemies while you're standing on a control point you own.",
+    "chapter": "Heavy",
+    "hint": "Stand firmly on a defensive point and shoot anyone who tries to step on it.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HEAVY_KILL_CAPPING_ENEMIES",
+    "display_name": "Purge",
+    "description": "Kill 15 enemies capturing a control point you own.",
+    "chapter": "Heavy",
+    "hint": "Defend the point. Easiest when enemies pile onto the point in desperation.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HEAVY_REVENGE_ASSIST",
+    "display_name": "Lenin A Hand",
+    "description": "Help 5 teammates get revenge on their nemeses.",
+    "chapter": "Heavy",
+    "hint": "Assist teammates in killing people who are dominating them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HEAVY_TELEPORT_FAST_KILL",
+    "display_name": "Five Second Plan",
+    "description": "Kill an enemy in the first 5 seconds after you exit a teleporter.",
+    "chapter": "Heavy",
+    "hint": "Spin up your gun immediately upon exiting an aggressive teleporter.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HEAVY_FREEZECAM_TAUNT",
+    "display_name": "Photostroika",
+    "description": "Provide an enemy with a freezecam shot of you taunting while invulnerable.",
+    "chapter": "Heavy",
+    "hint": "While ÜberCharged by a Medic, kill an enemy and immediately taunt.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HEAVY_EAT_SANDWICHES",
+    "display_name": "Konspicuous Konsumption",
+    "description": "Eat 100 sandviches.",
+    "chapter": "Heavy",
+    "hint": "Equip the Sandvich secondary. Find a safe corner, taunt to eat it, refill at a supply closet, and repeat.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HEAVY_KILL_SCOUTS",
+    "display_name": "Don't Touch Sandvich",
+    "description": "Kill 50 Scouts using Natascha.",
+    "chapter": "Heavy",
+    "hint": "The Natascha slows enemies down, making it extremely easy to track and kill fast-moving Scouts.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HEAVY_KILL_HEAVIES_GLOVES",
+    "display_name": "Borscht Belt",
+    "description": "Kill 10 Heavies with The K.G.B.",
+    "chapter": "Heavy",
+    "hint": "Ambush enemy Heavies from behind with the Killing Gloves of Boxing.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SCOUT_FIRST_BLOOD",
+    "display_name": "First Blood",
+    "description": "Get the first kill in an Arena or Competitive match.",
+    "chapter": "Scout",
+    "hint": "Arena mode is mostly dead, but you can achieve this by playing Competitive mode and rushing for the first kill.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SCOUT_FIRST_BLOOD_KILL",
+    "display_name": "First Blood, Part 2",
+    "description": "Kill 5 enemies with the First Blood crit buff in an Arena match.",
+    "chapter": "Scout",
+    "hint": "In Arena, getting First Blood gives you 5 seconds of crits. Use it to quickly kill another enemy. Requires community servers since Arena is inactive.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SCOUT_WELL_EARLY_KILL",
+    "display_name": "Quick Hook",
+    "description": "Kill a player in Well before the round starts.",
+    "chapter": "Scout",
+    "hint": "On CP_Well, run out immediately during the setup phase gates opening and snipe someone with the pistol.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SCOUT_LIFETIME_KILLS",
+    "display_name": "A Year to Remember",
+    "description": "Get 2004 lifetime kills.",
+    "chapter": "Scout",
+    "hint": "Unlocks naturally as you play Scout. 2004 refers to the year the original TF2 was announced/planned heavily.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SCOUT_IRON_MAN_KILLS",
+    "display_name": "The Cycle",
+    "description": "In a single life, kill an enemy while you are on the ground, in the air, and in the water.",
+    "chapter": "Scout",
+    "hint": "Best done on 2Fort. Get a normal kill, jump during a firefight for an air kill, and hunt someone in the sewers for a water kill.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SCOUT_DESTROY_TELEPORTERS",
+    "display_name": "Closer",
+    "description": "Destroy 3 teleporter entrances.",
+    "chapter": "Scout",
+    "hint": "Flank all the way to the enemy spawn using your speed, and destroy the teleporters placed just outside their doors.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SCOUT_DESTROY_BUILDINGS_BEING_BUILT",
+    "display_name": "If You Build It",
+    "description": "Destroy 3 enemy buildings while they are still under construction.",
+    "chapter": "Scout",
+    "hint": "Shoot buildings as the Engineer is hauling or deploying them, when their health is very low.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SCOUT_DESTROY_SENTRY_WITH_PISTOL",
+    "display_name": "Gun Down",
+    "description": "Destroy an active sentry gun using your pistol.",
+    "chapter": "Scout",
+    "hint": "Find a distracted sentry (shooting a teammate) or edge out of its line of sight and chip away its health with the pistol.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SCOUT_ACHIEVE_PROGRESS1",
+    "display_name": "Scout Milestone 1",
+    "description": "Achieve 10 of the achievements in the Scout pack.",
+    "chapter": "Scout",
+    "hint": "Unlocks the Force-A-Nature.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SCOUT_ACHIEVE_PROGRESS2",
+    "display_name": "Scout Milestone 2",
+    "description": "Achieve 16 of the achievements in the Scout pack.",
+    "chapter": "Scout",
+    "hint": "Unlocks the Sandman.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SCOUT_ACHIEVE_PROGRESS3",
+    "display_name": "Scout Milestone 3",
+    "description": "Achieve 22 of the achievements in the Scout pack.",
+    "chapter": "Scout",
+    "hint": "Unlocks the Bonk! Atomic Punch.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SCOUT_DOUBLE_JUMPS",
+    "display_name": "Batter Up",
+    "description": "Perform 1000 double jumps.",
+    "chapter": "Scout",
+    "hint": "Unlocks naturally. Spam spacebar while running around as Scout.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SCOUT_ASSIST_MEDIC",
+    "display_name": "Doctoring the Ball",
+    "description": "Kill 3 enemies while under the effects of a Medic's ÜberCharge.",
+    "chapter": "Scout",
+    "hint": "Have a Medic pop a Kritzkrieg or standard Über on you while you ambush a group of enemies.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SCOUT_STEAL_SANDWICH",
+    "display_name": "Dodgers 1, Giants 0",
+    "description": "Kill an enemy Heavy and take his Sandvich.",
+    "chapter": "Scout",
+    "hint": "If a Heavy drops a Sandvich for a teammate, run up, shoot the Heavy, and steal the healing item.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SCOUT_KILL_CHARGED_MEDICS",
+    "display_name": "Batting the Doctor",
+    "description": "Kill a Medic that is ready to deploy an ÜberCharge.",
+    "chapter": "Scout",
+    "hint": "Use your speed to bypass the frontline, find the glowing Medic, and two-shot them with the Scattergun.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SCOUT_SURVIVE_DAMAGE",
+    "display_name": "I'm Bat Man",
+    "description": "Survive 500 damage in one life.",
+    "chapter": "Scout",
+    "hint": "Keep retreating to health packs or a Medic. Do not push aggressively.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SCOUT_DOUBLEJUMP_KILL",
+    "display_name": "Pop Fly",
+    "description": "Kill 20 players while double-jumping.",
+    "chapter": "Scout",
+    "hint": "Jump over players heads in close combat and shoot down at them with the Scattergun.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SCOUT_FLAG_CAP_GRIND",
+    "display_name": "Round-Tripper",
+    "description": "Capture the enemy intelligence 25 times.",
+    "chapter": "Scout",
+    "hint": "Play CTF maps (2Fort, Turbine). Scout is the best class for grabbing the intel and running.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SCOUT_THREE_FLAGCAPS",
+    "display_name": "Triple Steal",
+    "description": "Capture the enemy intelligence 3 times in a single CTF round.",
+    "chapter": "Scout",
+    "hint": "Win a game of CTF single-handedly by grabbing and capping all three briefcases.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SCOUT_DODGE_DAMAGE",
+    "display_name": "Artful Dodger",
+    "description": "Dodge 1000 damage in a single life using your Bonk! Atomic Punch.",
+    "chapter": "Scout",
+    "hint": "Drink Bonk and run directly into a Level 3 Sentry. Run back to spawn, refill the drink, and repeat.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SCOUT_KNOCK_INTO_TRAIN",
+    "display_name": "Fall Classic",
+    "description": "Cause an environmental death or suicide using the Force-A-Nature's knockback.",
+    "chapter": "Scout",
+    "hint": "On maps like Upward or Sawmill, shoot enemies near cliffs/saws with the FaN to blast them off.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SCOUT_KILL_STUNNED",
+    "display_name": "Strike Zone",
+    "description": "Kill or assist kill 50 enemies while they are stunned or slowed.",
+    "chapter": "Scout",
+    "hint": "Use the Sandman baseball to slow enemies, or assist Heavies using Natascha.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SCOUT_STUN_INTO_TRAIN",
+    "display_name": "Foul Territory",
+    "description": "Cause an environmental death by stunning or slowing an enemy.",
+    "chapter": "Scout",
+    "hint": "Hit an enemy with a Sandman ball right as they jump near a pit, causing them to fall in.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SCOUT_STUN_UBER_ENEMIES",
+    "display_name": "The Big Hurt",
+    "description": "Stun 2 Medics that are ready to deploy an ÜberCharge.",
+    "chapter": "Scout",
+    "hint": "Hit a fully charged Medic (crackling weapon) with the Sandman ball.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SCOUT_STUN_CAPPING_ENEMIES",
+    "display_name": "Brushback",
+    "description": "Stun 50 enemies while they are capturing a point or pushing the cart.",
+    "chapter": "Scout",
+    "hint": "Spam Sandman baseballs at the payload cart or active capture points.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SCOUT_MAX_STUNS",
+    "display_name": "Moon Shot",
+    "description": "Stun an enemy for the maximum possible duration by hitting them with a long-range ball.",
+    "chapter": "Scout",
+    "hint": "Launch a Sandman ball across the map (like across the 2Fort bridge). If it hits, it deals max slow duration.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SCOUT_STUN_SCOUT_WITH_THEIR_BALL",
+    "display_name": "Beanball",
+    "description": "Stun a Scout with their own ball.",
+    "chapter": "Scout",
+    "hint": "Pick up a ball thrown by an enemy Scout (it restores your ball ammo), then hit them back with it.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SCOUT_KILL_IN_DODGE_COOLDOWN",
+    "display_name": "Retire the Runner",
+    "description": "Kill a Scout while they are under the effect of Crit-a-Cola.",
+    "chapter": "Scout",
+    "hint": "If you see a Scout glowing purple (mini-crits), kill them. They take extra damage while it's active.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SCOUT_KILL_FROM_BEHIND",
+    "display_name": "Caught Napping",
+    "description": "Kill 50 enemies from behind with the Force-A-Nature.",
+    "chapter": "Scout",
+    "hint": "Use your speed to flank Snipers and Heavies, blast them in the back at point-blank range.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SCOUT_CAPTURE_LAST_POINT",
+    "display_name": "Side Retired",
+    "description": "Capture the last point in a CP map.",
+    "chapter": "Scout",
+    "hint": "Scouts capture points 2x faster. Back-cap the final point on maps like Granary or Badlands.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SCOUT_CAPTURE_THREE_POINTS",
+    "display_name": "Triple Play",
+    "description": "Capture three capture points in a row in one life.",
+    "chapter": "Scout",
+    "hint": "Stay alive during a steamroll on a 5CP map like Granary or Process, ensuring you step on each point.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SCOUT_FAST_CAP",
+    "display_name": "Stealing Home",
+    "description": "Start capping a capture point within a second of it becoming available.",
+    "chapter": "Scout",
+    "hint": "Stand just off a locked point, and step onto it the exact millisecond your team captures the prerequisite point.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SCOUT_START_AND_FINISH_CAP",
+    "display_name": "Set the Table",
+    "description": "Initiate 10 point captures that ultimately succeed.",
+    "chapter": "Scout",
+    "hint": "Be the first person to step onto a point, and stay alive until the capture finishes.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SCOUT_BLOCK_CAPS",
+    "display_name": "Block the Plate",
+    "description": "Block 50 point captures.",
+    "chapter": "Scout",
+    "hint": "Step onto a control point that enemies are currently capturing to stall their progress.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SCOUT_CARRIER_KILL_CARRIER",
+    "display_name": "Belittled Beleaguer",
+    "description": "Kill an opposing player that has your intelligence while holding theirs.",
+    "chapter": "Scout",
+    "hint": "In CTF, grab the enemy intel, run into the enemy doing the same to your base, and kill them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SCOUT_CAP_FLAG_WITHOUT_ATTACKING",
+    "display_name": "No-Hitter",
+    "description": "Steal and then capture the enemy intelligence without firing a shot.",
+    "chapter": "Scout",
+    "hint": "Equip Bonk! Atomic Punch to bypass sentries, grab the intel, and run back without clicking M1.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SCOUT_LONG_DISTANCE_RUNNER",
+    "display_name": "Race for the Pennant",
+    "description": "Run 25 kilometers.",
+    "chapter": "Scout",
+    "hint": "Unlocks naturally. You are the fastest class, just keep moving.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SCOUT_TAUNT_KILL",
+    "display_name": "Out of the Park",
+    "description": "Bat an enemy 25 meters.",
+    "chapter": "Scout",
+    "hint": "Equip the Sandman, stand next to an AFK player or Sniper, and taunt to do the home-run kill.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SNIPER_JARATE_DOMINATED",
+    "display_name": "Rode Hard, Put Away Wet",
+    "description": "Jarate an enemy that you're dominating.",
+    "chapter": "Sniper",
+    "hint": "Dominate an enemy (4 kills), then throw Jarate (the urine jar) at them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SNIPER_FREEZECAM_HAT",
+    "display_name": "Be Polite",
+    "description": "Provide an enemy with a freezecam shot of you doffing your hat.",
+    "chapter": "Sniper",
+    "hint": "Kill an enemy with the Sniper Rifle and immediately taunt.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SNIPER_RIFLE_NO_MISSING",
+    "display_name": "Be Efficient",
+    "description": "Get 3 kills with the Sniper Rifle without missing a shot.",
+    "chapter": "Sniper",
+    "hint": "Aim for slow targets like Heavies or stationary Snipers. Fully charged body shots guarantee kills on light classes.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SNIPER_CAPTURE_FLAG",
+    "display_name": "Have a Plan",
+    "description": "Capture the flag in CTF.",
+    "chapter": "Sniper",
+    "hint": "Pick up the enemy briefcase and return it to your base.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SNIPER_KILL_GRIND",
+    "display_name": "Kill Everyone You Meet",
+    "description": "Kill 1000 enemies.",
+    "chapter": "Sniper",
+    "hint": "Unlocks naturally as you play Sniper.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SNIPER_KILL_WEAPONS",
+    "display_name": "Triple Prey",
+    "description": "In a single round, get a kill with 3 different weapons.",
+    "chapter": "Sniper",
+    "hint": "Get a kill with the Rifle, switch to SMG for a kill, then finish someone with the Kukri.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SNIPER_HEADSHOT_SNIPERS",
+    "display_name": "Self-destruct Sequence",
+    "description": "Headshot 10 enemy Snipers.",
+    "chapter": "Sniper",
+    "hint": "Sniper duels are common. Aim for the other Sniper's head.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SNIPER_DESTROY_SENTRYGUNS",
+    "display_name": "De-sentry-lized",
+    "description": "Destroy 3 Engineer sentry guns.",
+    "chapter": "Sniper",
+    "hint": "A fully charged Sniper shot deals massive damage to buildings from a safe distance.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SNIPER_KILL_INVIS_SPY",
+    "display_name": "Shoot the Breeze",
+    "description": "Kill a fully invisible Spy in a single hit.",
+    "chapter": "Sniper",
+    "hint": "Requires luck. Shoot a fully charged shot into a choke point and hope a cloaked Spy walks into it.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SNIPER_KILL_MIDAIR_SCOUT",
+    "display_name": "Dropped Dead",
+    "description": "Kill a Scout in midair with your Sniper Rifle or the Huntsman.",
+    "chapter": "Sniper",
+    "hint": "Track double-jumping Scouts. The Huntsman (bow) has large hitboxes making this easier.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SNIPER_FREEZECAM_WAVE",
+    "display_name": "The Last Wave",
+    "description": "Provide an enemy with a freezecam shot of you waving to them.",
+    "chapter": "Sniper",
+    "hint": "Kill an enemy with the SMG or Kukri and taunt.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SNIPER_DOMINATE_SNIPER",
+    "display_name": "Australian Rules",
+    "description": "Dominate an enemy Sniper.",
+    "chapter": "Sniper",
+    "hint": "Kill the same enemy Sniper 4 times without dying.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SNIPER_KILL_SPIES_MELEE",
+    "display_name": "Kook the Spook",
+    "description": "Kill 10 Spies with your Kukri.",
+    "chapter": "Sniper",
+    "hint": "When you hear a Spy de-cloak behind you or throw Jarate on one, chop them with the Kukri.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SNIPER_HEADSHOT_DEMOMAN",
+    "display_name": "Socket to Him",
+    "description": "Headshot an enemy Demoman.",
+    "chapter": "Sniper",
+    "hint": "Simple. Just aim for the Demoman's head.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SNIPER_KILL_RJER",
+    "display_name": "Jumper Stumper",
+    "description": "Kill a rocket or grenade-jumping enemy in midair with your Sniper Rifle or the Huntsman.",
+    "chapter": "Sniper",
+    "hint": "Track Soldiers flying through the air and snipe them before they land.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SNIPER_KILL_OBJECTIVES",
+    "display_name": "Not a Crazed Gunman, Dad",
+    "description": "In a single life, kill 3 enemies while they are achieving an objective.",
+    "chapter": "Sniper",
+    "hint": "Snipe enemies who are actively standing on a capture point or pushing the payload cart.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SNIPER_KILL_UNSCOPED",
+    "display_name": "Trust Your Feelings",
+    "description": "Get 5 kills with the Sniper Rifle without your scope.",
+    "chapter": "Sniper",
+    "hint": "Use no-scope shots to finish off low-health enemies at close range.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SNIPER_KILL_CHARGED_MEDIC",
+    "display_name": "Überectomy",
+    "description": "Kill a Medic that is ready to deploy an ÜberCharge.",
+    "chapter": "Sniper",
+    "hint": "Headshot a Medic whose Medi Gun is sparking with electricity.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SNIPER_GET_BACKSTABBED",
+    "display_name": "Consolation Prize",
+    "description": "Get backstabbed 50 times.",
+    "chapter": "Sniper",
+    "hint": "Unlocks naturally. Snipers are prime targets for Spies.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SNIPER_KILL_AT_ROUNDSTART",
+    "display_name": "Enemy at the Gate",
+    "description": "Kill an opponent within the first second of a round.",
+    "chapter": "Sniper",
+    "hint": "Charge a shot while the setup gates are closed, and fire the millisecond they open.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SNIPER_HEADSHOT_POST_INVULN",
+    "display_name": "Parting Shot",
+    "description": "Headshot an enemy player the moment his invulnerability wears off.",
+    "chapter": "Sniper",
+    "hint": "Track an ÜberCharged enemy, wait for the shiny texture to fade, and fire.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SNIPER_TOP_SCOREBOARD_GRIND",
+    "display_name": "My Brilliant Career",
+    "description": "Top the scoreboard 10 times on teams of 6 or more players.",
+    "chapter": "Sniper",
+    "hint": "Get lots of headshots and objective captures to farm points.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SNIPER_KILL_FAILED_SPY",
+    "display_name": "Shock Treatment",
+    "description": "Kill a spy whose backstab attempt was blocked by your Razorback.",
+    "chapter": "Sniper",
+    "hint": "Equip the Razorback. When a Spy stabs it and gets stunned (loud electric sound), quickly turn and melee him.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SNIPER_JARATE_GROUP",
+    "display_name": "Saturation Bombing",
+    "description": "Jarate 4 enemy players with a single throw.",
+    "chapter": "Sniper",
+    "hint": "Throw Jarate onto a heavily populated payload cart.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SNIPER_JARATE_MEDIC_PAIR",
+    "display_name": "Rain on Their Parade",
+    "description": "Jarate an enemy and the Medic healing him.",
+    "chapter": "Sniper",
+    "hint": "Throw Jarate on a Heavy/Medic combo pushing your team.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SNIPER_JARATE_REVEAL_SPY",
+    "display_name": "Jarring Transition",
+    "description": "Use Jarate to reveal a cloaked Spy.",
+    "chapter": "Sniper",
+    "hint": "If you hear a Spy cloak nearby or bump into them, throw Jarate to short out their cloak.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SNIPER_JARATE_EXTINGUISH",
+    "display_name": "Friendship is Golden",
+    "description": "Extinguish a burning teammate with your Jarate.",
+    "chapter": "Sniper",
+    "hint": "Throw Jarate at a teammate who is on fire to instantly extinguish them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SNIPER_BOW_PIN_HEAVY",
+    "display_name": "William Tell Overkill",
+    "description": "Pin an enemy Heavy to the wall via his head.",
+    "chapter": "Sniper",
+    "hint": "Use the Huntsman bow. Headshot a Heavy who is standing near a wall to pin his ragdoll.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SNIPER_BOW_KILL_MEDIC_PAIR",
+    "display_name": "Beaux and Arrows",
+    "description": "Kill a Heavy & Medic pair with the bow.",
+    "chapter": "Sniper",
+    "hint": "Equip the Huntsman and spam arrows into the combo until both die.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SNIPER_BOW_KILL_FLAGCARRIER",
+    "display_name": "Robbin' Hood",
+    "description": "Take down an intelligence carrier with a single arrow.",
+    "chapter": "Sniper",
+    "hint": "Use a fully drawn Huntsman arrow to kill the scout carrying your intel.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SNIPER_BOW_PINCUSHION",
+    "display_name": "Pincushion",
+    "description": "Hit an enemy with 3 arrows, without killing them.",
+    "chapter": "Sniper",
+    "hint": "Spam un-drawn (weak) arrows into a Heavy's body.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SNIPER_JARATE_ASSISTS",
+    "display_name": "Number One Assistant",
+    "description": "Score 5 assists with the Jarate in a single round.",
+    "chapter": "Sniper",
+    "hint": "Throw Jarate into a crowd. Whenever your team kills coated enemies, you get assist credit.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SNIPER_JARATE_KILL_MELEE",
+    "display_name": "Jarate Chop",
+    "description": "Jarate and then kill 3 enemies with your Kukri.",
+    "chapter": "Sniper",
+    "hint": "The Bushwacka melee weapon guarantees critical hits on Jarate'd enemies, making this trivial.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SNIPER_TAUNT_KILL",
+    "display_name": "Shafted",
+    "description": "Stab an enemy with an arrow.",
+    "chapter": "Sniper",
+    "hint": "Equip the Huntsman. Taunt near an enemy to perform the Skewer taunt kill.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SNIPER_BOW_KILL_WHILEDEAD",
+    "display_name": "Dead Reckoning",
+    "description": "Kill an enemy with an arrow while you're dead.",
+    "chapter": "Sniper",
+    "hint": "Fire an arrow right before you die. The projectile has travel time, so it can hit and kill after you drop.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SPY_BACKSTAB_SNIPERS",
+    "display_name": "Triplecrossed",
+    "description": "Backstab 3 Snipers in a single life.",
+    "chapter": "Spy",
+    "hint": "Sneak into the enemy battlements on 2Fort or Doublecross and stab the distracted Snipers.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SPY_FREEZECAM_FLICK",
+    "display_name": "For Your Eyes Only",
+    "description": "Provide an enemy with a freezecam shot of you flicking a cigarette onto their corpse.",
+    "chapter": "Spy",
+    "hint": "Equip the Disguise Kit and taunt immediately after killing an enemy.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SPY_BACKSTAB_DISGUISED_SPY",
+    "display_name": "Counter Espionage",
+    "description": "Backstab a disguised Spy.",
+    "chapter": "Spy",
+    "hint": "If you see an enemy Spy disguised as your team, get behind them and stab them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SPY_BACKSTAB_DISGUISE_TARGET",
+    "display_name": "Identity Theft",
+    "description": "Backstab the enemy that you're currently disguised as.",
+    "chapter": "Spy",
+    "hint": "Disguise as an enemy Sniper, walk up behind that specific Sniper, and stab them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SPY_TAUNT_KILL",
+    "display_name": "The Man from P.U.N.C.T.U.R.E.",
+    "description": "Stab an enemy while fencing.",
+    "chapter": "Spy",
+    "hint": "Equip your Knife, stand near an unaware Sniper, and taunt to execute the Fencing kill.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SPY_BACKSTAB_MEDIC_HEALING_YOU",
+    "display_name": "FYI I am a Spy",
+    "description": "Backstab a Medic who has healed you in the last 5 seconds.",
+    "chapter": "Spy",
+    "hint": "Disguise as an enemy Heavy, call for Medic, and when they heal you, turn around and stab them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SPY_BACKSTAB_ENGY_SAP_BUILDING",
+    "display_name": "The Man with the Broken Guns",
+    "description": "Backstab an Engineer, then sap 3 of his buildings within 10 seconds.",
+    "chapter": "Spy",
+    "hint": "Stab an Engineer in his nest, then quickly switch to the Sapper and place it on his Sentry, Dispenser, and Teleporter.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SPY_SAP_BUILDING_BACKSTAB_ENGY",
+    "display_name": "Sapsucker",
+    "description": "Sap an enemy building, then backstab the Engineer who built it within 5 seconds.",
+    "chapter": "Spy",
+    "hint": "Place a sapper to distract the Engineer, wait for him to turn around to fix it, and stab him.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SPY_BACKSTAB_MEDIC_PAIR",
+    "display_name": "May I Cut In?",
+    "description": "Backstab an enemy and the Medic healing him within 10 seconds of each other.",
+    "chapter": "Spy",
+    "hint": "Stab the Heavy first, then quickly chase down and stab the fleeing Medic.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SPY_BACKSTAB_FRIENDS",
+    "display_name": "Agent Provocateur",
+    "description": "Backstab your Steam Community friends 10 times.",
+    "chapter": "Spy",
+    "hint": "Join a server on the opposite team as your Steam friends and hunt them down.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SPY_DOMINATE_SNIPER",
+    "display_name": "The Melbourne Supremacy",
+    "description": "Dominate a Sniper.",
+    "chapter": "Spy",
+    "hint": "Camp the enemy battlements and repeatedly backstab the same Sniper 4 times.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SPY_BUMP_CLOAKED_SPY",
+    "display_name": "Spies Like Us",
+    "description": "While cloaked, bump into an enemy cloaked Spy.",
+    "chapter": "Spy",
+    "hint": "Happens randomly in tight corridors. You will see a faint shimmer when you bump into them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SPY_KILL_SPY_WITH_KNIFE",
+    "display_name": "A Cut Above",
+    "description": "Kill a gun-wielding Spy with your knife.",
+    "chapter": "Spy",
+    "hint": "If an enemy Spy pulls out their Revolver, run up and stab/butterknife them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SPY_SURVIVE_BURNING",
+    "display_name": "Burn Notice",
+    "description": "Survive 30 seconds after being ignited while cloaked.",
+    "chapter": "Spy",
+    "hint": "Use the Spycicle or Dead Ringer to mitigate fire, and run to health packs to stay alive.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SPY_BREAK_SHIELD_KILL_SNIPER",
+    "display_name": "Die Another Way",
+    "description": "Kill a Sniper after your backstab breaks his Razorback.",
+    "chapter": "Spy",
+    "hint": "Stab the Razorback (which stuns you), wait for the stun to end, then pull out your Revolver and shoot him.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SPY_KILL_WORKING_ENGY",
+    "display_name": "Constructus Interruptus",
+    "description": "Kill an Engineer who is working on a sentry gun.",
+    "chapter": "Spy",
+    "hint": "Backstab an Engineer while he is hitting his building with a wrench.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SPY_FAST_CAP",
+    "display_name": "On Her Majesty's Secret Surface",
+    "description": "Start capping a capture point within a second of it becoming available.",
+    "chapter": "Spy",
+    "hint": "Hide cloaked on the next locked control point and de-cloak the moment your team caps the previous one.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SPY_MEDIC_HEALING_KILL_ENEMY",
+    "display_name": "Insurance Fraud",
+    "description": "Kill an enemy while you're being healed by an enemy Medic.",
+    "chapter": "Spy",
+    "hint": "Disguise, trick a Medic into healing you, then backstab someone in front of them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SPY_KILL_CP_DEFENDERS",
+    "display_name": "Point Breaker",
+    "description": "Kill 15 enemies who are standing on a control point they own.",
+    "chapter": "Spy",
+    "hint": "Backstab players guarding their last point.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SPY_BACKSTAB_DOMINATING_ENEMY",
+    "display_name": "High Value Target",
+    "description": "Backstab an enemy who is dominating 3 or more of your teammates.",
+    "chapter": "Spy",
+    "hint": "Look for the player topping the enemy scoreboard and assassinate them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SPY_REVENGE_WITH_BACKSTAB",
+    "display_name": "Come in from the Cold",
+    "description": "Get a Revenge kill with a backstab.",
+    "chapter": "Spy",
+    "hint": "Backstab your nemesis.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SPY_KNIFE_KILL_WHILE_JARATED",
+    "display_name": "Wetwork",
+    "description": "Stab an enemy to death while under the influence of Jarate.",
+    "chapter": "Spy",
+    "hint": "If a Sniper throws pee on you, charge him and trick-stab or butterknife him to death.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SPY_BACKSTAB_QUICK_KILLS",
+    "display_name": "You Only Shiv Thrice",
+    "description": "Backstab 3 enemies within 10 seconds.",
+    "chapter": "Spy",
+    "hint": "Perform a 'chain stab' on a payload cart or a crowded control point.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SPY_BACKSTAB_GRIND",
+    "display_name": "Spymaster",
+    "description": "Backstab 1000 enemies.",
+    "chapter": "Spy",
+    "hint": "Unlocks naturally as you play Spy.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SPY_SAPPER_GRIND",
+    "display_name": "Sap Auteur",
+    "description": "Destroy 1000 Engineer buildings with sappers.",
+    "chapter": "Spy",
+    "hint": "Spam sappers on every building you see. Eventually, they will be destroyed.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SPY_SAPPER_TEAMWORK",
+    "display_name": "Joint Operation",
+    "description": "Sap an enemy sentry gun within 3 seconds of a teammate sapping another.",
+    "chapter": "Spy",
+    "hint": "Work with another Spy to take down a large Engineer nest together.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SPY_BACKSTAB_MEDIC_CHARGED",
+    "display_name": "Dr. Nooooo",
+    "description": "Backstab a Medic that is ready to deploy an ÜberCharge.",
+    "chapter": "Spy",
+    "hint": "Pick off the enemy Medic right before they push into your team.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SPY_BACKSTAB_CAPPING_ENEMIES",
+    "display_name": "Is It Safe?",
+    "description": "Backstab 50 enemies who are capturing control points.",
+    "chapter": "Spy",
+    "hint": "Sneak up behind attackers distracted by capturing a point.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SPY_BACKSTAB_ENEMY_SWITCH_PYRO",
+    "display_name": "Slash and Burn",
+    "description": "Backstab an enemy, who then switches to Pyro before they respawn.",
+    "chapter": "Spy",
+    "hint": "Very common. Players often get frustrated by Spies and switch to Pyro to counter you.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SPY_AMBASSADOR_GRIND",
+    "display_name": "Diplomacy",
+    "description": "Kill 50 enemies with the Ambassador.",
+    "chapter": "Spy",
+    "hint": "The Ambassador guarantees critical hits on headshots. Use it to finish off weak targets.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SPY_AMBASSADOR_SNIPER_GRIND",
+    "display_name": "Skullpluggery",
+    "description": "While using the Ambassador, kill 20 Snipers with a headshot.",
+    "chapter": "Spy",
+    "hint": "Sneak up on Razorback Snipers and shoot them in the head twice instead of stabbing.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SPY_FEIGN_DEATH_KILL",
+    "display_name": "Sleeper Agent",
+    "description": "Kill an enemy who triggered your feign death in the last 20 seconds.",
+    "chapter": "Spy",
+    "hint": "Use the Dead Ringer to fake your death, sneak behind the person who 'killed' you, and backstab them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SPY_AMBASSADOR_SCOUT_GRIND",
+    "display_name": "Who's Your Daddy?",
+    "description": "Headshot 3 Scouts with the Ambassador.",
+    "chapter": "Spy",
+    "hint": "Requires good aim. Shoot Scouts running directly at you.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SPY_CAMP_POSITION",
+    "display_name": "Deep Undercover",
+    "description": "While using the Cloak and Dagger, kill the same enemy 3 times, all within the same area in a single life.",
+    "chapter": "Spy",
+    "hint": "Hide near the enemy spawn doors or battlements using the infinite cloak of the Cloak & Dagger, and repeatedly stab the same Sniper.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SNIPER_ACHIEVE_PROGRESS1",
+    "display_name": "Sniper Milestone 1",
+    "description": "Achieve 5 of the achievements in the Sniper pack.",
+    "chapter": "Sniper",
+    "hint": "Unlocks the Huntsman.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SNIPER_ACHIEVE_PROGRESS2",
+    "display_name": "Sniper Milestone 2",
+    "description": "Achieve 11 of the achievements in the Sniper pack.",
+    "chapter": "Sniper",
+    "hint": "Unlocks the Jarate.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SNIPER_ACHIEVE_PROGRESS3",
+    "display_name": "Sniper Milestone 3",
+    "description": "Achieve 17 of the achievements in the Sniper pack.",
+    "chapter": "Sniper",
+    "hint": "Unlocks the Razorback.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SPY_ACHIEVE_PROGRESS1",
+    "display_name": "Spy Milestone 1",
+    "description": "Achieve 5 of the achievements in the Spy pack.",
+    "chapter": "Spy",
+    "hint": "Unlocks the Ambassador.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SPY_ACHIEVE_PROGRESS2",
+    "display_name": "Spy Milestone 2",
+    "description": "Achieve 11 of the achievements in the Spy pack.",
+    "chapter": "Spy",
+    "hint": "Unlocks the Cloak and Dagger.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SPY_ACHIEVE_PROGRESS3",
+    "display_name": "Spy Milestone 3",
+    "description": "Achieve 17 of the achievements in the Spy pack.",
+    "chapter": "Spy",
+    "hint": "Unlocks the Dead Ringer.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HALLOWEEN_COLLECT_PUMPKINS",
+    "display_name": "Candy Coroner",
+    "description": "Collect 20 Halloween pumpkins from dead players to unlock a hat.",
+    "chapter": "Halloween Event",
+    "hint": "During the Halloween event, players drop pumpkins when killed. Walk over 20 of them to get the Mildly Disturbing Halloween Mask.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HALLOWEEN_DOMINATE_FOR_HAT",
+    "display_name": "Ghastly Gibus Grab",
+    "description": "Dominate a player wearing any achievement Gibus hat to earn your own Ghostly Gibus.",
+    "chapter": "Halloween Event",
+    "hint": "Kill a player wearing a Gibus 4 times in a row without dying. This can be done any time of the year.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HALLOWEEN_KILL_SCARED_PLAYER",
+    "display_name": "Scared Stiff",
+    "description": "Kill a player scared by a ghost.",
+    "chapter": "Halloween Event",
+    "hint": "On maps like Harvest Event, a ghost wanders around. When it scares a player (they cower), kill them.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HALLOWEEN_PUMPKIN_KILL",
+    "display_name": "Attack o' Lantern",
+    "description": "Cause the deaths of 5 players by exploding nearby pumpkin bombs.",
+    "chapter": "Halloween Event",
+    "hint": "Shoot the glowing orange pumpkins scattered around Halloween maps when an enemy is next to them.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HALLOWEEN_DISGUISED_SPY_KILL",
+    "display_name": "Costume Contest",
+    "description": "Kill a Spy disguised as your current class.",
+    "chapter": "Halloween Event",
+    "hint": "Simply spy-check everyone during a Halloween event.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SOLDIER_ACHIEVE_PROGRESS1",
+    "display_name": "Soldier Milestone 1",
+    "description": "Achieve 5 of the achievements in the Soldier pack.",
+    "chapter": "Soldier",
+    "hint": "Unlocks the Equalizer.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SOLDIER_ACHIEVE_PROGRESS2",
+    "display_name": "Soldier Milestone 2",
+    "description": "Achieve 11 of the achievements in the Soldier pack.",
+    "chapter": "Soldier",
+    "hint": "Unlocks the Direct Hit.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SOLDIER_ACHIEVE_PROGRESS3",
+    "display_name": "Soldier Milestone 3",
+    "description": "Achieve 17 of the achievements in the Soldier pack.",
+    "chapter": "Soldier",
+    "hint": "Unlocks the Buff Banner.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SOLDIER_KILL_GROUP_WITH_CROCKET",
+    "display_name": "Tri-Splatteral Damage",
+    "description": "Kill 3 enemies with a single critical rocket.",
+    "chapter": "Soldier",
+    "hint": "Fire a randomly glowing rocket (or be Kritzkrieg'd) into a crowded cart or control point.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SOLDIER_KILL_TWO_DURING_ROCKET_JUMP",
+    "display_name": "Death from Above",
+    "description": "Rocket jump and kill 2 enemies before you land.",
+    "chapter": "Soldier",
+    "hint": "Use the B.A.S.E. Jumper parachute to stay in the air longer and rain rockets on weak enemies.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SOLDIER_THREE_DOMINATIONS",
+    "display_name": "Dominator",
+    "description": "Get 3 dominations in a single life.",
+    "chapter": "Soldier",
+    "hint": "Play defensively with a Medic. Pick off enemies and fall back before dying.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SOLDIER_DEFEND_MEDIC",
+    "display_name": "War Crime and Punishment",
+    "description": "In a single life, kill 3 enemies who have damaged a Medic that is healing you.",
+    "chapter": "Soldier",
+    "hint": "Protect your Medic. Shoot anyone who attacks them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SOLDIER_KILL_TAUNT",
+    "display_name": "Spray of Defeat",
+    "description": "Use a grenade to gib a player.",
+    "chapter": "Soldier",
+    "hint": "Equip the Equalizer or Escape Plan, stand near an enemy, and taunt to do the Kamikaze kill.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SOLDIER_DESTROY_SENTRY_OUT_OF_RANGE",
+    "display_name": "Guns of the Navar0wned",
+    "description": "Kill 5 Engineer sentries while you are standing outside of their range.",
+    "chapter": "Soldier",
+    "hint": "Find a Sentry and walk backward until it stops beeping/shooting you, then spam rockets at it.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SOLDIER_KILL_SNIPER_WHILE_DEAD",
+    "display_name": "Mutually Assured Destruction",
+    "description": "Kill an enemy sniper with a rocket after he kills you.",
+    "chapter": "Soldier",
+    "hint": "Fire a rocket at a Sniper right before they headshot you. Your rocket will kill them after you die.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SOLDIER_KILL_AIRBORNE_TARGET_WHILE_AIRBORNE",
+    "display_name": "Wings of Glory",
+    "description": "Kill an enemy soldier while both you and the target are airborne.",
+    "chapter": "Soldier",
+    "hint": "During a rocket jumping duel, use the Direct Hit to blast the other jumping Soldier.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SOLDIER_KILL_ENGY",
+    "display_name": "Engineer to Eternity",
+    "description": "Kill an Engineer as he repairs his sentry gun while it's under enemy fire.",
+    "chapter": "Soldier",
+    "hint": "Aim your rockets directly at the Engineer hiding behind his Sentry rather than the gun itself.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SOLDIER_NEMESIS_SHOVEL_KILL",
+    "display_name": "Trench Warfare",
+    "description": "Kill your nemesis with a shovel.",
+    "chapter": "Soldier",
+    "hint": "Ambush the player dominating you, use a rocket to weaken them, then finish them with the Shovel or Market Gardener.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SOLDIER_DESTROY_STICKIES",
+    "display_name": "Bomb Squaddie",
+    "description": "Destroy 10 stickybombs with the shotgun in a single life.",
+    "chapter": "Soldier",
+    "hint": "Shoot enemy sticky traps with the Shotgun to clear them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SOLDIER_CROUCH_ROCKET_JUMP",
+    "display_name": "Where Eagles Dare",
+    "description": "Get the highest possible rocket jump using jump and crouch.",
+    "chapter": "Soldier",
+    "hint": "Look straight down, press Jump, Crouch, and Shoot simultaneously.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SOLDIER_BUFF_FRIENDS",
+    "display_name": "Banner of Brothers",
+    "description": "Buff 5 Steam friends at once with the Buff Banner.",
+    "chapter": "Soldier",
+    "hint": "Charge the Buff Banner, get 5 friends on the same team near you, and deploy it.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SOLDIER_KILL_TWENTY_FROM_ABOVE",
+    "display_name": "Screamin' Eagle",
+    "description": "Kill 20 enemies from above.",
+    "chapter": "Soldier",
+    "hint": "Spam rockets from high ground or while rocket jumping.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SOLDIER_SHOOT_MULT_CRITS",
+    "display_name": "Crockets Are Such B.S.",
+    "description": "Shoot two non-boosted crit rockets in a row.",
+    "chapter": "Soldier",
+    "hint": "Purely RNG. Doing damage increases crit chance, so just keep shooting rockets into groups.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SOLDIER_KILL_DEFENSELESS",
+    "display_name": "Geneva Contravention",
+    "description": "Kill 3 defenseless players after a single match has ended.",
+    "chapter": "Soldier",
+    "hint": "During Humiliation (when your team wins), hunt down the cowering enemy players.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SOLDIER_KILL_ON_FIRE",
+    "display_name": "Semper Fry",
+    "description": "Kill 20 enemies while you are on fire.",
+    "chapter": "Soldier",
+    "hint": "Fight Pyros closely. If they ignite you, blow them up before you die.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SOLDIER_KILL_FIVE_STUNNED",
+    "display_name": "The Longest Daze",
+    "description": "Kill 5 stunned or slowed players.",
+    "chapter": "Soldier",
+    "hint": "Shoot enemies that a friendly Scout has hit with a Sandman ball.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SOLDIER_FREEZECAM_GIBS",
+    "display_name": "Gore-a! Gore-a! Gore-a!",
+    "description": "Provide the enemy with a freezecam of you taunting over 3 of their body parts.",
+    "chapter": "Soldier",
+    "hint": "Shoot an enemy with a rocket point-blank to gib them, then immediately taunt.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SOLDIER_KILL_SPY_KILLER",
+    "display_name": "War Crime Spybunal",
+    "description": "Kill a Spy who just backstabbed a teammate.",
+    "chapter": "Soldier",
+    "hint": "Watch your Medic's back. When a Spy stabs them, instantly flick and blast the Spy.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SOLDIER_DEFEND_CAP_THIRTY_TIMES",
+    "display_name": "Hamburger Hill",
+    "description": "Defend a cap point 30 times.",
+    "chapter": "Soldier",
+    "hint": "Kill enemies that are actively capturing a control point.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SOLDIER_GIB_GRIND",
+    "display_name": "Frags of our Fathers",
+    "description": "Gib 1000 people.",
+    "chapter": "Soldier",
+    "hint": "Kill enemies with explosive damage where their health drops significantly below 0 to cause a gib.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SOLDIER_RJ_EQUALIZER_KILL",
+    "display_name": "Duty Bound",
+    "description": "While rocket jumping kill an enemy with the Equalizer before you land or just after landing.",
+    "chapter": "Soldier",
+    "hint": "Use the Market Gardener instead, it scores crits while rocket jumping and counts for this achievement.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SOLDIER_BUFF_TEAMMATES",
+    "display_name": "The Boostie Boys",
+    "description": "Buff 15 teammates with the Buff Banner in a single life.",
+    "chapter": "Soldier",
+    "hint": "Play passively. Build rage by spamming rockets, retreat to a group of teammates, use banner, repeat.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SOLDIER_KILL_DEMOMAN_GRIND",
+    "display_name": "Out, Damned Scot!",
+    "description": "Kill 500 enemy Demomen",
+    "chapter": "Soldier",
+    "hint": "Unlocks naturally as you play Soldier.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SOLDIER_KILL_PYRO",
+    "display_name": "Backdraft Dodger",
+    "description": "Kill a Pyro who has airblasted one of your rockets in the last 10 seconds.",
+    "chapter": "Soldier",
+    "hint": "Bait a Pyro into airblasting, then quickly switch to your Shotgun and kill them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SOLDIER_EQUALIZER_STREAK",
+    "display_name": "Ain't Got Time to Bleed",
+    "description": "Kill 3 players with the Equalizer in a single life without being healed.",
+    "chapter": "Soldier",
+    "hint": "Use the Equalizer. Get to low health so your damage increases, hide around corners, and ambush enemies.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SOLDIER_KILL_WITH_EQUALIZER_WHILE_HURT",
+    "display_name": "Near Death Experience",
+    "description": "Kill 20 enemies with your Equalizer while you have less than 25 health.",
+    "chapter": "Soldier",
+    "hint": "When you are heavily damaged, pull out the Equalizer and swing wildly.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SOLDIER_BOUNCE_THEN_SHOTGUN",
+    "display_name": "For Whom the Shell Trolls",
+    "description": "Bounce an opponent into the air with a rocket and then kill them with the shotgun before they land.",
+    "chapter": "Soldier",
+    "hint": "Shoot a rocket at an enemy's feet to launch them upwards, instantly swap to Shotgun (Q), and shoot them in midair.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SOLDIER_KILL_AIRBORNE_WITH_DIRECT_HIT",
+    "display_name": "Death from Below",
+    "description": "Kill 10 opponents who are airborne with the Direct Hit.",
+    "chapter": "Soldier",
+    "hint": "Equip the Direct Hit. Bounce an enemy up with one rocket, then hit them with a second midair.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SOLDIER_FREEZECAM_TAUNT",
+    "display_name": "Worth a Thousand Words",
+    "description": "Provide the enemy with a freezecam of your 21 gun salute.",
+    "chapter": "Soldier",
+    "hint": "Kill an enemy and taunt with the Rocket Launcher.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SOLDIER_DUO_SOLDIER_KILLS",
+    "display_name": "Brothers in Harms",
+    "description": "Kill 10 enemies while assisting or being assisted by another Soldier.",
+    "chapter": "Soldier",
+    "hint": "Travel with another Soldier on your team and shoot the same targets.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SOLDIER_MVP",
+    "display_name": "Medals of Honor",
+    "description": "Finish a round as an MVP on a team of 6 or more players 10 times.",
+    "chapter": "Soldier",
+    "hint": "Score heavily (kills, objectives, destroying buildings) to place Top 3 on your team scoreboard when the match ends.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SOLDIER_RIDE_THE_CART",
+    "display_name": "Ride of the Valkartie",
+    "description": "Ride the cart for 30 seconds.",
+    "chapter": "Soldier",
+    "hint": "Stand on the Payload cart on offense. Easiest when your team steamrolls.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SOLDIER_ASSIST_MEDIC_UBER",
+    "display_name": "S*M*A*S*H",
+    "description": "Assist a Medic in exploding 5 enemies with a single ÜberCharge.",
+    "chapter": "Soldier",
+    "hint": "Have a Medic Kritzkrieg you while you shoot into a heavily populated choke point.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_DEMOMAN_KILL_SOLDIER_GRIND",
+    "display_name": "Kilt in Action",
+    "description": "Kill 500 enemy Soldiers",
+    "chapter": "Demoman",
+    "hint": "Unlocks naturally as you play Demoman.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_DEMOMAN_DESTROY_BUILDINGS_WITH_MEDIC",
+    "display_name": "Tam O'Shatter",
+    "description": "Destroy 5 enemy Engineer buildings during a single ÜberCharge from a Medic.",
+    "chapter": "Demoman",
+    "hint": "Coordinate with a Medic. Use the Stickybomb Launcher to wipe an Engineer nest.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_DEMOMAN_DECAPITATE_CLOAKED_SPY",
+    "display_name": "Shorn Connery",
+    "description": "Decapitate a cloaked Spy.",
+    "chapter": "Demoman",
+    "hint": "Equip the Eyelander. If you bump into an invisible Spy, swing wildly.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_DEMOMAN_KILL_X_WITH_DIRECTPIPE",
+    "display_name": "Laddy Macdeth",
+    "description": "Kill 50 enemies with direct hits from the Grenade Launcher.",
+    "chapter": "Demoman",
+    "hint": "Aim slightly ahead of your targets. Direct hits (pipes) deal massive damage.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_DEMOMAN_DECAPITATE_PLAYERS",
+    "display_name": "Brainspotting",
+    "description": "Decapitate 50 enemy players.",
+    "chapter": "Demoman",
+    "hint": "Use the Eyelander or Nessie's Nine Iron for melee kills.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_DEMOMAN_DECAPITATE_PLAYERS_FAST",
+    "display_name": "Left 4 Heads",
+    "description": "Decapitate 4 players with only 10 seconds between each kill.",
+    "chapter": "Demoman",
+    "hint": "Play 'Demoknight' (Charge n' Targe + Eyelander) on a tight map like DeGroot Keep and charge into a group.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_DEMOMAN_DUO_DEMOMAN_KILLS",
+    "display_name": "Well Plaid!",
+    "description": "Kill 10 enemies while assisting or being assisted by another Demoman.",
+    "chapter": "Demoman",
+    "hint": "Spam grenades down a choke point with another Demoman.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_DEMOMAN_DECAPITATE_EQUALIZER",
+    "display_name": "Slammy Slayvis Woundya",
+    "description": "Decapitate an enemy Soldier who is brandishing the Equalizer.",
+    "chapter": "Demoman",
+    "hint": "If a low-health Soldier pulls out a pickaxe, quickly charge him and melee.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_DEMOMAN_MELEE_KILL_WHILE_STICKYJUMPING",
+    "display_name": "The Scottish Play",
+    "description": "Get a melee kill while sticky jumping.",
+    "chapter": "Demoman",
+    "hint": "Sticky jump into a sniper on the battlements and swing your melee right before you land.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_DEMOMAN_KILL_BUILDING_DIRECT_HIT",
+    "display_name": "Blind Fire",
+    "description": "Destroy an Engineer building that you can't see with a direct hit from your Grenade Launcher.",
+    "chapter": "Demoman",
+    "hint": "Arc grenades over a wall or around a corner where you know a Sentry is built.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_DEMOMAN_DOMINATE_THREE_ENGINEERS",
+    "display_name": "Three Times a Laddy",
+    "description": "Dominate 3 Engineers.",
+    "chapter": "Demoman",
+    "hint": "Demoman counters Engineer. Keep blowing up their nests and killing the Engies inside.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_DEMOMAN_KILL_PLAYER_AFTER_TP",
+    "display_name": "Loch Ness Bombster",
+    "description": "Kill an enemy player with stickybombs within 5 seconds of them teleporting.",
+    "chapter": "Demoman",
+    "hint": "Place 2-3 stickies directly on an enemy teleporter exit. Right-click when an enemy appears.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_DEMOMAN_KILL_TWO_DURING_STICKYJUMP",
+    "display_name": "Double Mauled Scotch",
+    "description": "Kill 2 people in a single sticky jump.",
+    "chapter": "Demoman",
+    "hint": "Place a sticky trap in a crowd, sticky jump away, and detonate the trap while in mid-air.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_DEMOMAN_BOUNCE_AND_KILL",
+    "display_name": "Caber Toss",
+    "description": "Bounce an enemy into the air and kill them before they land.",
+    "chapter": "Demoman",
+    "hint": "Use a stickybomb to bounce an enemy, then hit them with a grenade mid-air.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_DEMOMAN_DECAPITATE_NEMESIS",
+    "display_name": "There Can Be Only One",
+    "description": "Decapitate your nemesis.",
+    "chapter": "Demoman",
+    "hint": "Equip the Eyelander and seek revenge.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_DEMOMAN_DAMAGE_GRIND",
+    "display_name": "Tartan Spartan",
+    "description": "Do 1 million points of total blast damage.",
+    "chapter": "Demoman",
+    "hint": "Unlocks naturally. Keep spamming pipes and stickies.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_DEMOMAN_ACHIEVE_PROGRESS1",
+    "display_name": "Demoman Milestone 1",
+    "description": "Achieve 5 of the achievements in the Demoman pack.",
+    "chapter": "Demoman",
+    "hint": "Unlocks the Chargin' Targe.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_DEMOMAN_ACHIEVE_PROGRESS2",
+    "display_name": "Demoman Milestone 2",
+    "description": "Achieve 11 of the achievements in the Demoman pack.",
+    "chapter": "Demoman",
+    "hint": "Unlocks the Eyelander.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_DEMOMAN_ACHIEVE_PROGRESS3",
+    "display_name": "Demoman Milestone 3",
+    "description": "Achieve 17 of the achievements in the Demoman pack.",
+    "chapter": "Demoman",
+    "hint": "Unlocks the Scottish Resistance.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_DEMOMAN_KILL_ENGI_SENTRY_DISPENSER",
+    "display_name": "The Argyle Sap",
+    "description": "Blow up an Engineer, his sentry gun, and his dispenser with a single stickybomb detonation.",
+    "chapter": "Demoman",
+    "hint": "Place 3-4 stickies in the center of an Engineer's nest and detonate.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_DEMOMAN_KILL_X_CAPPING_ONEDET",
+    "display_name": "Scotch Guard",
+    "description": "Kill 3 enemies capping or pushing a cart in a single stickybomb detonation 3 separate times.",
+    "chapter": "Demoman",
+    "hint": "Place stickies on the cart. Wait until it's swarmed by enemies, then detonate.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_DEMOMAN_KILL_X_DEFENDING",
+    "display_name": "Bravehurt",
+    "description": "Kill 25 players defending a capture point or cart.",
+    "chapter": "Demoman",
+    "hint": "Spam grenades onto defensive points.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_DEMOMAN_DESTROY_BUILDINGS_GRIND",
+    "display_name": "Cry Some Moor!",
+    "description": "Destroy 50 buildings.",
+    "chapter": "Demoman",
+    "hint": "Unlocks naturally as you play Demoman.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_DEMOMAN_KILL_X_HEAVIES_FULLHP_ONEDET",
+    "display_name": "The Stickening",
+    "description": "Kill 3 Heavies from full health with a single stickybomb detonation.",
+    "chapter": "Demoman",
+    "hint": "Requires a large trap (4+ stickies). Wait for Heavies to walk over them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_DEMOMAN_KILL_X_SCOUTS_PYROS",
+    "display_name": "Glasg0wned",
+    "description": "Kill 25 Scouts and Pyros with the Grenade Launcher.",
+    "chapter": "Demoman",
+    "hint": "Aim for their feet or try for direct hits.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_DEMOMAN_TAUNT_KILL",
+    "display_name": "Scotch Tap",
+    "description": "Glory in the slaughter of your enemies using the Eyelander.",
+    "chapter": "Demoman",
+    "hint": "Equip the Eyelander, stand near an unaware enemy, and taunt to execute them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_DEMOMAN_CHARGE_KILL",
+    "display_name": "The Targe Charge",
+    "description": "Charge and kill someone with your shield bash.",
+    "chapter": "Demoman",
+    "hint": "Right click with the Chargin' Targe from a distance. The shield bash deals damage at the end of the charge.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_DEMOMAN_CRIT_SWORD_KILL",
+    "display_name": "Beat Me Up, Scotty",
+    "description": "Use a critical swing with the Eyelander to kill 5 enemy players.",
+    "chapter": "Demoman",
+    "hint": "Charge with your shield and swing at the very end to guarantee a crit.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_DEMOMAN_AIR_BURST_KILLS",
+    "display_name": "Something Stickied This Way Comes",
+    "description": "Kill 30 players with air burst stickybombs.",
+    "chapter": "Demoman",
+    "hint": "Shoot a sticky into the air and detonate it right as it flies over an enemy's head.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_DEMOMAN_STICKYJUMP_CAP",
+    "display_name": "The High Road",
+    "description": "Sticky jump onto a cap point and capture it.",
+    "chapter": "Demoman",
+    "hint": "When a point is mostly clear, sticky jump from far away to land directly on it and finish the cap.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_DEMOMAN_FREEZECAM_SMILE",
+    "display_name": "Bloody Merry",
+    "description": "Provide an enemy player with a freezecam of your smiling face.",
+    "chapter": "Demoman",
+    "hint": "Kill an enemy and taunt with the Grenade Launcher.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_DEMOMAN_FREEZECAM_RUMP",
+    "display_name": "Second Eye",
+    "description": "Provide an enemy player with a freezecam of you shaking your rump.",
+    "chapter": "Demoman",
+    "hint": "Kill an enemy and taunt with the Scottish Resistance.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_DEMOMAN_ENVIRONMENTAL_KILL",
+    "display_name": "He Who Celt It",
+    "description": "Use the Sticky Launcher to kill an enemy player via environmental damage.",
+    "chapter": "Demoman",
+    "hint": "Place stickies near the cliff on Upward, wait for an enemy, and blast them off the map.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_DEMOMAN_DESTROY_X_STICKYBOMBS",
+    "display_name": "Robbed Royal",
+    "description": "Destroy 100 enemy stickybombs with the Scottish Resistance.",
+    "chapter": "Demoman",
+    "hint": "The Scottish Resistance destroys enemy stickies if detonated near them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_DEMOMAN_STICKJUMP_DISTANCE",
+    "display_name": "Highland Fling",
+    "description": "Sticky jump a really long way...",
+    "chapter": "Demoman",
+    "hint": "Place 2 stickies, overheal if possible, and launch yourself across a huge map like upward.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_DEMOMAN_KILL3_WITH_DETONATION",
+    "display_name": "Pipebagger",
+    "description": "Kill at least three players with a single detonation of stickybombs.",
+    "chapter": "Demoman",
+    "hint": "Trap a capture point or doorway and detonate when a group pushes in.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_DEMOMAN_KILLXSAPPINGSPIES",
+    "display_name": "Spynal Tap",
+    "description": "Kill 20 spies within 5 seconds of them sapping a friendly building.",
+    "chapter": "Demoman",
+    "hint": "Guard an Engineer nest with stickies. Detonate when a Spy reveals himself.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_DEMOMAN_KILL3_WITH_PIPE_SETUPS",
+    "display_name": "Sticky Thump",
+    "description": "Using the Scottish Resistance, kill 3 players in separate explosions without placing new stickybombs.",
+    "chapter": "Demoman",
+    "hint": "Set 3 distinct traps using the Scottish Resistance. Detonate them one by one as enemies walk over them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_ENGINEER_REVENGE_CRIT_SENTRY_KILLER",
+    "display_name": "Revengineering",
+    "description": "Use a revenge crit to kill the enemy player that destroyed your sentry gun.",
+    "chapter": "Engineer",
+    "hint": "Equip the Frontier Justice. When your sentry dies, you get crits. Immediately hunt down the attacker.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_ENGINEER_MANUAL_SENTRY_KILLS_BEYOND_RANGE",
+    "display_name": "Pownd on the Range",
+    "description": "Kill 10 enemies outside the normal sentry gun range using the Wrangler.",
+    "chapter": "Engineer",
+    "hint": "Equip the Wrangler. Aim manually at Snipers or enemies across the map.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_ENGINEER_ACHIEVE_PROGRESS1",
+    "display_name": "Engineer Milestone 1",
+    "description": "Achieve 5 of the achievements in the Engineer pack.",
+    "chapter": "Engineer",
+    "hint": "Unlocks the Frontier Justice.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_ENGINEER_ACHIEVE_PROGRESS2",
+    "display_name": "Engineer Milestone 2",
+    "description": "Achieve 11 of the achievements in the Engineer pack.",
+    "chapter": "Engineer",
+    "hint": "Unlocks the Gunslinger.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_ENGINEER_ACHIEVE_PROGRESS3",
+    "display_name": "Engineer Milestone 3",
+    "description": "Achieve 17 of the achievements in the Engineer pack.",
+    "chapter": "Engineer",
+    "hint": "Unlocks the Wrangler.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_ENGINEER_TELEPORT_GRIND",
+    "display_name": "Battle Rustler",
+    "description": "Teleport 100 team members into battle.",
+    "chapter": "Engineer",
+    "hint": "Keep your teleporters active. Level 3 teleporters recharge instantly.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_ENGINEER_DISPENSER_EXTINGUISH",
+    "display_name": "The Extinguished Gentleman",
+    "description": "Have dispensers you built extinguish 20 burning players.",
+    "chapter": "Engineer",
+    "hint": "Place your dispenser near the frontline so teammates on fire can easily run to it.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_ENGINEER_MANUAL_CLOAKED_SPY_KILL",
+    "display_name": "Search Engine",
+    "description": "Kill 3 cloaked Spies with a sentry gun under control of your Wrangler.",
+    "chapter": "Engineer",
+    "hint": "Spray bullets randomly into choke points with the Wrangler. If a Spy decloaks or gets hit, focus them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_ENGINEER_MANUAL_SENTRY_ABSORB_DMG",
+    "display_name": "Building Block",
+    "description": "Have a sentry shielded by the Wrangler absorb 500 damage without being destroyed.",
+    "chapter": "Engineer",
+    "hint": "When under heavy fire, pull out the Wrangler (which applies a shield) and tank the damage while repairing it.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_ENGINEER_REVENGE_CRIT_LIFE",
+    "display_name": "Unforgiven",
+    "description": "Kill 3 enemies with revenge crits without dying.",
+    "chapter": "Engineer",
+    "hint": "Let a Sentry get kills, then self-destruct it to get crits. Play cautiously and snipe with the Frontier Justice.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_ENGINEER_KILL_SPY_TWO_SAPPERS",
+    "display_name": "Quick Draw",
+    "description": "Kill a spy and two sappers within 10 seconds.",
+    "chapter": "Engineer",
+    "hint": "When sapped, hit the Spy with your wrench twice to kill him, then quickly smack the sappers off your buildings.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_ENGINEER_KILL_DISGUISED_SPY",
+    "display_name": "The Wrench Connection",
+    "description": "Kill a disguised spy with your Wrench.",
+    "chapter": "Engineer",
+    "hint": "Spy-check everyone that approaches your buildings.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_ENGINEER_UPGRADE_BUILDINGS",
+    "display_name": "Silent Pardner",
+    "description": "Upgrade 50 buildings built by other team members.",
+    "chapter": "Engineer",
+    "hint": "Hit another Engineer's buildings with your wrench when you have metal to help upgrade them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_ENGINEER_DESTROY_SAPPERS",
+    "display_name": "Fistful of Sappers",
+    "description": "Destroy 25 sappers on buildings built by other team members.",
+    "chapter": "Engineer",
+    "hint": "Help other Engineers by removing sappers from their buildings.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_ENGINEER_REPAIR_SENTRY_W_MEDIC",
+    "display_name": "Doc, Stock, and Barrel",
+    "description": "Repair a sentry gun under fire while being healed by a Medic.",
+    "chapter": "Engineer",
+    "hint": "When being pushed, call for a Medic so you can survive explosions while repairing your Sentry.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_ENGINEER_SENTRY_KILL_LIFETIME_GRIND",
+    "display_name": "Best Little Slaughterhouse in Texas",
+    "description": "Rack up 5000 kills with your sentry guns.",
+    "chapter": "Engineer",
+    "hint": "A long-term milestone unlocked by playing Engineer naturally.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_ENGINEER_SENTRY_AVENGES_YOU",
+    "display_name": "Frontier Justice",
+    "description": "Have your sentry kill the enemy that just killed you within 10 seconds.",
+    "chapter": "Engineer",
+    "hint": "Bait an enemy into chasing you around a corner where your Sentry is hidden.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_ENGINEER_FREEZECAM_TAUNT",
+    "display_name": "Six-String Stinger",
+    "description": "Provide an enemy player with a freezecam of your guitar playing skills.",
+    "chapter": "Engineer",
+    "hint": "Get a kill with a shotgun, immediately taunt (guitar), and hope they watch the freezecam.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_ENGINEER_FREEZECAM_SENTRY",
+    "display_name": "Uncivil Engineer",
+    "description": "Provide an enemy player with a freezecam of you and the sentry that just killed them.",
+    "chapter": "Engineer",
+    "hint": "Stand closely behind your Sentry. When it gets a kill, taunt.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_ENGINEER_SHOTGUN_KILL_PREV_SENTRY_TARGET",
+    "display_name": "Texas Two-Step",
+    "description": "Use your shotgun to finish off an enemy recently damaged by your sentry gun.",
+    "chapter": "Engineer",
+    "hint": "If an enemy runs away from your Sentry with low health, chase them down with the shotgun.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_ENGINEER_DISPENSER_HEAL_GROUP",
+    "display_name": "Doc Holiday",
+    "description": "Have a dispenser heal 3 teammates at the same time.",
+    "chapter": "Engineer",
+    "hint": "Place a Level 3 dispenser in a safe fallback area. 3 teammates will crowd it eventually.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_ENGINEER_SENTRY_KILL_CAPS",
+    "display_name": "No Man's Land",
+    "description": "Use a sentry gun to kill 25 enemy players that are capturing a point.",
+    "chapter": "Engineer",
+    "hint": "Build your Sentry where it has direct line-of-sight to the control point.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_ENGINEER_KILL_FLAG_CARRIERS",
+    "display_name": "Trade Secrets",
+    "description": "Kill 20 players carrying the intelligence.",
+    "chapter": "Engineer",
+    "hint": "Build your Sentry directly in the Intel room.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_ENGINEER_WASTE_METAL_GRIND",
+    "display_name": "Death Metal",
+    "description": "Pick up 10,000 waste metal from pieces of destroyed buildings.",
+    "chapter": "Engineer",
+    "hint": "When any building is destroyed, it drops metal chunks. Walk over them to recover ammo/metal.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_ENGINEER_HELP_BUILD_STRUCTURE",
+    "display_name": "Land Grab",
+    "description": "Help a teammate construct a building.",
+    "chapter": "Engineer",
+    "hint": "Hit another Engineer's building with your wrench while it is deploying to speed it up.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_ENGINEER_REMOVE_SAPPER_LONG_DIST",
+    "display_name": "Get Along!",
+    "description": "Manage to get to and then remove a sapper placed on your building while you were several meters away.",
+    "chapter": "Engineer",
+    "hint": "Use the Rescue Ranger to safely repair your building from far away when it's being sapped.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_ENGINEER_DESTROY_STICKIES",
+    "display_name": "How the Pests Was Gunned",
+    "description": "Destroy 50 enemy stickybombs lying in range of friendly buildings.",
+    "chapter": "Engineer",
+    "hint": "Use the Short Circuit or your shotgun to clear stickies around your Sentry.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_ENGINEER_TAUNT_KILL",
+    "display_name": "Honky Tonk Man",
+    "description": "Smash an enemy player's head in with your guitar.",
+    "chapter": "Engineer",
+    "hint": "Equip the Frontier Justice. Taunting executes a deadly guitar smash.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_ENGINEER_KILL_SNIPERS_SENTRY",
+    "display_name": "Breaking Morant",
+    "description": "Kill 10 Snipers with a sentry gun under control of your Wrangler.",
+    "chapter": "Engineer",
+    "hint": "Use the Wrangler to snipe back at Snipers across the map.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_ENGINEER_HELP_MANUAL_SENTRY",
+    "display_name": "Rio Grind",
+    "description": "Perform 50 repairs and/or reloads on a Sentry gun being Wrangled by another Engineer.",
+    "chapter": "Engineer",
+    "hint": "Stand next to a friendly Engineer using the Wrangler and hit their Sentry with your wrench.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_ENGINEER_KILL_SENTRY_WITH_SENTRY",
+    "display_name": "Patent Protection",
+    "description": "Destroy an enemy Engineer's sentry gun with a sentry under control of your Wrangler.",
+    "chapter": "Engineer",
+    "hint": "Use the Wrangler's shield and superior range to out-gun an enemy Sentry.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_ENGINEER_MOVE_SENTRY_GET_KILL",
+    "display_name": "If You Build It, They Will Die",
+    "description": "Haul a level 3 sentry gun into a position where it achieves a kill shortly after being redeployed.",
+    "chapter": "Engineer",
+    "hint": "Right-click to pick up your level 3, carry it around a corner, drop it, and let it kill someone pushing in.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_ENGINEER_BUILDING_CARRY",
+    "display_name": "Texas Ranger",
+    "description": "Haul buildings 1 km over your career.",
+    "chapter": "Engineer",
+    "hint": "Unlocks naturally. Right click to haul buildings instead of destroying them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_ENGINEER_KILL_ASSIST",
+    "display_name": "Deputized",
+    "description": "Get 10 assists with another Engineer where a sentry gun was involved in the kill.",
+    "chapter": "Engineer",
+    "hint": "Shoot an enemy with your shotgun, then let your teammate's Sentry finish them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_ENGINEER_DISPENSER_HEAL_GRIND",
+    "display_name": "Drugstore Cowboy",
+    "description": "Have dispensers you created dispense a combined amount of 100,000 health over your career.",
+    "chapter": "Engineer",
+    "hint": "Build your dispenser near the action. Unlocks over time.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_ENGINEER_REPAIR_TEAM_GRIND",
+    "display_name": "Circle the Wagons",
+    "description": "Repair 50,000 damage to friendly buildings constructed by other players.",
+    "chapter": "Engineer",
+    "hint": "Help repair other Engineer's nests when they are under fire.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_ENGINEER_TANK_DAMAGE",
+    "display_name": "Built to Last",
+    "description": "Help a single building tank over 2000 damage without being destroyed.",
+    "chapter": "Engineer",
+    "hint": "Use the Wrangler to give your Sentry a shield, and frantically repair it while a Heavy shoots it.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_ENGINEER_HEAVY_ASSIST",
+    "display_name": "(Not So) Lonely Are the Brave",
+    "description": "Keep a Heavy healed with your dispenser while he gains 5 kills.",
+    "chapter": "Engineer",
+    "hint": "Place a dispenser near a choke point and tell a Heavy to camp there.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HALLOWEEN_BOSS_KILL",
+    "display_name": "Sleepy Holl0WND",
+    "description": "Kill the Horseless Headless Horsemann.",
+    "chapter": "Halloween Event",
+    "hint": "Spawned on the Mann Manor map. You just need to damage him shortly before he dies.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HALLOWEEN_COLLECT_GOODY_BAG",
+    "display_name": "Masked Mann",
+    "description": "Collect a Soul Gargoyle in Mann Manor.",
+    "chapter": "Halloween Event",
+    "hint": "Randomly spawns as a green gargoyle during Halloween events. Be the first to grab it.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HALLOWEEN_CRAFT_SAXTON_MASK",
+    "display_name": "Sackston Hale",
+    "description": "Craft the Saxton Hale Mask.",
+    "chapter": "Halloween Event",
+    "hint": "Combine all 9 class masks (found in Halloween gifts) in the crafting menu.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HALLOWEEN_BOSS_KILL_MELEE",
+    "display_name": "Gored!",
+    "description": "Collect the Horseless Headless Horsemann's Haunted Metal.",
+    "chapter": "Halloween Event",
+    "hint": "Hit the Horsemann with a melee weapon right before he dies.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_REPLAY_SAVE_REPLAY",
+    "display_name": "That's a Wrap",
+    "description": "Save your very first replay.",
+    "chapter": "Replay (Deprecated)",
+    "hint": "Join a server with Replays enabled (rare), press F6, and save.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_REPLAY_PERFORMANCE_MODE",
+    "display_name": "We Can Fix It In Post",
+    "description": "While watching a replay, press space bar to enter the editor.",
+    "chapter": "Replay (Deprecated)",
+    "hint": "Open a saved replay and press space.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_REPLAY_BROWSE_REPLAYS",
+    "display_name": "Time For Your Close-Up, Mr. Hale",
+    "description": "Render a replay into a movie.",
+    "chapter": "Replay (Deprecated)",
+    "hint": "Inside the replay editor, click 'Save to Movie'.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_COMPLETE_TRAINING",
+    "display_name": "Ready for Duty",
+    "description": "Complete each class to unlock the next.",
+    "chapter": "General",
+    "hint": "Go to the Training menu and complete the tutorial for Soldier, Demoman, Engineer, and Spy.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_GENERAL_KILL_ENEMIES_AFTER_TELEPORTING",
+    "display_name": "Riftwalker",
+    "description": "Kill an enemy within 5 seconds of you traveling through an Engineer's teleporter.",
+    "chapter": "General",
+    "hint": "Wait near an aggressive teleporter exit. Jump through and immediately get a kill.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_REPLAY_YOUTUBE_VIEWS_TIER1",
+    "display_name": "Home Movie",
+    "description": "Achieve 100 YouTube™ views for your movie.",
+    "chapter": "Replay (Deprecated)",
+    "hint": "YouTube API is broken in TF2. Only obtainable via Steam Achievement Manager or custom workarounds.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_REPLAY_YOUTUBE_VIEWS_TIER2",
+    "display_name": "Local Cinema Star",
+    "description": "Achieve 1000 YouTube™ views for your movie.",
+    "chapter": "Replay (Deprecated)",
+    "hint": "YouTube API is broken in TF2. Obtainable only via SAM or mods.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_REPLAY_YOUTUBE_VIEWS_TIER3",
+    "display_name": "Indie Film Sensation",
+    "description": "Achieve 10,000 YouTube™ views for your movie.",
+    "chapter": "Replay (Deprecated)",
+    "hint": "YouTube API is broken in TF2.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_REPLAY_YOUTUBE_VIEWS_HIGHEST",
+    "display_name": "Blockbuster",
+    "description": "Achieve 100,000 YouTube™ views for your movie.",
+    "chapter": "Replay (Deprecated)",
+    "hint": "YouTube API is broken in TF2.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_REPLAY_EDIT_TIME",
+    "display_name": "Star of My Own Show",
+    "description": "Spend some time editing a replay.",
+    "chapter": "Replay (Deprecated)",
+    "hint": "Spend about 10 minutes inside the replay editor tool.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_FIRE_WATERJUMP",
+    "display_name": "Escape the Heat",
+    "description": "Jump into a pool of refreshing water while on fire.",
+    "chapter": "General",
+    "hint": "When ignited by a Pyro, jump into water (e.g., sewers on 2Fort) to extinguish yourself.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HALLOWEEN_EYEBOSS_KILL",
+    "display_name": "Optical Defusion",
+    "description": "Kill MONOCULUS!",
+    "chapter": "Halloween Event",
+    "hint": "Damage the giant eye boss on Eyeaduct right before he dies.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HALLOWEEN_LOOT_ISLAND",
+    "display_name": "Dive Into a Good Book",
+    "description": "Get to Loot Island and claim your reward!",
+    "chapter": "Halloween Event",
+    "hint": "When MONOCULUS dies, a portal opens. Jump in, survive the Underworld, and grab the Bombinomicon at the end.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_CHRISTMAS_COLLECT_GIFTS",
+    "display_name": "Gift Grab",
+    "description": "Collect three gifts dropped by opponents.",
+    "chapter": "Smissmas Event",
+    "hint": "During December, dead players drop gifts instead of ammo boxes. Pick up 3.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MAPS_FOUNDRY_KILL_CAPPING_ENEMY",
+    "display_name": "Cap Trap",
+    "description": "Kill an enemy who is capturing a control point with a critical hit.",
+    "chapter": "Foundry",
+    "hint": "On CP_Foundry, use a guaranteed crit weapon (like the KGB) or be Kritzkrieg'd while defending a point.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MAPS_FOUNDRY_PLAY_GAME_FRIENDS",
+    "display_name": "Foundry Force Five",
+    "description": "Play in a game with five or more players from your Friends list.",
+    "chapter": "Foundry",
+    "hint": "Invite 5 friends to your party and queue for Foundry.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MAPS_FOUNDRY_WIN_MINTIME",
+    "display_name": "Two Minute Warring",
+    "description": "Be part of a team that wins within two minutes.",
+    "chapter": "Foundry",
+    "hint": "Coordinate a massive steamroll on Foundry, capping all 5 points immediately.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MAPS_FOUNDRY_WIN_ROUNDS",
+    "display_name": "The Crucible",
+    "description": "Win 137 Rounds.",
+    "chapter": "Foundry",
+    "hint": "Long-term grind. Keep playing CP_Foundry.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MAPS_FOUNDRY_FAST_FINAL_CAP",
+    "display_name": "Five the Fast Way",
+    "description": "Capture the final control point within five seconds of your team capturing the previous control point.",
+    "chapter": "Foundry",
+    "hint": "Have a Scout stand near the final point on Foundry while the team caps the 4th point, then step on immediately.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MAPS_FOUNDRY_TELEPORT_AND_CAP",
+    "display_name": "Claim Jumper",
+    "description": "Capture a control point within 12 seconds after exiting a teleporter.",
+    "chapter": "Foundry",
+    "hint": "Build a teleporter right next to an enemy control point on Foundry.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MAPS_FOUNDRY_PUSH_INTO_CAULDRON",
+    "display_name": "Terminated, Too",
+    "description": "Kill a player by pushing them into the cauldron fire.",
+    "chapter": "Foundry",
+    "hint": "Use the Pyro's Airblast near the giant fire pit next to the final capture points on Foundry.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MAPS_FOUNDRY_PUSH_BACK_AND_WIN",
+    "display_name": "Real Steal",
+    "description": "Win a round in which the enemy team has attempted to capture your final control point.",
+    "chapter": "Foundry",
+    "hint": "Allow the enemy to push you to your last point, defend it, and then push all the way back to win.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MAPS_FOUNDRY_PLAY_EACH_CLASS",
+    "display_name": "Classassin",
+    "description": "Get one or more kills as all nine classes in one round.",
+    "chapter": "Foundry",
+    "hint": "Change classes immediately after getting a kill. Easiest when a round stalls.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MAPS_FOUNDRY_KILL_ENEMY_ON_ROOF",
+    "display_name": "Raze the Roof",
+    "description": "Kill two people on the roof of the center control point in a single life.",
+    "chapter": "Foundry",
+    "hint": "Play Soldier or Demoman, jump onto the roof above the middle point on Foundry, and kill enemies.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MAPS_FOUNDRY_BACK_AND_FORTH_BATTLE",
+    "display_name": "Dead Heat",
+    "description": "Play through a back-and-forth battle for 15 control point captures.",
+    "chapter": "Foundry",
+    "hint": "Play a very long, stalemated game on Foundry. Unlocks naturally in balanced games.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MAPS_FOUNDRY_ACHIEVE_PROGRESS1",
+    "display_name": "Foundry Milestone",
+    "description": "Achieve 7 of the achievements in the Foundry pack.",
+    "chapter": "Foundry",
+    "hint": "Complete 7 Foundry achievements to earn the Full Head of Steam hat.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MVM_COMPLETE_POP_FILE",
+    "display_name": "Steel Fragnolias",
+    "description": "Complete all waves successfully in a mission.",
+    "chapter": "Mann vs. Machine",
+    "hint": "Win one complete game of MvM (Boot Camp or Mann Up).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MAPS_DOOMSDAY_SOLO_CAPTURE",
+    "display_name": "Mission Control",
+    "description": "Pick up the Australium from its home position and capture it without dropping it.",
+    "chapter": "Doomsday",
+    "hint": "Grab the intel, take the elevator, and survive the entire ride up.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MAPS_DOOMSDAY_PLAY_GAME_FRIENDS",
+    "display_name": "Flight Crew",
+    "description": "Play in a game with five or more players from your Friends list.",
+    "chapter": "Doomsday",
+    "hint": "Invite 5 friends and queue for Doomsday.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MAPS_DOOMSDAY_WIN_ROUNDS",
+    "display_name": "The Fight Stuff",
+    "description": "Win 138 Rounds.",
+    "chapter": "Doomsday",
+    "hint": "Grind wins on Doomsday.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MAPS_DOOMSDAY_PLAY_EACH_CLASS",
+    "display_name": "Plan Nine to Outer Space",
+    "description": "Launch the rocket as all 9 classes.",
+    "chapter": "Doomsday",
+    "hint": "You must be the one holding the Australium when the rocket launches. Do this across 9 separate games with each class.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MAPS_DOOMSDAY_KILL_ENEMIES_ON_ELEVATOR",
+    "display_name": "Failure to Launch",
+    "description": "Kill 3 players riding the elevator within 10 seconds.",
+    "chapter": "Doomsday",
+    "hint": "Spam rockets or stickies at the elevator when the enemy team is riding it up.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MAPS_DOOMSDAY_PUSH_BACK_AND_WIN",
+    "display_name": "Rocket Booster",
+    "description": "Win a round after the enemy team has opened the rocket lid.",
+    "chapter": "Doomsday",
+    "hint": "Stop the enemy right before they win, steal the Australium, and win yourself.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MAPS_DOOMSDAY_KILL_CARRIERS",
+    "display_name": "Best Case Scenario",
+    "description": "Kill 6 enemies carrying the Australium during the same round.",
+    "chapter": "Doomsday",
+    "hint": "Play defensively near the elevator and kill anyone carrying the briefcase.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MAPS_DOOMSDAY_RIDE_THE_ELEVATOR",
+    "display_name": "Cap-ogee",
+    "description": "Win a round with at least 5 teammates on the elevator.",
+    "chapter": "Doomsday",
+    "hint": "Coordinate with your team to dogpile the elevator right before it launches.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MAPS_DOOMSDAY_DENY_NEUTRAL_PICKUP",
+    "display_name": "Space Camp",
+    "description": "Kill an enemy within the broken crate area while they attempt to pick up the neutral Australium.",
+    "chapter": "Doomsday",
+    "hint": "Camp the center spawn point of the Australium and shoot anyone trying to grab it.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MAPS_DOOMSDAY_PUSH_INTO_EXHAUST",
+    "display_name": "Lift-offed",
+    "description": "Push a player into the rocket's exhaust path at the end of the round.",
+    "chapter": "Doomsday",
+    "hint": "When the rocket launches, a giant pit opens. Airblast an enemy into the fire.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MAPS_DOOMSDAY_DEFEND_CARRIER",
+    "display_name": "Escape Ferocity",
+    "description": "Kill an enemy who has damaged the Australium carrier in the last 3 seconds.",
+    "chapter": "Doomsday",
+    "hint": "Protect the teammate carrying the intel to the elevator.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MAPS_DOOMSDAY_ACHIEVE_PROGRESS1",
+    "display_name": "Doomsday Milestone",
+    "description": "Achieve 7 of the achievements in the Doomsday pack.",
+    "chapter": "Doomsday",
+    "hint": "Complete 7 Doomsday achievements to get the Gentle Munitionne of Leisure hat.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_KILL_BALLOONICORN_OWNERS",
+    "display_name": "The Great Deflate",
+    "description": "Kill 79 enemies who have Balloonicorn pets.",
+    "chapter": "General",
+    "hint": "Look for players with the pink Balloonicorn floating behind them. Unlocks over time.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MULTIPLE_BFF",
+    "display_name": "BFF²",
+    "description": "Have 2 BEST FRIENDS at the same time.",
+    "chapter": "General",
+    "hint": "Wear two Pyrovision cosmetics that support the 'Best Friend' assist mechanic (like Balloonicorn and RoBro 3000).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_TEAM_PYROVISION",
+    "display_name": "Mass Hysteria",
+    "description": "Have 6 teammates using Pyrovision at the same time.",
+    "chapter": "General",
+    "hint": "Equip Pyrovision Goggles. Often happens naturally in casual servers.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_DOMINATE_FOR_GOGGLES",
+    "display_name": "A Fresh Pair of Eyes",
+    "description": "Dominate a player using the Pyrovision Goggles and earn your own pair!",
+    "chapter": "General",
+    "hint": "Kill a player wearing the Goggles 4 times without dying.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_PYRO_IGNITE_WITH_RAINBOW",
+    "display_name": "Full Spectrum Warrior",
+    "description": "Ignite 3 enemy players using your Rainblower taunt.",
+    "chapter": "Pyro",
+    "hint": "Equip the Rainblower. The taunt creates a wide ring of fire. Taunt on a cart to hit 3 people.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MVM_EARN_MONEY_BONUS",
+    "display_name": "Wage Against the Machine",
+    "description": "Earn a credit bonus at the end of a wave.",
+    "chapter": "Mann vs. Machine",
+    "hint": "Collect every single dollar dropped by robots in a wave (A+ rating). Scout is best for this.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MVM_ADVANCED_EARN_ALL_BONUSES",
+    "display_name": "Frags to Riches",
+    "description": "Earn all credit bonuses in an advanced difficulty mission.",
+    "chapter": "Mann vs. Machine",
+    "hint": "Get an A+ rating (collect 100% of money) on every single wave of an Advanced mission.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MVM_PICKUP_MONEY_ABOUT_TO_EXPIRE",
+    "display_name": "Fast Cache",
+    "description": "Pick up a credit pile that is about to expire.",
+    "chapter": "Mann vs. Machine",
+    "hint": "Money flashes when it's about to despawn. Grab it right before it disappears.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MVM_COLLECT_MONEY_GRIND",
+    "display_name": "T-1000000",
+    "description": "Collect 1,000,000 credits in your career.",
+    "chapter": "Mann vs. Machine",
+    "hint": "Play Scout in MvM and focus exclusively on grabbing money. Takes a lot of matches.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MVM_PLAY_GAME_FRIENDS",
+    "display_name": "Brotherhood of Steel",
+    "description": "Complete a mission with 5 people on your Friends List.",
+    "chapter": "Mann vs. Machine",
+    "hint": "Form a full 6-player MvM party with your Steam friends.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MVM_PLAY_EACH_CLASS",
+    "display_name": "Hack of All Trades",
+    "description": "Play an entire mission as a single class, and do this for every class.",
+    "chapter": "Mann vs. Machine",
+    "hint": "Play 9 separate MvM missions, each time sticking to a single class from start to finish.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MVM_DESTROY_TWO_TANKS",
+    "display_name": "Clockwork Carnage",
+    "description": "Destroy two tanks within 5 seconds of each other.",
+    "chapter": "Mann vs. Machine",
+    "hint": "Lower both tanks' health, then focus them down simultaneously.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MVM_DESTROY_TANK_WHILE_DEPLOYING",
+    "display_name": "Balls-E",
+    "description": "Destroy the tank during the final seconds of the bomb being deployed.",
+    "chapter": "Mann vs. Machine",
+    "hint": "Wait for the Tank to start deploying the bomb at the hatch, then quickly destroy it.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MVM_DESTROY_TANK_QUICKLY",
+    "display_name": "Clockwork Conqueror",
+    "description": "Destroy a tank within 20 seconds of its arrival.",
+    "chapter": "Mann vs. Machine",
+    "hint": "Use fully upgraded Phlog Pyros or Beggar's Bazooka Soldiers to melt the Tank instantly.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MVM_DEFEND_CAP",
+    "display_name": "Spam Blocker",
+    "description": "During a wave, defend the hatch 10 times from robots about to deliver a bomb.",
+    "chapter": "Mann vs. Machine",
+    "hint": "Kill the robot right as it stands on the hatch to deploy the bomb.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MVM_KILL_BOMB_CARRIERS",
+    "display_name": ".executioner",
+    "description": "In a single wave, kill 15 bomb-carrying robots in a row before they level up.",
+    "chapter": "Mann vs. Machine",
+    "hint": "Kill the bomb carrier immediately upon grabbing it, before they gain the defensive buff.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MVM_COMPLETE_WAVE_WITHOUT_DYING",
+    "display_name": "Deus Ex Machina",
+    "description": "Defeat a wave in an advanced difficulty mission without dying once.",
+    "chapter": "Mann vs. Machine",
+    "hint": "Play a safe class like Engineer or Medic, or use Uber canteens to survive.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MVM_COMPLETE_TOUR",
+    "display_name": "Raid Array",
+    "description": "Complete the Crash Course, Doe's Drill, and Mann-euvers missions.",
+    "chapter": "Mann vs. Machine",
+    "hint": "Complete these three specific boot camp / normal missions.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MVM_USE_TELEPORT_BOTTLE",
+    "display_name": "Ghost in the Machine",
+    "description": "Use a canteen charged with 'Teleport to Spawn' and then kill the bomb carrier within 5 seconds.",
+    "chapter": "Mann vs. Machine",
+    "hint": "Wait for the bomb to get near your spawn hatch, use the canteen, and kill the carrier.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MVM_USE_CRIT_BOTTLE",
+    "display_name": "Kritical Terror",
+    "description": "Use a canteen charged with 'Crit Boost' to destroy a giant robot.",
+    "chapter": "Mann vs. Machine",
+    "hint": "Pop a Crit canteen and focus down a giant robot with high DPS.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MVM_USE_UBER_BOTTLE",
+    "display_name": "German Engineering",
+    "description": "Use a canteen charged with 'ÜberCharge' to destroy 15 robots.",
+    "chapter": "Mann vs. Machine",
+    "hint": "Pop an Uber canteen while spamming rockets or stickies into a dense group.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MVM_USE_BUILD_BOTTLE",
+    "display_name": "Undelete",
+    "description": "During a wave, use a canteen charged with 'Instant Building Upgrade' to build a new sentry gun within 3 seconds of your previous sentry gun's destruction.",
+    "chapter": "Mann vs. Machine",
+    "hint": "When your Sentry blows up, immediately drop a new one and press your canteen button.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MVM_USE_AMMO_BOTTLE",
+    "display_name": "Shell Extension",
+    "description": "During a wave, use a canteen charged with 'Ammo Reload' to refill an empty weapon slot.",
+    "chapter": "Mann vs. Machine",
+    "hint": "Empty your primary ammo to 0, then trigger an Ammo canteen.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MVM_MAX_PRIMARY_UPGRADES",
+    "display_name": "System Upgrade",
+    "description": "Max out all primary weapon upgrades.",
+    "chapter": "Mann vs. Machine",
+    "hint": "Use all your money on a single weapon's upgrade nodes.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MVM_MAX_PLAYER_RESISTANCES",
+    "display_name": "Maximum Performance",
+    "description": "Max out all resistances on a single class.",
+    "chapter": "Mann vs. Machine",
+    "hint": "Fully upgrade Blast, Bullet, Fire, and Crit resistance on yourself.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MVM_NO_ALARMS_IN_FINAL_WAVE",
+    "display_name": "Engine Block",
+    "description": "Prevent the bomb from ever reaching an alarm zone during the final wave of an advanced difficulty mission.",
+    "chapter": "Mann vs. Machine",
+    "hint": "Hold the robots at their spawn so the bomb never even gets close to your hatch.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MVM_KILL_MEDICS_CHARGED",
+    "display_name": "Negative Charge",
+    "description": "Kill 5 Medics that are ready to deploy an ÜberCharge in a wave.",
+    "chapter": "Mann vs. Machine",
+    "hint": "Sniper or Demoman is best. One-shot Uber Medics before they pop their charge.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MVM_KILL_ROBOT_GRIND",
+    "display_name": "Silicon Slaughter",
+    "description": "Destroy 100,000 robots.",
+    "chapter": "Mann vs. Machine",
+    "hint": "A long grind. Keep playing MvM missions.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MVM_KILL_ROBOT_MEGA_GRIND",
+    "display_name": "Metal Massacre",
+    "description": "Destroy 1,000,000 robots.",
+    "chapter": "Mann vs. Machine",
+    "hint": "An extremely long grind. It will take hundreds of hours of MvM gameplay.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MVM_KILL_SENTRY_BUSTER",
+    "display_name": "Ctrl + Assault + Delete",
+    "description": "Destroy a sentry buster before it reaches its target.",
+    "chapter": "Mann vs. Machine",
+    "hint": "Focus fire the Sentry Buster with high DPS before it stops and begins ticking to explode.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MVM_SPY_SAP_ROBOTS",
+    "display_name": "Sly Voltage",
+    "description": "As a Spy, sap 10 robots at once.",
+    "chapter": "Mann vs. Machine",
+    "hint": "Fully upgrade Sapper radius and sap a tightly grouped mob of robots.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MVM_SOLDIER_BUFF_TEAM",
+    "display_name": "Turbocharger",
+    "description": "Buff 4 or more teammates as a Soldier at the same time in a single wave.",
+    "chapter": "Mann vs. Machine",
+    "hint": "Activate the Buff Banner while your whole team is grouped up around the Engineer's dispenser.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MVM_HEAVY_RAGE_PUSH_DEPLOYING_ROBOT",
+    "display_name": "Heavy Mettle",
+    "description": "During a wave, use rage as a Heavy to push a robot about to deliver the bomb.",
+    "chapter": "Mann vs. Machine",
+    "hint": "Upgrade 'Knockback Rage', wait for a robot to stand on the hatch, pop rage, and shoot them into the pit.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MVM_MEDIC_SHARE_BOTTLES",
+    "display_name": "Vial Sharing",
+    "description": "As a Medic, share your canteen 5 times in a single wave.",
+    "chapter": "Mann vs. Machine",
+    "hint": "Purchase the 'Canteen Specialist' upgrade and pop your canteen 5 times while healing someone.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MVM_DEMO_GROUP_KILL",
+    "display_name": "Tech Wrecker",
+    "description": "As a Demoman, kill 10 robots in a single detonation.",
+    "chapter": "Mann vs. Machine",
+    "hint": "Place a full 14-sticky trap (with Scottish Resistance) at the robot spawn point.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MVM_SCOUT_MARK_FOR_DEATH",
+    "display_name": "Do Androids Dream?",
+    "description": "As a Scout, use the Sandman to mark 15 robots for death in a single wave.",
+    "chapter": "Mann vs. Machine",
+    "hint": "Use the Fan O'War (it works the same as the Sandman upgrade) and hit 15 different robots.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MVM_SNIPER_KILL_GROUP",
+    "display_name": "Spark Plugger",
+    "description": "As a Sniper, kill 4 robots simultaneously.",
+    "chapter": "Mann vs. Machine",
+    "hint": "Fully upgrade 'Explosive Headshot' and headshot a robot in the middle of a dense crowd.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MVM_PYRO_BOMB_RESET",
+    "display_name": "Hard Reset",
+    "description": "As a Pyro, reset the bomb 3 times in a single wave.",
+    "chapter": "Mann vs. Machine",
+    "hint": "Use airblast to repeatedly push the bomb carrier into a pit so the bomb resets to the top.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MVM_ENGINEER_ESCAPE_SENTRY_BUSTER",
+    "display_name": "Real Steal",
+    "description": "As an Engineer, escape with your sentry as a sentry buster is about to detonate.",
+    "chapter": "Mann vs. Machine",
+    "hint": "Let the Buster get close so it arms itself, then quickly pick up your Sentry and run away.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HALLOWEEN_MERASMUS_COLLECT_LOOT",
+    "display_name": "A Lovely Vacation Spot",
+    "description": "Get to Skull Island and claim your reward!",
+    "chapter": "Halloween Event",
+    "hint": "When Merasmus dies on Ghost Fort, jump into the Bombinomicon portal and grab his hat on Skull Island.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HALLOWEEN_MERASMUS_KILL",
+    "display_name": "Wizards Never Prosper",
+    "description": "Kill MERASMUS!",
+    "chapter": "Halloween Event",
+    "hint": "Help your team kill the Merasmus boss on Ghost Fort.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HALLOWEEN_HELLTOWER_RARE_SPELL",
+    "display_name": "Helltower: Hell's Spells",
+    "description": "Get and use a rare spell",
+    "chapter": "Halloween Event",
+    "hint": "Grab a green glowing spellbook in Helltower (usually near the clock tower) and use it.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HALLOWEEN_HELLTOWER_WIN_ROUNDS",
+    "display_name": "Helltower: Competitive Spirit",
+    "description": "Win 142 rounds",
+    "chapter": "Halloween Event",
+    "hint": "Grind wins on the Helltower payload race map.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HALLOWEEN_HELLTOWER_ENVIRONMENTAL_KILLS",
+    "display_name": "Helltower: Mine Games",
+    "description": "Perform 17 environmental kills in Hell",
+    "chapter": "Halloween Event",
+    "hint": "When the round ends and you go to Hell, airblast or knock enemies into the lava.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HALLOWEEN_HELLTOWER_SKELETON_GRIND",
+    "display_name": "Helltower: Skeleton Coup",
+    "description": "Kill 99 skeletons",
+    "chapter": "Halloween Event",
+    "hint": "Kill the skeletons that spawn naturally on Helltower.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HALLOWEEN_HELLTOWER_KILL_GRIND",
+    "display_name": "Helltower: Spelling Spree",
+    "description": "Use spells to kill 25 players",
+    "chapter": "Halloween Event",
+    "hint": "Pick up magic spells and use them to kill enemies.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HALLOWEEN_HELLTOWER_MILESTONE",
+    "display_name": "Helltower: The Mann-tastic Four",
+    "description": "Earn 4 of the Helltower achievements",
+    "chapter": "Halloween Event",
+    "hint": "Unlock any 4 Helltower-specific achievements.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HALLOWEEN_HELLTOWER_SKULL_ISLAND_REWARD",
+    "display_name": "Helltower: Hat Out of Hell",
+    "description": "Get the loot from Skull Island in Hell",
+    "chapter": "Halloween Event",
+    "hint": "Be the first to grab the Unfilled Fancy Spellbook from the skull in Hell.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HALLOWEEN_HELLTOWER_KILL_BROTHERS",
+    "display_name": "Helltower: Hell on Wheels",
+    "description": "Send Redmond/Blutarch to Hell 10 times",
+    "chapter": "Halloween Event",
+    "hint": "Push the payload cart all the way to the end to win the round.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MAPS_STANDIN_WIN_ROUNDS",
+    "display_name": "Stand and Deliver",
+    "description": "Win 139 Rounds.",
+    "chapter": "Standin",
+    "hint": "Grind rounds on CP_Standin.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MAPS_PROCESS_WIN_ROUNDS",
+    "display_name": "Process of Elimination",
+    "description": "Win 140 Rounds.",
+    "chapter": "Process",
+    "hint": "Grind rounds on CP_Process.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MAPS_SNAKEWATER_WIN_ROUNDS",
+    "display_name": "Snakewater Salesman",
+    "description": "Win 141 Rounds.",
+    "chapter": "Snakewater",
+    "hint": "Grind rounds on CP_Snakewater.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MAPS_SNAKEWATER_PUSH_BACK_AND_WIN",
+    "display_name": "Snakebit",
+    "description": "Win a round in which the enemy team has attempted to capture your final control point.",
+    "chapter": "Snakewater",
+    "hint": "Let the enemy reach your last point, hold them off, and push back to win.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MAPS_SNAKEWATER_TEAM_KILL",
+    "display_name": "The Snakeout",
+    "description": "Wipe the other team with 12 or more players on the server.",
+    "chapter": "Snakewater",
+    "hint": "All enemy players must be dead and respawning at the same time.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MAPS_SNAKEWATER_DOUBLE_AIR_DEATHS",
+    "display_name": "Mutually Air-Sured-Destruction",
+    "description": "While rocket jumping, use a rocket to kill a rocket jumping enemy who also kills you with a rocket.",
+    "chapter": "Snakewater",
+    "hint": "Highly RNG. Both you and an enemy Soldier must kill each other mid-air with rockets.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MAPS_SNAKEWATER_KILL_ENEMIES_IN_MIDDLE",
+    "display_name": "Log Jammin",
+    "description": "Kill 15 enemies in the rafters above the central capture point.",
+    "chapter": "Snakewater",
+    "hint": "Play Soldier or Demoman, get on the logs above mid, and kill people.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MVM_MAPS_ROTTENBURG_TANK",
+    "display_name": "Palace-Aid",
+    "description": "Kill a tank before it crashes through the barrier in Rottenburg.",
+    "chapter": "Mann vs. Machine",
+    "hint": "Focus all DPS on the tank immediately as it spawns.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MVM_MAPS_ROTTENBURG_BOMB",
+    "display_name": "Crasher Crusher",
+    "description": "Play an advanced wave in Rottenburg without the bomb entering the town.",
+    "chapter": "Mann vs. Machine",
+    "hint": "Keep the robots pushed extremely far up at their spawn.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MVM_MAPS_MANNHATTAN_PIT",
+    "display_name": "Chippin' In",
+    "description": "As a team, pit 10 robots in a single wave in Mannhattan.",
+    "chapter": "Mann vs. Machine",
+    "hint": "Use Pyro airblast to push robots into the grinder in the middle of Mannhattan.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MVM_MAPS_MANNHATTAN_MYSTERY",
+    "display_name": "Now Legal To Eat",
+    "description": "Ooohh Ooh Ahh Ahhhh! ...in Mannhattan",
+    "chapter": "Mann vs. Machine",
+    "hint": "Shoot the banana peel hidden on the catwalks.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MVM_MAPS_MANNHATTAN_NO_GATES",
+    "display_name": "Get Off My Lawn",
+    "description": "Play an advanced mission without losing a single gate in Mannhattan.",
+    "chapter": "Mann vs. Machine",
+    "hint": "Focus entirely on the Gate-Crashing robots (they have glowing lights on their heads).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MVM_MAPS_MANNHATTAN_STUN_RADIOWAVE",
+    "display_name": "Software Downgrade",
+    "description": "As a team, kill 50 stunned radiowave robots in an advanced mission in Mannhattan.",
+    "chapter": "Mann vs. Machine",
+    "hint": "When a gate is captured, all robots get stunned. Kill them while they're disabled.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MVM_MAPS_MANNHATTAN_BOMB_BOT_GRIND",
+    "display_name": "Urban Strike",
+    "description": "Kill 500 gate crashing robots in Mannhattan.",
+    "chapter": "Mann vs. Machine",
+    "hint": "Grind kills against the robots with glowing lights.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MVM_SENTRY_BUSTER_FRIENDLY_FIRE",
+    "display_name": "Bot-Buster",
+    "description": "Kill 5 robots in a single explosion from detonating a sentry buster.",
+    "chapter": "Mann vs. Machine",
+    "hint": "As Engineer, carry your Sentry near a group of robots when the Buster detonates.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MVM_MAPS_ROTTENBURG_PIT_GRIND",
+    "display_name": "A Bygone Century",
+    "description": "Pit 100 robots in Rottenburg.",
+    "chapter": "Mann vs. Machine",
+    "hint": "Airblast robots off the cliff side.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MVM_SNIPER_COLLECT_HEADSHOT_MONEY",
+    "display_name": "Bank On It",
+    "description": "As a Sniper collect $500 in a mission without running over the currency packs.",
+    "chapter": "Mann vs. Machine",
+    "hint": "Money dropped from enemies killed by headshots is instantly collected for you.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MVM_MEDIC_SHIELD_BLOCK_DAMAGE",
+    "display_name": "Wall of Pain",
+    "description": "Block 5,000 damage with the shield as a Medic in a single life.",
+    "chapter": "Mann vs. Machine",
+    "hint": "Purchase the Projectile Shield upgrade, build charge, and stand in front of giant Heavies/Soldiers.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MVM_MEDIC_REVIVE_TEAMMATES",
+    "display_name": "Reanimator 2",
+    "description": "Use one ÜberCharge to quickly revive 2 teammates within 5 seconds.",
+    "chapter": "Mann vs. Machine",
+    "hint": "Pop ÜberCharge to safely access and instantly revive two teammate holograms.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MVM_ROCKET_SPECIALIST_KILL_GRIND",
+    "display_name": "Robot Flush",
+    "description": "Kill 5 robots with a single rocket while upgraded with rocket specialist.",
+    "chapter": "Mann vs. Machine",
+    "hint": "Upgrade 'Rocket Specialist' fully and shoot into large, weak crowds (like Scouts).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MVM_ROCKET_SPECIALIST_STUN_GRIND",
+    "display_name": "Dazed and Defused",
+    "description": "Stun 50 robots while upgraded with rocket specialist.",
+    "chapter": "Mann vs. Machine",
+    "hint": "Rocket Specialist causes direct hits to stun targets. Hit giants repeatedly.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_PARACHUTE_KILL_GRIND",
+    "display_name": "Nose Dive",
+    "description": "Kill 10 parachuting players.",
+    "chapter": "General",
+    "hint": "Snipe or airshot Soldiers/Demos floating down with the B.A.S.E. Jumper.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MELEE_KILL_CLASSIC_RIFLE_SNIPER",
+    "display_name": "Punching Bag",
+    "description": "Melee kill 10 Snipers using The Classic.",
+    "chapter": "General",
+    "hint": "Sneak up on Snipers aiming down sights with The Classic and melee them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_KILL_CHARGING_DEMO",
+    "display_name": "Emergency Brake",
+    "description": "Kill a charging Demoman.",
+    "chapter": "General",
+    "hint": "A Heavy's Natascha is great for slowing and killing charging Demoknights.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SCOUT_BACKSCATTER_KILL_SPY_GRIND",
+    "display_name": "Back in Business",
+    "description": "While using the Back Scatter, kill 20 spies from behind.",
+    "chapter": "Scout",
+    "hint": "Equip the Back Scatter, catch a fleeing Spy, and shoot them in the back for mini-crits.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SCOUT_BACKSCATTER_KILL_HEAVY_MEDIC_PAIR",
+    "display_name": "Back 2 Back",
+    "description": "While using the Back Scatter, kill a Heavy/Medic pair within 20 seconds of each other.",
+    "chapter": "Scout",
+    "hint": "Flank them. Kill the Medic first from behind, then shoot the Heavy in the back.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SCOUT_BACKSCATTER_KILL_FRIENDS_GRIND",
+    "display_name": "Severed Ties",
+    "description": "While using the Back Scatter, kill 20 friends from behind.",
+    "chapter": "Scout",
+    "hint": "Play on opposite teams with a Steam friend and repeatedly flank them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SNIPER_CLASSIC_RIFLE_NOSCOPE_HEADSHOT",
+    "display_name": "Hipshot",
+    "description": "While using The Classic, kill 10 enemies with a full charge, no-scope headshot.",
+    "chapter": "Sniper",
+    "hint": "Hold M1 to charge The Classic without scoping in, release M1 on an enemy's head.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SNIPER_CLASSIC_RIFLE_HEADSHOT_JUMPER",
+    "display_name": "Eagle Eye",
+    "description": "While using The Classic, kill a rocket/grenade jumping enemy in midair with a full charge, no-scope headshot.",
+    "chapter": "Sniper",
+    "hint": "Requires immense luck and aim. Charge up and release on a jumping Soldier.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SNIPER_CLASSIC_RIFLE_GIB_GRIND",
+    "display_name": "Prime Cuts",
+    "description": "While using The Classic, gib all 9 classes during a single round.",
+    "chapter": "Sniper",
+    "hint": "The Classic gibs enemies on full-charge headshots. Headshot all 9 classes in one game.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SOLDIER_PARACHUTE_KILL_GROUP",
+    "display_name": "Upper Hand",
+    "description": "Kill 3 players during the same parachute deploy.",
+    "chapter": "Soldier",
+    "hint": "Equip the B.A.S.E. Jumper and Air Strike. Rocket jump high, deploy, and spam rockets into a group.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SOLDIER_PARACHUTE_DISTANCE",
+    "display_name": "Project Excelsior",
+    "description": "Parachute 19.47 miles.",
+    "chapter": "Soldier",
+    "hint": "Equip the B.A.S.E. jumper and play heavily on maps with high jump points.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SOLDIER_PARACHUTE_KILL_PARACHUTE",
+    "display_name": "Dogfight",
+    "description": "Kill a parachuting player while parachuting.",
+    "chapter": "Soldier",
+    "hint": "Air-shot another flying Soldier while using your own B.A.S.E. jumper.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_DEMOMAN_PARACHUTE_KILL_GROUP",
+    "display_name": "Air Raid",
+    "description": "Kill 3 players during the same parachute deploy.",
+    "chapter": "Demoman",
+    "hint": "Sticky jump high, pop your parachute, and rain down stickybombs on a point.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_DEMOMAN_PARACHUTE_DISTANCE",
+    "display_name": "Operation High Dive",
+    "description": "Parachute 19.47 miles.",
+    "chapter": "Demoman",
+    "hint": "Grind floating distance using the B.A.S.E. Jumper.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_DEMOMAN_PARACHUTE_KILL_PARACHUTE",
+    "display_name": "Flight Control",
+    "description": "Kill a parachuting player while parachuting.",
+    "chapter": "Demoman",
+    "hint": "Hit another floater with a grenade mid-air.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_DEMOMAN_KILL_PLAYER_YOU_DIDNT_SEE",
+    "display_name": "U-Turn",
+    "description": "Kill an enemy that you couldn't see at the beginning of your charge.",
+    "chapter": "Demoman",
+    "hint": "Use the Tide Turner shield to charge around a corner and kill an unseen enemy.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_DEMOMAN_QUICK_KILLS",
+    "display_name": "Chain Reaction",
+    "description": "Get 3 kills within 6 seconds using the Demoman charge.",
+    "chapter": "Demoman",
+    "hint": "The Tide Turner refills your charge meter on kill. Chain 3 kills together quickly.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_DEMOMAN_CHARGE_KILL_CHARGING_DEMO",
+    "display_name": "Head-On Collision",
+    "description": "Kill a charging Demoman while charging.",
+    "chapter": "Demoman",
+    "hint": "Timing is crucial. Swing your sword slightly earlier than the enemy Demoknight.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SPY_KILL_BACKSCATTER_SCOUT",
+    "display_name": "Fast Fingers",
+    "description": "Backstab a Scout that is using the Back Scatter.",
+    "chapter": "Spy",
+    "hint": "Find a Scout with the twin-drum Back Scatter equipped and backstab them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SOLDIER_AIRSTRIKE_MAX_CLIP",
+    "display_name": "Maximum Potential",
+    "description": "Collect enough casualties to get the max clip for the Air Strike.",
+    "chapter": "Soldier",
+    "hint": "Get 4 kills with the Air Strike without dying to increase its clip size to 8.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SOLDIER_AIRSTRIKE_GROUP_KILL",
+    "display_name": "Bombs Away!",
+    "description": "Kill 3 people with the Air Strike during a single rocket jump.",
+    "chapter": "Soldier",
+    "hint": "Build your clip size first, then jump and unleash all 8 rockets on a payload cart.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_SNIPER_PARACHUTE_GRIND",
+    "display_name": "Flight Cancelled",
+    "description": "Kill 25 parachuting players with a critical headshot.",
+    "chapter": "Sniper",
+    "hint": "Track B.A.S.E. jumping players. Their slow fall makes them easy headshot targets.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_TAUNT_CONGA_KILL",
+    "display_name": "Party Crasher",
+    "description": "Kill 3 players who are doing the Conga within 5 seconds.",
+    "chapter": "Taunts",
+    "hint": "Shoot an explosive into a group doing the Conga taunt.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_TAUNT_CONGA_LINE",
+    "display_name": "Conga Line",
+    "description": "Do the Conga with 10 or more players at the same time.",
+    "chapter": "Taunts",
+    "hint": "Join a friendly server or start a Conga line during setup/humiliation.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_TAUNT_RPS_ROCK",
+    "display_name": "On The Rocks",
+    "description": "Lose at Rock, Paper, Scissors 3 times in a row with Rock.",
+    "chapter": "Taunts",
+    "hint": "Completely random. Keep playing the RPS taunt with someone until it unlocks.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_TAUNT_RPS_SCISSORS",
+    "display_name": "Running With Scissors",
+    "description": "Win at Rock, Paper, Scissors 3 times in a row with Scissors.",
+    "chapter": "Taunts",
+    "hint": "Completely random. Keep doing the RPS taunt.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_TAUNT_DOSIDO_MELLE_KILL",
+    "display_name": "May I Cut In, Too?",
+    "description": "Melee kill 10 players while they are doing the Square Dance taunt.",
+    "chapter": "Taunts",
+    "hint": "Interrupt enemy taunts with a melee swing.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_TAUNT_WHILE_CAPPING",
+    "display_name": "Showboat",
+    "description": "Do 10 partner taunts with a teammate while capturing a control point.",
+    "chapter": "Taunts",
+    "hint": "Initiate High-Five, RPS, or Square Dance while standing on a point.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_PYRO_IGNITE_PLAYER_BEING_FLIPPED",
+    "display_name": "Flip-Kabob",
+    "description": "Ignite a player that is being flipped by someone using the Flippin' Awesome taunt.",
+    "chapter": "Taunts",
+    "hint": "As a Pyro, watch for two players doing the backflip taunt and spray fire on them mid-flip.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HALLOWEEN_DOOMSDAY_KILL_KARTS",
+    "display_name": "Carnival of Carnage: Bumper Crop",
+    "description": "Kill 30 enemies by bumping their bumper cars off the tracks.",
+    "chapter": "Halloween Event",
+    "hint": "On sd_doomsday_event, hit enemies off the platform during the Bumper Car mini-games.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HALLOWEEN_DOOMSDAY_COLLECT_DUCKS",
+    "display_name": "Carnival of Carnage: Up All Night To Get Ducky",
+    "description": "Collect 250 ducks.",
+    "chapter": "Halloween Event",
+    "hint": "Collect the yellow ducks that spawn during the Bumper Car mini-games on Doomsday Event.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HALLOWEEN_DOOMSDAY_SCORE_GOALS",
+    "display_name": "Carnival of Carnage: Hat Trick",
+    "description": "Score 3 goals in bumper car soccer.",
+    "chapter": "Halloween Event",
+    "hint": "During the bumper car soccer mini-game, hit the giant ball into the goal.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HALLOWEEN_DOOMSDAY_RESPAWN_TEAMMATES",
+    "display_name": "Carnival of Carnage: ReinKartnation",
+    "description": "Respawn 30 ghost teammates during bumper car games.",
+    "chapter": "Halloween Event",
+    "hint": "Touch a teammate's ghost while driving a bumper car to revive them.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HALLOWEEN_DOOMSDAY_TINY_SMASHER",
+    "display_name": "Carnival of Carnage: Arms Reduction",
+    "description": "Kill 15 enemies while under the effect of Merasmus's melee-only curse.",
+    "chapter": "Halloween Event",
+    "hint": "When Merasmus shrinks everyone to have big heads/melee only, get kills.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HALLOWEEN_DOOMSDAY_MILESTONE",
+    "display_name": "Carnival of Carnage: Step Right Up",
+    "description": "Earn 4 of the Carnival of Carnage achievements.",
+    "chapter": "Halloween Event",
+    "hint": "Complete any 4 achievements on sd_doomsday_event.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_HALLOWEEN_DOOMSDAY_WIN_MINIGAMES",
+    "display_name": "Carnival of Carnage: Bumper to Bumper to Bumper",
+    "description": "Win each of the 3 bumper car games to earn a bonus Halloween Gift Cauldron.",
+    "chapter": "Halloween Event",
+    "hint": "Win the Soccer, Falling Platforms, and Duck collection mini-games.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MAPS_POWERHOUSE_WIN_ROUNDS",
+    "display_name": "The Power and the Glory",
+    "description": "Win 142 Rounds.",
+    "chapter": "Powerhouse",
+    "hint": "Grind wins on CP_Powerhouse.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MAPS_POWERHOUSE_PUSH_BACK_AND_WIN",
+    "display_name": "Balance of Power",
+    "description": "Win a round in which the enemy team has attempted to capture your final control point.",
+    "chapter": "Powerhouse",
+    "hint": "Powerhouse is notorious for long stalemates. Just hold your last point and eventually push out.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MAPS_POWERHOUSE_FAST_FINAL_CAP",
+    "display_name": "Power Trip",
+    "description": "Capture the final control point within 15 seconds of your team capturing the previous control point.",
+    "chapter": "Powerhouse",
+    "hint": "Steamroll from mid immediately into their last point.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MAPS_POWERHOUSE_KILL_CAPPING_PLAYER",
+    "display_name": "Power Down",
+    "description": "Kill 15 enemies while they are capturing a point.",
+    "chapter": "Powerhouse",
+    "hint": "Spam explosives onto the mid point.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_MAPS_POWERHOUSE_KILL_ENEMY_IN_WATER",
+    "display_name": "Wet Work",
+    "description": "Kill five enemies while they are in the water.",
+    "chapter": "Powerhouse",
+    "hint": "Ambush enemies dropping into the water canals on Powerhouse.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_PASS_TIME_HAT",
+    "display_name": "Tune Merasmus's Multi-Dimensional Television",
+    "description": "Reveal the mystery of the PASS Time TV Room.",
+    "chapter": "PASS Time",
+    "hint": "Requires 3 classes to stand in specific spots on pass_brickyard, grabbing the jack, and unlocking a secret room. Use a community guide.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TF_PASS_TIME_GRIND",
+    "display_name": "Jackpot!",
+    "description": "Win 10 rounds playing PASS Time.",
+    "chapter": "PASS Time",
+    "hint": "Play the PASS Time game mode and score goals with the Jack to win.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  }
+]

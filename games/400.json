@@ -1,0 +1,152 @@
+[
+  {
+    "apiname": "PORTAL_GET_PORTALGUNS",
+    "display_name": "Lab Rat",
+    "description": "Acquire the fully powered Aperture Science Handheld Portal Device.",
+    "chapter": "Test Chamber 11",
+    "hint": "Unmissable story achievement. You will get the dual-portal gun in Test Chamber 11.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "PORTAL_KILL_COMPANIONCUBE",
+    "display_name": "Fratricide",
+    "description": "Do whatever it takes to survive.",
+    "chapter": "Test Chamber 17",
+    "hint": "Unmissable story achievement. Incinerate the Weighted Companion Cube to proceed.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "PORTAL_ESCAPE_TESTCHAMBERS",
+    "display_name": "Partygoer",
+    "description": "Make the correct party escort submission position decision.",
+    "chapter": "Test Chamber 19",
+    "hint": "Unmissable story achievement. Escape the fire pit at the end of Test Chamber 19.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "PORTAL_BEAT_GAME",
+    "display_name": "Heartbreaker",
+    "description": "Complete Portal.",
+    "chapter": "Escape",
+    "hint": "Unmissable story achievement. Defeat GLaDOS at the end of the game.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "PORTAL_INFINITEFALL",
+    "display_name": "Terminal Velocity",
+    "description": "Fall 30,000 feet.",
+    "chapter": "",
+    "hint": "Place one portal on the ceiling and one directly below it on the floor. Jump in and fall continuously for about 5 minutes until the achievement pops.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "PORTAL_LONGJUMP",
+    "display_name": "Long Jump",
+    "description": "Jump 300 feet.",
+    "chapter": "",
+    "hint": "Best done in the large open areas of Test Chamber 15 or 19. Build up extreme momentum by falling into a floor portal to launch yourself across a massive gap.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "PORTAL_BEAT_2ADVANCEDMAPS",
+    "display_name": "Cupcake",
+    "description": "Beat two Portal advanced maps.",
+    "chapter": "Bonus Maps",
+    "hint": "Accessible from the main menu after beating the game. Complete any 2 of the 6 Advanced Chambers.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "PORTAL_BEAT_4ADVANCEDMAPS",
+    "display_name": "Fruitcake",
+    "description": "Beat four Portal advanced maps.",
+    "chapter": "Bonus Maps",
+    "hint": "Accessible from the main menu. Complete any 4 of the 6 Advanced Chambers.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "PORTAL_BEAT_6ADVANCEDMAPS",
+    "display_name": "Vanilla Crazy Cake",
+    "description": "Beat all six Portal advanced maps.",
+    "chapter": "Bonus Maps",
+    "hint": "Accessible from the main menu. Complete all 6 Advanced Chambers. They are harder versions of Chambers 13, 14, 15, 16, 17, and 18.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "PORTAL_GET_ALLBRONZE",
+    "display_name": "Basic Science",
+    "description": "Earn bronze medals on all Portal challenges.",
+    "chapter": "Bonus Maps",
+    "hint": "Complete the Portals, Steps, and Time challenges for Chambers 13-18 with at least a Bronze rating.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "PORTAL_GET_ALLSILVER",
+    "display_name": "Rocket Science",
+    "description": "Earn silver medals on all Portal challenges.",
+    "chapter": "Bonus Maps",
+    "hint": "Complete the Portals, Steps, and Time challenges for Chambers 13-18 with at least a Silver rating.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "PORTAL_GET_ALLGOLD",
+    "display_name": "Aperture Science",
+    "description": "Earn gold medals on all Portal challenges.",
+    "chapter": "Bonus Maps",
+    "hint": "Complete the Portals, Steps, and Time challenges for Chambers 13-18 with a Gold rating. Look up speedrun or low-portal routing guides.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "PORTAL_DETACH_ALL_CAMERAS",
+    "display_name": "Camera Shy",
+    "description": "Detach security cameras from the walls.",
+    "chapter": "",
+    "hint": "There are 33 wall-mounted cameras throughout the game. Knock them off by shooting a portal directly onto the wall they are attached to, or by throwing a cube at them.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "PORTAL_HIT_TURRET_WITH_TURRET",
+    "display_name": "Friendly Fire",
+    "description": "Knock down a turret with another turret.",
+    "chapter": "Test Chamber 16",
+    "hint": "Pick up an active or disabled turret and physically drop/throw it onto a second standing turret to knock it over.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "PORTAL_TRANSMISSION_RECEIVED",
+    "display_name": "Transmission Received",
+    "description": "..?",
+    "chapter": "",
+    "hint": "Find all 26 hidden radios in the game (added during the 2010 ARG) and carry them to specific locations in their respective chambers until the red light turns green and you hear static/Morse code.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  }
+]
