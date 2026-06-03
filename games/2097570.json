@@ -1,0 +1,1002 @@
+[
+  {
+    "apiname": "BOMB_RADIUS_ACH",
+    "display_name": "KA-BOOOOM!",
+    "description": "Detonate a bomb with 5 or more radius.",
+    "chapter": "",
+    "hint": "Use cards that increase bomb radius or combine smaller bombs into larger ones before attacking them to detonate.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "FIRE_BULLETS_ACH",
+    "display_name": "pewpewpewpewpewpew",
+    "description": "Fire 30 or more bullets in a single turn.",
+    "chapter": "",
+    "hint": "Use cards with high multi-hit counts like Gatling guns or abilities that repeat attacks to shoot 30 times in one turn.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "COMBO_ACH",
+    "display_name": "WOMBO COMBO",
+    "description": "Reach a combo of 25 or more.",
+    "chapter": "",
+    "hint": "Build your combo meter to 25+ by playing multiple zero-cost cards, energy-refunding movement cards, and utilizing high card draw in a single turn.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "BURN_CARDS_ACH",
+    "display_name": "Fire Fist",
+    "description": "Win an encounter with 7 or more burnt cards in your hand, discard, and draw combined.",
+    "chapter": "",
+    "hint": "Roxy is the best pilot for this. Draft cards that have the Burn keyword or add Burn to cards, and avoid purging them until the encounter ends.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "HEAT_SINK_ACH",
+    "display_name": "Lazengann Overload",
+    "description": "Reach a heat sink of 7 or more.",
+    "chapter": "",
+    "hint": "Play defensive cards that grant the Heat Sink status effect to increase your heat capacity beyond 7.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "LARGE_DECK_ACH",
+    "display_name": "Maximalist",
+    "description": "Win a run with a deck size of 30 or more.",
+    "chapter": "",
+    "hint": "Accept card rewards at almost every opportunity and avoid purging cards at the shop to reach a 30+ card deck by the end of the run.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "SMALL_DECK_ACH",
+    "display_name": "Minimalist",
+    "description": "Win a run with a deck size of 8 or less.",
+    "chapter": "",
+    "hint": "Skip optional card rewards and prioritize spending your resources to purge cards aggressively at Min's shop or through events.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "PLAY_MANY_CARDS_ACH",
+    "display_name": "Wild Cards",
+    "description": "Play 10 or more cards in a single turn.",
+    "chapter": "",
+    "hint": "Focus on zero-cost cards, energy generation, and high card draw to easily chain 10+ cards in one round.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "PURGE_MANY_CARDS_ACH",
+    "display_name": "The Purge",
+    "description": "Purge 10 or more cards in a single encounter.",
+    "chapter": "",
+    "hint": "Prolong a fight against enemies that shuffle Junk into your deck, and continuously use the manual throw/purge action on those Junk cards.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "FLAWLESS_RUN_ACH",
+    "display_name": "Flawless Victory",
+    "description": "Win a run without getting struck or gaining any doom.",
+    "chapter": "",
+    "hint": "Prioritize movement and positioning to avoid all enemy telegraphs, and kill Doom-channelers immediately. Note that shields/armor do not prevent you from 'getting struck'.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ONE_ARTI_ACH",
+    "display_name": "Who Needs Artifacts?",
+    "description": "Win a run without gaining an artifact.",
+    "chapter": "",
+    "hint": "Avoid picking up any artifacts from Elite rewards, chests, or shops. Rely solely on your cards and upgrades.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NO_CARD_DRAFT_ACH",
+    "display_name": "Who Needs Cards?",
+    "description": "Win a run without taking any cards from rewards or the shop.",
+    "chapter": "",
+    "hint": "Skip all card rewards after encounters and do not purchase any cards from Min. Rely entirely on your starting deck and component upgrades.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "LOTS_OF_JUNK_ACH",
+    "display_name": "Junkrat",
+    "description": "Win an encounter with 10 or more junk cards in your hand, discard, and draw combined.",
+    "chapter": "",
+    "hint": "Stall a combat encounter against enemies that shuffle Junk into your deck until you've accumulated 10, then finish them off.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "MECH_STRUCK_ACH",
+    "display_name": "Masochist",
+    "description": "Get struck 7 or more times in a single turn.",
+    "chapter": "",
+    "hint": "Stack a massive amount of armor/shields or use invulnerability, then end your turn on tiles targeted by numerous weak enemy attacks.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_DOOMERS_ACH",
+    "display_name": "Judgment Day",
+    "description": "Kill 5 or more invaders that are channeling doom in a single turn.",
+    "chapter": "",
+    "hint": "Let multiple enemies begin channeling Doom. Lower their HP over a few turns, then finish 5 or more of them off simultaneously with an AOE attack.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "MANY_KILLS_WITH_ONE_CARD_ACH",
+    "display_name": "Normal Punch",
+    "description": "Kill 10 or more invaders by playing one card.",
+    "chapter": "",
+    "hint": "Weaken a large swarm of small enemies and use a wide Area of Effect (AOE) card, like a large Bomb or Cleave, to destroy 10+ at once.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NO_ANGELS_ESCAPE_ACH",
+    "display_name": "Witch Time",
+    "description": "Win a run without letting any Angels fly away.",
+    "chapter": "",
+    "hint": "Angels flee after a set number of turns. Always prioritize bursting them down before their escape timer reaches zero.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "MANY_REPEATS_ACH",
+    "display_name": "Death by a Thousand Strikes",
+    "description": "Play a card with 10 or more repeats.",
+    "chapter": "",
+    "hint": "Apply components or buffs that add the 'Repeat' modifier to a single low-cost attack card.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "FOUR_DOOM_WIN_ACH",
+    "display_name": "Stayin' Alive",
+    "description": "Win a run with 4 doom.",
+    "chapter": "",
+    "hint": "Allow the Doom meter to reach exactly 4 right before dealing the final blow to the final boss.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "WIN_RUN_ACH",
+    "display_name": "Cadet",
+    "description": "Win a run.",
+    "chapter": "",
+    "hint": "Successfully complete a full run on any difficulty.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "FRIENDLY_FIRE_INVADER_ACH",
+    "display_name": "Friendly Fire",
+    "description": "Have a shooter kill another invader.",
+    "chapter": "",
+    "hint": "Bait an enemy with a projectile attack into targeting you, then use a Move card to dodge so the shot hits an enemy behind you.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "OVERHEAT_JUNK_ACH",
+    "display_name": "Trash Fire",
+    "description": "Overheat with a Junk card.",
+    "chapter": "",
+    "hint": "Reach maximum heat and play a Junk card to trigger the Overheat damage effect.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "BOMB_LIMIT_ACH",
+    "display_name": "Limit Break",
+    "description": "Go over the bomb limit.",
+    "chapter": "",
+    "hint": "Generate bombs using cards/abilities when the grid already contains the maximum allowable number of bombs.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "REROLL_REWARD_ACH",
+    "display_name": "D-Mail",
+    "description": "Reroll the shop or an encounter reward.",
+    "chapter": "",
+    "hint": "Use a Chrono Token to reroll the selection screen after an encounter or in Min's shop.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "COMPLETE_TUTORIAL_ACH",
+    "display_name": "Baby Steps",
+    "description": "Complete the tutorial.",
+    "chapter": "",
+    "hint": "Select and finish the tutorial from the main menu.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_BOSS_ONE_TURN_ACH",
+    "display_name": "You Are Already Dead",
+    "description": "Defeat a boss in a single turn.",
+    "chapter": "",
+    "hint": "Build an infinite loop or a highly optimized damage combo. Alternatively, use powerful meta-progression to burst an early-game boss down on turn 1.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ROXY_WIN_ACH",
+    "display_name": "ON FIRE!!!",
+    "description": "Win a run as Roxy.",
+    "chapter": "",
+    "hint": "Complete a full run playing as Roxy.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NOEL_WIN_ACH",
+    "display_name": "Hot Chocolate",
+    "description": "Win a run as Noel.",
+    "chapter": "",
+    "hint": "Complete a full run playing as Noel.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ZEKE_WIN_ACH",
+    "display_name": "Battle-Tested",
+    "description": "Win a run as Zeke.",
+    "chapter": "",
+    "hint": "Complete a full run playing as Zeke.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "BEAT_MOTHERSHIP_ACH",
+    "display_name": "Big Mom",
+    "description": "Defeat the Mothership.",
+    "chapter": "",
+    "hint": "Encounter and defeat the Mothership boss during a run.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "BEAT_BLOB_ACH",
+    "display_name": "Jello",
+    "description": "Defeat the Megablob.",
+    "chapter": "",
+    "hint": "Encounter and defeat the Megablob boss during a run.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "BEAT_KRAKEN_ACH",
+    "display_name": "Calamari",
+    "description": "Defeat the Kraken.",
+    "chapter": "",
+    "hint": "Encounter and defeat the Kraken boss during a run.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "BUY_EVERYTHING_ACH",
+    "display_name": "Min will remember that.",
+    "description": "Buy everything in Min's shop.",
+    "chapter": "",
+    "hint": "Save up a large amount of currency and purchase every single card, artifact, and purge available at Min's shop in one visit.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "HALI_WIN_ACH",
+    "display_name": "Job's Done",
+    "description": "Win a run as Hali.",
+    "chapter": "",
+    "hint": "Complete a full run playing as Hali.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "IRIS_WIN_ACH",
+    "display_name": "Clean Up",
+    "description": "Win a run as Iris.",
+    "chapter": "",
+    "hint": "Complete a full run playing as Iris.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "XENN_WIN_ACH",
+    "display_name": "Starman",
+    "description": "Win a run as Xenn.",
+    "chapter": "",
+    "hint": "Complete a full run playing as Xenn.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "SURA_WIN_ACH",
+    "display_name": "Prepare for Trouble!",
+    "description": "Win a run as Sura.",
+    "chapter": "",
+    "hint": "Complete a full run playing as Sura.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "GARU_WIN_ACH",
+    "display_name": "Make it Double!",
+    "description": "Win a run as Garu.",
+    "chapter": "",
+    "hint": "Complete a full run playing as Garu.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "BEAT_ECLIPSE_ACH",
+    "display_name": "Egress",
+    "description": "Defeat the Eclipse.",
+    "chapter": "",
+    "hint": "Encounter and defeat the Eclipse boss during a run.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "BEAT_NESSIE_ACH",
+    "display_name": "Fishbait",
+    "description": "Defeat Nessie.",
+    "chapter": "",
+    "hint": "Encounter and defeat the Nessie boss during a run.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "BEAT_QUEENS_ACH",
+    "display_name": "Beekeeper",
+    "description": "Defeat the Queen Bees.",
+    "chapter": "",
+    "hint": "Encounter and defeat the Queen Bees boss during a run.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "BEAT_HEMOPHAGE_ACH",
+    "display_name": "Red Wedding",
+    "description": "Defeat the Hemophage.",
+    "chapter": "",
+    "hint": "Encounter and defeat the Hemophage boss during a run.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "BATTERY_ACH",
+    "display_name": "Zap!",
+    "description": "Reach 10 or more battery.",
+    "chapter": "",
+    "hint": "Play as Zeke or use battery-generating cards. Accumulate 10 Battery without spending it on Overdrive.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "THROW_JUNK_ACH",
+    "display_name": "Get Outta Here!",
+    "description": "Kill an invader by throwing a junk card.",
+    "chapter": "",
+    "hint": "Weaken an enemy to 1 HP, select a Junk card in your hand, and use the purge/throw action to hit them with it.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "STRUCK_WHILE_SHOCK_ACH",
+    "display_name": "Starstruck",
+    "description": "Get struck while your mech is shocked.",
+    "chapter": "",
+    "hint": "Allow yourself to be hit by a shock-inflicting attack (or shock yourself), then get hit by another attack while the debuff is active.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "MOVE_LOTS_ACH",
+    "display_name": "Happy Feet",
+    "description": "Move 10 or more times in a single turn (Stinger).",
+    "chapter": "",
+    "hint": "Use movement cards that refund cost, zero-cost moves, or movement-triggering combos to reposition 10 times in a single round.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "SACRIFICE_INV_ACH",
+    "display_name": "Sacrificial Lamb",
+    "description": "Sacrifice an invader.",
+    "chapter": "",
+    "hint": "Use a Sacrifice card or ability and target an enemy invader instead of your own friendly summons.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ONE_SUMMON_ACH",
+    "display_name": "The Chosen One",
+    "description": "Win an encounter without spawning more than one entity (Keeper).",
+    "chapter": "",
+    "hint": "As Keeper, rely on your mech's attacks or stick to spawning and upgrading only one single summon for an entire encounter.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "MANY_SPELL_ACH",
+    "display_name": "AVRADA KEDAVRAVRAVRAVRAVRAVRA",
+    "description": "Activate 6 or more spells in a single turn.",
+    "chapter": "",
+    "hint": "Play as Xenn. Draft multiple cheap spells and utilize mana-generation to cast 6 spells in one turn.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "LOTS_OF_MANA_ACH",
+    "display_name": "Archangel",
+    "description": "Reach 10 or more mana.",
+    "chapter": "",
+    "hint": "Hoard mana by using mana-generation cards without spending it on spells until you reach 10.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "SPAWN_UNIQUE_ACH",
+    "display_name": "The Gang's All Here",
+    "description": "Spawn 5 or more unique entities in a single turn.",
+    "chapter": "",
+    "hint": "Draft cards that spawn different types of units (drones, turrets, bombs, etc.) and play them all in one turn.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KILL_WITH_HOLE_ACH",
+    "display_name": "THIS IS STARVADERS!!!",
+    "description": "Kill an invader by pushing or pulling it into a hole.",
+    "chapter": "",
+    "hint": "Use push, pull, or gravity cards to force an enemy unit into a hole on the grid for an instant kill.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NO_ATTACK_ACH",
+    "display_name": "Pacifist",
+    "description": "Win an encounter without playing any attack cards.",
+    "chapter": "",
+    "hint": "Rely on Bombs, summons, environmental hazards (like holes), or indirect damage to clear an entire encounter without playing Attack cards.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "SACRIFICE_MANY_ACH",
+    "display_name": "For The Greater Good",
+    "description": "Sacrifice 5 or more entities in a single turn.",
+    "chapter": "",
+    "hint": "Spawn a board full of cheap entities (like small drones) and use an AOE sacrifice or chain sacrifice abilities.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ACTIVATE_SUMMON_ACH",
+    "display_name": "I Choose You!",
+    "description": "Activate a summon 5 or more times in a single turn.",
+    "chapter": "",
+    "hint": "Use cards that command a summon to attack or act multiple times in a single round.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "WIN_DAILY_ACH",
+    "display_name": "Carpe Diem",
+    "description": "Win a daily run.",
+    "chapter": "",
+    "hint": "Select the 'Daily Challenge' from the main menu and successfully complete it.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ANNOY_MIN_ACH",
+    "display_name": "Cut That Out.",
+    "description": "Annoy Min.",
+    "chapter": "",
+    "hint": "In the shop, click on Min repeatedly until she gets annoyed and tells you to stop.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "DEFEAT_CHAOS_GOD_ACH",
+    "display_name": "The End",
+    "description": "",
+    "chapter": "",
+    "hint": "Fulfill the specific secret/endgame conditions to face the true final boss, the Chaos God, and defeat it.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "ALL_PILOTS_WIN_ACH",
+    "display_name": "Fleet Commander",
+    "description": "Win a run with all pilots.",
+    "chapter": "",
+    "hint": "Complete at least one successful run with every available pilot in the game.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "SPLIT_TENTACLE_ACH",
+    "display_name": "Split!",
+    "description": "Split the Kraken's tentacle.",
+    "chapter": "",
+    "hint": "During the Kraken boss fight, deal enough damage to a tentacle to trigger its splitting mechanic.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "KAIA_WIN_ACH",
+    "display_name": "Pirate King",
+    "description": "Win a run as Kaia.",
+    "chapter": "",
+    "hint": "Complete a full run playing as Kaia.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "SHUN_WIN_ACH",
+    "display_name": "Nappy Time",
+    "description": "Win a run as Shun.",
+    "chapter": "",
+    "hint": "Complete a full run playing as Shun.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "PICKUPS_ON_GRID_ACH",
+    "display_name": "The Collector",
+    "description": "Have 15 or more pickups on the grid at once.",
+    "chapter": "",
+    "hint": "Avoid picking up the dropped energy/health/currency crystals from defeated enemies until there are 15 scattered on the board.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "BEAT_SHAMBLER_ACH",
+    "display_name": "In Shambles",
+    "description": "Defeat the Shambler.",
+    "chapter": "",
+    "hint": "Encounter and defeat the Shambler boss during a run.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "BEAT_GRANDMASTER_ACH",
+    "display_name": "Queen's Gambit",
+    "description": "Defeat the Grandmaster.",
+    "chapter": "",
+    "hint": "Encounter and defeat the Grandmaster boss during a run.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "MIN_RESEARCH_ACH",
+    "display_name": "Research Assistant",
+    "description": "Help Min complete her research.",
+    "chapter": "",
+    "hint": "Spend the necessary meta-progression resources at Min to complete her research tree unlockables.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "WIN_RUN_INVASION_ACH",
+    "display_name": "Lieutenant",
+    "description": "Win a run on Invasion.",
+    "chapter": "",
+    "hint": "Complete a run on the Invasion difficulty tier.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "WIN_RUN_APOC_ACH",
+    "display_name": "Top Gun",
+    "description": "Win a run on Apocalypse.",
+    "chapter": "",
+    "hint": "Complete a run on the Apocalypse difficulty tier.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "UNLOCK_ALL_INVADERS_ACH",
+    "display_name": "Armageddon",
+    "description": "Unlock all bosses and invaders in the game.",
+    "chapter": "",
+    "hint": "Play through the game enough times to encounter every enemy type and boss to fill out the compendium.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "MAX_HAND_SIZE_ACH",
+    "display_name": "Why Can't I Hold All These Cards?",
+    "description": "Reach the max hand size (of 12).",
+    "chapter": "",
+    "hint": "Use draw cards and artifacts that increase your hand limit or retain cards until your hand reaches 12.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "WIN_RUN_POSTAPOC_ACH",
+    "display_name": "Consecrated",
+    "description": "Win a run on Post-Apocalypse difficulty.",
+    "chapter": "",
+    "hint": "Complete a run on the Post-Apocalypse difficulty tier.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "WIN_RUN_POSTPOSTAPOC_ACH",
+    "display_name": "Exalted",
+    "description": "Win a run on Post-Post-Apocalypse difficulty.",
+    "chapter": "",
+    "hint": "Complete a run on the Post-Post-Apocalypse difficulty tier.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "WIN_RUN_IMPOSSIBLE_ACH",
+    "display_name": "Ascendant",
+    "description": "Win a run on Impossible difficulty.",
+    "chapter": "",
+    "hint": "Complete a run on the Impossible difficulty tier.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "COMPLETE_ALL_CHALLENGES_ACH",
+    "display_name": "Thank You For Playing! <3",
+    "description": "Complete ALL challenges in the game.",
+    "chapter": "",
+    "hint": "Complete every single pilot-specific scenario/puzzle available in the Challenges menu.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "COMPLETE_ROXY_CHALLENGES_ACH",
+    "display_name": "Aim for The Top",
+    "description": "Complete all Roxy challenges.",
+    "chapter": "",
+    "hint": "Complete all scenarios for Roxy in the Challenges menu.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "COMPLETE_NOEL_CHALLENGES_ACH",
+    "display_name": "Blizzard of Hell",
+    "description": "Complete all Noel challenges.",
+    "chapter": "",
+    "hint": "Complete all scenarios for Noel in the Challenges menu.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "COMPLETE_ZEKE_CHALLENGES_ACH",
+    "display_name": "Fullmetal",
+    "description": "Complete all Zeke challenges.",
+    "chapter": "",
+    "hint": "Complete all scenarios for Zeke in the Challenges menu.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "COMPLETE_SHUN_CHALLENGES_ACH",
+    "display_name": "Godspeed",
+    "description": "Complete all Shun challenges.",
+    "chapter": "",
+    "hint": "Complete all scenarios for Shun in the Challenges menu.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "COMPLETE_HALI_CHALLENGES_ACH",
+    "display_name": "Poseidon's Aid",
+    "description": "Complete all Hali challenges.",
+    "chapter": "",
+    "hint": "Complete all scenarios for Hali in the Challenges menu.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "COMPLETE_KAIA_CHALLENGES_ACH",
+    "display_name": "Warrior of Liberation",
+    "description": "Complete all Kaia challenges.",
+    "chapter": "",
+    "hint": "Complete all scenarios for Kaia in the Challenges menu.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "COMPLETE_IRIS_CHALLENGES_ACH",
+    "display_name": "Iron-Blooded Orphan",
+    "description": "Complete all Iris challenges.",
+    "chapter": "",
+    "hint": "Complete all scenarios for Iris in the Challenges menu.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "COMPLETE_XENN_CHALLENGES_ACH",
+    "display_name": "El Psy Kongroo",
+    "description": "Complete all Xenn challenges.",
+    "chapter": "",
+    "hint": "Complete all scenarios for Xenn in the Challenges menu.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "COMPLETE_GARU_CHALLENGES_ACH",
+    "display_name": "Devils Never Cry",
+    "description": "Complete all Garu challenges.",
+    "chapter": "",
+    "hint": "Complete all scenarios for Garu in the Challenges menu.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "COMPLETE_SURA_CHALLENGES_ACH",
+    "display_name": "Bury The Light",
+    "description": "Complete all Sura challenges.",
+    "chapter": "",
+    "hint": "Complete all scenarios for Sura in the Challenges menu.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "WIN_RUN_NOCOMP_ACH",
+    "display_name": "Purist",
+    "description": "Win a run without any components on your cards.",
+    "chapter": "",
+    "hint": "Ignore the component installation feature entirely. Do not attach any modifiers/upgrades to your cards for the whole run.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NO_MOVE_ACH",
+    "display_name": "Tower Defense",
+    "description": "Win an encounter without playing a Move card.",
+    "chapter": "",
+    "hint": "Win a battle without playing any cards with the 'Move' tag. Rely on tanking hits or using attacks that have built-in repositioning.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "MIN_WIN_ACH",
+    "display_name": "( ͡° ͜ʖ ͡°)",
+    "description": "Win with Min.",
+    "chapter": "",
+    "hint": "Complete a full run playing as Min.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "MAX_WIN_ACH",
+    "display_name": "Lost in Time",
+    "description": "Win with Max.",
+    "chapter": "",
+    "hint": "Complete a full run playing as Max.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "COMPLETE_MIN_CHALLENGES_ACH",
+    "display_name": "Turbo Granny",
+    "description": "Complete Min Challenges.",
+    "chapter": "",
+    "hint": "Complete all scenarios for Min in the Challenges menu.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "COMPLETE_MAX_CHALLENGES_ACH",
+    "display_name": "Into the StarVader-Verse",
+    "description": "Complete Max Challenges.",
+    "chapter": "",
+    "hint": "Complete all scenarios for Max in the Challenges menu.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "WIN_ULTIMATE_ENDING",
+    "display_name": "The Actual End...?",
+    "description": "Complete the Ultimate Ending.",
+    "chapter": "",
+    "hint": "Complete the true final sequence of the game, typically unlocked by beating the highest difficulties or defeating the Chaos God.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "PRESS_THE_BUTTON",
+    "display_name": "nice",
+    "description": "nice",
+    "chapter": "",
+    "hint": "Likely related to the number 69 (e.g., deal exactly 69 damage, reach 69 combo, or have 69 health), or interacting with a specific hidden button in the menus.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "HAVE_EIGHT_BOMBS",
+    "display_name": "Killer Queen",
+    "description": "End the turn with 8 or more Bombs on the grid at the same time.",
+    "chapter": "",
+    "hint": "Draft multiple bomb-spawning cards and play them without detonating until 8 are present on the grid.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "HAVE_EIGHT_SHOCKED",
+    "display_name": "Electric Feel",
+    "description": "End the turn with 8 or more Shocked entities.",
+    "chapter": "",
+    "hint": "Use widespread electric/shock AOE attacks to apply the shock status to 8 different entities simultaneously.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "WIN_RUN_NO_REROLLS",
+    "display_name": "Timeless",
+    "description": "Win a run without using a Chrono Token.",
+    "chapter": "",
+    "hint": "Do not click the Chrono Token reroll button at any shop or reward screen for an entire run.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "WIN_RUN_NO_STARTER",
+    "display_name": "Veteran",
+    "description": "Win a run without having any Starter cards remaining in your deck.",
+    "chapter": "",
+    "hint": "Aggressively purge and replace all of your base starter cards at Min's shop and events before completing the run.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "WIN_RUN_NO_RARE",
+    "display_name": "The Bare Necessities",
+    "description": "Win a run without Rare or Legendary cards.",
+    "chapter": "",
+    "hint": "Only draft Common and Uncommon cards. Pass on any Rare or Legendary cards offered to you.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "WINSTREAK_PILOT",
+    "display_name": "Run It Back",
+    "description": "Have winstreak of 5 or more on any pilot.",
+    "chapter": "",
+    "hint": "Successfully complete 5 runs in a row with the same pilot without dying or abandoning.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "WIN_RUN_LOTS_ARTI",
+    "display_name": "Hoarder",
+    "description": "Win a run with 10 or more artifacts.",
+    "chapter": "",
+    "hint": "Hunt Elites, buy artifacts in shops, and take events that grant them to end the run with 10+.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "WIN_RUN_LOTS_COMP",
+    "display_name": "Cyberware",
+    "description": "Win a run with 8 or more cards with components.",
+    "chapter": "",
+    "hint": "Frequently install components/upgrades onto your cards at shops and events until at least 8 cards are modified.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  }
+]

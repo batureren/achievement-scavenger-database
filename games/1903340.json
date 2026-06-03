@@ -1,0 +1,552 @@
+[
+  {
+    "apiname": "LUMIERE",
+    "display_name": "Lumière",
+    "description": "Embark on the Expedition.",
+    "chapter": "",
+    "hint": "Story-related and unmissable. Unlocks at the very beginning of the game when you set out on your journey.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "SPRING_MEADOWS",
+    "display_name": "Spring Meadows",
+    "description": "Complete the Spring Meadows area.",
+    "chapter": "",
+    "hint": "Story-related and unmissable. Unlocks naturally as you progress through the Spring Meadows chapter.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "FLYING_WATERS",
+    "display_name": "Flying Waters",
+    "description": "Complete the Flying Waters area.",
+    "chapter": "",
+    "hint": "Story-related and unmissable. Unlocks naturally as you finish the Flying Waters section of the map.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ANCIENT_SANCTUARY",
+    "display_name": "Ancient Sanctuary",
+    "description": "Complete the Ancient Sanctuary.",
+    "chapter": "",
+    "hint": "Story-related and unmissable. Unlocks upon concluding the events at the Ancient Sanctuary.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "GESTRAL_VILLAGE",
+    "display_name": "Gestral Village",
+    "description": "Reach or complete the Gestral Village.",
+    "chapter": "",
+    "hint": "Story-related and unmissable. Unlocks naturally when progressing through the Gestral Village.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ESQUIES_NEST",
+    "display_name": "Esquie's Nest",
+    "description": "Complete the Esquie's Nest area.",
+    "chapter": "",
+    "hint": "Story-related and unmissable. Unlocks naturally during the main campaign when finishing Esquie's Nest.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "STONE_WAVE_CLIFFS",
+    "display_name": "Stone Wave Cliffs",
+    "description": "Complete the Stone Wave Cliffs.",
+    "chapter": "",
+    "hint": "Story-related and unmissable. Unlocks upon progressing past the Stone Wave Cliffs region.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "FORGOTTEN_BATTLEFIELD",
+    "display_name": "Forgotten Battlefield",
+    "description": "Explore the Forgotten Battlefield.",
+    "chapter": "",
+    "hint": "Story-related and unmissable. Unlocks naturally as you traverse the Forgotten Battlefield.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "GRANDIS_STATION",
+    "display_name": "Monoco's Station",
+    "description": "Complete the events at Monoco's Station.",
+    "chapter": "",
+    "hint": "Story-related and unmissable. You will earn this after completing the primary objectives at Monoco's Station.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "OLD_LUMIERE",
+    "display_name": "Old Lumière",
+    "description": "Discover Old Lumière.",
+    "chapter": "",
+    "hint": "Story-related and unmissable. Unlocks when the main story takes you through the ruins of Old Lumière.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "FIRST_AXON",
+    "display_name": "First Axon",
+    "description": "Complete the First Axon chapter.",
+    "chapter": "",
+    "hint": "Story-related and unmissable. Unlocks after clearing the First Axon.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "SECOND_AXON",
+    "display_name": "Second Axon",
+    "description": "Complete the Second Axon chapter.",
+    "chapter": "",
+    "hint": "Story-related and unmissable. Unlocks after clearing the Second Axon.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "MONOLITH",
+    "display_name": "Monolith",
+    "description": "Reach the Monolith.",
+    "chapter": "",
+    "hint": "Story-related and unmissable. Unlocks as you progress into the late game and reach the Monolith.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "PAINTRESS",
+    "display_name": "Paintress",
+    "description": "Defeat the Paintress.",
+    "chapter": "",
+    "hint": "Story-related and unmissable. Unlocks after winning the climactic boss battle against the Paintress.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "BACK_TO_LUMIERE",
+    "display_name": "Back to Lumière",
+    "description": "Return to Lumière.",
+    "chapter": "",
+    "hint": "Story-related and unmissable. Unlocks upon your eventual return to Lumière near the conclusion of the story.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "THE_END",
+    "display_name": "The End",
+    "description": "Complete the game.",
+    "chapter": "",
+    "hint": "Story-related and unmissable. Unlocks after finishing the final chapter and watching the end credits.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "ESQUIE_UPGRADES",
+    "display_name": "Plane, Train, and Submarine",
+    "description": "Unlock all traversal upgrades.",
+    "chapter": "",
+    "hint": "You will need to acquire all traversal forms (Plane, Train, Submarine) to fully explore the game's world. Check for side activities and explore thoroughly to find them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "JOURNALS",
+    "display_name": "Follow The Trail",
+    "description": "Find all of the journals from prior expeditions.",
+    "chapter": "",
+    "hint": "Journals are hidden collectibles scattered throughout the world left by Expeditions 1 to 32. Make sure to thoroughly check every corner of the map.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEVRON_QUESTS",
+    "display_name": "Aiding the Enemy",
+    "description": "Complete all of Nevron's quests.",
+    "chapter": "",
+    "hint": "Speak to Nevron whenever available at camp or in the world and complete their entire chain of side quests.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "SIMON",
+    "display_name": "Peace At Last",
+    "description": "Complete Simon's storyline.",
+    "chapter": "",
+    "hint": "Follow and finish all side objectives and personal quests related to Simon.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "GESTRAL_BEACH",
+    "display_name": "Gestral Games",
+    "description": "Participate in the Gestral Games.",
+    "chapter": "",
+    "hint": "Visit the Gestral Beach area and successfully complete the mini-games or challenges offered there.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "CLEA",
+    "display_name": "Clea",
+    "description": "Complete Clea's storyline.",
+    "chapter": "",
+    "hint": "Interact with Clea whenever possible and follow her specific questline to completion.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ENDLESS_TOWER",
+    "display_name": "“Endless”",
+    "description": "Conquer the Endless Tower.",
+    "chapter": "",
+    "hint": "The Endless Tower is an endgame combat gauntlet. Prepare your team with high-level gear and abilities before attempting to clear it.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "LOST_GESTRALS",
+    "display_name": "Lost Gestrals",
+    "description": "Find and rescue all Lost Gestrals.",
+    "chapter": "",
+    "hint": "Lost Gestrals are hidden throughout the various regions. Explore off the beaten path to find and return them.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "SERPENPHARE",
+    "display_name": "À On",
+    "description": "Defeat or activate the Serpenphare.",
+    "chapter": "",
+    "hint": "Complete the puzzle or boss encounter tied to the Serpenphare. Make sure you are well-leveled before engaging.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "SPRONG",
+    "display_name": "Sprong",
+    "description": "Defeat Sprong.",
+    "chapter": "",
+    "hint": "Defeat the optional boss/enemy known as Sprong. Ensure your party is fully upgraded before the fight.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "PAINTING_WORKSHOP",
+    "display_name": "Noir et Blanc",
+    "description": "Complete the Painting Workshop quest.",
+    "chapter": "",
+    "hint": "Locate the Painting Workshop and finish the puzzle or side quest tied to 'Noir et Blanc' to unlock this.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "SCIEL_RELATIONSHIP",
+    "display_name": "Sciel",
+    "description": "Max out your relationship bond with Sciel.",
+    "chapter": "",
+    "hint": "Talk to Sciel frequently at camps, choose favorable dialogue options, and complete their personal quests to maximize your bond.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "MONOCO_RELATIONSHIP",
+    "display_name": "Monoco",
+    "description": "Max out your relationship bond with Monoco.",
+    "chapter": "",
+    "hint": "Interact with Monoco during rest phases at camp, select positive dialogue, and finish her companion quests.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "MAELLE_RELATIONSHIP",
+    "display_name": "Maelle",
+    "description": "Max out your relationship bond with Maelle.",
+    "chapter": "",
+    "hint": "Spend time with Maelle at camps, prioritize dialogue choices that align with her views, and complete her side missions.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "LUNE_RELATIONSHIP",
+    "display_name": "Lune",
+    "description": "Max out your relationship bond with Lune.",
+    "chapter": "",
+    "hint": "Consistently check in with Lune at rest camps, choose supportive dialogue, and see his personal story to the end.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ESQUIE_RELATIONSHIP",
+    "display_name": "Esquie",
+    "description": "Max out your relationship bond with Esquie.",
+    "chapter": "",
+    "hint": "Interact with Esquie throughout your journey and fulfill their specific companion requests to reach the highest relationship level.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "WEAPON_FIRST_UPGRADE",
+    "display_name": "Weapon Upgrade",
+    "description": "Upgrade a weapon once.",
+    "chapter": "",
+    "hint": "Take the necessary materials to a blacksmith or crafting menu and apply the first upgrade to any character's weapon.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "WEAPON_FULL_UPGRADE",
+    "display_name": "Weapon Mastery",
+    "description": "Fully upgrade a weapon.",
+    "chapter": "",
+    "hint": "Gather the required late-game materials and upgrade a single weapon to its maximum possible level.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "FIRST_LUMINA_POINT",
+    "display_name": "Lumina",
+    "description": "Consume a Lumina point.",
+    "chapter": "",
+    "hint": "Lumina points are earned as you progress. Spend your very first point in the skill tree to unlock this.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "LEVEL_33",
+    "display_name": "Expeditioner",
+    "description": "Reach level 33.",
+    "chapter": "",
+    "hint": "Gain experience by winning battles and completing quests. Level 33 is a key milestone for the Expedition.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "LEVEL_66",
+    "display_name": "Trailbreaker",
+    "description": "Reach level 66.",
+    "chapter": "",
+    "hint": "Continue battling enemies and clearing side content to amass enough experience to hit level 66.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "LEVEL_99",
+    "display_name": "Survivor",
+    "description": "Reach level 99.",
+    "chapter": "",
+    "hint": "Level 99 is the level cap. You will likely need to grind in endgame areas such as the Endless Tower to achieve this.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "GUSTAVE_OVERCHARGE",
+    "display_name": "Overcharge",
+    "description": "With Gustave, use a fully charged Overcharge that Breaks an enemy.",
+    "chapter": "",
+    "hint": "During combat, charge Gustave's Overcharge attack to the maximum tier and unleash it on an enemy whose Break gauge is nearly full to shatter their guard.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "LUNE_STAINS",
+    "display_name": "Perfect Flow",
+    "description": "Perfectly execute Lune's Stain mechanics.",
+    "chapter": "",
+    "hint": "Use Lune in combat to seamlessly apply his unique Stains onto an enemy without dropping the combo, triggering a Perfect Flow.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "MAELLE_STANCES",
+    "display_name": "Synergy",
+    "description": "Successfully utilize Maelle's stance-switching.",
+    "chapter": "",
+    "hint": "During battle, effectively switch between Maelle's different combat stances to chain attacks and achieve maximum synergy.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "SCIEL_FORETELL",
+    "display_name": "Maximisation",
+    "description": "Maximize the damage of Sciel's Foretell ability.",
+    "chapter": "",
+    "hint": "Activate Sciel's Foretell skill and fulfill the exact combat conditions it requires to unleash its highest possible damage output.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "VERSO_PERFECTION",
+    "display_name": "Perfection",
+    "description": "Execute a perfect Verso.",
+    "chapter": "",
+    "hint": "In real-time combat, press the defensive/dodge button with perfect timing just as an enemy attack is about to hit to perform a perfect Verso.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "MONOCO_WHEEL",
+    "display_name": "Wheel Control",
+    "description": "Successfully control Monoco's Wheel ability.",
+    "chapter": "",
+    "hint": "Use Monoco's roulette/wheel skill in battle and successfully time your input to land on the optimal outcome.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "PETANK_ALPHA",
+    "display_name": "Carreau Parfait",
+    "description": "Execute a perfect Carreau.",
+    "chapter": "",
+    "hint": "Perfectly time your execution of a Pétanque-style attack so that your projectile exactly replaces the target's position.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ALL_MONOCO_SKILLS",
+    "display_name": "Feet Collection",
+    "description": "Collect all skills for Monoco.",
+    "chapter": "",
+    "hint": "Fully unlock Monoco's skill tree or gather all of her specific ability collectibles hidden across the world.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ALL_CHARACTERS",
+    "display_name": "Expedition 33",
+    "description": "Unlock all characters.",
+    "chapter": "",
+    "hint": "Continue progressing through the main campaign. Every playable party member will eventually join your expedition automatically.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "LVL3_GRADIENT_ATTACK",
+    "display_name": "Chroma Proficiency",
+    "description": "Execute a Level 3 Gradient Attack.",
+    "chapter": "",
+    "hint": "During battle, build your party's Gradient meter up to Level 3, then unleash this powerful ultimate team attack.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ALL_SONGS",
+    "display_name": "Connoisseur",
+    "description": "Find all 33 music records.",
+    "chapter": "",
+    "hint": "Music records are hidden collectibles. You can find them in chests, buy them from merchants, or earn them as quest rewards. Explore thoroughly to collect all 33.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "PAINT_CAGE",
+    "display_name": "Paint Cage",
+    "description": "Break a Paint Cage.",
+    "chapter": "",
+    "hint": "Locate a Paint Cage in the open world and use your attacks or abilities to shatter it.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "BREAK",
+    "display_name": "Time to Spill Some Ink",
+    "description": "Break an enemy.",
+    "chapter": "",
+    "hint": "Target an enemy's specific weaknesses in combat to fill their stagger gauge until their guard breaks.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NO_DAMAGE_BOSS",
+    "display_name": "Professional",
+    "description": "Defeat a boss without taking any damage.",
+    "chapter": "",
+    "hint": "Master your real-time dodging and parrying (Verso) mechanics. This is easiest to achieve against an early-game boss if you return later while over-leveled.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "OPTIONAL_CAMP",
+    "display_name": "Curious",
+    "description": "Witness an optional scene at camp.",
+    "chapter": "",
+    "hint": "Rest frequently at camps and interact with party members who have dialogue prompts above their heads to trigger an optional bonding scene.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "ESQUIE_UNLOCK",
+    "display_name": "Legend",
+    "description": "Unlock Esquie.",
+    "chapter": "",
+    "hint": "Progress through the storyline or complete the specific side objective required to unlock Esquie for your journey.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "LUMIERE_MIME",
+    "display_name": "A Peculiar Encounter",
+    "description": "Defeat the Mime in Lumière.",
+    "chapter": "",
+    "hint": "Locate the hidden Mime enemy while exploring the Lumière area and successfully defeat them in combat.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  }
+]

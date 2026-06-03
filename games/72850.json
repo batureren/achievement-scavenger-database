@@ -1,0 +1,752 @@
+[
+  {
+    "apiname": "NEW_ACHIEVEMENT_1_0",
+    "display_name": "Unbound",
+    "description": "Complete \"Unbound\"",
+    "chapter": "Main Quest",
+    "hint": "Story-related and unmissable. Complete the opening tutorial sequence and escape Helgen.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_2_0",
+    "display_name": "Bleak Falls Barrow",
+    "description": "Complete \"Bleak Falls Barrow\"",
+    "chapter": "Main Quest",
+    "hint": "Story-related. Retrieve the Dragonstone from Bleak Falls Barrow for Farengar Secret-Fire in Dragonsreach.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_3_0",
+    "display_name": "The Way of the Voice",
+    "description": "Complete \"The Way of the Voice\"",
+    "chapter": "Main Quest",
+    "hint": "Story-related. Travel the 7,000 steps to High Hrothgar and speak with the Greybeards to learn the Way of the Voice.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_4_0",
+    "display_name": "Diplomatic Immunity",
+    "description": "Complete \"Diplomatic Immunity\"",
+    "chapter": "Main Quest",
+    "hint": "Story-related. Infiltrate the Thalmor Embassy with the help of Delphine and Malborn to uncover information on the returning dragons.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_5_0",
+    "display_name": "Alduin's Wall",
+    "description": "Complete \"Alduin's Wall\"",
+    "chapter": "Main Quest",
+    "hint": "Story-related. Escort Esbern and Delphine to Sky Haven Temple in The Reach and discover the secrets carved into Alduin's Wall.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_6_0",
+    "display_name": "Elder Knowledge",
+    "description": "Complete \"Elder Knowledge\"",
+    "chapter": "Main Quest",
+    "hint": "Story-related. Navigate through the Dwemer ruins of Alftand and Blackreach to recover the Elder Scroll (Dragon).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_7_0",
+    "display_name": "The Fallen",
+    "description": "Complete \"The Fallen\"",
+    "chapter": "Main Quest",
+    "hint": "Story-related. Lure and trap the dragon Odahviing inside Dragonsreach in Whiterun.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_8_0",
+    "display_name": "Dragonslayer",
+    "description": "Complete \"Dragonslayer\"",
+    "chapter": "Main Quest",
+    "hint": "Story-related. Defeat Alduin in the Nordic afterlife of Sovngarde to conclude the main storyline.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_9_0",
+    "display_name": "Take Up Arms",
+    "description": "Join the Companions",
+    "chapter": "Companions",
+    "hint": "Travel to Jorrvaskr in Whiterun, speak to Kodlak Whitemane, follow Vilkas for a sparring test, and complete your first assignment.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_10_0",
+    "display_name": "Blood Oath",
+    "description": "Become a member of the Circle",
+    "chapter": "Companions",
+    "hint": "Progress the Companions questline until 'The Silver Hand'. Meet Skjor at night, enter the Underforge, and accept the gift of Lycanthropy.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_11_0",
+    "display_name": "Glory of the Dead",
+    "description": "Complete \"Glory of the Dead\"",
+    "chapter": "Companions",
+    "hint": "Complete the final Companions quest by traveling to Ysgramor's Tomb and cleansing Kodlak's spirit of his beast blood.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_12_0",
+    "display_name": "Gatekeeper",
+    "description": "Join the College of Winterhold",
+    "chapter": "College of Winterhold",
+    "hint": "Travel to the bridge at the College of Winterhold, pass Faralda's test by casting a spell (or passing a Speech check), and enter the courtyard.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_13_0",
+    "display_name": "Revealing the Unseen",
+    "description": "Complete \"Revealing the Unseen\"",
+    "chapter": "College of Winterhold",
+    "hint": "Progress the College questline. Navigate the Dwemer ruin Mzulft, solve the Oculory puzzle using Frost/Fire spells, and learn the location of the Staff of Magnus.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_14_0",
+    "display_name": "The Eye of Magnus",
+    "description": "Complete \"The Eye of Magnus\"",
+    "chapter": "College of Winterhold",
+    "hint": "Complete the final College of Winterhold quest. Defeat Ancano in the Hall of the Elements by using the Staff of Magnus to drain the Eye's power.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_15_0",
+    "display_name": "Taking Care of Business",
+    "description": "Join the Thieves Guild",
+    "chapter": "Thieves Guild",
+    "hint": "Travel to Riften and speak to Brynjolf in the marketplace. Meet him in the Ragged Flagon and collect debts from Keerava, Bersi Honey-Hand, and Haelga.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_16_0",
+    "display_name": "Darkness Returns",
+    "description": "Complete \"Darkness Returns\"",
+    "chapter": "Thieves Guild",
+    "hint": "Complete the main storyline of the Thieves Guild by traveling the Pilgrim's Path in the Twilight Sepulcher and returning the Skeleton Key.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_17_0",
+    "display_name": "One with the Shadows",
+    "description": "Returned the Thieves Guild to its former glory",
+    "chapter": "Thieves Guild",
+    "hint": "Complete 5 radiant jobs for Delvin/Vex in Markarth, Solitude, Whiterun, and Windhelm to unlock 4 special City Influence quests. Complete all 4 and become the Guildmaster.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_18_0",
+    "display_name": "With Friends Like These…",
+    "description": "Join the Dark Brotherhood",
+    "chapter": "Dark Brotherhood",
+    "hint": "Complete 'Innocence Lost' in Windhelm. Sleep in a bed for 24 hours to be abducted by Astrid. Kill any of the three captives to join. WARNING: Do not kill Astrid, or you will fail the questline and miss this achievement.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_19_0",
+    "display_name": "Bound Until Death",
+    "description": "Complete \"Bound Until Death\"",
+    "chapter": "Dark Brotherhood",
+    "hint": "Progress the Dark Brotherhood questline and assassinate Vittoria Vici at her wedding in Solitude.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_20_0",
+    "display_name": "Hail Sithis!",
+    "description": "Complete \"Hail Sithis!\"",
+    "chapter": "Dark Brotherhood",
+    "hint": "Complete the final Dark Brotherhood quest by infiltrating the Katariah and assassinating Emperor Titus Mede II.",
+    "is_missable": true,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_21_0",
+    "display_name": "Taking Sides",
+    "description": "Join the Stormcloaks or the Imperial Army",
+    "chapter": "Civil War",
+    "hint": "Join the Imperial Legion (speak to General Tullius in Solitude and clear Fort Hraggstad) OR the Stormcloaks (speak to Ulfric in Windhelm and survive the Ice Wraith on Serpentstone Isle).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_22_0",
+    "display_name": "War Hero",
+    "description": "Capture Fort Sungard or Fort Greenwall",
+    "chapter": "Civil War",
+    "hint": "Capture Fort Sungard (Stormcloaks) or Fort Greenwall (Imperials). WARNING: Highly Missable! If you negotiate away the hold containing these forts during the 'Season Unending' main quest treaty, the battle will be skipped.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_23_0",
+    "display_name": "Hero of Skyrim",
+    "description": "Capture Solitude or Windhelm",
+    "chapter": "Civil War",
+    "hint": "Complete the Civil War questline by capturing the enemy faction's capital city (Solitude for Stormcloaks, Windhelm for Imperials).",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_24_0",
+    "display_name": "Sideways",
+    "description": "Complete 10 side quests",
+    "chapter": "Misc",
+    "hint": "Complete any 10 full Side Quests. Main quests, faction quests, and 'miscellaneous objectives' do not count. Look for quests with elaborate knotwork banners in your journal.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_25_0",
+    "display_name": "Hero of the People",
+    "description": "Complete 50 Misc Objectives",
+    "chapter": "Misc",
+    "hint": "Complete 50 small tasks that fall under the 'Miscellaneous' tab in your quest journal (e.g., bounties, delivering items, speaking to specific NPCs).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_26_0",
+    "display_name": "Hard Worker",
+    "description": "Chop wood, mine ore, and cook food",
+    "chapter": "Misc",
+    "hint": "Use a woodchopping block (requires Woodcutter's Axe), hit an ore vein (requires Pickaxe), and interact with any cooking pot/spit to cook a meal.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_27_0",
+    "display_name": "Thief",
+    "description": "Pick 50 locks and 50 pockets",
+    "chapter": "Misc",
+    "hint": "Successfully pick 50 locks (chests, doors) and pickpocket 50 items from NPCs. It is easier to pickpocket sleeping NPCs or take small/cheap items.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_28_0",
+    "display_name": "Snake Tongue",
+    "description": "Successfully persuade, bribe, and intimidate",
+    "chapter": "Misc",
+    "hint": "Succeed at one Persuade, one Bribe, and one Intimidate dialogue check. Investing perks in the Speech tree makes this much easier.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_29_0",
+    "display_name": "Blessed",
+    "description": "Select a Standing Stone blessing",
+    "chapter": "Misc",
+    "hint": "Activate any of the 13 Standing Stones. The easiest ones are the Thief, Mage, and Warrior stones located directly on the path from Helgen to Riverwood.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_30_0",
+    "display_name": "Standing Stones",
+    "description": "Find 13 Standing Stones",
+    "chapter": "Misc",
+    "hint": "Discover all 13 Standing Stones scattered across Skyrim. You do not need to activate them all, just find their map markers.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_31_0",
+    "display_name": "Citizen",
+    "description": "Buy a house",
+    "chapter": "Misc",
+    "hint": "Purchase a player home. The easiest and cheapest is Breezehome in Whiterun, available for 5,000 gold from Proventus Avenicci after completing 'Bleak Falls Barrow'.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_32_0",
+    "display_name": "Wanted",
+    "description": "Escape from jail",
+    "chapter": "Misc",
+    "hint": "Commit a crime, get caught by a guard, and select 'I submit, take me to jail'. Inside your cell, pick the lock on the grate or door and escape unseen.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_33_0",
+    "display_name": "Married",
+    "description": "Get married",
+    "chapter": "Misc",
+    "hint": "Speak to Maramal in Riften to purchase an Amulet of Mara for 200 gold. Wear it, speak to an NPC you've helped to propose, and attend the wedding at the Temple of Mara.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_34_0",
+    "display_name": "Artificer",
+    "description": "Make a smithed item, an enchanted item, and a potion",
+    "chapter": "Misc",
+    "hint": "Craft any weapon or armor piece at a forge, enchant any item at an arcane enchanter, and combine ingredients at an alchemy lab.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_35_0",
+    "display_name": "Master Criminal",
+    "description": "Bounty of 1000 gold in all nine holds",
+    "chapter": "Misc",
+    "hint": "Accumulate a simultaneous bounty of 1,000+ gold in all 9 holds (Whiterun, The Rift, Eastmarch, Winterhold, The Pale, Hjaalmarch, Haafingar, The Reach, Falkreath). Kill a guard in each hold, then flee. Save beforehand and reload once unlocked.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_36_0",
+    "display_name": "Golden Touch",
+    "description": "Have 100,000 gold",
+    "chapter": "Misc",
+    "hint": "Hold 100,000 gold in your inventory at once. Loot everything, complete Dark Brotherhood/Thieves Guild quests, and sell high-value crafted potions (e.g., Giant's Toe + Creep Cluster + Wheat).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_37_0",
+    "display_name": "Delver",
+    "description": "Clear 50 dungeons",
+    "chapter": "Misc",
+    "hint": "Explore and clear 50 dungeons. A dungeon is marked as 'Cleared' on your map once the main boss of the dungeon is killed.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_38_0",
+    "display_name": "Skill Master",
+    "description": "Get a skill to 100",
+    "chapter": "Misc",
+    "hint": "Reach level 100 in any of the 18 skill trees. Smithing, Enchanting, Illusion (spamming Muffle), and Sneak are usually the fastest to level.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_39_0",
+    "display_name": "Explorer",
+    "description": "Discover 100 Locations",
+    "chapter": "Misc",
+    "hint": "Wander the map and discover 100 different map markers. Unlocks naturally as you explore Skyrim.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_40_0",
+    "display_name": "Reader",
+    "description": "Read 50 Skill Books",
+    "chapter": "Misc",
+    "hint": "Read 50 unique books that increase your skill levels. They usually have a higher value (50+ gold). Reading the same book twice does not count.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_41_0",
+    "display_name": "Daedric Influence",
+    "description": "Acquire a Daedric Artifact",
+    "chapter": "Daedric",
+    "hint": "Complete any Daedric quest and claim the artifact (e.g., obtaining the Mace of Molag Bal or Dawnbreaker).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_42_0",
+    "display_name": "Oblivion Walker",
+    "description": "Collect 15 Daedric Artifacts",
+    "chapter": "Daedric",
+    "hint": "Complete 15 Daedric quests and collect their artifacts. WARNING: Highly Missable! Some quests have alternate endings where you don't receive the artifact (e.g., Clavicus Vile: don't kill Barbas. Mehrunes Dagon: kill Silus. Vaermina: kill Erandur). Tip: You can get both the Ring of Hircine and Savior's Hide from 'Ill Met By Moonlight' to count as two artifacts.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_43_0",
+    "display_name": "Dragon Soul",
+    "description": "Absorb a dragon soul",
+    "chapter": "Misc",
+    "hint": "Kill a dragon and absorb its soul. This will happen naturally during the 'Dragon Rising' main quest outside Whiterun.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_44_0",
+    "display_name": "Dragon Hunter",
+    "description": "Absorb 20 dragon souls",
+    "chapter": "Misc",
+    "hint": "Kill 20 dragons and absorb their souls. Dragons spawn randomly across the map and at word wall locations.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_45_0",
+    "display_name": "Words of Power",
+    "description": "Learn all three words of a shout",
+    "chapter": "Misc",
+    "hint": "Learn all three words of a single Dragon Shout. Unrelenting Force is given to you automatically as you progress through the main quest.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_46_0",
+    "display_name": "Thu'um Master",
+    "description": "Learn 20 shouts",
+    "chapter": "Misc",
+    "hint": "Learn at least the first word of 20 different Dragon Shouts. Explore dungeons and approach Word Walls to learn them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_47_0",
+    "display_name": "Apprentice",
+    "description": "Reach Level 5",
+    "chapter": "Leveling",
+    "hint": "Reach character level 5 by increasing your skills.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_48_0",
+    "display_name": "Adept",
+    "description": "Reach Level 10",
+    "chapter": "Leveling",
+    "hint": "Reach character level 10 by increasing your skills.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_49_0",
+    "display_name": "Expert",
+    "description": "Reach Level 25",
+    "chapter": "Leveling",
+    "hint": "Reach character level 25 by increasing your skills.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_50_0",
+    "display_name": "Master",
+    "description": "Reach Level 50",
+    "chapter": "Leveling",
+    "hint": "Reach character level 50 by increasing your skills.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_51_0",
+    "display_name": "Awakening",
+    "description": "Complete \"Awakening\"",
+    "chapter": "Dawnguard",
+    "hint": "Start the Dawnguard DLC by speaking to Isran at Fort Dawnguard, then clear Dimhollow Crypt and find Serana.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_52_0",
+    "display_name": "Beyond Death",
+    "description": "Complete \"Beyond Death\"",
+    "chapter": "Dawnguard",
+    "hint": "Progress the Dawnguard storyline. Enter the Soul Cairn, defeat Durnehviir, and retrieve the Elder Scroll (Blood) from Valerica.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_53_0",
+    "display_name": "Kindred Judgement",
+    "description": "Complete \"Kindred Judgment\"",
+    "chapter": "Dawnguard",
+    "hint": "Complete the final quest of the Dawnguard DLC by confronting and defeating Lord Harkon in Castle Volkihar.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_54_0",
+    "display_name": "Lost to the Ages",
+    "description": "Complete \"Lost to the Ages\"",
+    "chapter": "Dawnguard",
+    "hint": "Read the book 'The Aetherium Wars' or travel to Arkngthamz. Help Katria's ghost collect 4 Aetherium Shards and forge an item at the Aetherium Forge.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_55_0",
+    "display_name": "Soul Tear",
+    "description": "Learn all three words of Soul Tear",
+    "chapter": "Dawnguard",
+    "hint": "After defeating Durnehviir in the Soul Cairn, he will give you a shout to summon him. Return to Tamriel, aim at the ground, and summon him three separate times to learn all words.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_56_0",
+    "display_name": "Auriel's Bow",
+    "description": "Use the special power of Auriel's Bow",
+    "chapter": "Dawnguard",
+    "hint": "Acquire Auriel's Bow during the Dawnguard questline. Aim the bow directly at the sun and fire either a Sunhallowed Elven Arrow or a Bloodcursed Elven Arrow.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_57_0",
+    "display_name": "Werewolf Mastered",
+    "description": "Acquire 11 werewolf perks",
+    "chapter": "Dawnguard",
+    "hint": "Become a Werewolf through the Companions questline. While in Beast Form, consume the hearts of human corpses to earn perk points. Unlock all 11 perks.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_58_0",
+    "display_name": "Vampire Mastered",
+    "description": "Acquire 11 vampire perks",
+    "chapter": "Dawnguard",
+    "hint": "Become a Vampire Lord during the Dawnguard questline. While in Vampire Lord form, defeat enemies using the Drain Life spell or power bite attacks to earn perk points. Unlock all 11 perks.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_59_0",
+    "display_name": "A New You",
+    "description": "Change your face",
+    "chapter": "Dawnguard",
+    "hint": "Travel to the Ragged Flagon in Riften. Speak to Galathil and pay 1000 gold to alter your appearance. Note: She will not work on you if you are a Vampire.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_60_0",
+    "display_name": "Legend",
+    "description": "Defeat a Legendary Dragon",
+    "chapter": "Dawnguard",
+    "hint": "Legendary Dragons begin spawning randomly around Skyrim only after your character reaches level 78. Find and kill one.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_61_0",
+    "display_name": "Proud Parent",
+    "description": "Adopt a child",
+    "chapter": "Hearthfire",
+    "hint": "Ensure you own a house with a child's bed and chest. You can adopt from the Honorhall Orphanage in Riften (after completing 'Innocence Lost') or adopt street urchins found in major cities.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_62_0",
+    "display_name": "Landowner",
+    "description": "Buy a plot of land",
+    "chapter": "Hearthfire",
+    "hint": "Purchase a plot of land from the Jarl/Steward in Falkreath, Morthal, or Dawnstar. You usually need to complete quests for the Jarl first.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_63_0",
+    "display_name": "Architect",
+    "description": "Build three wings on a house",
+    "chapter": "Hearthfire",
+    "hint": "Using the drafting table and carpenter's workbench, construct an East, West, and North wing addition to one of your Hearthfire homes.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_64_0",
+    "display_name": "Land Baron",
+    "description": "Buy three plots of land",
+    "chapter": "Hearthfire",
+    "hint": "Purchase all three available plots of land: Lakeview Manor (Falkreath), Windstad Manor (Hjaalmarch/Morthal), and Heljarchen Hall (The Pale/Dawnstar).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_65_0",
+    "display_name": "Master Architect",
+    "description": "Build three houses",
+    "chapter": "Hearthfire",
+    "hint": "Build a structure on all three Hearthfire land plots. You only need to build the Small House layout on each property for it to count.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_66_0",
+    "display_name": "Outlander",
+    "description": "Arrive on Solstheim",
+    "chapter": "Dragonborn",
+    "hint": "Start the Dragonborn DLC by speaking to Gjalund Salt-Sage at the Windhelm docks and booking passage to Solstheim.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_67_0",
+    "display_name": "The Temple of Miraak",
+    "description": "Complete \"The Temple of Miraak\"",
+    "chapter": "Dragonborn",
+    "hint": "Progress the Dragonborn questline by teaming up with Frea and exploring the Temple of Miraak.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_68_0",
+    "display_name": "The Path of Knowledge",
+    "description": "Complete \"The Path of Knowledge\"",
+    "chapter": "Dragonborn",
+    "hint": "Progress the Dragonborn questline by exploring the Dwemer ruins of Nchardak with Neloth and recovering the Black Book.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_69_0",
+    "display_name": "At the Summit of Apocrypha",
+    "description": "Complete \"At the Summit of Apocrypha\"",
+    "chapter": "Dragonborn",
+    "hint": "Complete the final Dragonborn quest by reading 'Waking Dreams', navigating Apocrypha, and defeating Miraak.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_70_0",
+    "display_name": "Dragon Aspect",
+    "description": "Learn all 3 words of Dragon Aspect",
+    "chapter": "Dragonborn",
+    "hint": "Find the three words for the Dragon Aspect shout located in the Temple of Miraak, Bloodskal Barrow, and within Apocrypha (during the 'Waking Dreams' quest).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_71_0",
+    "display_name": "Hidden Knowledge",
+    "description": "Learn the secrets of 5 Black Books",
+    "chapter": "Dragonborn",
+    "hint": "Find 5 different Black Books scattered across Solstheim. Read each one, complete its Apocrypha dungeon, and choose a perk at the end.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_72_0",
+    "display_name": "Stalhrim Crafter",
+    "description": "Craft an item out of Stalhrim",
+    "chapter": "Dragonborn",
+    "hint": "Complete 'A New Source of Stalhrim' for Baldor Iron-Shaper in Skaal Village. You must also have the Ebony Smithing perk (Smithing level 80) to craft Stalhrim gear.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_73_0",
+    "display_name": "Dragonrider",
+    "description": "Tame and ride 5 dragons",
+    "chapter": "Dragonborn",
+    "hint": "Use the fully upgraded 'Bend Will' shout on 5 different dragons to mount them. You do not have to fight them afterwards.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_74_0",
+    "display_name": "Raven Rock Owner",
+    "description": "Own a house in Raven Rock",
+    "chapter": "Dragonborn",
+    "hint": "Complete the Solstheim side quests 'March of the Dead', 'The Final Descent', and 'Served Cold'. You will be rewarded with Severin Manor.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "NEW_ACHIEVEMENT_75_0",
+    "display_name": "Solstheim Explorer",
+    "description": "Discover 30 locations on the island of Solstheim",
+    "chapter": "Dragonborn",
+    "hint": "Wander the island of Solstheim and discover 30 distinct map markers.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  }
+]

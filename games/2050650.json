@@ -1,0 +1,462 @@
+[
+  {
+    "apiname": "1",
+    "display_name": "Knife Basics",
+    "description": "Parry an enemy with a knife.",
+    "chapter": "Chapter 1",
+    "hint": "Press the parry button (L1/LB/Space) right before an enemy's attack hits you. The prompt will briefly appear at the bottom right of the screen.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "2",
+    "display_name": "My Preferred Piece",
+    "description": "Upgrade a weapon.",
+    "chapter": "Chapter 2",
+    "hint": "Talk to the Merchant when you first meet him in Chapter 2 and purchase any stat upgrade for any weapon using pesetas.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "3",
+    "display_name": "A Masterpiece",
+    "description": "Get the exclusive upgrade for a weapon.",
+    "chapter": "Chapter 7",
+    "hint": "Fully upgrade every stat of a weapon to unlock its Exclusive Upgrade, then purchase it. Alternatively, trade Spinels for an Exclusive Upgrade Ticket to unlock it immediately regardless of the weapon's level.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "4",
+    "display_name": "Nice One, Stranger!",
+    "description": "Complete a request for the Merchant.",
+    "chapter": "Chapter 1",
+    "hint": "Pick up a blue request flyer (the earliest is the 'Destroy the Blue Medallions' note in the Farm) and complete the objective. Turn it in to the Merchant when you meet him.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "5",
+    "display_name": "Talk About Near-Death Experience!",
+    "description": "Rescue Ashley as she's being carried away by the enemy.",
+    "chapter": "Chapter 5",
+    "hint": "When an enemy grabs Ashley and attempts to carry her away, shoot the enemy or use a knife stealth kill to force them to drop her.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "6",
+    "display_name": "Revolt Against the Revolting",
+    "description": "Destroy a Clockwork Castellan.",
+    "chapter": "Chapter 1",
+    "hint": "Destroy one of the 16 hidden Clockwork Castellan figures. The first one is in the Lakeside Settlement inside a ruined building.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "7",
+    "display_name": "Harpoon Hurler",
+    "description": "Defeat Del Lago.",
+    "chapter": "Chapter 3",
+    "hint": "Story-related and unmissable. Defeat the lake monster boss at the end of Chapter 3.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "8",
+    "display_name": "Grilled Big Cheese",
+    "description": "Defeat Bitores Méndez.",
+    "chapter": "Chapter 6",
+    "hint": "Story-related and unmissable. Defeat the Village Chief boss inside the burning slaughterhouse at the end of Chapter 6.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "9",
+    "display_name": "Wave Goodbye, Right Hand",
+    "description": "Defeat the Verdugo.",
+    "chapter": "Chapter 10",
+    "hint": "Defeat Salazar's \"right hand\" in the underground depths. Use the liquid nitrogen showers to freeze him, then deal massive damage. Note: Surviving the timer and taking the elevator without killing him will void this achievement.",
+    "is_missable": true,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "10",
+    "display_name": "No Thanks, Bro!",
+    "description": "Defeat Ramón Salazar.",
+    "chapter": "Chapter 12",
+    "hint": "Story-related and unmissable. Defeat the boss Ramón Salazar. Tip: Throwing a Golden Egg at him deals catastrophic damage.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "11",
+    "display_name": "You Used to Be a Good Guy",
+    "description": "Defeat Jack Krauser.",
+    "chapter": "Chapter 14",
+    "hint": "Story-related and unmissable. Defeat the mutated Jack Krauser at the end of Chapter 14.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "12",
+    "display_name": "You're Small Time!",
+    "description": "Defeat Osmund Saddler.",
+    "chapter": "Chapter 16",
+    "hint": "Story-related and unmissable. Defeat the final boss of the game, Osmund Saddler, in Chapter 16.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "13",
+    "display_name": "Shield Your Eyes",
+    "description": "Defeat 3 enemies at once with a flash grenade.",
+    "chapter": "Any",
+    "hint": "Flash grenades instantly kill exposed Las Plagas (the parasite tentacles that burst out of enemies' heads). Throw one into a crowd where at least 3 enemies have exposed parasites.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "14",
+    "display_name": "Never Heard It Coming",
+    "description": "Defeat a Garrador using only knives.",
+    "chapter": "Chapter 7",
+    "hint": "Sneak behind the blind Garrador in the Castle dungeon and use stealth knife attacks on the parasite on its back. Avoid using any firearms or grenades during this encounter.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "15",
+    "display_name": "Two Bugs, One Stone",
+    "description": "Kill 2 parasites inside a Regenerador with a single bullet.",
+    "chapter": "Chapter 13",
+    "hint": "Use a rifle equipped with the Biosensor Scope. Line up two glowing parasites inside a Regenerador and shoot them both with a single penetrating round. The Incubation Lab is an excellent place to do this.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "16",
+    "display_name": "You Talk Too Much!",
+    "description": "Throw a grenade into Ramón Salazar's mouth.",
+    "chapter": "Chapter 12",
+    "hint": "During the boss fight against Ramón Salazar, wait until his outer shell opens up to reveal his real body. Throw a frag or heavy grenade perfectly at him so it lands in the fleshy \"mouth\" opening.",
+    "is_missable": true,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "17",
+    "display_name": "Overkill",
+    "description": "Use a cannon to defeat a zealot.",
+    "chapter": "Chapter 7",
+    "hint": "When you raise the cannon at the Castle Gate (or later on the Battlements), aim and fire at the cultist enemies (Zealots) instead of just using it to destroy the gate or Armored El Gigante.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "18",
+    "display_name": "Hope You Like Thrill Rides!",
+    "description": "Make it through both minecart sections in the underground tunnel without taking any damage.",
+    "chapter": "Chapter 11",
+    "hint": "Save before jumping into the minecart. Lean to avoid falling, shoot the yellow signs to switch tracks, and kill enemies quickly. If you or the cart take damage, reload your save.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "19",
+    "display_name": "Capacity Compliance",
+    "description": "Reach the top of the clock tower without the lift stopping once.",
+    "chapter": "Chapter 12",
+    "hint": "Enemies will jump onto the lift as it ascends. If too many get on, it stops. Use shotguns or submachine guns to stagger/knock them off immediately. If it stops, reload the autosave.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "20",
+    "display_name": "Smooth Escape",
+    "description": "Escape on the water scooter without taking any damage.",
+    "chapter": "Chapter 16",
+    "hint": "During the final escape sequence, navigate the jetski without hitting any rocks or debris. You have plenty of time, so let off the gas in tight spots. Reload autosave if you get hit.",
+    "is_missable": true,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "21",
+    "display_name": "Astute Appraiser",
+    "description": "Sell a single treasure for at least 100000 ptas.",
+    "chapter": "Chapter 10",
+    "hint": "Find the Elegant Crown. Insert 5 differently colored gemstones (100k ptas) OR 3 Red Beryls and 2 Yellow Diamonds (108k ptas) into it to get the maximum multiplier before selling it.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "22",
+    "display_name": "Bandit",
+    "description": "Obtain all treasures indicated on the village treasure map in a single playthrough.",
+    "chapter": "Chapter 1-6",
+    "hint": "Buy the Village Treasure Map from the Merchant. Collect every diamond icon on the map before fighting the Village Chief at the end of Chapter 6, as you cannot return to the village afterward.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "23",
+    "display_name": "Burglar",
+    "description": "Obtain all treasures indicated on the castle treasure map in a single playthrough.",
+    "chapter": "Chapter 7-12",
+    "hint": "Buy the Castle Treasure Map. Collect every diamond icon before taking the clock tower elevator in Chapter 12, as it marks the point of no return for the Castle.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "24",
+    "display_name": "Raider",
+    "description": "Obtain all treasures indicated on the island treasure map in a single playthrough.",
+    "chapter": "Chapter 13-16",
+    "hint": "Buy the Island Treasure Map. Collect all treasures before entering the sanctuary to face Saddler in Chapter 16.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "25",
+    "display_name": "Gun Fanatic",
+    "description": "Obtain all weapons.",
+    "chapter": "New Game+",
+    "hint": "Collect all standard guns, grenades, and knives. Includes bonus weapons unlocked via Challenges (Chicago Sweeper, Handcannon, Primal Knife) and the Infinite Rocket Launcher (only available in NG+).",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "26",
+    "display_name": "Jack of All Trades",
+    "description": "Complete all requests from the Merchant.",
+    "chapter": "Chapter 1-16",
+    "hint": "Complete all 19 Merchant Requests (blue notes) in a single playthrough. Make sure to finish regional requests before hitting the points of no return (end of Ch. 6, end of Ch. 12).",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "27",
+    "display_name": "Revolution Wind-up",
+    "description": "Destroy all Clockwork Castellans.",
+    "chapter": "Chapter 1-16",
+    "hint": "There are 16 Castellans hidden throughout the game (one per chapter). They emit a mechanical ticking sound. Progress carries over across playthroughs on the same save file.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "28",
+    "display_name": "Promising Agent",
+    "description": "Complete the main story on Standard mode or higher.",
+    "chapter": "Chapter 16",
+    "hint": "Unlocks upon beating the game on Standard, Hardcore, or Professional difficulty.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "29",
+    "display_name": "Mission Accomplished S+",
+    "description": "Complete the main story on Standard mode with an S+ rank.",
+    "chapter": "Chapter 16",
+    "hint": "Must be done on a NEW GAME (not NG+). Beat Standard difficulty in under 5 hours. Bonus weapons and accessories (like the Chicago Sweeper or Ashley's Armor) are allowed.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "30",
+    "display_name": "Proficient Agent",
+    "description": "Complete the main story on Hardcore mode or higher.",
+    "chapter": "Chapter 16",
+    "hint": "Unlocks upon beating the game on Hardcore or Professional difficulty. Can be done on New Game+.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "31",
+    "display_name": "S+ Rank Investigator",
+    "description": "Complete the main story on Hardcore mode with an S+ rank.",
+    "chapter": "Chapter 16",
+    "hint": "Must be done on a NEW GAME (not NG+). Beat Hardcore difficulty in under 5 hours and 30 minutes. Unlocking bonus weapons first makes this much easier.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "32",
+    "display_name": "Peerless Agent",
+    "description": "Complete the main story on Professional mode.",
+    "chapter": "Chapter 16",
+    "hint": "Beat the game on the highest difficulty, Professional. This is easiest on New Game+ where you can bring fully upgraded weapons or the Infinite Rocket Launcher.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "33",
+    "display_name": "Sprinter",
+    "description": "Complete the main story within 8 hours.",
+    "chapter": "Chapter 16",
+    "hint": "Beat the game in under 8 hours. Best done on an Assisted difficulty New Game+ run while ignoring optional treasures and skipping cutscenes.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "34",
+    "display_name": "Frugalist",
+    "description": "Complete the main story without using a recovery item.",
+    "chapter": "Chapter 16",
+    "hint": "Play on Assisted difficulty on New Game+. Assisted mode automatically heals you back up to the \"green\" zone out of combat. Avoid using Herbs, First Aid Sprays, and Eggs.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "35",
+    "display_name": "Minimalist",
+    "description": "Complete the main story using only knives and handguns. (Excluding specific battles.)",
+    "chapter": "Chapter 16",
+    "hint": "Best done on Assisted New Game+. Fully upgrade your favorite handgun (e.g., Red9 or Matilda) and equip the Primal Knife. Check the Challenges menu to ensure you have 0 uses of other weapons.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "36",
+    "display_name": "Silent Stranger",
+    "description": "Complete the main story without talking to the Merchant once.",
+    "chapter": "Chapter 16",
+    "hint": "Best done on an Assisted New Game+ run. Make sure your weapons are fully upgraded before starting the playthrough, as you cannot buy, sell, tune up, or repair body armor.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "37",
+    "display_name": "Amateur Shooter",
+    "description": "Complete a game at the shooting range.",
+    "chapter": "Chapter 3",
+    "hint": "The first Shooting Range elevator is located next to the Merchant after the lake sequence in Chapter 3. Just complete any trial.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "38",
+    "display_name": "Real Deadeye",
+    "description": "Earn an S rank in all games at the shooting range.",
+    "chapter": "Chapter 14",
+    "hint": "There are 12 shooting gallery challenges (the last batch unlocks in Chapter 14). Achieve the target score for an S rank on all of them. Avoid shooting the sailor penalties.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "39",
+    "display_name": "Trick Shot",
+    "description": "Shoot through and destroy 5 targets at the shooting range with a single shot.",
+    "chapter": "Chapter 14",
+    "hint": "Best done in Shooting Range challenge 4-C using the Punisher handgun, which has bullet penetration. Wait until 5 pirate dog targets line up and fire.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "40",
+    "display_name": "Giant Slayer",
+    "description": "Defeat El Gigante.",
+    "chapter": "Separate Ways Ch. 3",
+    "hint": "Story-related and unmissable in the Separate Ways DLC. Defeat the giant boss in Chapter 3.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "41",
+    "display_name": "\"It\" Kept You Busy",
+    "description": "Defeat the Pesanta.",
+    "chapter": "Separate Ways Ch. 5",
+    "hint": "Story-related and unmissable in the Separate Ways DLC. Defeat the mutated black-robed boss in Chapter 5.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "42",
+    "display_name": "Had Enough of Preachers",
+    "description": "Defeat Osmund Saddler.",
+    "chapter": "Separate Ways Ch. 7",
+    "hint": "Story-related and unmissable in the Separate Ways DLC. Defeat the final boss in Chapter 7.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "43",
+    "display_name": "Capable Operative",
+    "description": "Complete Separate Ways on Standard mode or higher.",
+    "chapter": "Separate Ways Ch. 7",
+    "hint": "Unlocks upon beating the Separate Ways DLC campaign on Standard, Hardcore, or Professional difficulty.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "44",
+    "display_name": "Skilled Agent",
+    "description": "Complete Separate Ways on Hardcore mode or higher.",
+    "chapter": "Separate Ways Ch. 7",
+    "hint": "Unlocks upon beating the Separate Ways DLC campaign on Hardcore or Professional difficulty.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "45",
+    "display_name": "The Perfect Mission",
+    "description": "Complete Separate Ways on Professional mode.",
+    "chapter": "Separate Ways Ch. 7",
+    "hint": "Beat the Separate Ways DLC on the highest difficulty. This can be done on New Game+ with upgraded equipment.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "46",
+    "display_name": "Ada the \"S+\"py",
+    "description": "Complete Separate Ways on Professional mode with an S+ rank.",
+    "chapter": "Separate Ways Ch. 7",
+    "hint": "Must be done on a NEW GAME (not NG+) in the Separate Ways DLC. Complete Professional difficulty in under 2.5 hours with 10 or fewer saves.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  }
+]
