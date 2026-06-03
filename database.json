@@ -1,0 +1,19 @@
+{
+  "2379780": [
+    {
+      "apiname": "1",
+      "display_name": "Ante Up!",
+      "description": "Reach Ante 4",
+      "is_missable": false,
+      "chapter": "Early Game",
+      "hint": "Just play naturally. Focus on a single strong hand type like Flushes or Two Pair early on.",
+      "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+      "apiname": "2",
+      "is_missable": true,
+      "chapter": "Mid Game",
+      "hint": "You only have one chance to do this during the boss blind!"
+    }
+  ]
+}
