@@ -1,0 +1,532 @@
+[
+  {
+    "apiname": "TrophyTitle_00_fiber_Steam",
+    "display_name": "The Phenomenal Phantom Thief",
+    "description": "Unlocked all achievements.",
+    "chapter": "Global",
+    "hint": "Unlock every other achievement in Persona 5 Royal to get this completionist trophy.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_01_fiber_Steam",
+    "display_name": "Castle of Lust: Seized",
+    "description": "Completed the Castle Palace.",
+    "chapter": "Kamoshida's Palace",
+    "hint": "Story related. Defeat Shadow Kamoshida and secure the treasure.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_02_fiber_Steam",
+    "display_name": "Museum of Vanity: Repossessed",
+    "description": "Completed the Museum Palace.",
+    "chapter": "Madarame's Palace",
+    "hint": "Story related. Defeat Shadow Madarame and secure the treasure.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_03_fiber_Steam",
+    "display_name": "Bank of Gluttony: Cleaned Out",
+    "description": "Completed the Bank Palace.",
+    "chapter": "Kaneshiro's Palace",
+    "hint": "Story related. Defeat Shadow Kaneshiro and secure the treasure.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_04_fiber_Steam",
+    "display_name": "Pyramid of Wrath: Plundered",
+    "description": "Completed the Pyramid Palace.",
+    "chapter": "Futaba's Palace",
+    "hint": "Story related. Defeat the Cognitive Wakaba Isshiki and secure the treasure.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_05_fiber_Steam",
+    "display_name": "Spaceport of Greed: Obliterated",
+    "description": "Completed the Spaceport Palace.",
+    "chapter": "Okumura's Palace",
+    "hint": "Story related. Defeat Shadow Okumura and secure the treasure. Make sure to use Baton Passes and exploit elemental weaknesses for his robot waves.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_06_fiber_Steam",
+    "display_name": "Casino of Jealousy: Bankrupted",
+    "description": "Completed the Casino Palace.",
+    "chapter": "Niijima's Palace",
+    "hint": "Story related. Defeat Shadow Sae and secure the treasure.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_07_fiber_Steam",
+    "display_name": "Cruiser of Pride: Capsized",
+    "description": "Completed the Cruiser Palace.",
+    "chapter": "Shido's Palace",
+    "hint": "Story related. Defeat Shadow Shido and secure the treasure.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_08_fiber_Steam",
+    "display_name": "The Thorough Trickster",
+    "description": "Completed Mementos.",
+    "chapter": "Depths of Mementos",
+    "hint": "Story related. Reach the bottom of Mementos and defeat the Holy Grail / Yaldabaoth.",
+    "is_missable": false,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_09_fiber_Steam",
+    "display_name": "Take Back the Future",
+    "description": "Completed every Palace.",
+    "chapter": "Third Semester",
+    "hint": "Clear the final, Royal-exclusive Palace. You MUST unlock the third semester by maxing out Takuto Maruki's Confidant (Rank 9) before November 17th.",
+    "is_missable": true,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_10_fiber_Steam",
+    "display_name": "The Path Chosen",
+    "description": "Watched the ending.",
+    "chapter": "Ending",
+    "hint": "Watch the True Ending of Persona 5 Royal. This requires unlocking the third semester (Max Maruki Confidant) and rejecting any 'deals' proposed by the final bosses.",
+    "is_missable": true,
+    "is_spoiler": true,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_11_fiber_Steam",
+    "display_name": "Spirit of Rebellion",
+    "description": "Obtained Arsène.",
+    "chapter": "Prologue",
+    "hint": "Story related. Unlocks automatically during Joker's awakening in the Castle Palace.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_12_fiber_Steam",
+    "display_name": "Phantom Thieves: Assemble!",
+    "description": "Established your own squad of thieves.",
+    "chapter": "Story",
+    "hint": "Story related. Unlocks naturally early in the game when you formally name your group at the hideout.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_13_fiber_Steam",
+    "display_name": "One Step at a Time",
+    "description": "Completed a Mementos request.",
+    "chapter": "Mementos",
+    "hint": "Complete any side mission given by Mishima by exploring Mementos and defeating the target.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_14_fiber_Steam",
+    "display_name": "A Most Studious Disguise",
+    "description": "Scored the highest on your exams.",
+    "chapter": "School Life",
+    "hint": "You need Rank 5 (Erudite) Knowledge and must answer all exam questions correctly. Exams occur in May, July, October, and December.",
+    "is_missable": true,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_15_fiber_Steam",
+    "display_name": "Pure Perfection",
+    "description": "Maxed out all social stats.",
+    "chapter": "Daily Life",
+    "hint": "Reach Rank 5 in Knowledge, Guts, Proficiency, Kindness, and Charm. Do activities like reading, visiting the diner, watching movies, and taking the Big Bang Burger challenge.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_16_fiber_Steam",
+    "display_name": "Tokyo Tourist",
+    "description": "Went to a hangout spot with someone.",
+    "chapter": "Daily Life",
+    "hint": "Read a location book to unlock a spot (like Destinyland or the Aquarium), or just accept an invitation from a Confidant to go somewhere on a weekend.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_17_fiber_Steam",
+    "display_name": "My Closest Partner",
+    "description": "Entered a special relationship.",
+    "chapter": "Confidants",
+    "hint": "Reach Rank 9 with a female Confidant and choose the romance dialogue option to initiate a relationship.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_18_fiber_Steam",
+    "display_name": "True Confidence",
+    "description": "Maxed out one of your Confidants.",
+    "chapter": "Confidants",
+    "hint": "Reach Rank 10 with any Confidant. The Fool (Igor) and Magician (Morgana) rank up automatically through the story.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_19_fiber_Steam",
+    "display_name": "Awakening the Phantom Thieves",
+    "description": "Evolved a party member's Persona.",
+    "chapter": "Confidants",
+    "hint": "Reach Rank 10 with any of your Phantom Thief party members to evolve their starting Persona into its second form.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_20_fiber_Steam",
+    "display_name": "I am Thou...",
+    "description": "Obtained a Persona through negotiation.",
+    "chapter": "Combat",
+    "hint": "During a Hold-Up (triggered by hitting weaknesses), choose to talk to the shadow and answer its personality-based questions correctly to recruit it.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_21_fiber_Steam",
+    "display_name": "Tactical Teamwork",
+    "description": "Performed a Baton Pass.",
+    "chapter": "Combat",
+    "hint": "After hitting an enemy's weakness to get a '1 More', press the indicated trigger to pass your turn to a teammate.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_22_fiber_Steam",
+    "display_name": "Let's Blow It Up",
+    "description": "Defeated enemies via Disaster Shadow explosion.",
+    "chapter": "Combat",
+    "hint": "Disaster Shadows glow with a dark aura. Kill one, and it will explode, damaging surrounding enemies. Unlocks when this explosion kills another enemy.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_23_fiber_Steam",
+    "display_name": "You'd Better Hang On!",
+    "description": "Used the grappling hook.",
+    "chapter": "Palaces",
+    "hint": "Story related. You will use the grappling hook naturally during exploration in the Castle Palace.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_24_fiber_Steam",
+    "display_name": "Technician",
+    "description": "Triggered a Technical.",
+    "chapter": "Combat",
+    "hint": "Hit an enemy afflicted with a status ailment with a corresponding attack (e.g., using a Physical or Gun attack on a Shocked or Frozen enemy).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_25_fiber_Steam",
+    "display_name": "Talent Thief",
+    "description": "Obtained a Skill Accessory from a Palace ruler.",
+    "chapter": "Palaces",
+    "hint": "Find all 3 hidden Will Seeds in a single Palace to get a Crystal. Take this Crystal to Jose in Mementos, and he will upgrade it into a Skill Accessory Ring.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_26_fiber_Steam",
+    "display_name": "The Purpose of a Thief",
+    "description": "Obtained a Treasure Demon.",
+    "chapter": "Combat",
+    "hint": "Encounter a floating gem/jewel enemy in a Palace or Mementos. Hit its weakness (early ones are weak to Nuke or Psy) to knock it down and negotiate for it.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_27_fiber_Steam",
+    "display_name": "It's Showtime!",
+    "description": "Performed a Showtime attack.",
+    "chapter": "Combat",
+    "hint": "Showtime attacks are powerful tag-team moves unlocked through story progression starting around the Bank Palace. They trigger randomly; press the prompt to execute.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_28_fiber_Steam",
+    "display_name": "Jose's Favorite Customer",
+    "description": "Traded in flowers while in Mementos.",
+    "chapter": "Mementos",
+    "hint": "Collect the glowing flowers scattered around Mementos paths. Find Jose in one of the rest areas and trade them for items.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_29_fiber_Steam",
+    "display_name": "The Phantom Philatelist",
+    "description": "Traded in stamps while in Mementos.",
+    "chapter": "Mementos",
+    "hint": "Find stamp stations at the end of Mementos floors or behind breakable walls. Talk to Jose to trade these stamps for cognitive changes.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_30_fiber_Steam",
+    "display_name": "The Search for Power",
+    "description": "Completely changed the cognition of Mementos.",
+    "chapter": "Mementos",
+    "hint": "Max out one of the three cognitive alterations (EXP, Money, or Items) by giving enough stamps to Jose in Mementos.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_31_fiber_Steam",
+    "display_name": "The Deviated Cognition",
+    "description": "Encountered a deviation in Mementos.",
+    "chapter": "Mementos",
+    "hint": "Occasionally, a Mementos floor will be completely dark, have no map, or only contain powerful enemies. Entering any floor with these random conditions unlocks this.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_32_fiber_Steam",
+    "display_name": "Unsurpassed Rebel",
+    "description": "Conquered the Reaper.",
+    "chapter": "Mementos",
+    "hint": "Wait completely still on a floor in Mementos for about 3 minutes to spawn the Reaper. It is highly recommended to be Level 70+ and have strong buffs/debuffs.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_33_fiber_Steam",
+    "display_name": "A Deadly Debut",
+    "description": "Performed a Guillotine execution.",
+    "chapter": "Velvet Room",
+    "hint": "Simply fuse two Personas together using the standard 'Normal Guillotine' option in the Velvet Room.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_34_fiber_Steam",
+    "display_name": "Efficient Executioner",
+    "description": "Performed a Group Guillotine execution.",
+    "chapter": "Velvet Room",
+    "hint": "Unlock the Advanced Guillotine by raising the Strength Confidant (Twins) to Rank 1. Then fuse a Persona requiring 3 or more ingredients.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_35_fiber_Steam",
+    "display_name": "Intensive Training",
+    "description": "Used Incense on a Persona in Lockdown.",
+    "chapter": "Velvet Room",
+    "hint": "Unlock Lockdown by raising the Strength Confidant to Rank 3. Place a Persona in Lockdown and use an Incense item to boost its stats.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_36_fiber_Steam",
+    "display_name": "Success Built on Sacrifice",
+    "description": "Performed a Gallows execution.",
+    "chapter": "Velvet Room",
+    "hint": "Unlocked automatically during the story. Sacrifice one Persona to give experience points (and potentially transfer a skill) to another.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_37_fiber_Steam",
+    "display_name": "Accident-Prone",
+    "description": "Performed an execution during a Fusion Alarm.",
+    "chapter": "Velvet Room",
+    "hint": "Fusion Alarms unlock automatically after securing the route in the Bank Palace. Enter the Velvet Room while the door is glowing red and perform any execution.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_38_fiber_Steam",
+    "display_name": "A Grand Experiment",
+    "description": "Performed an Electric Chair execution.",
+    "chapter": "Velvet Room",
+    "hint": "Unlocked automatically on August 1st. Itemize a Persona to turn it into a weapon, accessory, or skill card.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_39_fiber_Steam",
+    "display_name": "Leblanc Buffer",
+    "description": "Cleaned up in Leblanc.",
+    "chapter": "Daily Life",
+    "hint": "Interact with the restroom door or the counter area inside Cafe Leblanc during the evening to clean up. This also gives a Kindness boost.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_40_fiber_Steam",
+    "display_name": "Punch That Clock!",
+    "description": "Worked a part-time job.",
+    "chapter": "Daily Life",
+    "hint": "Apply for a job at the magazine stand in the Shibuya Underground Walkway (Convenience Store, Flower Shop, etc.), then work a shift.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_41_fiber_Steam",
+    "display_name": "Batter Up!",
+    "description": "Scored a hit at the batting cages.",
+    "chapter": "Daily Life",
+    "hint": "Go to the Batting Cages in Yongen-Jaya. Carefully time your swing to hit the ball at least once during the session.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_42_fiber_Steam",
+    "display_name": "Getting the Vapors",
+    "description": "Couldn't take the heat in the bathhouse.",
+    "chapter": "Daily Life",
+    "hint": "Visit the Bathhouse in Yongen-Jaya on a rainy day or a Monday/Thursday. There is a chance Joker will pass out from the intense heat.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_43_fiber_Steam",
+    "display_name": "Easy Money",
+    "description": "Won the lottery.",
+    "chapter": "Daily Life",
+    "hint": "Buy a lottery ticket at Station Square in Shibuya. Return 7 days later to check the results. Any winning amount unlocks the achievement.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_44_fiber_Steam",
+    "display_name": "Going Against the Crane",
+    "description": "Scored a prize in the crane game.",
+    "chapter": "Daily Life",
+    "hint": "Play the crane game at the Akihabara Arcade. Playing on dates ending in '7' (7th, 17th, 27th) greatly increases your chance of winning.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_45_fiber_Steam",
+    "display_name": "Trash Into Treasure",
+    "description": "Sold old clothing at Furugi no Neuchi.",
+    "chapter": "Daily Life",
+    "hint": "Wash 'Sooty' armor pieces in the Yongen-Jaya laundromat, then sell the cleaned items at the secondhand clothes store in Kichijoji.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_46_fiber_Steam",
+    "display_name": "Dartslinger",
+    "description": "Played a game of darts.",
+    "chapter": "Daily Life",
+    "hint": "Visit Penguin Sniper in Kichijoji with a party member and play darts. This is highly recommended anyway as it raises Baton Pass ranks.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_47_fiber_Steam",
+    "display_name": "A Hustler's Journey",
+    "description": "Played a game of billiards.",
+    "chapter": "Daily Life",
+    "hint": "Visit Penguin Sniper in Kichijoji and play billiards to increase your team's Technical attack rank.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_48_fiber_Steam",
+    "display_name": "A Night in Kichijoji",
+    "description": "Attended the jazz club.",
+    "chapter": "Daily Life",
+    "hint": "Unlock the Jazz Club by reaching Rank 4 with Goro Akechi. Invite any party member there during the evening.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_49_fiber_Steam",
+    "display_name": "A Serene Experience",
+    "description": "Visited a temple.",
+    "chapter": "Daily Life",
+    "hint": "Go to the Temple in Kichijoji during the day to meditate. It passes time but permanently increases Joker's max SP.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_50_fiber_Steam",
+    "display_name": "Professional Modification",
+    "description": "Customized a gun.",
+    "chapter": "Daily Life",
+    "hint": "Reach Rank 1 with Munehisa Iwai (Hanged Man Confidant), which requires Level 4 Guts (Dauntless). Then use his shop to customize a ranged weapon.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_51_fiber_Steam",
+    "display_name": "Angler's Debut",
+    "description": "Passed time at the fishing pond.",
+    "chapter": "Daily Life",
+    "hint": "Unlock the Ichigaya fishing pond by reading the 'Fishpond Spotter' book or being invited by Ryuji. Go there and fish at least once.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "TrophyTitle_52_fiber_Steam",
+    "display_name": "Master of Akihabara",
+    "description": "Ordered from the special menu at the maid café.",
+    "chapter": "Daily Life",
+    "hint": "Visit the Maid Cafe in Akihabara and spend a cumulative total of 20,000 yen across multiple visits. They will offer you a special menu on your next visit.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  }
+]
