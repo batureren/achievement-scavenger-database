@@ -1,0 +1,1792 @@
+[
+  {
+    "apiname": "chal_survivor_1",
+    "display_name": "Survivor 1",
+    "description": "Kill 300 enemies",
+    "chapter": "Global",
+    "hint": "This will unlock naturally during your very first run.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_survivor_2",
+    "display_name": "Survivor 2",
+    "description": "Kill 2000 enemies",
+    "chapter": "Global",
+    "hint": "Unlocks naturally as you play a few runs. High attack speed and AoE weapons speed this up.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_survivor_3",
+    "display_name": "Survivor 3",
+    "description": "Kill 5000 enemies",
+    "chapter": "Global",
+    "hint": "Unlocks naturally over multiple runs.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_survivor_4",
+    "display_name": "Survivor 4",
+    "description": "Kill 10000 enemies",
+    "chapter": "Global",
+    "hint": "Unlocks naturally after a few hours of gameplay.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_survivor_5",
+    "display_name": "Survivor 5",
+    "description": "Kill 20000 enemies",
+    "chapter": "Global",
+    "hint": "Unlocks naturally as you grind through the different characters and difficulty levels.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_difficulty_0",
+    "display_name": "Danger 0",
+    "description": "Win a run in Danger 0",
+    "chapter": "Difficulty",
+    "hint": "Survive all 20 waves on the base difficulty. Prioritize surviving over damage if you are struggling, and invest in Max HP and HP Regeneration early.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_difficulty_1",
+    "display_name": "Danger 1",
+    "description": "Win a run in Danger 1",
+    "chapter": "Difficulty",
+    "hint": "Danger 1 spawns more enemies. Use characters with good wave clear like Loud or Mutant.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_difficulty_2",
+    "display_name": "Danger 2",
+    "description": "Win a run in Danger 2",
+    "chapter": "Difficulty",
+    "hint": "Danger 2 introduces more Elites/Hordes. Make sure you have high single-target DPS for Elites, or high movement speed to avoid Hordes.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_difficulty_3",
+    "display_name": "Danger 3",
+    "description": "Win a run in Danger 3",
+    "chapter": "Difficulty",
+    "hint": "Enemies hit harder and move faster. Focus heavily on Armor and Dodge to mitigate the increased damage.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_difficulty_4",
+    "display_name": "Danger 4",
+    "description": "Win a run in Danger 4",
+    "chapter": "Difficulty",
+    "hint": "More bosses and elites spawn. Use strong specialized characters like Knight (Armor/Melee) or Ranger (Ranged/SMG).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_difficulty_5",
+    "display_name": "Danger 5",
+    "description": "Win a run in Danger 5",
+    "chapter": "Difficulty",
+    "hint": "You will face two bosses on wave 20. High mobility and sustain are required. Characters like Masochist or Knight are very forgiving here.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_gatherer_1",
+    "display_name": "Gatherer 1",
+    "description": "Collect 300 materials",
+    "chapter": "Global",
+    "hint": "Materials are the green drops from enemies. This unlocks naturally in wave 2 or 3 of your first run.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_gatherer_2",
+    "display_name": "Gatherer 2",
+    "description": "Collect 2000 materials",
+    "chapter": "Global",
+    "hint": "Unlocks naturally during a standard 20-wave run.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_gatherer_3",
+    "display_name": "Gatherer 3",
+    "description": "Collect 5000 materials",
+    "chapter": "Global",
+    "hint": "Unlocks naturally across your playthroughs.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_gatherer_4",
+    "display_name": "Gatherer 4",
+    "description": "Collect 10000 materials",
+    "chapter": "Global",
+    "hint": "Unlocks naturally over time.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_gatherer_5",
+    "display_name": "Gatherer 5",
+    "description": "Collect 20000 materials",
+    "chapter": "Global",
+    "hint": "Unlocks naturally over time as you grind out different characters.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_agriculture",
+    "display_name": "Agriculture",
+    "description": "Reach 200 Harvesting",
+    "chapter": "Stats",
+    "hint": "Play as the Farmer character or buy the 'Tractor' and 'Crown' items. Take Harvesting stat boosts on level up during the early waves.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_dying",
+    "display_name": "Dying",
+    "description": "Reach -5 HP Regeneration",
+    "chapter": "Stats",
+    "hint": "Play as the Chunky or Lich character, or just buy items that offer high offensive stats in exchange for negative HP Regeneration (like Blood Donation).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_fast",
+    "display_name": "Fast",
+    "description": "Reach 50 % Speed",
+    "chapter": "Stats",
+    "hint": "Play as the Speedy character, or focus on Speed upgrades during level ups and buy items like 'Alien Magic' or 'Wings'.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_hoarder",
+    "display_name": "Hoarder",
+    "description": "Hold 3000 materials",
+    "chapter": "Stats",
+    "hint": "Play as the Saver character. Stop buying items around wave 12-15 and just survive to stockpile materials.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_lumberjack",
+    "display_name": "Lumberjack",
+    "description": "Kill 50 trees",
+    "chapter": "Global",
+    "hint": "Play as the Explorer character (starts with more trees spawned). Destroy every tree you see across a few waves.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_medicine",
+    "display_name": "Medicine",
+    "description": "Heal 200 HP in one wave",
+    "chapter": "Stats",
+    "hint": "Play as the Doctor or Bull. Stack high Max HP, Life Steal, and HP Regeneration. Intentionally take some damage and let your stats heal you.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_turrets",
+    "display_name": "Industrialization",
+    "description": "Get 5 turrets on the map simultaneously",
+    "chapter": "Stats",
+    "hint": "Play as the Engineer. Buy Wrenches (each spawns a turret) and look for pocket factories or turret items in the shop.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_hallucination",
+    "display_name": "Hallucination",
+    "description": "Reach 60 % Dodge",
+    "chapter": "Stats",
+    "hint": "Play as the Ghost character, who gains Dodge rapidly by using Ethereal weapons. Cap is usually 60%.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_brawler",
+    "display_name": "Brawler - Crash Zone",
+    "description": "Win a run with Brawler in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "Equip Unarmed weapons (like Fists) to scale massive attack speed and dodge.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_bull",
+    "display_name": "Bull - Crash Zone",
+    "description": "Win a run with Bull in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "Bull cannot equip weapons. Stack Max HP, HP Regen, Armor, and Speed to ram into enemies.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_chunky",
+    "display_name": "Chunky - Crash Zone",
+    "description": "Win a run with Chunky in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "Focus entirely on Max HP, Armor, and Melee Damage. Accept that you will have negative speed.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_demon",
+    "display_name": "Demon - Crash Zone",
+    "description": "Win a run with Demon in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "Use materials to buy Max HP early on. Start with Ghost Scepters to permanently farm Max HP.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_doctor",
+    "display_name": "Doctor - Crash Zone",
+    "description": "Win a run with Doctor in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "Equip 6 Medical weapons (Scissors/Syringes). You will have massive HP regen.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_engineer",
+    "display_name": "Engineer - Crash Zone",
+    "description": "Win a run with Engineer in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "Build full Engineering. Equip Wrenches and Screwdrivers. Stay inside your turret clusters to survive.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_entrepreneur",
+    "display_name": "Entrepreneur - Crash Zone",
+    "description": "Win a run with Entrepreneur in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "You lose all your money at the end of waves. Spend aggressively in the shop and rely on Harvesting for scaling.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_explorer",
+    "display_name": "Explorer - Crash Zone",
+    "description": "Win a run with Explorer in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "Use Choppers to kill trees for massive loot. Build Speed to easily collect crates across the large map.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_farmer",
+    "display_name": "Farmer - Crash Zone",
+    "description": "Win a run with Farmer in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "Equip Pruners. Let Harvesting scale your economy to astronomical levels by wave 15, then buy high-tier stats.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_ghost",
+    "display_name": "Ghost - Crash Zone",
+    "description": "Win a run with Ghost in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "Equip 6 Ethereal weapons (Ghost Flint/Axe/Scepter). Cap your dodge at 90% and stack HP.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_gladiator",
+    "display_name": "Gladiator - Crash Zone",
+    "description": "Win a run with Gladiator in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "You must use 6 DIFFERENT melee weapons to get the massive attack speed bonus.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_knight",
+    "display_name": "Knight - Crash Zone",
+    "description": "Win a run with Knight in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "Equip 6 Swords. Stack Armor as high as possible, as your melee damage scales directly from it.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_loud",
+    "display_name": "Loud - Crash Zone",
+    "description": "Win a run with Loud in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "High enemy spawn rate means high money. Use weapons with strong wave clear like SMGs or Slingshots.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_lucky",
+    "display_name": "Lucky - Crash Zone",
+    "description": "Win a run with Lucky in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "Equip Slingshots. Stack the Luck stat heavily; your passive will clear enemies automatically as you pick up materials.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_mage",
+    "display_name": "Mage - Crash Zone",
+    "description": "Win a run with Mage in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "Equip Taser or Wands. Focus entirely on Elemental Damage and getting 'Scared Sausage' or 'Snake' items.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_masochist",
+    "display_name": "Masochist - Crash Zone",
+    "description": "Win a run with Masochist in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "Equip Scissors or Spiky Shields. Stack Max HP, Armor, and HP Regen. Let enemies hit you to boost your damage.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_multitasker",
+    "display_name": "Multitasker - Crash Zone",
+    "description": "Win a run with Multitasker in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "Equip 12 Sticks. The scaling base damage of Sticks easily overrides the character's damage penalty.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_mutant",
+    "display_name": "Mutant - Crash Zone",
+    "description": "Win a run with Mutant in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "Items are expensive, so rely on your passive +20% XP gain to carry you through level-up stats.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_old",
+    "display_name": "Old - Crash Zone",
+    "description": "Win a run with Old in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "The map is smaller and you are slower. Engineering builds (Turrets) work perfectly here since you don't need to move much.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_one_arm",
+    "display_name": "One-Armed - Crash Zone",
+    "description": "Win a run with One-Armed in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "Equip a Slingshot or SMG. Your single weapon gets massive +200% attack speed. Focus on flat Ranged Damage.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_pacifist",
+    "display_name": "Pacifist - Crash Zone",
+    "description": "Win a run with Pacifist in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "Equip 6 Hands. Do not focus on killing; just stack Speed, Dodge, Max HP, and Harvesting to survive the timers.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_ranger",
+    "display_name": "Ranger - Crash Zone",
+    "description": "Win a run with Ranger in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "Equip 6 SMGs or Crossbows. Focus purely on Ranged Damage and attack speed. You are weak to melee.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_saver",
+    "display_name": "Saver - Crash Zone",
+    "description": "Win a run with Saver in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "Use a cheap weapon like Spears or Slingshots. Hoard your materials without spending to gain massive damage boosts.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_sick",
+    "display_name": "Sick - Crash Zone",
+    "description": "Win a run with Sick in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "Equip SMGs. You start with high Life Steal but take damage over time. Fast-hitting weapons will keep you at full health.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_soldier",
+    "display_name": "Soldier - Crash Zone",
+    "description": "Win a run with Soldier in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "You cannot attack while moving. Play stop-and-go. Guns with knockback like Shotguns work best.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_speedy",
+    "display_name": "Speedy - Crash Zone",
+    "description": "Win a run with Speedy in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "Equip Lances or Shurikens. Keep running in large circles around the map to maximize your passive damage buff.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_well_rounded",
+    "display_name": "Well-Rounded - Crash Zone",
+    "description": "Win a run with Well-Rounded in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "Very flexible. 6 Sticks or 6 SMGs are straightforward and reliable builds for this character.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_wildling",
+    "display_name": "Wildling - Crash Zone",
+    "description": "Win a run with Wildling in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "You cannot equip weapons higher than Tier 2 (Blue). Equip 6 Sticks, as their base scaling makes them strong even at lower tiers.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_rookie",
+    "display_name": "Rookie",
+    "description": "Die for the first time",
+    "chapter": "Global",
+    "hint": "Unmissable. You will naturally die on your first few attempts while learning the game mechanics.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_crazy",
+    "display_name": "Crazy - Crash Zone",
+    "description": "Win a run with Crazy in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "Equip Precise weapons like Knives, Shurikens, or Thief Daggers. Focus on Critical Chance.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_generalist",
+    "display_name": "Generalist - Crash Zone",
+    "description": "Win a run with Generalist in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "Equip 3 Melee and 3 Ranged weapons. Cacti Clubs pair perfectly as they scale off both stats.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_artificer",
+    "display_name": "Artificer - Crash Zone",
+    "description": "Win a run with Artificer in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "Equip Shredders or Rocket Launchers. Invest entirely in Explosive Damage and Armor.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_hunter",
+    "display_name": "Hunter - Crash Zone",
+    "description": "Win a run with Hunter in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "Equip Crossbows or Sniper Rifles. Use your massive Range stat to safely clear the screen from afar.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_fireworks",
+    "display_name": "Fireworks",
+    "description": "Kill 15 enemies with a single explosion",
+    "chapter": "Stats",
+    "hint": "Play as Artificer with Rocket Launchers. Wait for a large horde to gather, then shoot a rocket into the center.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_perfect_vision",
+    "display_name": "Perfect Vision",
+    "description": "Reach 300 Range",
+    "chapter": "Stats",
+    "hint": "Play as Hunter. Invest in Range during level-ups and buy items like 'Scope' or 'Baby with a Beard'.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_recycling",
+    "display_name": "Recycling",
+    "description": "Recycle 12 weapons during a run",
+    "chapter": "Global",
+    "hint": "Play as Arms Dealer, where you are forced to buy and recycle weapons every single wave.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_slow",
+    "display_name": "Slow",
+    "description": "Reach -20 % Speed",
+    "chapter": "Stats",
+    "hint": "Play as Chunky or Old. Buy heavy items like 'Anvil' or heavy armors that reduce speed.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_arms_dealer",
+    "display_name": "Arms Dealer - Crash Zone",
+    "description": "Win a run with Arms Dealer in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "You lose your weapons every wave. Heavily invest in Harvesting early so you have the economy to buy new weapons constantly.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_streamer",
+    "display_name": "Streamer - Crash Zone",
+    "description": "Win a run with Streamer in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "Stand completely still to generate money, then move to dodge when necessary. Wrench/Engineering build works perfectly for standing still.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_advanced_technology",
+    "display_name": "Advanced Technology",
+    "description": "Reach 10 Ranged Damage and get 3 structures at the same time",
+    "chapter": "Stats",
+    "hint": "Play as Cyborg or simply play a Ranger and buy a few Wrenches/Turrets during the shop phase.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_giant_slayer",
+    "display_name": "Giant Slayer",
+    "description": "Kill a boss or an elite in less than 15 seconds",
+    "chapter": "Global",
+    "hint": "Play as Jack with Laser Guns, or Ranger with Sniper Rifles. Focus purely on high single-target burst damage.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_hungry",
+    "display_name": "Hungry",
+    "description": "Pick up 20 consumables during a run",
+    "chapter": "Global",
+    "hint": "Consumables are the fruits that drop. Play as Explorer (more trees) or buy 'Pruners' (spawn fruits).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_robust",
+    "display_name": "Robust",
+    "description": "Reach 100 Max HP",
+    "chapter": "Stats",
+    "hint": "Play as Chunky or Golem and prioritize Max HP stats during every level up.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_cyborg",
+    "display_name": "Cyborg - Crash Zone",
+    "description": "Win a run with Cyborg in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "Start with Miniguns. Halfway through the wave, your Ranged damage converts to Engineering, so have a mix of Guns and Wrenches.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_glutton",
+    "display_name": "Glutton - Crash Zone",
+    "description": "Win a run with Glutton in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "Equip Pruners. Picking up fruits heals you and causes an explosion. Stack Explosive Damage.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_jack",
+    "display_name": "Jack - Crash Zone",
+    "description": "Win a run with Jack in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "Enemies have +250% health but fewer spawn. Equip high burst weapons like Laser Guns or Revolvers.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_lich",
+    "display_name": "Lich - Crash Zone",
+    "description": "Win a run with Lich in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "Healing deals damage to enemies. Equip Medical weapons (Scissors/Syringes) and stack HP Regeneration and Max HP.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_baited",
+    "display_name": "Baited",
+    "description": "Get 2 Bait during a run",
+    "chapter": "Global",
+    "hint": "Bait is an item that spawns special enemies next wave. Buy it twice in the shop during a single run. Fisherman makes them appear constantly.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_forest",
+    "display_name": "Forest",
+    "description": "Finish a wave with 10 or more living trees",
+    "chapter": "Global",
+    "hint": "Play as Explorer. Just run in circles and avoid shooting or destroying the trees.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_bourgeoisie",
+    "display_name": "Bourgeoisie",
+    "description": "Get 3 tier IV weapons at once",
+    "chapter": "Global",
+    "hint": "Combine weapons in your inventory or buy Red (Tier IV) weapons from the shop late-game. Very easy on economic characters like Farmer or Entrepreneur.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_student",
+    "display_name": "Student",
+    "description": "Reach level 20",
+    "chapter": "Global",
+    "hint": "Play as Mutant (+20% XP) or just survive until Wave 20 on Danger 1+; you will usually hit Level 20 naturally.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_reckless",
+    "display_name": "Reckless",
+    "description": "Finish a wave with 1 HP",
+    "chapter": "Global",
+    "hint": "Play as Demon. Spend all your Max HP on items in the shop until you literally only have 1 Max HP left, then finish wave 1.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_scavenger",
+    "display_name": "Scavenger",
+    "description": "Get 10 different tier I items during a run",
+    "chapter": "Global",
+    "hint": "Just buy 10 different cheap white items from the shop during the first few waves.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_apprentice",
+    "display_name": "Apprentice - Crash Zone",
+    "description": "Win a run with Apprentice in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "You gain base stats upon leveling up but lose stats over time. Level up as fast as possible (stack XP items).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_cryptid",
+    "display_name": "Cryptid - Crash Zone",
+    "description": "Win a run with Cryptid in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "Equip Claws. Leave trees alive to gain massive Dodge and Attack Speed bonuses.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_fisherman",
+    "display_name": "Fisherman - Crash Zone",
+    "description": "Win a run with Fisherman in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "Equip Spears. Buy 1 or 2 Baits per shop early on to stack permanent Damage, but don't buy too many or you'll be overwhelmed.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_golem",
+    "display_name": "Golem - Crash Zone",
+    "description": "Win a run with Golem in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "Equip Spiky Shields. You cannot heal, so stack Max HP and Armor incredibly high. Max HP buffs increase your speed and damage.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_king",
+    "display_name": "King - Crash Zone",
+    "description": "Win a run with King in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "Focus heavily on economy to upgrade your weapons to Tier IV (Red) as fast as possible, as Tier I weapons debuff you.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_renegade",
+    "display_name": "Renegade - Crash Zone",
+    "description": "Win a run with Renegade in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "Equip SMGs. Your projectiles pierce, making fast-firing weapons incredible. Never merge your weapons past Tier 1.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_vampire",
+    "display_name": "Vampire - Crash Zone",
+    "description": "Win a run with Vampire in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "You cannot regenerate HP normally. Stack high Life Steal and Max HP, and use fast-hitting weapons like SMGs.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_vagabond",
+    "display_name": "Vagabond - Crash Zone",
+    "description": "Win a run with Vagabond in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "A versatile character. Pick a starting weapon class (like Sticks or SMGs) and stick with it.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_baby",
+    "display_name": "Baby - Crash Zone",
+    "description": "Win a run with Baby in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "You take extra damage. Stack Dodge and Speed to avoid getting hit at all costs.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_blood_drinker",
+    "display_name": "Blood Drinker",
+    "description": "Reach 40 % Life Steal",
+    "chapter": "Stats",
+    "hint": "Play as Sick or Vampire. Take Life Steal on every level up and buy items like 'Bat' or 'Leech'.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_experimentation",
+    "display_name": "Experimentation",
+    "description": "Have 6 different weapons at once",
+    "chapter": "Global",
+    "hint": "Play as Gladiator (requires 6 different melee weapons) or just buy 6 random cheap weapons on wave 2-3.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_fast_learner",
+    "display_name": "Fast Learner",
+    "description": "Reach level 10 before wave 6",
+    "chapter": "Stats",
+    "hint": "Play as Mutant (+20% XP) and buy XP boosting items like 'Scar' early.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_magic_and_machinery",
+    "display_name": "Magic and Machinery",
+    "description": "Reach 10 Elemental Damage and get 3 structures at the same time",
+    "chapter": "Stats",
+    "hint": "Play as Mage or Artificer. Focus on Elemental damage, then just buy a few Wrenches or Turret items.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_technomage",
+    "display_name": "Technomage - Crash Zone",
+    "description": "Win a run with Technomage in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "Equip Wands. Your Elemental Damage scales your Engineering. Buy turrets to supplement your wands.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_barbecue",
+    "display_name": "Barbecue",
+    "description": "Have at least 25 enemies burning at the same time",
+    "chapter": "Global",
+    "hint": "Play as Mage with a Flamethrower, or any character using 'Scared Sausage' and high attack speed.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_blind_greed",
+    "display_name": "Blind Greed",
+    "description": "Reach 100 % Pickup Range",
+    "chapter": "Stats",
+    "hint": "Play as Farmer or buy items like 'Little Muscled Dude', 'Alien Magic', or 'Snail'.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_buccaneer",
+    "display_name": "Buccaneer - Crash Zone",
+    "description": "Win a run with Buccaneer in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "Equip Cutlasses or Flintlocks. Focus on gaining a massive economy to buff your stats.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_builder",
+    "display_name": "Builder - Crash Zone",
+    "description": "Win a run with Builder in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "Equip Wrenches. Similar to Engineer, prioritize turrets and defensive structures.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_captain",
+    "display_name": "Captain - Crash Zone",
+    "description": "Win a run with Captain in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "Structures grant you buffs. Buy turrets and mines, and stay near them while using ranged weapons.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_cautious",
+    "display_name": "Cautious",
+    "description": "Kill 1000 enemies that are more than 700 range away from you",
+    "chapter": "Global",
+    "hint": "Play as Hunter. Equip Sniper Rifles and stack Range stats. Stay in the corners of the map.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_chef",
+    "display_name": "Chef - Crash Zone",
+    "description": "Win a run with Chef in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "Equip Pruners or Frying Pans. Use consumable-healing to boost your damage.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_creature",
+    "display_name": "Creature - Crash Zone",
+    "description": "Win a run with Creature in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "Highly erratic. Stack Dodge and use weapons with fast attack speeds.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_curious",
+    "display_name": "Curious - Crash Zone",
+    "description": "Win a run with Curious in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "Your stats change randomly. Build a generalist loadout with strong base-damage weapons like SMGs or Cacti Clubs.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_diver",
+    "display_name": "Diver - Crash Zone",
+    "description": "Win a run with Diver in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "Stack speed and dodge. Weapons with high movement speed modifiers are essential.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_druid",
+    "display_name": "Druid - Crash Zone",
+    "description": "Win a run with Druid in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "Equip Pruners. Harvesting scales your damage, so invest entirely in economy and survivability.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_dwarf",
+    "display_name": "Dwarf - Crash Zone",
+    "description": "Win a run with Dwarf in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "You are slow but extremely tanky. Equip heavy melee weapons like Hammers or Choppers and build Armor.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_gangster",
+    "display_name": "Gangster - Crash Zone",
+    "description": "Win a run with Gangster in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "Equip Pistols or Tommy Guns. Focus on high burst damage and critical strikes.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_herbalist",
+    "display_name": "Herbalist",
+    "description": "Collect 250 consumables by the end of wave 20",
+    "chapter": "Global",
+    "hint": "Play as Glutton or Explorer. Buy Pruners (which spawn consumables) and stack Luck.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_hiker",
+    "display_name": "Hiker - Crash Zone",
+    "description": "Win a run with Hiker in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "Moving gives you buffs. Keep running around the edges of the map using weapons you can fire on the move.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_ogre",
+    "display_name": "Ogre - Crash Zone",
+    "description": "Win a run with Ogre in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "Equip Clubs or heavy melee weapons. Stack Max HP and Melee Damage.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_overkill",
+    "display_name": "Overkill",
+    "description": "Deal 1000 damage to an enemy in a single hit",
+    "chapter": "Global",
+    "hint": "Play as Jack using Laser Guns, or Artificer using high-tier Explosives.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_romantic",
+    "display_name": "Romantic - Crash Zone",
+    "description": "Win a run with Romantic in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "You get bonuses for having paired weapons. Keep your weapon types diverse but paired (e.g., 2 SMGs, 2 Swords, 2 Sticks).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_sailor",
+    "display_name": "Sailor - Crash Zone",
+    "description": "Win a run with Sailor in Crash Zone",
+    "chapter": "Crash Zone Map",
+    "hint": "Focus on high Harvesting and economy items. Water-based weapons excel here.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_smelly_feet",
+    "display_name": "Smelly Feet",
+    "description": "Walk a total of 20000 steps",
+    "chapter": "Global",
+    "hint": "Unlocks naturally across a few runs, especially if you play Speedy or high-mobility characters.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_uncorrupted",
+    "display_name": "Uncorrupted",
+    "description": "Finish a run with 0 Curse",
+    "chapter": "Global",
+    "hint": "Curse is a DLC mechanic. Simply avoid taking any items that add Curse to your stats.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_unlucky",
+    "display_name": "Unlucky",
+    "description": "Reroll 10 times in a single shop",
+    "chapter": "Global",
+    "hint": "Play as Saver or Entrepreneur. Save up ~300+ materials and just spam the reroll button in late-game shops.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_unstoppable_force",
+    "display_name": "Unstoppable Force",
+    "description": "Hit at least 25 enemies with a single melee attack",
+    "chapter": "Global",
+    "hint": "Play as Gladiator with sweeping weapons (Circular Saw, Greatsword). Stack melee range and attack into a dense horde.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_well_rounded_abyss",
+    "display_name": "Well-Rounded - The Abyss",
+    "description": "Win a run with Well-Rounded in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Use a standard 6 Stick or 6 SMG build to easily clear The Abyss map.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_brawler_abyss",
+    "display_name": "Brawler - The Abyss",
+    "description": "Win a run with Brawler in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Equip Unarmed weapons. Stack attack speed and dodge.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_crazy_abyss",
+    "display_name": "Crazy - The Abyss",
+    "description": "Win a run with Crazy in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Equip Precise weapons (Knives/Shurikens) and stack Crit Chance.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_ranger_abyss",
+    "display_name": "Ranger - The Abyss",
+    "description": "Win a run with Ranger in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Equip SMGs or Crossbows. Keep your distance from the Abyssal enemies.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_mage_abyss",
+    "display_name": "Mage - The Abyss",
+    "description": "Win a run with Mage in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Equip Tasers or Wands. Focus on Elemental Damage and burning effects.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_chunky_abyss",
+    "display_name": "Chunky - The Abyss",
+    "description": "Win a run with Chunky in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Build pure Max HP and Armor. You won't outrun Abyssal enemies, so tank them.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_old_abyss",
+    "display_name": "Old - The Abyss",
+    "description": "Win a run with Old in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Use an Engineering build with Wrenches to lock down an area.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_lucky_abyss",
+    "display_name": "Lucky - The Abyss",
+    "description": "Win a run with Lucky in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Equip Slingshots. Maximize Luck to let your passive deal damage.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_mutant_abyss",
+    "display_name": "Mutant - The Abyss",
+    "description": "Win a run with Mutant in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Use SMGs. Rely on rapid level-ups for your stats.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_generalist_abyss",
+    "display_name": "Generalist - The Abyss",
+    "description": "Win a run with Generalist in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Mix Melee and Ranged. Cacti Clubs are still highly recommended.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_loud_abyss",
+    "display_name": "Loud - The Abyss",
+    "description": "Win a run with Loud in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Expect massive swarms. Wave clear weapons like SMGs or sweeping Melee are required.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_multitasker_abyss",
+    "display_name": "Multitasker - The Abyss",
+    "description": "Win a run with Multitasker in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Equip 12 Sticks. The sheer base damage easily carries.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_wildling_abyss",
+    "display_name": "Wildling - The Abyss",
+    "description": "Win a run with Wildling in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Equip 6 Sticks and just stack flat Melee damage.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_pacifist_abyss",
+    "display_name": "Pacifist - The Abyss",
+    "description": "Win a run with Pacifist in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Equip 6 Hands. Stack Speed and Dodge, and just run out the clock.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_gladiator_abyss",
+    "display_name": "Gladiator - The Abyss",
+    "description": "Win a run with Gladiator in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Use 6 different Melee weapons to benefit from the massive attack speed boost.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_saver_abyss",
+    "display_name": "Saver - The Abyss",
+    "description": "Win a run with Saver in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Hoard materials. Try not to drop below 3000 late game.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_sick_abyss",
+    "display_name": "Sick - The Abyss",
+    "description": "Win a run with Sick in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Equip SMGs for rapid Life Steal healing.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_farmer_abyss",
+    "display_name": "Farmer - The Abyss",
+    "description": "Win a run with Farmer in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Equip Pruners and let Harvesting carry your economy.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_ghost_abyss",
+    "display_name": "Ghost - The Abyss",
+    "description": "Win a run with Ghost in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Equip Ethereal weapons and cap your dodge at 90%.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_speedy_abyss",
+    "display_name": "Speedy - The Abyss",
+    "description": "Win a run with Speedy in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Equip Lances or Shurikens. Never stop moving.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_entrepreneur_abyss",
+    "display_name": "Entrepreneur - The Abyss",
+    "description": "Win a run with Entrepreneur in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Spend all your money in the shop every wave.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_engineer_abyss",
+    "display_name": "Engineer - The Abyss",
+    "description": "Win a run with Engineer in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Wrenches and Screwdrivers. Box yourself into a corner with turrets.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_explorer_abyss",
+    "display_name": "Explorer - The Abyss",
+    "description": "Win a run with Explorer in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Use Choppers. Farm trees for items and materials.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_doctor_abyss",
+    "display_name": "Doctor - The Abyss",
+    "description": "Win a run with Doctor in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Medical weapons provide insane sustain in the Abyss.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_hunter_abyss",
+    "display_name": "Hunter - The Abyss",
+    "description": "Win a run with Hunter in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Sniper Rifles and massive Range stats keep you safe.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_artificer_abyss",
+    "display_name": "Artificer - The Abyss",
+    "description": "Win a run with Artificer in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Shredders or Rocket Launchers. Maximize Explosive Damage.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_arms_dealer_abyss",
+    "display_name": "Arms Dealer - The Abyss",
+    "description": "Win a run with Arms Dealer in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Rely heavily on early Harvesting to afford weapons each wave.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_streamer_abyss",
+    "display_name": "Streamer - The Abyss",
+    "description": "Win a run with Streamer in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Stand still to earn cash, build turrets to protect your AFK spot.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_cyborg_abyss",
+    "display_name": "Cyborg - The Abyss",
+    "description": "Win a run with Cyborg in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Start with Miniguns and transition to Turret damage mid-wave.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_glutton_abyss",
+    "display_name": "Glutton - The Abyss",
+    "description": "Win a run with Glutton in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Equip Pruners and blow enemies up by picking up fruits.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_jack_abyss",
+    "display_name": "Jack - The Abyss",
+    "description": "Win a run with Jack in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Laser Guns are best for bursting down the tanky Abyssal enemies.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_lich_abyss",
+    "display_name": "Lich - The Abyss",
+    "description": "Win a run with Lich in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Stack HP Regeneration and Max HP with Medical weapons.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_apprentice_abyss",
+    "display_name": "Apprentice - The Abyss",
+    "description": "Win a run with Apprentice in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Stack XP items to outpace your stat decay.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_cryptid_abyss",
+    "display_name": "Cryptid - The Abyss",
+    "description": "Win a run with Cryptid in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Equip Claws. Don't destroy the trees.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_fisherman_abyss",
+    "display_name": "Fisherman - The Abyss",
+    "description": "Win a run with Fisherman in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Equip Spears. Buy Bait moderately to avoid getting overwhelmed.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_golem_abyss",
+    "display_name": "Golem - The Abyss",
+    "description": "Win a run with Golem in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Spiky Shields. Pure Max HP and Armor.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_king_abyss",
+    "display_name": "King - The Abyss",
+    "description": "Win a run with King in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Rush Tier IV (Red) weapons.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_renegade_abyss",
+    "display_name": "Renegade - The Abyss",
+    "description": "Win a run with Renegade in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Keep 6 Tier 1 SMGs. Projectile piercing shreds crowds.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_one_arm_abyss",
+    "display_name": "One-Armed - The Abyss",
+    "description": "Win a run with One-Armed in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Slingshots or SMGs. Focus heavily on Ranged Damage.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_bull_abyss",
+    "display_name": "Bull - The Abyss",
+    "description": "Win a run with Bull in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "You cannot equip weapons. Max HP, Armor, and HP Regen are your friends.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_soldier_abyss",
+    "display_name": "Soldier - The Abyss",
+    "description": "Win a run with Soldier in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Play stop-and-go. High fire rate weapons work best.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_masochist_abyss",
+    "display_name": "Masochist - The Abyss",
+    "description": "Win a run with Masochist in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Spiky Shields. Get hit intentionally to deal massive damage.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_knight_abyss",
+    "display_name": "Knight - The Abyss",
+    "description": "Win a run with Knight in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Swords and full Armor build.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_demon_abyss",
+    "display_name": "Demon - The Abyss",
+    "description": "Win a run with Demon in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Use Ghost Scepters to farm HP, spend freely early on.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_baby_abyss",
+    "display_name": "Baby - The Abyss",
+    "description": "Win a run with Baby in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Avoid getting hit. Speed and Dodge are crucial.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_vagabond_abyss",
+    "display_name": "Vagabond - The Abyss",
+    "description": "Win a run with Vagabond in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Flexible build path, Stick with your starting weapon class.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_technomage_abyss",
+    "display_name": "Technomage - The Abyss",
+    "description": "Win a run with Technomage in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Wands and Engineering turrets.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_vampire_abyss",
+    "display_name": "Vampire - The Abyss",
+    "description": "Win a run with Vampire in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "High Life Steal and fast weapons like SMGs.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_sailor_abyss",
+    "display_name": "Sailor - The Abyss",
+    "description": "Win a run with Sailor in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Water weapons and high economy.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_curious_abyss",
+    "display_name": "Curious - The Abyss",
+    "description": "Win a run with Curious in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Adapt to random stat changes. Use reliable weapons like Cacti Clubs.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_builder_abyss",
+    "display_name": "Builder - The Abyss",
+    "description": "Win a run with Builder in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Wrenches and Turrets. Defend your zone.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_captain_abyss",
+    "display_name": "Captain - The Abyss",
+    "description": "Win a run with Captain in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Use structures for buffs. Turrets are a must.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_creature_abyss",
+    "display_name": "Creature - The Abyss",
+    "description": "Win a run with Creature in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "High Dodge and Attack Speed.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_chef_abyss",
+    "display_name": "Chef - The Abyss",
+    "description": "Win a run with Chef in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Pruners. Consumables heal and buff damage.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_druid_abyss",
+    "display_name": "Druid - The Abyss",
+    "description": "Win a run with Druid in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Pruners. Focus solely on Harvesting.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_dwarf_abyss",
+    "display_name": "Dwarf - The Abyss",
+    "description": "Win a run with Dwarf in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Choppers or Hammers. Very slow, heavily armored.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_gangster_abyss",
+    "display_name": "Gangster - The Abyss",
+    "description": "Win a run with Gangster in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Pistols or Tommy Guns. High Crit and Burst.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_diver_abyss",
+    "display_name": "Diver - The Abyss",
+    "description": "Win a run with Diver in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Stack Speed. Highly mobile Abyssal weapons.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_hiker_abyss",
+    "display_name": "Hiker - The Abyss",
+    "description": "Win a run with Hiker in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Keep moving constantly to maintain buffs.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_buccaneer_abyss",
+    "display_name": "Buccaneer - The Abyss",
+    "description": "Win a run with Buccaneer in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Cutlasses/Guns and prioritize a massive economy.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_ogre_abyss",
+    "display_name": "Ogre - The Abyss",
+    "description": "Win a run with Ogre in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Clubs, high Max HP and Melee.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_romantic_abyss",
+    "display_name": "Romantic - The Abyss",
+    "description": "Win a run with Romantic in The Abyss",
+    "chapter": "The Abyss Map",
+    "hint": "Use paired weapons (e.g., 2 Swords, 2 SMGs, 2 Spears).",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_beast_master",
+    "display_name": "Beast Master",
+    "description": "Win a run with Beast Master",
+    "chapter": "Abyssal Terrors DLC",
+    "hint": "Focus entirely on items that spawn pets or summons.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_difficulty_6",
+    "display_name": "Nightmare",
+    "description": "Win a run in Nightmare",
+    "chapter": "Difficulty",
+    "hint": "Nightmare (Danger 6) is brutally difficult. High sustain, armor, and wave-clearing builds (like Loud with SMGs or Knight with Swords) are recommended.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  },
+  {
+    "apiname": "chal_wounded",
+    "display_name": "Wounded",
+    "description": "Win a run with Wounded",
+    "chapter": "Abyssal Terrors DLC",
+    "hint": "Focus entirely on dodge items. Remember, getting hit = you die.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  }
+]

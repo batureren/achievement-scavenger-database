@@ -1,0 +1,12 @@
+[
+  {
+    "apiname": "PLAY_CS2",
+    "display_name": "A New Beginning",
+    "description": "This is Counter-Strike 2.",
+    "chapter": "",
+    "hint": "Simply launch the game and play a match. This is currently the one and only achievement available in Counter-Strike 2, introduced when the game officially replaced CS:GO and wiped its legacy 167 achievements.",
+    "is_missable": false,
+    "is_spoiler": false,
+    "video_url": ""
+  }
+]
