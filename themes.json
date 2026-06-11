@@ -1,0 +1,142 @@
+[
+  {
+    "id": "default",
+    "name": "Dark (Default)",
+    "vars": {
+      "--bg-color": "#18181b",
+      "--card-bg": "#27272a",
+      "--text-main": "#f4f4f5",
+      "--text-muted": "#a1a1aa",
+      "--accent-green": "#34d399",
+      "--accent-red": "#ef4444",
+      "--accent-yellow": "#f59e0b",
+      "--border-color": "#3f3f46"
+    }
+  },
+  {
+    "id": "midnight-blue",
+    "name": "Midnight Blue",
+    "vars": {
+      "--bg-color": "#0f172a",
+      "--card-bg": "#1e293b",
+      "--text-main": "#e2e8f0",
+      "--text-muted": "#94a3b8",
+      "--accent-green": "#38bdf8",
+      "--accent-red": "#f87171",
+      "--accent-yellow": "#fbbf24",
+      "--border-color": "#334155"
+    }
+  },
+  {
+    "id": "forest",
+    "name": "Forest",
+    "vars": {
+      "--bg-color": "#0d1f0d",
+      "--card-bg": "#162016",
+      "--text-main": "#d1fae5",
+      "--text-muted": "#6ee7b7",
+      "--accent-green": "#4ade80",
+      "--accent-red": "#f87171",
+      "--accent-yellow": "#fcd34d",
+      "--border-color": "#1a3a1a"
+    }
+  },
+  {
+    "id": "amoled",
+    "name": "AMOLED",
+    "vars": {
+      "--bg-color": "#000000",
+      "--card-bg": "#0a0a0a",
+      "--text-main": "#ffffff",
+      "--text-muted": "#888888",
+      "--accent-green": "#00ff87",
+      "--accent-red": "#ff4444",
+      "--accent-yellow": "#ffcc00",
+      "--border-color": "#1a1a1a"
+    }
+  },
+  {
+    "id": "light",
+    "name": "Light",
+    "vars": {
+      "--bg-color": "#f4f4f5",
+      "--card-bg": "#ffffff",
+      "--text-main": "#18181b",
+      "--text-muted": "#71717a",
+      "--accent-green": "#059669",
+      "--accent-red": "#dc2626",
+      "--accent-yellow": "#d97706",
+      "--border-color": "#e4e4e7"
+    }
+  },
+  {
+    "id": "purple-haze",
+    "name": "Purple Haze",
+    "vars": {
+      "--bg-color": "#13111a",
+      "--card-bg": "#1d1828",
+      "--text-main": "#ede9fe",
+      "--text-muted": "#a78bfa",
+      "--accent-green": "#c084fc",
+      "--accent-red": "#f87171",
+      "--accent-yellow": "#fbbf24",
+      "--border-color": "#2e2445"
+    }
+  },
+  {
+    "id": "rose-gold",
+    "name": "Rose Gold",
+    "vars": {
+      "--bg-color": "#1c1012",
+      "--card-bg": "#271418",
+      "--text-main": "#fce7e7",
+      "--text-muted": "#f9a8b4",
+      "--accent-green": "#fb7185",
+      "--accent-red": "#f43f5e",
+      "--accent-yellow": "#fbbf24",
+      "--border-color": "#3d1f25"
+    }
+  },
+  {
+    "id": "slate",
+    "name": "Slate",
+    "vars": {
+      "--bg-color": "#0f1117",
+      "--card-bg": "#161b27",
+      "--text-main": "#cdd9f5",
+      "--text-muted": "#8492b0",
+      "--accent-green": "#5bc0eb",
+      "--accent-red": "#e05c68",
+      "--accent-yellow": "#f9c74f",
+      "--border-color": "#252d40"
+    }
+  },
+  {
+    "id": "solarized-dark",
+    "name": "Solarized Dark",
+    "vars": {
+      "--bg-color": "#002b36",
+      "--card-bg": "#073642",
+      "--text-main": "#eee8d5",
+      "--text-muted": "#839496",
+      "--accent-green": "#859900",
+      "--accent-red": "#dc322f",
+      "--accent-yellow": "#b58900",
+      "--border-color": "#0d4555"
+    }
+  },
+  {
+    "id": "hacker",
+    "name": "Hacker",
+    "vars": {
+      "--bg-color": "#030a03",
+      "--card-bg": "#071007",
+      "--text-main": "#00ff41",
+      "--text-muted": "#008f11",
+      "--accent-green": "#00ff41",
+      "--accent-red": "#ff0000",
+      "--accent-yellow": "#ffff00",
+      "--border-color": "#003b00"
+    }
+  }
+]
