@@ -1,5 +1,5 @@
-# Trophy Scavenger Community Database
-Welcome to the Community Database for Trophy Scavenger! This repository houses crowdsourced achievement guides, hints, missable warnings, and curated guide links for Steam games.
+# Achievement Scavenger Community Database
+Welcome to the Community Database for Achievement Scavenger! This repository houses crowdsourced achievement guides, hints, missable warnings, and curated guide links for Steam games.
 
 ## 📂 How it works
 To keep the app fast, data is split into individual JSON files based on the game's **Steam AppID**.
@@ -13,7 +13,7 @@ Each file uses an object format with two top-level keys: `links` and `achievemen
 1. **Fork** this repository.
 2. Find the game's **Steam AppID** (visible in the game's Steam Store URL).
 3. Create a new file in the `/games/` directory named `[AppID].json`.
-4. Open the Trophy Scavenger App while playing the game to find the exact internal **API Names** for the achievements.
+4. Open the Achievement Scavenger App while playing the game to find the exact internal **API Names** for the achievements.
 5. Fill out the JSON using the template below.
 6. Submit a **Pull Request**!
 
@@ -81,4 +81,4 @@ Each file uses an object format with two top-level keys: `links` and `achievemen
 
 ## 🔄 Export & Import
 
-When you use **Export JSON** inside Trophy Scavenger, the exported file uses this same format — including any personal shortcuts you've added and all your local edits to achievements. This means you can directly submit your export as a pull request to share your work with the community.
+When you use **Export JSON** inside Achievement Scavenger, the exported file uses this same format — including any personal shortcuts you've added and all your local edits to achievements. This means you can directly submit your export as a pull request to share your work with the community.
