@@ -34,7 +34,8 @@
       "hint": "Press the parry button (L1/LB/Space) right before an enemy's attack hits you. The prompt will briefly appear at the bottom right of the screen.",
       "is_missable": false,
       "is_spoiler": false,
-      "video_url": ""
+      "video_url": "",
+      "requires": []
     },
     {
       "apiname": "2",
@@ -44,7 +45,8 @@
       "hint": "Talk to the Merchant when you first meet him in Chapter 2 and purchase any stat upgrade for any weapon using pesetas.",
       "is_missable": false,
       "is_spoiler": false,
-      "video_url": ""
+      "video_url": "",
+      "requires": []
     },
     {
       "apiname": "3",
@@ -54,7 +56,10 @@
       "hint": "Fully upgrade every stat of a weapon to unlock its Exclusive Upgrade, then purchase it. Alternatively, trade Spinels for an Exclusive Upgrade Ticket to unlock it immediately regardless of the weapon's level.",
       "is_missable": false,
       "is_spoiler": false,
-      "video_url": ""
+      "video_url": "",
+      "requires": [
+        "2"
+      ]
     },
     {
       "apiname": "4",
@@ -64,7 +69,8 @@
       "hint": "Pick up a blue request flyer (the earliest is the 'Destroy the Blue Medallions' note in the Farm) and complete the objective. Turn it in to the Merchant when you meet him.",
       "is_missable": false,
       "is_spoiler": false,
-      "video_url": ""
+      "video_url": "",
+      "requires": []
     },
     {
       "apiname": "5",
@@ -74,7 +80,8 @@
       "hint": "When an enemy grabs Ashley and attempts to carry her away, shoot the enemy or use a knife stealth kill to force them to drop her.",
       "is_missable": false,
       "is_spoiler": false,
-      "video_url": ""
+      "video_url": "",
+      "requires": []
     },
     {
       "apiname": "6",
@@ -84,7 +91,8 @@
       "hint": "Destroy one of the 16 hidden Clockwork Castellan figures. The first one is in the Lakeside Settlement inside a ruined building.",
       "is_missable": false,
       "is_spoiler": false,
-      "video_url": ""
+      "video_url": "",
+      "requires": []
     },
     {
       "apiname": "7",
@@ -94,7 +102,8 @@
       "hint": "Story-related and unmissable. Defeat the lake monster boss at the end of Chapter 3.",
       "is_missable": false,
       "is_spoiler": true,
-      "video_url": ""
+      "video_url": "",
+      "requires": []
     },
     {
       "apiname": "8",
@@ -104,7 +113,8 @@
       "hint": "Story-related and unmissable. Defeat the Village Chief boss inside the burning slaughterhouse at the end of Chapter 6.",
       "is_missable": false,
       "is_spoiler": true,
-      "video_url": ""
+      "video_url": "",
+      "requires": []
     },
     {
       "apiname": "9",
@@ -114,7 +124,8 @@
       "hint": "Defeat Salazar's right hand in the underground depths. Use the liquid nitrogen showers to freeze him, then deal massive damage. Note: Surviving the timer and taking the elevator without killing him will void this achievement.",
       "is_missable": true,
       "is_spoiler": true,
-      "video_url": ""
+      "video_url": "",
+      "requires": []
     },
     {
       "apiname": "10",
@@ -124,7 +135,8 @@
       "hint": "Story-related and unmissable. Defeat the boss Ramón Salazar. Tip: Throwing a Golden Egg at him deals catastrophic damage.",
       "is_missable": false,
       "is_spoiler": true,
-      "video_url": ""
+      "video_url": "",
+      "requires": []
     },
     {
       "apiname": "11",
@@ -134,7 +146,8 @@
       "hint": "Story-related and unmissable. Defeat the mutated Jack Krauser at the end of Chapter 14.",
       "is_missable": false,
       "is_spoiler": true,
-      "video_url": ""
+      "video_url": "",
+      "requires": []
     },
     {
       "apiname": "12",
@@ -144,7 +157,8 @@
       "hint": "Story-related and unmissable. Defeat the final boss of the game, Osmund Saddler, in Chapter 16.",
       "is_missable": false,
       "is_spoiler": true,
-      "video_url": ""
+      "video_url": "",
+      "requires": []
     },
     {
       "apiname": "13",
@@ -154,7 +168,8 @@
       "hint": "Flash grenades instantly kill exposed Las Plagas (the parasite tentacles that burst out of enemies' heads). Throw one into a crowd where at least 3 enemies have exposed parasites.",
       "is_missable": false,
       "is_spoiler": false,
-      "video_url": ""
+      "video_url": "",
+      "requires": []
     },
     {
       "apiname": "14",
@@ -164,7 +179,8 @@
       "hint": "Sneak behind the blind Garrador in the Castle dungeon and use stealth knife attacks on the parasite on its back. Avoid using any firearms or grenades during this encounter.",
       "is_missable": true,
       "is_spoiler": false,
-      "video_url": ""
+      "video_url": "",
+      "requires": []
     },
     {
       "apiname": "15",
@@ -174,7 +190,8 @@
       "hint": "Use a rifle equipped with the Biosensor Scope. Line up two glowing parasites inside a Regenerador and shoot them both with a single penetrating round. The Incubation Lab is an excellent place to do this.",
       "is_missable": true,
       "is_spoiler": false,
-      "video_url": ""
+      "video_url": "",
+      "requires": []
     },
     {
       "apiname": "16",
@@ -184,7 +201,8 @@
       "hint": "During the boss fight against Ramón Salazar, wait until his outer shell opens up to reveal his real body. Throw a frag or heavy grenade perfectly at him so it lands in the fleshy mouth opening.",
       "is_missable": true,
       "is_spoiler": true,
-      "video_url": ""
+      "video_url": "",
+      "requires": []
     },
     {
       "apiname": "17",
@@ -194,7 +212,8 @@
       "hint": "When you raise the cannon at the Castle Gate (or later on the Battlements), aim and fire at the cultist enemies (Zealots) instead of just using it to destroy the gate or Armored El Gigante.",
       "is_missable": true,
       "is_spoiler": false,
-      "video_url": ""
+      "video_url": "",
+      "requires": []
     },
     {
       "apiname": "18",
@@ -204,7 +223,8 @@
       "hint": "Save before jumping into the minecart. Lean to avoid falling, shoot the yellow signs to switch tracks, and kill enemies quickly. If you or the cart take damage, reload your save.",
       "is_missable": true,
       "is_spoiler": false,
-      "video_url": ""
+      "video_url": "",
+      "requires": []
     },
     {
       "apiname": "19",
@@ -214,7 +234,8 @@
       "hint": "Enemies will jump onto the lift as it ascends. If too many get on, it stops. Use shotguns or submachine guns to stagger/knock them off immediately. If it stops, reload the autosave.",
       "is_missable": true,
       "is_spoiler": false,
-      "video_url": ""
+      "video_url": "",
+      "requires": []
     },
     {
       "apiname": "20",
@@ -224,7 +245,8 @@
       "hint": "During the final escape sequence, navigate the jetski without hitting any rocks or debris. You have plenty of time, so let off the gas in tight spots. Reload autosave if you get hit.",
       "is_missable": true,
       "is_spoiler": true,
-      "video_url": ""
+      "video_url": "",
+      "requires": []
     },
     {
       "apiname": "21",
@@ -234,7 +256,8 @@
       "hint": "Find the Elegant Crown. Insert 5 differently colored gemstones (100k ptas) OR 3 Red Beryls and 2 Yellow Diamonds (108k ptas) into it to get the maximum multiplier before selling it.",
       "is_missable": true,
       "is_spoiler": false,
-      "video_url": ""
+      "video_url": "",
+      "requires": []
     },
     {
       "apiname": "22",
@@ -244,7 +267,8 @@
       "hint": "Buy the Village Treasure Map from the Merchant as early as possible. Collect every diamond icon before fighting the Village Chief at the end of Chapter 6 — you cannot return to the village afterward.",
       "is_missable": true,
       "is_spoiler": false,
-      "video_url": ""
+      "video_url": "",
+      "requires": []
     },
     {
       "apiname": "23",
@@ -254,7 +278,8 @@
       "hint": "Buy the Castle Treasure Map as soon as you enter the Castle. Collect every diamond icon before taking the clock tower elevator in Chapter 12 — that is the point of no return for the Castle.",
       "is_missable": true,
       "is_spoiler": false,
-      "video_url": ""
+      "video_url": "",
+      "requires": []
     },
     {
       "apiname": "24",
@@ -264,7 +289,8 @@
       "hint": "Buy the Island Treasure Map immediately on arrival. Collect all treasures before entering the sanctuary to face Saddler in Chapter 16.",
       "is_missable": true,
       "is_spoiler": false,
-      "video_url": ""
+      "video_url": "",
+      "requires": []
     },
     {
       "apiname": "25",
@@ -274,7 +300,8 @@
       "hint": "Collect all standard guns, grenades, and knives across playthroughs. Includes bonus weapons unlocked via Challenges (Chicago Sweeper, Handcannon, Primal Knife) and the Infinite Rocket Launcher (only available in New Game+). Plan purchases early to avoid missing limited-window vendor stock.",
       "is_missable": true,
       "is_spoiler": false,
-      "video_url": ""
+      "video_url": "",
+      "requires": []
     },
     {
       "apiname": "26",
@@ -284,7 +311,10 @@
       "hint": "Pick up every blue request note from the start. Complete all 19 Merchant Requests in a single playthrough. Finish regional requests before points of no return: end of Chapter 6 for Village requests, end of Chapter 12 for Castle requests.",
       "is_missable": true,
       "is_spoiler": false,
-      "video_url": ""
+      "video_url": "",
+      "requires": [
+        "4"
+      ]
     },
     {
       "apiname": "27",
@@ -294,7 +324,10 @@
       "hint": "There are 16 Castellans hidden throughout the game, one per chapter. They emit a mechanical ticking sound. Destroy the one in each chapter as you go — progress carries over across playthroughs on the same save file.",
       "is_missable": true,
       "is_spoiler": false,
-      "video_url": ""
+      "video_url": "",
+      "requires": [
+        "6"
+      ]
     },
     {
       "apiname": "28",
@@ -304,7 +337,8 @@
       "hint": "Unlocks upon beating the game on Standard, Hardcore, or Professional difficulty.",
       "is_missable": false,
       "is_spoiler": false,
-      "video_url": ""
+      "video_url": "",
+      "requires": []
     },
     {
       "apiname": "29",
@@ -314,7 +348,10 @@
       "hint": "Must be done on a NEW GAME (not New Game+). Beat Standard difficulty in under 5 hours. Bonus weapons and accessories such as the Chicago Sweeper or Ashley's Armor are allowed and highly recommended.",
       "is_missable": true,
       "is_spoiler": false,
-      "video_url": ""
+      "video_url": "",
+      "requires": [
+        "28"
+      ]
     },
     {
       "apiname": "30",
@@ -324,7 +361,10 @@
       "hint": "Unlocks upon beating the game on Hardcore or Professional difficulty. Can be done on New Game+.",
       "is_missable": false,
       "is_spoiler": false,
-      "video_url": ""
+      "video_url": "",
+      "requires": [
+        "28"
+      ]
     },
     {
       "apiname": "31",
@@ -334,7 +374,10 @@
       "hint": "Must be done on a NEW GAME (not New Game+). Beat Hardcore difficulty in under 5 hours 30 minutes. Unlocking bonus weapons first on a prior playthrough makes this significantly easier.",
       "is_missable": true,
       "is_spoiler": false,
-      "video_url": ""
+      "video_url": "",
+      "requires": [
+        "30"
+      ]
     },
     {
       "apiname": "32",
@@ -344,7 +387,10 @@
       "hint": "Beat the game on Professional difficulty. Easiest on New Game+ with fully upgraded weapons or the Infinite Rocket Launcher.",
       "is_missable": false,
       "is_spoiler": false,
-      "video_url": ""
+      "video_url": "",
+      "requires": [
+        "30"
+      ]
     },
     {
       "apiname": "33",
@@ -354,7 +400,10 @@
       "hint": "Beat the game in under 8 hours total. Best done on Assisted difficulty on New Game+ while skipping cutscenes and ignoring optional treasures.",
       "is_missable": true,
       "is_spoiler": false,
-      "video_url": ""
+      "video_url": "",
+      "requires": [
+        "28"
+      ]
     },
     {
       "apiname": "34",
@@ -364,7 +413,10 @@
       "hint": "Play on Assisted difficulty on New Game+. Assisted mode auto-heals you back to the green zone out of combat. Never use Herbs, First Aid Sprays, or Eggs throughout the entire run.",
       "is_missable": true,
       "is_spoiler": false,
-      "video_url": ""
+      "video_url": "",
+      "requires": [
+        "28"
+      ]
     },
     {
       "apiname": "35",
@@ -374,7 +426,10 @@
       "hint": "Best done on Assisted New Game+. Fully upgrade a handgun such as the Red9 or Matilda and equip the Primal Knife. Check the Challenges menu regularly to confirm 0 uses of other weapon types.",
       "is_missable": true,
       "is_spoiler": false,
-      "video_url": ""
+      "video_url": "",
+      "requires": [
+        "28"
+      ]
     },
     {
       "apiname": "36",
@@ -384,7 +439,10 @@
       "hint": "Best done on Assisted New Game+ with all weapons fully upgraded before starting. You cannot buy, sell, tune up weapons, or repair body armor for the entire run.",
       "is_missable": true,
       "is_spoiler": false,
-      "video_url": ""
+      "video_url": "",
+      "requires": [
+        "28"
+      ]
     },
     {
       "apiname": "37",
@@ -394,7 +452,8 @@
       "hint": "The first Shooting Range elevator is located next to the Merchant after the lake sequence in Chapter 3. Just complete any trial to unlock this.",
       "is_missable": false,
       "is_spoiler": false,
-      "video_url": ""
+      "video_url": "",
+      "requires": []
     },
     {
       "apiname": "38",
@@ -404,7 +463,10 @@
       "hint": "There are 12 shooting gallery challenges — the final batch unlocks in Chapter 14. Achieve the target score for an S rank on all of them. Avoid shooting the sailor targets as they apply score penalties.",
       "is_missable": true,
       "is_spoiler": false,
-      "video_url": ""
+      "video_url": "",
+      "requires": [
+        "37"
+      ]
     },
     {
       "apiname": "39",
@@ -414,7 +476,10 @@
       "hint": "Best done in Shooting Range challenge 4-C using the Punisher handgun which has bullet penetration. Wait until 5 pirate dog targets line up in a row before firing.",
       "is_missable": true,
       "is_spoiler": false,
-      "video_url": ""
+      "video_url": "",
+      "requires": [
+        "37"
+      ]
     },
     {
       "apiname": "40",
@@ -424,7 +489,8 @@
       "hint": "Story-related and unmissable in the Separate Ways DLC. Defeat the giant boss in Chapter 3.",
       "is_missable": false,
       "is_spoiler": true,
-      "video_url": ""
+      "video_url": "",
+      "requires": []
     },
     {
       "apiname": "41",
@@ -434,7 +500,8 @@
       "hint": "Story-related and unmissable in the Separate Ways DLC. Defeat the mutated black-robed boss in Chapter 5.",
       "is_missable": false,
       "is_spoiler": true,
-      "video_url": ""
+      "video_url": "",
+      "requires": []
     },
     {
       "apiname": "42",
@@ -444,7 +511,8 @@
       "hint": "Story-related and unmissable in the Separate Ways DLC. Defeat the final boss in Chapter 7.",
       "is_missable": false,
       "is_spoiler": true,
-      "video_url": ""
+      "video_url": "",
+      "requires": []
     },
     {
       "apiname": "43",
@@ -454,7 +522,8 @@
       "hint": "Unlocks upon beating the Separate Ways DLC campaign on Standard, Hardcore, or Professional difficulty.",
       "is_missable": false,
       "is_spoiler": false,
-      "video_url": ""
+      "video_url": "",
+      "requires": []
     },
     {
       "apiname": "44",
@@ -464,7 +533,10 @@
       "hint": "Unlocks upon beating the Separate Ways DLC campaign on Hardcore or Professional difficulty.",
       "is_missable": false,
       "is_spoiler": false,
-      "video_url": ""
+      "video_url": "",
+      "requires": [
+        "43"
+      ]
     },
     {
       "apiname": "45",
@@ -474,7 +546,10 @@
       "hint": "Beat the Separate Ways DLC on the highest difficulty. Can be done on New Game+ with upgraded equipment.",
       "is_missable": false,
       "is_spoiler": false,
-      "video_url": ""
+      "video_url": "",
+      "requires": [
+        "44"
+      ]
     },
     {
       "apiname": "46",
@@ -484,7 +559,10 @@
       "hint": "Must be done on a NEW GAME (not New Game+) in the Separate Ways DLC. Complete Professional difficulty in under 2.5 hours with 10 or fewer saves.",
       "is_missable": true,
       "is_spoiler": false,
-      "video_url": ""
+      "video_url": "",
+      "requires": [
+        "43"
+      ]
     }
   ]
 }
