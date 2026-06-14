@@ -1,0 +1,1659 @@
+{
+  "chapters": [
+    "Getting Started",
+    "Combat & Survival",
+    "The Nether",
+    "The End",
+    "Farming & Crafting",
+    "Exploration & Biomes",
+    "Ocean & Water",
+    "Redstone & Engineering",
+    "Trading & Villages",
+    "Animals & Mobs",
+    "End-Game"
+  ],
+  "links": [],
+  "achievements": [
+    {
+      "apiname": "1",
+      "display_name": "Acquire Hardware",
+      "description": "",
+      "chapter": "Getting Started",
+      "hint": "Mine stone with a wooden pickaxe to get cobblestone, then smelt it in a furnace.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "2",
+      "display_name": "Adventuring Time",
+      "description": "",
+      "chapter": "Exploration & Biomes",
+      "hint": "You need to visit 17 of the game's biomes. Use a map or check F3 to track your current biome. Rarer biomes like mushroom fields and ice spikes may take dedicated searching.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "3",
+      "display_name": "Archer",
+      "description": "",
+      "chapter": "Combat & Survival",
+      "hint": "Wait for a Creeper to get close, then shoot it with a bow before it explodes. Skeletons drop arrows, making them a good early source.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "44"
+      ]
+    },
+    {
+      "apiname": "4",
+      "display_name": "Bake Bread",
+      "description": "",
+      "chapter": "Farming & Crafting",
+      "hint": "Grow wheat by planting seeds on tilled farmland near water. Craft 3 wheat in a horizontal row to make bread.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "42"
+      ]
+    },
+    {
+      "apiname": "5",
+      "display_name": "Benchmaking",
+      "description": "",
+      "chapter": "Getting Started",
+      "hint": "Your very first crafting step. Open your 2x2 inventory grid and arrange 4 wooden planks in a 2x2 square.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "15"
+      ]
+    },
+    {
+      "apiname": "6",
+      "display_name": "Body Guard",
+      "description": "",
+      "chapter": "Animals & Mobs",
+      "hint": "Stack 4 iron blocks in a T-shape (3 across the top, 1 below center) and place a carved pumpkin on top to bring it to life.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "21"
+      ]
+    },
+    {
+      "apiname": "7",
+      "display_name": "Chestful of Cobblestone",
+      "description": "",
+      "chapter": "Farming & Crafting",
+      "hint": "Mine 1,728 cobblestone (27 full stacks of 64) and deposit it all into a single chest. An Efficiency pickaxe speeds this up significantly.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "17"
+      ]
+    },
+    {
+      "apiname": "8",
+      "display_name": "Cow Tipper",
+      "description": "",
+      "chapter": "Animals & Mobs",
+      "hint": "Kill a cow, mooshroom, or horse to collect leather. Alternatively, combine 4 rabbit hides in a 2x2 grid to craft 1 leather.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "9",
+      "display_name": "Delicious Fish",
+      "description": "",
+      "chapter": "Getting Started",
+      "hint": "Fish in any body of water with a fishing rod, then cook the raw fish in a furnace, smoker, or campfire.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "15"
+      ]
+    },
+    {
+      "apiname": "10",
+      "display_name": "Diamonds to you!",
+      "description": "",
+      "chapter": "End-Game",
+      "hint": "Find diamonds (Y=-58 is ideal), then drop them at another player in multiplayer. You must be in a world with another player present.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "11"
+      ]
+    },
+    {
+      "apiname": "11",
+      "display_name": "DIAMONDS!",
+      "description": "",
+      "chapter": "Getting Started",
+      "hint": "Mine down to Y=-58 for the best diamond concentration. You need an iron pickaxe or better to mine them.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "43"
+      ]
+    },
+    {
+      "apiname": "13",
+      "display_name": "Enchanter",
+      "description": "",
+      "chapter": "Farming & Crafting",
+      "hint": "Craft using 4 obsidian, 2 diamonds, and 1 book. Surround it with up to 15 bookshelves (with a 1-block gap) to unlock higher-level enchantments.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "11"
+      ]
+    },
+    {
+      "apiname": "14",
+      "display_name": "Getting an Upgrade",
+      "description": "",
+      "chapter": "Getting Started",
+      "hint": "Craft a stone pickaxe using 3 cobblestone and 2 sticks. Stone tools are faster and more durable than wood.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "5"
+      ]
+    },
+    {
+      "apiname": "15",
+      "display_name": "Getting Wood",
+      "description": "",
+      "chapter": "Getting Started",
+      "hint": "Punch any log block repeatedly until it drops. This is the very first action in any new world.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "16",
+      "display_name": "Have a Shearful Day",
+      "description": "",
+      "chapter": "Animals & Mobs",
+      "hint": "Craft shears from 2 iron ingots placed diagonally, then right-click a sheep. Much more efficient than killing sheep for wool.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "1"
+      ]
+    },
+    {
+      "apiname": "17",
+      "display_name": "Hot Topic",
+      "description": "",
+      "chapter": "Getting Started",
+      "hint": "Arrange 8 cobblestone in a ring (leave the center empty) in a crafting table to make a furnace.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "15"
+      ]
+    },
+    {
+      "apiname": "18",
+      "display_name": "Into Fire",
+      "description": "",
+      "chapter": "The Nether",
+      "hint": "Blazes are found in Nether Fortresses. Kill one to get a Blaze Rod. Snowballs deal 3 damage per hit and are great against them.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "19"
+      ]
+    },
+    {
+      "apiname": "19",
+      "display_name": "Into The Nether",
+      "description": "",
+      "chapter": "The Nether",
+      "hint": "Build a frame of at least 4x5 obsidian (corners optional), light it with a flint and steel, then step through the purple portal.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "1"
+      ]
+    },
+    {
+      "apiname": "20",
+      "display_name": "Iron Belly",
+      "description": "",
+      "chapter": "Combat & Survival",
+      "hint": "Let your hunger bar drain low, then eat Rotten Flesh dropped by zombies. It may give the Hunger status effect but still counts.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "21",
+      "display_name": "Iron Man",
+      "description": "",
+      "chapter": "Getting Started",
+      "hint": "Craft all 4 pieces: helmet (5 iron), chestplate (8 iron), leggings (7 iron), boots (4 iron). Equip all four at once.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "1"
+      ]
+    },
+    {
+      "apiname": "22",
+      "display_name": "It's a Sign!",
+      "description": "",
+      "chapter": "Getting Started",
+      "hint": "Craft an Oak Sign (6 oak planks + 1 stick in a T shape), then place it in the world by right-clicking any surface.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "5"
+      ]
+    },
+    {
+      "apiname": "23",
+      "display_name": "Leader of the Pack",
+      "description": "",
+      "chapter": "Animals & Mobs",
+      "hint": "Tame wolves by feeding them bones (dropped by skeletons). Each bone has roughly a 1 in 3 chance to tame. You need 5 tamed at once.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "24",
+      "display_name": "Librarian",
+      "description": "",
+      "chapter": "Farming & Crafting",
+      "hint": "Place bookshelves within 2 blocks of your enchanting table with 1 air gap between. Each bookshelf raises the max enchantment level, up to 15 shelves.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "13"
+      ]
+    },
+    {
+      "apiname": "25",
+      "display_name": "Lion Hunter",
+      "description": "",
+      "chapter": "Animals & Mobs",
+      "hint": "Find an ocelot in a jungle. Hold raw salmon or raw cod and approach very slowly. Stop moving when it looks at you, then feed it fish to tame.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "26",
+      "display_name": "Local Brewery",
+      "description": "",
+      "chapter": "The Nether",
+      "hint": "You need a Brewing Stand (Blaze Rod + 3 Cobblestone), water bottles, and Nether Wart. Brew Nether Wart first to make Awkward Potions, then add your effect ingredient.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "18",
+        "19"
+      ]
+    },
+    {
+      "apiname": "27",
+      "display_name": "MOAR Tools",
+      "description": "",
+      "chapter": "Getting Started",
+      "hint": "Craft a pickaxe, axe, shovel, hoe, and sword. All can be made from the same material. Stone tools are the cheapest option.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "5"
+      ]
+    },
+    {
+      "apiname": "28",
+      "display_name": "Monster Hunter",
+      "description": "",
+      "chapter": "Combat & Survival",
+      "hint": "Attack any hostile mob (zombie, skeleton, creeper, spider) until it dies. Easy to unlock on your very first night.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "44"
+      ]
+    },
+    {
+      "apiname": "29",
+      "display_name": "On A Rail",
+      "description": "",
+      "chapter": "Redstone & Engineering",
+      "hint": "Build a straight rail at least 500 blocks long in one direction. Place powered rails every 32 blocks with a Redstone torch or lever to maintain speed.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "1"
+      ]
+    },
+    {
+      "apiname": "30",
+      "display_name": "Overkill",
+      "description": "",
+      "chapter": "Combat & Survival",
+      "hint": "Use a Mace smash attack from height, or combine a Strength II potion with a Sharpness V sword. You need to deal 9 full hearts in one hit.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "44"
+      ]
+    },
+    {
+      "apiname": "31",
+      "display_name": "Passing the Time",
+      "description": "",
+      "chapter": "Exploration & Biomes",
+      "hint": "Each Minecraft day is 20 real-time minutes, so 100 days takes roughly 33 hours of in-game time. Sleeping skips nights but still counts toward the total.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "32",
+      "display_name": "Pork Chop",
+      "description": "",
+      "chapter": "Getting Started",
+      "hint": "Kill a pig to get raw porkchop, then cook it in a furnace, smoker, or campfire. Pigs are common in most grassy biomes.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "17"
+      ]
+    },
+    {
+      "apiname": "33",
+      "display_name": "Pot Planter",
+      "description": "",
+      "chapter": "Farming & Crafting",
+      "hint": "Craft a flower pot from 3 bricks in a V shape, then place it anywhere. You can optionally add a plant or flower to it.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "17"
+      ]
+    },
+    {
+      "apiname": "34",
+      "display_name": "Rainbow Collection",
+      "description": "",
+      "chapter": "Farming & Crafting",
+      "hint": "Gather all 16 wool colors. Dye sheep directly and shear them for efficient collection. A single sheep can be re-dyed and re-sheared repeatedly.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "16"
+      ]
+    },
+    {
+      "apiname": "35",
+      "display_name": "Renewable Energy",
+      "description": "",
+      "chapter": "Farming & Crafting",
+      "hint": "Smelt a wooden log using charcoal (not coal) as the fuel. One charcoal smelts 8 items. Smelting logs produces more charcoal, creating a self-sustaining loop.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "17"
+      ]
+    },
+    {
+      "apiname": "36",
+      "display_name": "Repopulation",
+      "description": "",
+      "chapter": "Animals & Mobs",
+      "hint": "Have two adult cows in close proximity and feed each one wheat. Hearts will appear and a calf will spawn.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "37",
+      "display_name": "Return to Sender",
+      "description": "",
+      "chapter": "The Nether",
+      "hint": "When a Ghast fires a fireball, hit it back with your fist, a sword, or a projectile while it is mid-air. Timing is key.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "19"
+      ]
+    },
+    {
+      "apiname": "38",
+      "display_name": "Sniper Duel",
+      "description": "",
+      "chapter": "Combat & Survival",
+      "hint": "Get more than 50 blocks away from a skeleton and kill it with a bow. Aim above the target to compensate for arrow drop.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "3"
+      ]
+    },
+    {
+      "apiname": "39",
+      "display_name": "Stayin' Frosty",
+      "description": "",
+      "chapter": "The Nether",
+      "hint": "Brew a Fire Resistance potion (Awkward Potion + Magma Cream), drink it, then jump into lava. The effect lasts 3 minutes.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "26"
+      ]
+    },
+    {
+      "apiname": "40",
+      "display_name": "Taking Inventory",
+      "description": "",
+      "chapter": "Getting Started",
+      "hint": "Press E on keyboard or the inventory button on controller. Unlocks instantly at the start of any new world.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "41",
+      "display_name": "The Lie",
+      "description": "",
+      "chapter": "Farming & Crafting",
+      "hint": "Top row: 3 milk buckets. Middle row: sugar, egg, sugar. Bottom row: 3 wheat. Milk from cows, eggs from chickens, sugar from sugarcane.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "5"
+      ]
+    },
+    {
+      "apiname": "42",
+      "display_name": "Time to Farm!",
+      "description": "",
+      "chapter": "Getting Started",
+      "hint": "Craft a hoe using 2 planks and 2 sticks in an L-shape. Right-click dirt near water to till it into farmland.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "5"
+      ]
+    },
+    {
+      "apiname": "43",
+      "display_name": "Time to Mine!",
+      "description": "",
+      "chapter": "Getting Started",
+      "hint": "Craft a wooden pickaxe first (3 planks on top, 2 sticks below center), then use it to mine stone and craft a stone pickaxe.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "5"
+      ]
+    },
+    {
+      "apiname": "44",
+      "display_name": "Time to Strike!",
+      "description": "",
+      "chapter": "Getting Started",
+      "hint": "Craft a sword: 2 planks or cobblestone vertically with 1 stick below. One of the first tools you should make on night one.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "5"
+      ]
+    },
+    {
+      "apiname": "45",
+      "display_name": "Zombie Doctor",
+      "description": "",
+      "chapter": "Animals & Mobs",
+      "hint": "Throw a Splash Potion of Weakness at a Zombie Villager, then feed it a Golden Apple. The cure takes 2-5 minutes. Trap the zombie first so it cannot wander off.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "26"
+      ]
+    },
+    {
+      "apiname": "48",
+      "display_name": "Camouflage",
+      "description": "",
+      "chapter": "Combat & Survival",
+      "hint": "Equip the matching mob head and kill that type of mob while wearing it. Creeper heads are obtained when a charged creeper kills a creeper. Skeleton and zombie heads work too.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "28"
+      ]
+    },
+    {
+      "apiname": "49",
+      "display_name": "Tie Dye Outfit",
+      "description": "",
+      "chapter": "Farming & Crafting",
+      "hint": "Fill a cauldron with water, add dye to color it, then right-click each leather armor piece on the cauldron. You need 4 different dye colors applied to all 4 pieces.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "21"
+      ]
+    },
+    {
+      "apiname": "50",
+      "display_name": "Map Room",
+      "description": "",
+      "chapter": "Exploration & Biomes",
+      "hint": "Fully explore 9 maps and mount them in item frames in a 3x3 grid on a wall. All maps must be the same zoom level and form a seamless connected grid.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "51",
+      "display_name": "Trampoline",
+      "description": "",
+      "chapter": "Redstone & Engineering",
+      "hint": "Place a slime block and jump on it. You need to bounce a cumulative total of 30 blocks upward, not 30 in a single bounce. Sprint-jumping helps.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "52",
+      "display_name": "Freight Station",
+      "description": "",
+      "chapter": "Redstone & Engineering",
+      "hint": "Place a Chest Minecart on a rail and put items inside. Place a Hopper below the rail pointing into a regular chest. Items transfer automatically.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "29"
+      ]
+    },
+    {
+      "apiname": "53",
+      "display_name": "Smelt Everything!",
+      "description": "",
+      "chapter": "Redstone & Engineering",
+      "hint": "Place a furnace with one hopper on top (for input) and two hoppers on the sides or bottom (for fuel and output), each connected to a separate chest.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "17"
+      ]
+    },
+    {
+      "apiname": "54",
+      "display_name": "Taste of Your Own Medicine",
+      "description": "",
+      "chapter": "Combat & Survival",
+      "hint": "Brew a Splash Potion of Poison (Awkward Potion + Spider Eye) and throw it directly at a witch. Witches spawn in swamps and during raids.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "26"
+      ]
+    },
+    {
+      "apiname": "55",
+      "display_name": "Dispense with This",
+      "description": "",
+      "chapter": "Redstone & Engineering",
+      "hint": "Craft with 7 cobblestone in a U-shape, 1 bow in the center top slot, and 1 Redstone dust in the bottom center.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "5"
+      ]
+    },
+    {
+      "apiname": "56",
+      "display_name": "When Pigs Fly",
+      "description": "",
+      "chapter": "Animals & Mobs",
+      "hint": "Saddle a pig and ride it off a ledge so it takes fall damage while you are mounted. A Carrot on a Stick lets you steer pigs.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "59"
+      ]
+    },
+    {
+      "apiname": "58",
+      "display_name": "Inception",
+      "description": "",
+      "chapter": "Redstone & Engineering",
+      "hint": "Place a sticky piston facing a regular piston. Power the sticky piston to push the regular one, then power the regular piston to push the sticky one back.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "55"
+      ]
+    },
+    {
+      "apiname": "59",
+      "display_name": "Saddle Up",
+      "description": "",
+      "chapter": "Animals & Mobs",
+      "hint": "Find a saddle in dungeon, temple, village, or Nether fortress chests, or catch one while fishing. Right-click a wild horse repeatedly until hearts appear, then equip the saddle.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "60",
+      "display_name": "Artificial Selection",
+      "description": "",
+      "chapter": "Animals & Mobs",
+      "hint": "Tame both a horse and a donkey, then breed them with a golden apple or golden carrot. The resulting mule cannot be bred further.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "59"
+      ]
+    },
+    {
+      "apiname": "61",
+      "display_name": "Free Diver",
+      "description": "",
+      "chapter": "Ocean & Water",
+      "hint": "Use a Respiration III helmet, turtle shell, or Potion of Water Breathing to stay submerged for 2 continuous minutes. Conduit Power also works.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "62",
+      "display_name": "Overpowered",
+      "description": "",
+      "chapter": "End-Game",
+      "hint": "Enchanted Golden Apples cannot be crafted in modern versions. Find them in dungeon, desert temple, bastion remnant, or woodland mansion chests.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "63",
+      "display_name": "Rabbit Season",
+      "description": "",
+      "chapter": "Animals & Mobs",
+      "hint": "Kill a rabbit to get raw rabbit meat, then cook it in a furnace or smoker. Rabbits spawn in deserts, snowy biomes, flower forests, and taigas.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "17"
+      ]
+    },
+    {
+      "apiname": "64",
+      "display_name": "The Beginning?",
+      "description": "",
+      "chapter": "End-Game",
+      "hint": "Build the Wither using 4 Soul Sand in a T-shape with 3 Wither Skeleton skulls on top. Skull drop rate from Wither Skeletons in Nether Fortresses is only about 2.5 percent.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "18"
+      ]
+    },
+    {
+      "apiname": "65",
+      "display_name": "The Deep End",
+      "description": "",
+      "chapter": "Ocean & Water",
+      "hint": "Ocean Monuments contain 3 Elder Guardians. They inflict Mining Fatigue III on approach. Bring Milk to remove the effect and Potions of Water Breathing for the fight.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "26"
+      ]
+    },
+    {
+      "apiname": "66",
+      "display_name": "Dry Spell",
+      "description": "",
+      "chapter": "Farming & Crafting",
+      "hint": "Pick up a wet sponge from an Ocean Monument, then place it in the top slot of a furnace with any fuel. It dries instantly and becomes a regular sponge.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "65",
+        "17"
+      ]
+    },
+    {
+      "apiname": "67",
+      "display_name": "The Beaconator",
+      "description": "",
+      "chapter": "End-Game",
+      "hint": "Kill the Wither to get a Nether Star. Craft a Beacon (5 glass, 3 obsidian, 1 Nether Star) and place it on top of a full 4-layer pyramid of iron, gold, diamond, emerald, or netherite blocks.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "69",
+        "64"
+      ]
+    },
+    {
+      "apiname": "68",
+      "display_name": "Super Fuel",
+      "description": "",
+      "chapter": "Farming & Crafting",
+      "hint": "Fill a bucket with lava from a lava source block and place it in the fuel slot of a furnace. One lava bucket smelts 100 items.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "17"
+      ]
+    },
+    {
+      "apiname": "69",
+      "display_name": "The Beginning.",
+      "description": "",
+      "chapter": "End-Game",
+      "hint": "The Wither has 600 health on Bedrock and Xbox. Use a Smite V sword, TNT cannon, or fight it near a Beacon with Strength active. Building a tunnel trap limits its movement.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "64"
+      ]
+    },
+    {
+      "apiname": "71",
+      "display_name": "The End?",
+      "description": "",
+      "chapter": "The End",
+      "hint": "Throw Eyes of Ender (Blaze Powder + Ender Pearl) to locate a Stronghold. Repair the End Portal frames with Eyes of Ender, then jump in.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "19"
+      ]
+    },
+    {
+      "apiname": "72",
+      "display_name": "You Need a Mint",
+      "description": "",
+      "chapter": "The End",
+      "hint": "After weakening the Ender Dragon, it breathes purple clouds during hover attacks at the fountain. Stand in the cloud and right-click with an empty glass bottle to collect dragon breath.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "73"
+      ]
+    },
+    {
+      "apiname": "73",
+      "display_name": "The End",
+      "description": "",
+      "chapter": "The End",
+      "hint": "Destroy all End Crystals on the obsidian pillars first by shooting them with a bow. Then attack the Dragon when it hovers over the central fountain.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "71"
+      ]
+    },
+    {
+      "apiname": "74",
+      "display_name": "Beam Me Up",
+      "description": "",
+      "chapter": "The End",
+      "hint": "Throw an Ender Pearl at a steep upward angle from high ground. The straight-line distance must exceed 100 blocks. The outer islands of The End offer good elevation.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "71"
+      ]
+    },
+    {
+      "apiname": "75",
+      "display_name": "The End... Again...",
+      "description": "",
+      "chapter": "The End",
+      "hint": "After killing the Dragon, place 4 End Crystals (1 on each side) on the exit fountain. This respawns the Dragon and resets all the obsidian pillars and crystals.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "73"
+      ]
+    },
+    {
+      "apiname": "76",
+      "display_name": "Great View From Up Here",
+      "description": "",
+      "chapter": "The End",
+      "hint": "Shulkers are found in End Cities, accessible through the End gateway after killing the Dragon. Let a Shulker projectile hit you, giving Levitation. Float 50 blocks straight up.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "73"
+      ]
+    },
+    {
+      "apiname": "77",
+      "display_name": "Super Sonic",
+      "description": "",
+      "chapter": "The End",
+      "hint": "Equip Elytra from an End Ship in End Cities. Use Firework Rockets to reach speeds above 40 m/s, then fly through a 1x1 opening. Build a long tunnel with a 1x1 hole at the end for an easy setup.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "76"
+      ]
+    },
+    {
+      "apiname": "78",
+      "display_name": "The Haggler",
+      "description": "",
+      "chapter": "Trading & Villages",
+      "hint": "Trade with any villager a combined total of 30 times. Trading repeatedly with the same villager levels them up and unlocks better deals.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "80",
+      "display_name": "So I've Got That Going for Me",
+      "description": "",
+      "chapter": "Animals & Mobs",
+      "hint": "Attach a lead to a llama to start a caravan. Nearby llamas will automatically follow in a chain. You need at least 5 llamas chained together.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "81",
+      "display_name": "Feeling Ill",
+      "description": "",
+      "chapter": "Trading & Villages",
+      "hint": "Evokers spawn in Woodland Mansions (buy a Woodland Explorer Map from a Cartographer villager to locate one) and during Raids on wave 5 and beyond.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "82",
+      "display_name": "Let It Go!",
+      "description": "",
+      "chapter": "Exploration & Biomes",
+      "hint": "Obtain Frost Walker boots from an enchanted book or loot chest. Walk over a deep ocean and the enchantment will freeze water beneath each step.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "13"
+      ]
+    },
+    {
+      "apiname": "83",
+      "display_name": "Cheating Death",
+      "description": "",
+      "chapter": "Combat & Survival",
+      "hint": "Totems of Undying drop from Evokers. Hold one in your main hand or offhand. When you take fatal damage, the totem activates and saves you automatically.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "81"
+      ]
+    },
+    {
+      "apiname": "84",
+      "display_name": "Organisational Wizard",
+      "description": "",
+      "chapter": "End-Game",
+      "hint": "Place a Shulker Box in an Anvil with a name, or place just the Shulker Box in the first slot and type a name. It costs 1 experience level to rename.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "76"
+      ]
+    },
+    {
+      "apiname": "85",
+      "display_name": "Treasure Hunter",
+      "description": "",
+      "chapter": "Exploration & Biomes",
+      "hint": "Purchase an Ocean or Woodland Explorer Map from a Journeyman-level Cartographer villager, then travel to the marked structure and enter it.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "78"
+      ]
+    },
+    {
+      "apiname": "86",
+      "display_name": "Atlantis?",
+      "description": "",
+      "chapter": "Ocean & Water",
+      "hint": "Underwater ruins are scattered across ocean floors and beaches. Look for clusters of mossy stone and suspicious sand. They are smaller and more common than Monuments.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "87",
+      "display_name": "Sail the 7 Seas",
+      "description": "",
+      "chapter": "Ocean & Water",
+      "hint": "Visit all ocean biome variants: Ocean, Deep Ocean, Warm, Lukewarm, Cold, Frozen, and their deep variants. Travel in a boat and cover large distances.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "88",
+      "display_name": "Castaway",
+      "description": "",
+      "chapter": "Ocean & Water",
+      "hint": "Eat only dried kelp (smelt raw kelp in a furnace) for 3 full in-game days, equaling about 60 real minutes. Eating anything else resets your progress.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "17"
+      ]
+    },
+    {
+      "apiname": "89",
+      "display_name": "Ahoy!",
+      "description": "",
+      "chapter": "Ocean & Water",
+      "hint": "Shipwrecks are common in oceans and on beaches. Look for half-sunken wooden structures. They contain chests with maps, food, and treasure.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "90",
+      "display_name": "I am a Marine Biologist",
+      "description": "",
+      "chapter": "Ocean & Water",
+      "hint": "Right-click a fish swimming in water while holding a water bucket. Works with cod, salmon, tropical fish, and pufferfish.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "17"
+      ]
+    },
+    {
+      "apiname": "91",
+      "display_name": "Me Gold!",
+      "description": "",
+      "chapter": "Ocean & Water",
+      "hint": "Use a Treasure Map from a shipwreck chest or dolphin to find buried treasure. Dig at the X mark on the map, usually 1 to 3 blocks underground on a beach.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "89"
+      ]
+    },
+    {
+      "apiname": "92",
+      "display_name": "Sleep with the Fishes",
+      "description": "",
+      "chapter": "Ocean & Water",
+      "hint": "Stay underwater for a full in-game day (20 real minutes) without surfacing. Water Breathing potions, a Conduit, or Respiration III armor make this manageable.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "26"
+      ]
+    },
+    {
+      "apiname": "93",
+      "display_name": "Alternative Fuel",
+      "description": "",
+      "chapter": "Ocean & Water",
+      "hint": "Craft 9 dried kelp into a dried kelp block, then place it in the fuel slot of a furnace. One block smelts 20 items.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "88",
+        "17"
+      ]
+    },
+    {
+      "apiname": "94",
+      "display_name": "Do a Barrel Roll!",
+      "description": "",
+      "chapter": "Ocean & Water",
+      "hint": "Enchant a trident with Riptide (found in ocean ruins or from drowned mobs). Throw it while standing in water or rain and it will launch you through the air.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "95",
+      "display_name": "One Pickle, Two Pickle, Sea Pickle, Four",
+      "description": "",
+      "chapter": "Ocean & Water",
+      "hint": "Sea Pickles grow on coral reefs in warm ocean biomes. Place 4 of them on the same block. They stack up to 4 per block and glow brighter underwater as you add more.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "96",
+      "display_name": "Moskstraumen",
+      "description": "",
+      "chapter": "Ocean & Water",
+      "hint": "Craft a Conduit using a Heart of the Sea (from buried treasure) surrounded by 8 Nautilus Shells. Activate it by building a prismarine frame around it in the water.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "91"
+      ]
+    },
+    {
+      "apiname": "97",
+      "display_name": "Echolocation",
+      "description": "",
+      "chapter": "Ocean & Water",
+      "hint": "Feed a dolphin raw cod or salmon by throwing the food near it. The dolphin will then swim to the nearest treasure location. Follow closely and it will lead you there.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "98",
+      "display_name": "Zoologist",
+      "description": "",
+      "chapter": "Animals & Mobs",
+      "hint": "Find pandas in a bamboo jungle biome. Feed two adult pandas bamboo while 8 bamboo blocks are within 5 blocks. The bamboo requirement is strict and must be met before breeding.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "99",
+      "display_name": "Top of the World",
+      "description": "",
+      "chapter": "Farming & Crafting",
+      "hint": "Craft scaffolding from 6 bamboo and 1 string. Stack scaffolding by placing each piece on top of the one below until you reach Y=319, the world build limit.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "100",
+      "display_name": "Where have you been?",
+      "description": "",
+      "chapter": "Animals & Mobs",
+      "hint": "Tame a cat by feeding stray cats raw cod or salmon until hearts appear. Sleep in a bed until morning and there is a chance the cat will drop a gift next to you.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "104",
+      "display_name": "Fruit on the Loom",
+      "description": "",
+      "chapter": "Farming & Crafting",
+      "hint": "The Enchanted Apple banner pattern is a rare find in Woodland Mansion chests. Place it in a Loom with a banner and any dye to apply the pattern.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "81"
+      ]
+    },
+    {
+      "apiname": "105",
+      "display_name": "Plethora of Cats",
+      "description": "",
+      "chapter": "Animals & Mobs",
+      "hint": "Tame 20 stray cats total across any worlds. Stray cats spawn near villages. Feed them raw cod or salmon until hearts appear.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "100"
+      ]
+    },
+    {
+      "apiname": "106",
+      "display_name": "Kill the Beast!",
+      "description": "",
+      "chapter": "Trading & Villages",
+      "hint": "Ravagers spawn during Raids starting on wave 3. Trigger a raid by entering a village while under the Bad Omen effect, obtained by killing a Pillager Captain. Ravagers have 100 health.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "109"
+      ]
+    },
+    {
+      "apiname": "107",
+      "display_name": "Buy Low, Sell High",
+      "description": "",
+      "chapter": "Trading & Villages",
+      "hint": "Level a villager up to Master by trading repeatedly. With the Hero of the Village effect active after completing a raid, their prices drop to the absolute minimum possible.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "78"
+      ]
+    },
+    {
+      "apiname": "108",
+      "display_name": "Disenchanted",
+      "description": "",
+      "chapter": "Farming & Crafting",
+      "hint": "Craft a Grindstone (2 sticks, 1 stone slab, 2 planks) and place it. Put any enchanted item in one of the input slots. It strips the enchantments and returns some XP.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "13"
+      ]
+    },
+    {
+      "apiname": "109",
+      "display_name": "We're being attacked!",
+      "description": "",
+      "chapter": "Trading & Villages",
+      "hint": "Kill a Pillager Captain at an Outpost or during a patrol to gain the Bad Omen effect. Walk into any village while the effect is active to trigger the raid.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "111"
+      ]
+    },
+    {
+      "apiname": "110",
+      "display_name": "Sound the Alarm!",
+      "description": "",
+      "chapter": "Trading & Villages",
+      "hint": "During an active raid, wait for a villager to take damage, then find and ring the village bell by hitting it or right-clicking it. This alerts nearby villagers to run indoors.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "109"
+      ]
+    },
+    {
+      "apiname": "111",
+      "display_name": "I've got a bad feeling about this",
+      "description": "",
+      "chapter": "Trading & Villages",
+      "hint": "Pillager Captains carry an ominous banner on their back. They spawn at Pillager Outposts and lead patrol groups in the wilderness. Kill one to receive the Bad Omen effect.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "112",
+      "display_name": "Master Trader",
+      "description": "",
+      "chapter": "Trading & Villages",
+      "hint": "Trade a combined total of 1,000 Emeralds with villagers. Both buying and selling count. Set up a trading hall and exchange bulk items like paper, sticks, or stone.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "78"
+      ]
+    },
+    {
+      "apiname": "113",
+      "display_name": "Time for Stew",
+      "description": "",
+      "chapter": "Trading & Villages",
+      "hint": "Craft Suspicious Stew (mushroom, flower, bowl) and give it to another player. The flower used determines the potion effect. Works in multiplayer or by dropping it near an NPC.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "114",
+      "display_name": "Bee our guest",
+      "description": "",
+      "chapter": "Animals & Mobs",
+      "hint": "Place a campfire within 5 blocks directly below a Beehive or Bee Nest. The smoke calms the bees. Wait until honey drips from the hive, then right-click it with a glass bottle.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "115",
+      "display_name": "Total Beelocation",
+      "description": "",
+      "chapter": "Animals & Mobs",
+      "hint": "Wait until nightfall when all bees return inside the nest. Use a Silk Touch axe to break the Bee Nest while it contains exactly 3 bees. The nest is collected intact with the bees inside.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "13"
+      ]
+    },
+    {
+      "apiname": "116",
+      "display_name": "Sticky Situation",
+      "description": "",
+      "chapter": "Animals & Mobs",
+      "hint": "Craft a honey block from 4 honey bottles (fill glass bottles on a full beehive). Press your body against the side of a honey block while falling to slow your descent.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "114"
+      ]
+    },
+    {
+      "apiname": "117",
+      "display_name": "Bullseye",
+      "description": "",
+      "chapter": "Farming & Crafting",
+      "hint": "Craft a Target block (4 Redstone dust + 4 hay bales around a slimeball). Shoot an arrow precisely at the very center white circle. The outer ring does not count.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "118",
+      "display_name": "Cover me in debris",
+      "description": "",
+      "chapter": "End-Game",
+      "hint": "Mine Ancient Debris in the Nether at Y=15 for best results. Smelt into Netherite Scrap, then combine 4 scrap and 4 gold ingots for one Netherite Ingot. Use a Smithing Table to upgrade all 4 armor pieces.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "19",
+        "21"
+      ]
+    },
+    {
+      "apiname": "119",
+      "display_name": "Oooh, shiny!",
+      "description": "",
+      "chapter": "The Nether",
+      "hint": "Drop a gold ingot on the ground near a Piglin (not a Piglin Brute). They will pick it up and give you a random loot item in return. Found in Crimson Forests and Nether Wastes.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "19"
+      ]
+    },
+    {
+      "apiname": "120",
+      "display_name": "Hot tourist destination",
+      "description": "",
+      "chapter": "The Nether",
+      "hint": "Visit all 5 Nether biomes: Nether Wastes, Soul Sand Valley, Crimson Forest, Warped Forest, and Basalt Deltas. Biomes are large so extensive exploration is needed.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "19"
+      ]
+    },
+    {
+      "apiname": "121",
+      "display_name": "Wax on, Wax off",
+      "description": "",
+      "chapter": "Farming & Crafting",
+      "hint": "Get copper blocks in 3 oxidation stages. Apply honeycomb to each by right-clicking to wax them, then use an axe to scrape the wax off each one.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "122",
+      "display_name": "Whatever Floats Your Goat",
+      "description": "",
+      "chapter": "Animals & Mobs",
+      "hint": "Goats spawn in mountain biomes. Place a boat on the ground near a goat, or use a lead to position one next to an already-placed boat, then get in with it.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "123",
+      "display_name": "The Healing Power of Friendship!",
+      "description": "",
+      "chapter": "Ocean & Water",
+      "hint": "Catch an axolotl in a water bucket. Release it near a hostile underwater mob like a drowned or guardian. When the axolotl kills the enemy, the achievement unlocks.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "124",
+      "display_name": "Feels Like Home",
+      "description": "",
+      "chapter": "The Nether",
+      "hint": "Saddle a Strider (found walking on lava in the Nether). Use a Warped Fungus on a Stick to steer it. Find or build a lava lake in the Overworld and ride the Strider across it.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "19"
+      ]
+    },
+    {
+      "apiname": "125",
+      "display_name": "Sound of Music",
+      "description": "",
+      "chapter": "Exploration & Biomes",
+      "hint": "Find a Meadow biome (a flat flower-covered area in mountain regions). Place a jukebox and insert any music disc. The achievement triggers when the music plays within the biome boundary.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "126",
+      "display_name": "Star trader",
+      "description": "",
+      "chapter": "Trading & Villages",
+      "hint": "Use a boat or minecart to transport a villager up to Y=319 (the build limit). Ensure they have a workstation available at that height, then trade with them.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "78"
+      ]
+    },
+    {
+      "apiname": "127",
+      "display_name": "Caves and Cliffs",
+      "description": "",
+      "chapter": "Exploration & Biomes",
+      "hint": "Start at Y=319 and fall to Y=-64 without dying. Use Slow Falling potion, Feather Falling IV boots, or land in water at the bottom. Dig a 2-block wide shaft to prevent wall friction.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "128",
+      "display_name": "Sneak 100",
+      "description": "",
+      "chapter": "End-Game",
+      "hint": "Sculk Sensors detect vibrations and footsteps. Crouch-walk (hold sneak) within detection range of one without activating it. Found in the Deep Dark biome near Ancient Cities.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "129",
+      "display_name": "It Spreads",
+      "description": "",
+      "chapter": "End-Game",
+      "hint": "Place a Sculk Catalyst (drops from Wardens or found in Ancient Cities) and kill any mob directly next to it. The mob's XP converts nearby blocks to sculk.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "128"
+      ]
+    },
+    {
+      "apiname": "130",
+      "display_name": "Birthday Song",
+      "description": "",
+      "chapter": "End-Game",
+      "hint": "Free an Allay from a cage in a Pillager Outpost or Woodland Mansion and give it an item to hold. Place a Note Block and play it. The Allay will collect matching items and bring them to the Note Block.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "81"
+      ]
+    },
+    {
+      "apiname": "131",
+      "display_name": "With Our Powers Combined!",
+      "description": "",
+      "chapter": "The Nether",
+      "hint": "Get all 3 froglight colors: Ochre (warm frog kills magma cube), Verdant (temperate frog kills magma cube), Pearlescent (cold frog kills magma cube). Bring frogs of each temperature to the Nether.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "19"
+      ]
+    },
+    {
+      "apiname": "132",
+      "display_name": "Planting the past",
+      "description": "",
+      "chapter": "Animals & Mobs",
+      "hint": "Brush Suspicious Sand or Gravel at Desert Temples, Ocean Ruins, or Trail Ruins to find a Sniffer Egg. Hatch it to get a Sniffer. Sniffers occasionally dig up ancient seeds which you can then plant.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "133",
+      "display_name": "Careful restoration",
+      "description": "",
+      "chapter": "Farming & Crafting",
+      "hint": "Find 4 Pottery Sherds by brushing Suspicious Sand or Gravel at Desert Temples, Ocean Ruins, and Trail Ruins. Arrange all 4 sherds in a 2x2 crafting grid to make a Decorated Pot.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "134",
+      "display_name": "Smithing with style",
+      "description": "",
+      "chapter": "End-Game",
+      "hint": "Find all 8 required Smithing Templates: Spire (End Cities), Snout and Rib (Bastion Remnants), Ward and Silence (Ancient Cities), Vex (Woodland Mansions), Tide (Ocean Ruins), Wayfinder (Trail Ruins). Apply each at least once at a Smithing Table.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "77",
+        "73",
+        "81",
+        "96",
+        "133"
+      ]
+    },
+    {
+      "apiname": "135",
+      "display_name": "Revaulting",
+      "description": "",
+      "chapter": "End-Game",
+      "hint": "Find a Trial Chamber underground and activate an Ominous Trial by drinking an Ominous Bottle. Complete the trial to earn an Ominous Trial Key, then use it on an Ominous Vault to unlock it.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "136",
+      "display_name": "Crafters Crafting Crafters",
+      "description": "",
+      "chapter": "Redstone & Engineering",
+      "hint": "Craft a Crafter block (iron ingots, crafting table, Redstone dust, dropper). Configure its internal grid to produce another Crafter. Power it with Redstone while standing nearby.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "55"
+      ]
+    },
+    {
+      "apiname": "137",
+      "display_name": "Who Needs Rockets?",
+      "description": "",
+      "chapter": "End-Game",
+      "hint": "Obtain Wind Charges from Breeze mobs in Trial Chambers. Throw one directly beneath yourself so the explosion launches you. You need to travel 8 blocks upward in a single launch.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "135"
+      ]
+    },
+    {
+      "apiname": "138",
+      "display_name": "Over-Overkill",
+      "description": "",
+      "chapter": "End-Game",
+      "hint": "Craft a Mace from a Heavy Core (Trial Vault reward) and a Breeze Rod. Fall from at least 50+ blocks above a mob and use the smash attack on impact. More height equals more bonus damage.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "137"
+      ]
+    },
+    {
+      "apiname": "139",
+      "display_name": "Heart Transplanter",
+      "description": "",
+      "chapter": "End-Game",
+      "hint": "Find the Pale Garden biome and obtain a Creaking Heart block. Place two Pale Oak Logs vertically, then insert the Creaking Heart between them. The block must be on the correct axis to activate.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "140",
+      "display_name": "Stay Hydrated!",
+      "description": "",
+      "chapter": "End-Game",
+      "hint": "Find a Dried Ghast block naturally generating in the Soul Sand Valley in the Nether. Bring it to the Overworld and place it in a water source block. It will slowly rehydrate and transform into a Ghastling.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "19"
+      ]
+    },
+    {
+      "apiname": "141",
+      "display_name": "Mob Kebab",
+      "description": "",
+      "chapter": "Combat & Survival",
+      "hint": "Use the Spear's charged attack by holding the attack button to build up power, then release it into a group of 5 or more mobs lined up together. Works best in corridors or chokepoints.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    }
+  ]
+}
