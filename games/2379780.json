@@ -1,312 +1,409 @@
-[
-  {
-    "apiname": "BAL_01",
-    "display_name": "Ante Up!",
-    "description": "Reach Ante 4",
-    "chapter": "",
-    "hint": "Play normally. Focus on buying a decent multiplier (Mult) Joker early on to easily beat the first few Antes.",
-    "is_missable": false,
-    "is_spoiler": false,
-    "video_url": ""
-  },
-  {
-    "apiname": "BAL_02",
-    "display_name": "Ante Upper!",
-    "description": "Reach Ante 8",
-    "chapter": "",
-    "hint": "Build a strong economy early (aim for $25 to get max interest) and find a synergy between your Jokers to multiply your score enough to survive the mid-game.",
-    "is_missable": false,
-    "is_spoiler": false,
-    "video_url": ""
-  },
-  {
-    "apiname": "BAL_03",
-    "display_name": "Heads Up",
-    "description": "Win a Run",
-    "chapter": "",
-    "hint": "Beat the Ante 8 Boss Blind. Make sure to check the Boss Blind's ability at the start of the Ante so you aren't countered (e.g., if it debuffs Hearts, don't rely on a Heart Flush).",
-    "is_missable": false,
-    "is_spoiler": false,
-    "video_url": ""
-  },
-  {
-    "apiname": "BAL_04",
-    "display_name": "Low Stakes",
-    "description": "Win a run on at least Red Stake difficulty",
-    "chapter": "",
-    "hint": "Red Stake removes the monetary reward for the Small Blind. You'll need to rely more on interest, economy Jokers, or skipping the Small Blind entirely for good Tags.",
-    "is_missable": false,
-    "is_spoiler": false,
-    "video_url": ""
-  },
-  {
-    "apiname": "BAL_05",
-    "display_name": "Mid Stakes",
-    "description": "Win a run on at least Black Stake difficulty",
-    "chapter": "",
-    "hint": "Black Stake introduces Eternal Jokers that cannot be sold or destroyed. Only buy Eternal Jokers if they fit perfectly into your end-game build.",
-    "is_missable": false,
-    "is_spoiler": false,
-    "video_url": ""
-  },
-  {
-    "apiname": "BAL_06",
-    "display_name": "High Stakes",
-    "description": "Win a run on at least Gold Stake difficulty",
-    "chapter": "",
-    "hint": "Gold Stake reduces your hand size by 1. Because making 5-card hands consistently becomes very difficult, focus on High Card or Pair builds heavily upgraded by Planet cards and xMult Jokers.",
-    "is_missable": false,
-    "is_spoiler": false,
-    "video_url": "https://www.youtube.com/watch?v=ytVqT3KnuhI"
-  },
-  {
-    "apiname": "BAL_07",
-    "display_name": "Card Player",
-    "description": "Play at least 2500 Cards",
-    "chapter": "",
-    "hint": "This will unlock naturally over time as you play multiple runs.",
-    "is_missable": false,
-    "is_spoiler": false,
-    "video_url": ""
-  },
-  {
-    "apiname": "BAL_08",
-    "display_name": "Card Discarder",
-    "description": "Discard at least 2500 Cards",
-    "chapter": "",
-    "hint": "Unlocks naturally. Don't be afraid to use all your discards to dig for the perfect hand.",
-    "is_missable": false,
-    "is_spoiler": false,
-    "video_url": ""
-  },
-  {
-    "apiname": "BAL_09",
-    "display_name": "Nest Egg",
-    "description": "Have $400 or more during a single run",
-    "chapter": "",
-    "hint": "Use the Anaglyph Deck (saves Double Tags) and wait for a 'Hermit' (doubles money) or 'Economy' tag. Alternatively, build a strong economy using the Seed Money voucher and gold-generating Jokers.",
-    "is_missable": false,
-    "is_spoiler": false,
-    "video_url": ""
-  },
-  {
-    "apiname": "BAL_10",
-    "display_name": "Flushed",
-    "description": "Play a Flush with 5 Wild Cards",
-    "chapter": "",
-    "hint": "Use 'The Lovers' Tarot card to convert your standard cards into Wild Cards. Once you have 5 in your hand, play them together. Spectral cards like Familiar or Grim can also help generate them.",
-    "is_missable": false,
-    "is_spoiler": false,
-    "video_url": ""
-  },
-  {
-    "apiname": "BAL_11",
-    "display_name": "Speedrunner",
-    "description": "Win a run in 12 or fewer rounds",
-    "chapter": "",
-    "hint": "You must skip almost every Small and Big Blind. You will only have the opportunity to visit the shop after Boss Blinds, so you need highly impactful, immediate Jokers.",
-    "is_missable": false,
-    "is_spoiler": false,
-    "video_url": "https://www.youtube.com/watch?v=yahgNAJD29c"
-  },
-  {
-    "apiname": "BAL_12",
-    "display_name": "ROI",
-    "description": "Buy 5 Vouchers by the end of Ante 4",
-    "chapter": "",
-    "hint": "Prioritize saving $10 before each Boss Blind so you can buy the Voucher in the shop. Buying the Hieroglyph voucher gives you an extra Ante, essentially giving you an extra shop to buy another voucher.",
-    "is_missable": false,
-    "is_spoiler": false,
-    "video_url": ""
-  },
-  {
-    "apiname": "BAL_13",
-    "display_name": "Shattered",
-    "description": "Break 2 Glass Cards in a single hand",
-    "chapter": "",
-    "hint": "Glass cards (created by the Justice Tarot) have a 1 in 4 chance to break when played. The 'Oops! All 6s' Joker doubles this chance to 1 in 2. Play a hand with as many Glass cards as possible and hope two break.",
-    "is_missable": false,
-    "is_spoiler": false,
-    "video_url": ""
-  },
-  {
-    "apiname": "BAL_14",
-    "display_name": "Royale",
-    "description": "Play a Royal Flush",
-    "chapter": "",
-    "hint": "A Royal Flush is a 10, J, Q, K, and A of the same suit. Use Tarot cards (like The Star, Moon, Sun, or World) to manipulate the suits in your deck to easily draw this hand.",
-    "is_missable": false,
-    "is_spoiler": false,
-    "video_url": ""
-  },
-  {
-    "apiname": "BAL_15",
-    "display_name": "Retrograde",
-    "description": "Get any poker hand to level 10",
-    "chapter": "",
-    "hint": "Buy the Telescope voucher, which guarantees the Planet card for your most played hand appears in Celestial packs. Jokers like Space Joker or Burnt Joker also help level hands quickly.",
-    "is_missable": false,
-    "is_spoiler": false,
-    "video_url": ""
-  },
-  {
-    "apiname": "BAL_16",
-    "display_name": "10K",
-    "description": "Score 10,000 Chips in a single hand",
-    "chapter": "",
-    "hint": "Easily achieved by Ante 4 or 5 by stacking base Chips (+Chips) and flat Mult (+Mult) Jokers.",
-    "is_missable": false,
-    "is_spoiler": false,
-    "video_url": ""
-  },
-  {
-    "apiname": "BAL_17",
-    "display_name": "1,000K",
-    "description": "Score 1,000,000 Chips in a single hand",
-    "chapter": "",
-    "hint": "You will need Jokers that multiply your Mult (xMult). Examples include Cavendish, Constellation, or Vampire. Leveling up your preferred hand with Planet cards is also crucial.",
-    "is_missable": false,
-    "is_spoiler": false,
-    "video_url": ""
-  },
-  {
-    "apiname": "BAL_18",
-    "display_name": "100,000K",
-    "description": "Score 100,000,000 Chips in a single hand",
-    "chapter": "",
-    "hint": "Requires a highly optimized build. Retrigger effects (Blueprint, Brainstorm, Dusk, Mime) combined with Steel cards, Glass cards, or powerful xMult Jokers (like Bloodstone or Baron) are necessary.",
-    "is_missable": false,
-    "is_spoiler": false,
-    "video_url": "https://www.youtube.com/watch?v=wszSC8I4zJs"
-  },
-  {
-    "apiname": "BAL_19",
-    "display_name": "Tiny Hands",
-    "description": "Thin your deck down to 20 or fewer cards",
-    "chapter": "",
-    "hint": "Play the Abandoned Deck, which starts with only 40 cards. Use 'The Hanged Man' Tarot card, 'Immolate' Spectral card, or the Trading Card Joker to quickly destroy the rest.",
-    "is_missable": false,
-    "is_spoiler": false,
-    "video_url": ""
-  },
-  {
-    "apiname": "BAL_20",
-    "display_name": "Big Hands",
-    "description": "Have 80 or more cards in your deck",
-    "chapter": "",
-    "hint": "Constantly buy Standard Packs to add cards. The Marble Joker (adds a Stone card every blind), DNA (duplicates cards), and Certificate are the fastest ways to bloat your deck.",
-    "is_missable": false,
-    "is_spoiler": false,
-    "video_url": ""
-  },
-  {
-    "apiname": "BAL_21",
-    "display_name": "You Get What You Get",
-    "description": "Win a run without rerolling the shop",
-    "chapter": "",
-    "hint": "Simply do not press the Reroll button for an entire run (Antes 1-8). Make the best of the Jokers and booster packs naturally presented to you.",
-    "is_missable": false,
-    "is_spoiler": false,
-    "video_url": ""
-  },
-  {
-    "apiname": "BAL_22",
-    "display_name": "Rule Bender",
-    "description": "Complete any challenge run",
-    "chapter": "",
-    "hint": "Challenges unlock after you win a few standard runs. Pick one of the earlier challenges, as they provide powerful starting setups with only minor drawbacks.",
-    "is_missable": false,
-    "is_spoiler": false,
-    "video_url": ""
-  },
-  {
-    "apiname": "BAL_23",
-    "display_name": "Rule Breaker",
-    "description": "Complete every challenge run",
-    "chapter": "",
-    "hint": "There are 20 challenges in total. The final ones, like 'Jokerless', are extremely difficult and require mastering Planet scaling, Tarot deck manipulation, and Glass card optimization.",
-    "is_missable": false,
-    "is_spoiler": false,
-    "video_url": ""
-  },
-  {
-    "apiname": "BAL_24",
-    "display_name": "Legendary",
-    "description": "Discover a Legendary Joker",
-    "chapter": "",
-    "hint": "Legendary Jokers only spawn from 'The Soul', a rare Spectral card that has a small chance of appearing in Tarot or Spectral booster packs.",
-    "is_missable": false,
-    "is_spoiler": false,
-    "video_url": ""
-  },
-  {
-    "apiname": "BAL_25",
-    "display_name": "Astronomy",
-    "description": "Discover every Planet card",
-    "chapter": "",
-    "hint": "Most planets are found in Celestial packs. However, Planet X, Ceres, and Eris will NOT appear until you have played their secret hands (Five of a Kind, Flush House, and Flush Five) at least once during a run.",
-    "is_missable": false,
-    "is_spoiler": false,
-    "video_url": ""
-  },
-  {
-    "apiname": "BAL_26",
-    "display_name": "Cartomancy",
-    "description": "Discover every Tarot card",
-    "chapter": "",
-    "hint": "Open Arcana packs frequently. There are 22 standard Tarot cards, and you will likely find them all naturally as you play.",
-    "is_missable": false,
-    "is_spoiler": false,
-    "video_url": ""
-  },
-  {
-    "apiname": "BAL_27",
-    "display_name": "Clairvoyance",
-    "description": "Discover every Spectral card",
-    "chapter": "",
-    "hint": "Open Spectral packs. Note that 'The Soul' (spawns Legendary Jokers) and 'Black Hole' (upgrades every hand level) are very rare drops but are required for this achievement.",
-    "is_missable": false,
-    "is_spoiler": false,
-    "video_url": ""
-  },
-  {
-    "apiname": "BAL_28",
-    "display_name": "Extreme Couponer",
-    "description": "Discover every Voucher",
-    "chapter": "",
-    "hint": "Each base Voucher has an upgraded Tier 2 version. You must complete specific global unlock conditions (e.g., play 2500 cards, discard 2500 cards) before those Tier 2 Vouchers can appear in shops.",
-    "is_missable": false,
-    "is_spoiler": false,
-    "video_url": ""
-  },
-  {
-    "apiname": "BAL_29",
-    "display_name": "Completionist",
-    "description": "Discover 100% of your collection",
-    "chapter": "",
-    "hint": "You must unlock and 'discover' (have them appear in a run) every Joker, Deck, Voucher, Tarot, Planet, and Spectral card in the game.",
-    "is_missable": false,
-    "is_spoiler": false,
-    "video_url": ""
-  },
-  {
-    "apiname": "BAL_30",
-    "display_name": "Completionist+",
-    "description": "Win with every deck on Gold Stake difficulty",
-    "chapter": "",
-    "hint": "You need to beat Gold Stake with all 15 starting decks. Mastering economy management and low-card-requirement hands (Pair, High Card) is essential for consistent Gold Stake wins.",
-    "is_missable": false,
-    "is_spoiler": false,
-    "video_url": ""
-  },
-  {
-    "apiname": "BAL_31",
-    "display_name": "Completionist++",
-    "description": "Earn a Gold Sticker on every Joker",
-    "chapter": "",
-    "hint": "You must win a Gold Stake run with every single Joker in the game present in your Joker slots at the time of victory. Carry 1 or 2 'useless' Jokers to the end of successful runs to gradually get this.",
-    "is_missable": false,
-    "is_spoiler": false,
-    "video_url": ""
-  }
-]
+{
+  "chapters": [
+    "Stakes & Progression",
+    "Scoring & Card Milestones",
+    "Deck Manipulation",
+    "Challenges",
+    "Discovery & Collection"
+  ],
+  "links": [],
+  "achievements": [
+    {
+      "apiname": "BAL_01",
+      "display_name": "Ante Up!",
+      "description": "Reach Ante 4",
+      "chapter": "Stakes & Progression",
+      "hint": "Play normally. Focus on buying a decent multiplier (Mult) Joker early on to easily beat the first few Antes.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "BAL_02",
+      "display_name": "Ante Upper!",
+      "description": "Reach Ante 8",
+      "chapter": "Stakes & Progression",
+      "hint": "Build a strong economy early (aim for $25 to get max interest) and find a synergy between your Jokers to multiply your score enough to survive the mid-game.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "BAL_01"
+      ]
+    },
+    {
+      "apiname": "BAL_03",
+      "display_name": "Heads Up",
+      "description": "Win a Run",
+      "chapter": "Stakes & Progression",
+      "hint": "Beat the Ante 8 Boss Blind. Make sure to check the Boss Blind's ability at the start of the Ante so you aren't countered (e.g., if it debuffs Hearts, don't rely on a Heart Flush).",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "BAL_02"
+      ]
+    },
+    {
+      "apiname": "BAL_04",
+      "display_name": "Low Stakes",
+      "description": "Win a run on at least Red Stake difficulty",
+      "chapter": "Stakes & Progression",
+      "hint": "Red Stake removes the monetary reward for the Small Blind. You'll need to rely more on interest, economy Jokers, or skipping the Small Blind entirely for good Tags.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "BAL_03"
+      ]
+    },
+    {
+      "apiname": "BAL_05",
+      "display_name": "Mid Stakes",
+      "description": "Win a run on at least Black Stake difficulty",
+      "chapter": "Stakes & Progression",
+      "hint": "Black Stake introduces Eternal Jokers that cannot be sold or destroyed. Only buy Eternal Jokers if they fit perfectly into your end-game build.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "BAL_04"
+      ]
+    },
+    {
+      "apiname": "BAL_06",
+      "display_name": "High Stakes",
+      "description": "Win a run on at least Gold Stake difficulty",
+      "chapter": "Stakes & Progression",
+      "hint": "Gold Stake reduces your hand size by 1. Because making 5-card hands consistently becomes very difficult, focus on High Card or Pair builds heavily upgraded by Planet cards and xMult Jokers.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "https://www.youtube.com/watch?v=ytVqT3KnuhI",
+      "requires": [
+        "BAL_05"
+      ]
+    },
+    {
+      "apiname": "BAL_07",
+      "display_name": "Card Player",
+      "description": "Play at least 2500 Cards",
+      "chapter": "Scoring & Card Milestones",
+      "hint": "This will unlock naturally over time as you play multiple runs.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "BAL_08",
+      "display_name": "Card Discarder",
+      "description": "Discard at least 2500 Cards",
+      "chapter": "Scoring & Card Milestones",
+      "hint": "Unlocks naturally. Don't be afraid to use all your discards to dig for the perfect hand.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "BAL_09",
+      "display_name": "Nest Egg",
+      "description": "Have $400 or more during a single run",
+      "chapter": "Scoring & Card Milestones",
+      "hint": "Use the Anaglyph Deck (saves Double Tags) and wait for a 'Hermit' (doubles money) or 'Economy' tag. Alternatively, build a strong economy using the Seed Money voucher and gold-generating Jokers.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "BAL_01"
+      ]
+    },
+    {
+      "apiname": "BAL_10",
+      "display_name": "Flushed",
+      "description": "Play a Flush with 5 Wild Cards",
+      "chapter": "Scoring & Card Milestones",
+      "hint": "Use 'The Lovers' Tarot card to convert your standard cards into Wild Cards. Once you have 5 in your hand, play them together. Spectral cards like Familiar or Grim can also help generate them.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "BAL_26"
+      ]
+    },
+    {
+      "apiname": "BAL_11",
+      "display_name": "Speedrunner",
+      "description": "Win a run in 12 or fewer rounds",
+      "chapter": "Scoring & Card Milestones",
+      "hint": "You must skip almost every Small and Big Blind. You will only have the opportunity to visit the shop after Boss Blinds, so you need highly impactful, immediate Jokers.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "https://www.youtube.com/watch?v=yahgNAJD29c",
+      "requires": [
+        "BAL_03"
+      ]
+    },
+    {
+      "apiname": "BAL_12",
+      "display_name": "ROI",
+      "description": "Buy 5 Vouchers by the end of Ante 4",
+      "chapter": "Scoring & Card Milestones",
+      "hint": "Prioritize saving $10 before each Boss Blind so you can buy the Voucher in the shop. Buying the Hieroglyph voucher gives you an extra Ante, essentially giving you an extra shop to buy another voucher.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "BAL_01"
+      ]
+    },
+    {
+      "apiname": "BAL_13",
+      "display_name": "Shattered",
+      "description": "Break 2 Glass Cards in a single hand",
+      "chapter": "Scoring & Card Milestones",
+      "hint": "Glass cards (created by the Justice Tarot) have a 1 in 4 chance to break when played. The 'Oops! All 6s' Joker doubles this chance to 1 in 2. Play a hand with as many Glass cards as possible and hope two break.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "BAL_26"
+      ]
+    },
+    {
+      "apiname": "BAL_14",
+      "display_name": "Royale",
+      "description": "Play a Royal Flush",
+      "chapter": "Scoring & Card Milestones",
+      "hint": "A Royal Flush is a 10, J, Q, K, and A of the same suit. Use Tarot cards (like The Star, Moon, Sun, or World) to manipulate the suits in your deck to easily draw this hand.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "BAL_26"
+      ]
+    },
+    {
+      "apiname": "BAL_15",
+      "display_name": "Retrograde",
+      "description": "Get any poker hand to level 10",
+      "chapter": "Scoring & Card Milestones",
+      "hint": "Buy the Telescope voucher, which guarantees the Planet card for your most played hand appears in Celestial packs. Jokers like Space Joker or Burnt Joker also help level hands quickly.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "BAL_25"
+      ]
+    },
+    {
+      "apiname": "BAL_16",
+      "display_name": "10K",
+      "description": "Score 10,000 Chips in a single hand",
+      "chapter": "Scoring & Card Milestones",
+      "hint": "Easily achieved by Ante 4 or 5 by stacking base Chips (+Chips) and flat Mult (+Mult) Jokers.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "BAL_01"
+      ]
+    },
+    {
+      "apiname": "BAL_17",
+      "display_name": "1,000K",
+      "description": "Score 1,000,000 Chips in a single hand",
+      "chapter": "Scoring & Card Milestones",
+      "hint": "You will need Jokers that multiply your Mult (xMult). Examples include Cavendish, Constellation, or Vampire. Leveling up your preferred hand with Planet cards is also crucial.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "BAL_16"
+      ]
+    },
+    {
+      "apiname": "BAL_18",
+      "display_name": "100,000K",
+      "description": "Score 100,000,000 Chips in a single hand",
+      "chapter": "Scoring & Card Milestones",
+      "hint": "Requires a highly optimized build. Retrigger effects (Blueprint, Brainstorm, Dusk, Mime) combined with Steel cards, Glass cards, or powerful xMult Jokers (like Bloodstone or Baron) are necessary.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "https://www.youtube.com/watch?v=wszSC8I4zJs",
+      "requires": [
+        "BAL_17"
+      ]
+    },
+    {
+      "apiname": "BAL_19",
+      "display_name": "Tiny Hands",
+      "description": "Thin your deck down to 20 or fewer cards",
+      "chapter": "Deck Manipulation",
+      "hint": "Play the Abandoned Deck, which starts with only 40 cards. Use 'The Hanged Man' Tarot card, 'Immolate' Spectral card, or the Trading Card Joker to quickly destroy the rest.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "BAL_26"
+      ]
+    },
+    {
+      "apiname": "BAL_20",
+      "display_name": "Big Hands",
+      "description": "Have 80 or more cards in your deck",
+      "chapter": "Deck Manipulation",
+      "hint": "Constantly buy Standard Packs to add cards. The Marble Joker (adds a Stone card every blind), DNA (duplicates cards), and Certificate are the fastest ways to bloat your deck.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "BAL_21",
+      "display_name": "You Get What You Get",
+      "description": "Win a run without rerolling the shop",
+      "chapter": "Deck Manipulation",
+      "hint": "Simply do not press the Reroll button for an entire run (Antes 1-8). Make the best of the Jokers and booster packs naturally presented to you.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "BAL_03"
+      ]
+    },
+    {
+      "apiname": "BAL_22",
+      "display_name": "Rule Bender",
+      "description": "Complete any challenge run",
+      "chapter": "Challenges",
+      "hint": "Challenges unlock after you win a few standard runs. Pick one of the earlier challenges, as they provide powerful starting setups with only minor drawbacks.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "BAL_03"
+      ]
+    },
+    {
+      "apiname": "BAL_23",
+      "display_name": "Rule Breaker",
+      "description": "Complete every challenge run",
+      "chapter": "Challenges",
+      "hint": "There are 20 challenges in total. The final ones, like 'Jokerless', are extremely difficult and require mastering Planet scaling, Tarot deck manipulation, and Glass card optimization.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "BAL_22"
+      ]
+    },
+    {
+      "apiname": "BAL_24",
+      "display_name": "Legendary",
+      "description": "Discover a Legendary Joker",
+      "chapter": "Discovery & Collection",
+      "hint": "Legendary Jokers only spawn from 'The Soul', a rare Spectral card that has a small chance of appearing in Tarot or Spectral booster packs.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "BAL_27"
+      ]
+    },
+    {
+      "apiname": "BAL_25",
+      "display_name": "Astronomy",
+      "description": "Discover every Planet card",
+      "chapter": "Discovery & Collection",
+      "hint": "Most planets are found in Celestial packs. However, Planet X, Ceres, and Eris will NOT appear until you have played their secret hands (Five of a Kind, Flush House, and Flush Five) at least once during a run.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "BAL_26",
+      "display_name": "Cartomancy",
+      "description": "Discover every Tarot card",
+      "chapter": "Discovery & Collection",
+      "hint": "Open Arcana packs frequently. There are 22 standard Tarot cards, and you will likely find them all naturally as you play.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "BAL_27",
+      "display_name": "Clairvoyance",
+      "description": "Discover every Spectral card",
+      "chapter": "Discovery & Collection",
+      "hint": "Open Spectral packs. Note that 'The Soul' (spawns Legendary Jokers) and 'Black Hole' (upgrades every hand level) are very rare drops but are required for this achievement.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "BAL_26"
+      ]
+    },
+    {
+      "apiname": "BAL_28",
+      "display_name": "Extreme Couponer",
+      "description": "Discover every Voucher",
+      "chapter": "Discovery & Collection",
+      "hint": "Each base Voucher has an upgraded Tier 2 version. You must complete specific global unlock conditions (e.g., play 2500 cards, discard 2500 cards) before those Tier 2 Vouchers can appear in shops.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "BAL_07",
+        "BAL_08"
+      ]
+    },
+    {
+      "apiname": "BAL_29",
+      "display_name": "Completionist",
+      "description": "Discover 100% of your collection",
+      "chapter": "Discovery & Collection",
+      "hint": "You must unlock and 'discover' (have them appear in a run) every Joker, Deck, Voucher, Tarot, Planet, and Spectral card in the game.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "BAL_24",
+        "BAL_25",
+        "BAL_26",
+        "BAL_27",
+        "BAL_28"
+      ]
+    },
+    {
+      "apiname": "BAL_30",
+      "display_name": "Completionist+",
+      "description": "Win with every deck on Gold Stake difficulty",
+      "chapter": "Discovery & Collection",
+      "hint": "You need to beat Gold Stake with all 15 starting decks. Mastering economy management and low-card-requirement hands (Pair, High Card) is essential for consistent Gold Stake wins.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "BAL_06",
+        "BAL_29"
+      ]
+    },
+    {
+      "apiname": "BAL_31",
+      "display_name": "Completionist++",
+      "description": "Earn a Gold Sticker on every Joker",
+      "chapter": "Discovery & Collection",
+      "hint": "You must win a Gold Stake run with every single Joker in the game present in your Joker slots at the time of victory. Carry 1 or 2 'useless' Jokers to the end of successful runs to gradually get this.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "BAL_30"
+      ]
+    }
+  ]
+}
