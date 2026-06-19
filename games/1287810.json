@@ -1,0 +1,1191 @@
+{
+  "chapters": [
+    "Chapter I",
+    "Chapter II",
+    "Chapter III",
+    "Underwater",
+    "Misc & Sidequests",
+    "Late Game & Bosses",
+    "Endings & Karma"
+  ],
+  "links": [
+    {
+      "title": "Steam Community Guides",
+      "url": "https://steamcommunity.com/app/1287810/guides/"
+    },
+    {
+      "title": "Shattered Hourglass Discussions",
+      "url": "https://steamcommunity.com/app/1287810/discussions/"
+    }
+  ],
+  "achievements": [
+    {
+      "apiname": "Defeat_First_Boss",
+      "display_name": "Who's The Boss?",
+      "description": "Defeat Ice Fox.",
+      "chapter": "Chapter I",
+      "hint": "Focus on fire or physical attacks and keep your party's HP topped up.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Treephop_join",
+      "display_name": "Treephop",
+      "description": "Recruit Treephop.",
+      "chapter": "Chapter I",
+      "hint": "Speak to Treephop and allow him to join your party.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Zul_Defeat1",
+      "display_name": "Zulwhern?",
+      "description": "Defeat Zulwhern.",
+      "chapter": "Chapter I",
+      "hint": "Encountered during the story progression. Use buffs to survive his heavy hits.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Ghost_hunters",
+      "display_name": "Ghost Hunters",
+      "description": "",
+      "chapter": "Chapter II",
+      "hint": "Complete the Ghost Hunter side sequence.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Hiban_Recruit",
+      "display_name": "Hiban",
+      "description": "",
+      "chapter": "Chapter II",
+      "hint": "Find and recruit Hiban to your party.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Axe",
+      "display_name": "Time Traveling Axe",
+      "description": "",
+      "chapter": "Misc & Sidequests",
+      "hint": "Locate the hidden Time Traveling Axe weapon.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Suan_join",
+      "display_name": "Suan",
+      "description": "",
+      "chapter": "Chapter II",
+      "hint": "Recruit Suan during your journey.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Fishing_Approval",
+      "display_name": "Beginner Fisherman",
+      "description": "You have no idea what you are getting yourself into.",
+      "chapter": "Misc & Sidequests",
+      "hint": "Obtain the fishing rod and catch your first fish.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Defeat_3times",
+      "display_name": "Aaron't",
+      "description": "",
+      "chapter": "Misc & Sidequests",
+      "hint": "Encounter and defeat Aaron three separate times.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Pearl",
+      "display_name": "A Pearl!",
+      "description": "Uhh... Thanks for the shoes?",
+      "chapter": "Misc & Sidequests",
+      "hint": "Keep fishing. Eventually, you will randomly reel in a Pearl instead of a fish.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Fishing_Approval"
+      ]
+    },
+    {
+      "apiname": "Riddle_1",
+      "display_name": "Riddler's Chest #1",
+      "description": "",
+      "chapter": "Misc & Sidequests",
+      "hint": "Find and solve the first Riddler's Chest.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Riddle_2",
+      "display_name": "Riddler's Chest #2",
+      "description": "",
+      "chapter": "Misc & Sidequests",
+      "hint": "Find and solve the second Riddler's Chest.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Riddle_1"
+      ]
+    },
+    {
+      "apiname": "Lover_End",
+      "display_name": "Love's End",
+      "description": "",
+      "chapter": "Chapter II",
+      "hint": "Witness the tragic conclusion to the lovers' subplot.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Defeat_Druid",
+      "display_name": "Hunt the Hunter",
+      "description": "",
+      "chapter": "Chapter II",
+      "hint": "Defeat the Druid boss.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Juliet_Recruit",
+      "display_name": "Juliet",
+      "description": "Recruit Juliet.",
+      "chapter": "Chapter II",
+      "hint": "Allow Juliet to join your party.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Juliet_Lives",
+      "display_name": "Necromancer",
+      "description": "",
+      "chapter": "Chapter II",
+      "hint": "Save Juliet or use necromancy to ensure she survives.",
+      "is_missable": true,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": [
+        "Juliet_Recruit"
+      ]
+    },
+    {
+      "apiname": "Prison_Break",
+      "display_name": "Prison Break",
+      "description": "Freedom!",
+      "chapter": "Chapter I",
+      "hint": "Successfully escape the prison area.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Quiz_Half",
+      "display_name": "Quiz Time!",
+      "description": "Search engine is my best friend.",
+      "chapter": "Misc & Sidequests",
+      "hint": "Answer at least half of the quiz questions correctly.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Quiz_Full",
+      "display_name": "Quiz Master!",
+      "description": "",
+      "chapter": "Misc & Sidequests",
+      "hint": "Answer every single question in the quiz flawlessly. Save beforehand!",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Quiz_Half"
+      ]
+    },
+    {
+      "apiname": "Snow_Boss",
+      "display_name": "Ho Ho! Oh No!",
+      "description": "",
+      "chapter": "Chapter II",
+      "hint": "Defeat the secret/optional snow-themed boss.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Blue_Fire",
+      "display_name": "I'm on Fire!",
+      "description": "",
+      "chapter": "Misc & Sidequests",
+      "hint": "Acquire the Blue Fire.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Undead_Slayer",
+      "display_name": "Undead Slayer",
+      "description": "",
+      "chapter": "Misc & Sidequests",
+      "hint": "Defeat a specific number of undead enemies.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Chapter2",
+      "display_name": "Chapter II",
+      "description": "Into Time Flow.",
+      "chapter": "Chapter II",
+      "hint": "Story related. Unlocks upon entering Chapter II.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Defeat_First_Boss"
+      ]
+    },
+    {
+      "apiname": "Riddle_3",
+      "display_name": "Riddler's Chest #3",
+      "description": "",
+      "chapter": "Misc & Sidequests",
+      "hint": "Find and solve the third Riddler's Chest.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Riddle_2"
+      ]
+    },
+    {
+      "apiname": "Oni",
+      "display_name": "Lost in Translation",
+      "description": "At least he tried!",
+      "chapter": "Chapter II",
+      "hint": "Attempt to speak to the Oni character without understanding his language.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Zul_Again",
+      "display_name": "Zulwhern, My Old Pal",
+      "description": "",
+      "chapter": "Chapter II",
+      "hint": "Encounter Zulwhern for the second time.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Zul_Defeat1"
+      ]
+    },
+    {
+      "apiname": "Undead_Slayer2",
+      "display_name": "Undead Slayer Deluxe",
+      "description": "",
+      "chapter": "Misc & Sidequests",
+      "hint": "Slay a large number of undead enemies.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Undead_Slayer"
+      ]
+    },
+    {
+      "apiname": "Riddle_4",
+      "display_name": "Riddler's Chest #4",
+      "description": "",
+      "chapter": "Misc & Sidequests",
+      "hint": "Find and solve the fourth Riddler's Chest.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Riddle_3"
+      ]
+    },
+    {
+      "apiname": "Zulwhern_Recruit",
+      "display_name": "Who Are You Again?",
+      "description": "",
+      "chapter": "Chapter II",
+      "hint": "Recruit Zulwhern into your party.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Zul_Again"
+      ]
+    },
+    {
+      "apiname": "Zulwhern_Defeated",
+      "display_name": "Zulwhern, I Miss You",
+      "description": "",
+      "chapter": "Chapter II",
+      "hint": "Defeat Zulwhern in a rematch.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": [
+        "Zul_Again"
+      ]
+    },
+    {
+      "apiname": "Eagle_Recruit",
+      "display_name": "Stop Following Us!",
+      "description": "",
+      "chapter": "Chapter II",
+      "hint": "Recruit the Eagle to join you.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Sun_Ring",
+      "display_name": "Sun Ring",
+      "description": "",
+      "chapter": "Misc & Sidequests",
+      "hint": "Find or craft the Sun Ring accessory.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Recruit_Mio",
+      "display_name": "Mio",
+      "description": "",
+      "chapter": "Chapter II",
+      "hint": "Recruit Mio into your party.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Own_House",
+      "display_name": "Home Sweet Home",
+      "description": "Buy a house.",
+      "chapter": "Misc & Sidequests",
+      "hint": "Save up enough currency to purchase the vacant house.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Hunter",
+      "display_name": "Beginner Hunter",
+      "description": "Complete 2 or more hunt mission.",
+      "chapter": "Misc & Sidequests",
+      "hint": "Check the bounty board and complete at least 2 hunts.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Early_Bad",
+      "display_name": "Price of Careless",
+      "description": "",
+      "chapter": "Endings & Karma",
+      "hint": "Trigger an early bad ending by being careless or losing a crucial event.",
+      "is_missable": true,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Neutral_Duran",
+      "display_name": "Neutral",
+      "description": "",
+      "chapter": "Endings & Karma",
+      "hint": "Achieve the Neutral ending by keeping your Karma balanced.",
+      "is_missable": true,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Bad_Duran",
+      "display_name": "Death",
+      "description": "",
+      "chapter": "Endings & Karma",
+      "hint": "Achieve the Bad ending by accumulating high Bad Karma.",
+      "is_missable": true,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Good_Duran",
+      "display_name": "Savior",
+      "description": "",
+      "chapter": "Endings & Karma",
+      "hint": "Achieve the Good ending by accumulating high Good Karma.",
+      "is_missable": true,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Zul_Final",
+      "display_name": "Zulwhern's Retirement",
+      "description": "",
+      "chapter": "Late Game & Bosses",
+      "hint": "Conclude Zulwhern's storyline.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": [
+        "Zulwhern_Defeated"
+      ]
+    },
+    {
+      "apiname": "Fireman",
+      "display_name": "Fireman",
+      "description": "",
+      "chapter": "Misc & Sidequests",
+      "hint": "Put out fires or complete the fire-related task.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Riddle_5",
+      "display_name": "Riddler's Chest #5",
+      "description": "",
+      "chapter": "Misc & Sidequests",
+      "hint": "Find and solve the fifth Riddler's Chest.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Riddle_4"
+      ]
+    },
+    {
+      "apiname": "Fisherman_Veteran",
+      "display_name": "Veteran Fisherman",
+      "description": "",
+      "chapter": "Misc & Sidequests",
+      "hint": "Catch a lot of fish to rank up your fishing skill.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Fishing_Approval"
+      ]
+    },
+    {
+      "apiname": "Mansion_Out",
+      "display_name": "Fresh Air",
+      "description": "",
+      "chapter": "Chapter II",
+      "hint": "Successfully exit the Mansion dungeon.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Arena_Beginner",
+      "display_name": "Hoplite",
+      "description": "Beat Arena Rank 1.",
+      "chapter": "Misc & Sidequests",
+      "hint": "Enter the Arena and clear the first rank.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Arena_Veteran",
+      "display_name": "Colonel",
+      "description": "Beat Arena Rank 4.",
+      "chapter": "Misc & Sidequests",
+      "hint": "Progress through the Arena to clear rank 4.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Arena_Beginner"
+      ]
+    },
+    {
+      "apiname": "Arena_Champion",
+      "display_name": "Supreme Commander",
+      "description": "",
+      "chapter": "Misc & Sidequests",
+      "hint": "Clear the highest rank in the Arena.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Arena_Veteran"
+      ]
+    },
+    {
+      "apiname": "Glacia",
+      "display_name": "Mother Glacia",
+      "description": "",
+      "chapter": "Late Game & Bosses",
+      "hint": "Defeat or encounter Glacia.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Fire_Lord",
+      "display_name": "Fire Lord",
+      "description": "",
+      "chapter": "Late Game & Bosses",
+      "hint": "Defeat or encounter the Fire Lord.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Expensive_Gift",
+      "display_name": "Costy Reward",
+      "description": "",
+      "chapter": "Misc & Sidequests",
+      "hint": "Receive or buy a very expensive gift item.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Riddle_6",
+      "display_name": "Riddler's Chest #6",
+      "description": "",
+      "chapter": "Misc & Sidequests",
+      "hint": "Find and solve the final Riddler's Chest.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Riddle_5"
+      ]
+    },
+    {
+      "apiname": "Chapter_3",
+      "display_name": "Chapter III",
+      "description": "",
+      "chapter": "Chapter III",
+      "hint": "Story related. Unlocks upon entering Chapter III.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Chapter2"
+      ]
+    },
+    {
+      "apiname": "Recruit_Jannet",
+      "display_name": "Jannet",
+      "description": "",
+      "chapter": "Chapter III",
+      "hint": "Recruit Jannet into your party.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Waste_Money",
+      "display_name": "Waste of Money",
+      "description": "",
+      "chapter": "Misc & Sidequests",
+      "hint": "Spend a large amount of gold on a scam or useless item.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Small_Start",
+      "display_name": "A Small Start",
+      "description": "",
+      "chapter": "Misc & Sidequests",
+      "hint": "Purchase your first house upgrade.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Own_House"
+      ]
+    },
+    {
+      "apiname": "Feels_Home",
+      "display_name": "Growing Community",
+      "description": "",
+      "chapter": "Misc & Sidequests",
+      "hint": "Purchase the next tier of housing/community upgrades.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Small_Start"
+      ]
+    },
+    {
+      "apiname": "Home_Plus",
+      "display_name": "Tourist Attraction",
+      "description": "",
+      "chapter": "Misc & Sidequests",
+      "hint": "Fully upgrade your house/community.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Feels_Home"
+      ]
+    },
+    {
+      "apiname": "Fashion_On",
+      "display_name": "Fashion Artist",
+      "description": "",
+      "chapter": "Misc & Sidequests",
+      "hint": "Buy or collect fashion/outfit items.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Qual_join",
+      "display_name": "Qual",
+      "description": "",
+      "chapter": "Late Game & Bosses",
+      "hint": "Reach Qual in time and successfully recruit him.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Qual_late",
+      "display_name": "Too Late",
+      "description": "",
+      "chapter": "Late Game & Bosses",
+      "hint": "Take too long or make choices that lead to arriving too late to save Qual.",
+      "is_missable": true,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Cerberus_Defeat",
+      "display_name": "Last of Them.",
+      "description": "",
+      "chapter": "Chapter III",
+      "hint": "Defeat Cerberus.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Witch_Side",
+      "display_name": "Now, Scram!",
+      "description": "",
+      "chapter": "Chapter III",
+      "hint": "Resolve the Witch's sidequest or encounter.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Ice_Queen",
+      "display_name": "Ice Queen",
+      "description": "",
+      "chapter": "Chapter III",
+      "hint": "Encounter or defeat the Ice Queen.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "End_Slayer",
+      "display_name": "Slayer's End",
+      "description": "",
+      "chapter": "Late Game & Bosses",
+      "hint": "Experience the Slayer's bad end or defeat.",
+      "is_missable": true,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Not_End_Slayer",
+      "display_name": "Slayer's Victory",
+      "description": "",
+      "chapter": "Late Game & Bosses",
+      "hint": "Experience the Slayer's victory.",
+      "is_missable": true,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Faun_Town_Explorer",
+      "display_name": "Fauntown Explorer",
+      "description": "",
+      "chapter": "Misc & Sidequests",
+      "hint": "Explore all key locations in Fauntown.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Pure_Good",
+      "display_name": "Pure Good",
+      "description": "Opened Pure Chest with 10 or more Good Karma.",
+      "chapter": "Endings & Karma",
+      "hint": "Make only good/righteous choices throughout the game until you have 10 Good Karma to open the chest.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Pure_Evil",
+      "display_name": "Pure Evil",
+      "description": "Opened Pure Chest with 10 or more Bad Karma.",
+      "chapter": "Endings & Karma",
+      "hint": "Make only cruel/selfish choices throughout the game until you have 10 Bad Karma to open the chest.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Pure_Neutral",
+      "display_name": "Pure Neutral",
+      "description": "Opened Pure Chest with 10 or more Neutral Karma.",
+      "chapter": "Endings & Karma",
+      "hint": "Balance your Karma carefully so it stays near 0 to accumulate 10 Neutral Karma for the chest.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Forgotten_Reward",
+      "display_name": "Forgotten Reward",
+      "description": "",
+      "chapter": "Misc & Sidequests",
+      "hint": "Claim the forgotten/hidden reward from a past NPC or area.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Book_Worm",
+      "display_name": "Bookworm",
+      "description": "Read all of Habon's library.",
+      "chapter": "Misc & Sidequests",
+      "hint": "Interact with every single bookshelf in Habon's library.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Habon_Visit",
+      "display_name": "Balandor",
+      "description": "",
+      "chapter": "Misc & Sidequests",
+      "hint": "Visit Balandor.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Bad_News",
+      "display_name": "Missing",
+      "description": "",
+      "chapter": "Chapter I",
+      "hint": "Trigger the missing person event.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Unlimited_TP",
+      "display_name": "Unlimited Teleport",
+      "description": "",
+      "chapter": "Misc & Sidequests",
+      "hint": "Unlock the unlimited fast travel / teleport item.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Die_Hero",
+      "display_name": "Super Early Bad Ending",
+      "description": "",
+      "chapter": "Endings & Karma",
+      "hint": "Lose the unwinnable fight at the very beginning of the game or select the option to give up immediately.",
+      "is_missable": true,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Underwater",
+      "display_name": "Underwater",
+      "description": "Into a new world.",
+      "chapter": "Underwater",
+      "hint": "Reach the underwater area.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Underwater_1",
+      "display_name": "The Deep Sea",
+      "description": "",
+      "chapter": "Underwater",
+      "hint": "Progress further into the deep sea.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Underwater"
+      ]
+    },
+    {
+      "apiname": "Underwater_2",
+      "display_name": "Sea of Nothingness",
+      "description": "",
+      "chapter": "Underwater",
+      "hint": "Reach the Sea of Nothingness.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Underwater_1"
+      ]
+    },
+    {
+      "apiname": "Underwater_3",
+      "display_name": "Leviathan's Lair",
+      "description": "",
+      "chapter": "Underwater",
+      "hint": "Find the Leviathan's Lair.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Underwater_2"
+      ]
+    },
+    {
+      "apiname": "Treephop_Again",
+      "display_name": "Treephop's Worry",
+      "description": "",
+      "chapter": "Chapter II",
+      "hint": "Speak to Treephop again to trigger his secondary worry event.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Treephop_join"
+      ]
+    },
+    {
+      "apiname": "Underwater_4",
+      "display_name": "End of an Era",
+      "description": "",
+      "chapter": "Underwater",
+      "hint": "Complete the underwater storyline.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": [
+        "Underwater_3"
+      ]
+    },
+    {
+      "apiname": "Timeless_Armour",
+      "display_name": "Timeless Armour",
+      "description": "",
+      "chapter": "Misc & Sidequests",
+      "hint": "Find or craft the Timeless Armour.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Mydha_Dead",
+      "display_name": "Defeat the Undefeatable",
+      "description": "",
+      "chapter": "Late Game & Bosses",
+      "hint": "Defeat Mydha.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Fujin_Dead",
+      "display_name": "Defeat a God",
+      "description": "",
+      "chapter": "Late Game & Bosses",
+      "hint": "Defeat Fujin.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Cursed_One",
+      "display_name": "Defeat Cursed One",
+      "description": "",
+      "chapter": "Late Game & Bosses",
+      "hint": "Defeat the Cursed One boss.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Tomb_Raid",
+      "display_name": "Tomb and Puzzle",
+      "description": "It hurts my mind.",
+      "chapter": "Misc & Sidequests",
+      "hint": "Complete the tomb puzzle dungeon.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Knowledge_Book",
+      "display_name": "Cultural Impact",
+      "description": "Knowledge is the true treasure.",
+      "chapter": "Misc & Sidequests",
+      "hint": "Find the secret knowledge book.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "True_Bad_End",
+      "display_name": "Discovered A Secret...",
+      "description": "",
+      "chapter": "Endings & Karma",
+      "hint": "Discover the hidden lore secret leading to a bad end.",
+      "is_missable": true,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Catastrophe",
+      "display_name": "Catastrophe",
+      "description": "",
+      "chapter": "Chapter III",
+      "hint": "Witness the catastrophic event.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Premature_Death",
+      "display_name": "My Next Target: Zavorim",
+      "description": "",
+      "chapter": "Endings & Karma",
+      "hint": "Trigger a specific premature bad ending during the hunt.",
+      "is_missable": true,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Premature_Death2",
+      "display_name": "Naive Heart",
+      "description": "",
+      "chapter": "Endings & Karma",
+      "hint": "Trust the wrong person and trigger a premature death ending.",
+      "is_missable": true,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Fish_Master",
+      "display_name": "Master Fisherman",
+      "description": "",
+      "chapter": "Misc & Sidequests",
+      "hint": "Reach the Master rank in fishing.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Fisherman_Veteran"
+      ]
+    },
+    {
+      "apiname": "Fish_God",
+      "display_name": "Legendary Fisherman",
+      "description": "",
+      "chapter": "Misc & Sidequests",
+      "hint": "Max out your fishing rank entirely.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Fish_Master"
+      ]
+    },
+    {
+      "apiname": "Late_Victory",
+      "display_name": "Melting Ice",
+      "description": "",
+      "chapter": "Late Game & Bosses",
+      "hint": "Defeat the endgame ice boss.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Good_End_Plus",
+      "display_name": "True Good Path +",
+      "description": "What was that book?",
+      "chapter": "Endings & Karma",
+      "hint": "Achieve the Good Ending after finding and reading the specific secret book.",
+      "is_missable": true,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": [
+        "Good_Duran"
+      ]
+    },
+    {
+      "apiname": "Good_End_Minus",
+      "display_name": "True Good Path -",
+      "description": "Darkness.",
+      "chapter": "Endings & Karma",
+      "hint": "Achieve the Good Ending but fail a specific late-game requirement.",
+      "is_missable": true,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": [
+        "Good_Duran"
+      ]
+    },
+    {
+      "apiname": "Bad_End_Plus",
+      "display_name": "True Bad Path +",
+      "description": "Qual, the true hero of the world.",
+      "chapter": "Endings & Karma",
+      "hint": "Achieve the Bad Ending but with Qual surviving as the 'hero'.",
+      "is_missable": true,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": [
+        "Bad_Duran"
+      ]
+    },
+    {
+      "apiname": "Bad_End_Minus",
+      "display_name": "True Bad Path -",
+      "description": "Duran, the tyrant.",
+      "chapter": "Endings & Karma",
+      "hint": "Achieve the worst Bad Ending where you rule as a tyrant.",
+      "is_missable": true,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": [
+        "Bad_Duran"
+      ]
+    },
+    {
+      "apiname": "Neut_End_Plus",
+      "display_name": "True Neutral Path +",
+      "description": "Where is everybody?",
+      "chapter": "Endings & Karma",
+      "hint": "Achieve the Neutral Ending under specific isolating circumstances.",
+      "is_missable": true,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": [
+        "Neutral_Duran"
+      ]
+    },
+    {
+      "apiname": "Neut_End_Minus",
+      "display_name": "True Neutral Path -",
+      "description": "Backstabber.",
+      "chapter": "Endings & Karma",
+      "hint": "Achieve the Neutral Ending by betraying your allies at the crucial moment.",
+      "is_missable": true,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": [
+        "Neutral_Duran"
+      ]
+    }
+  ]
+}
