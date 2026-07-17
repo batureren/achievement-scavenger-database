@@ -1,4 +1,5 @@
-```markdown
+***
+
 # Achievement Scavenger Community Database
 
 Welcome to the Community Database for Achievement Scavenger! This repository houses crowdsourced achievement guides, hints, missable warnings, and curated guide links for **Steam**, **RetroAchievements**, and **Xbox Live** games.
@@ -109,4 +110,3 @@ You don't need to write JSON by hand! Achievement Scavenger has built-in tools f
 | `requires` | Array of Strings | A list of `apiname`s representing prerequisite achievements. Creates interactive "Requires" and "Unlocks" tracking chains inside the app. |
 
 > **Note:** Private notes (`notes`) made in the app are kept strictly on your local machine and are deliberately excluded from Community DB exports.
-```
