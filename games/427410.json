@@ -1,0 +1,589 @@
+{
+  "chapters": [
+    "Early Game (Office Sector)",
+    "Mid-Early Game (Flathill)",
+    "Late-Early Game (Manufacturing West + Portal)",
+    "Early Midgame (Labs + Portals)",
+    "Midgame (Security Sector + Portals)",
+    "Late Midgame (Hydroplant + Portals and sublocations)",
+    "Early Lategame (Reactors + Portals)",
+    "Mid Lategame (Residence Sector + Sub-sector)",
+    "Lategame (Botanical Gardens + Ending)"
+  ],
+  "links": [],
+  "achievements": [
+    {
+      "apiname": "ACH_KILL_PEST_1",
+      "display_name": "One Down, One Million To Go",
+      "description": "Kill a pest for the very first time.",
+      "chapter": "Early Game (Office Sector)",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_HACKERMAN",
+      "display_name": "Hackerman",
+      "description": "Hack a door or other security feature.",
+      "chapter": "Early Game (Office Sector)",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_GREEN_THUMB",
+      "display_name": "Green Thumb",
+      "description": "Cultivate any crop",
+      "chapter": "Early Game (Office Sector)",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_INTRO_COMPLETE",
+      "display_name": "Down Under",
+      "description": "You've taken your first steps into the GATE Cascade Research Facility.",
+      "chapter": "Early Game (Office Sector)",
+      "hint": "Complete the tutorial.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_SECTOR_1",
+      "display_name": "Office: Managed",
+      "chapter": "Early Game (Office Sector)",
+      "hint": "Story achievement: Complete Office Sector.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_SECTOR_2",
+      "display_name": "Synced Up",
+      "chapter": "Late-Early Game (Manufacturing West + Portal)",
+      "hint": "Story achievement: Finish Manufacturing West.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_SECTOR_3",
+      "display_name": "Regaining Control",
+      "chapter": "Early Midgame (Labs + Portals)",
+      "hint": "Story achievement: Finish Cascade Laboratories (The Labs).",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_POOP_SELF",
+      "display_name": "Accidents Happen",
+      "chapter": "Early Game (Office Sector)",
+      "hint": "Do not go to the bathroom at all. Once a countdown in your UI appears saying \"You really need to find a toilet\", let it reach 0 to get the achievement.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_CRAFTY",
+      "display_name": "Crafty Creations",
+      "description": "You created your very first item, all by yourself, probably.",
+      "chapter": "Early Game (Office Sector)",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_KITTED_OUT",
+      "display_name": "Kitted Out",
+      "description": "Equip an item into every available slot, at the same time.",
+      "chapter": "Early Game (Office Sector)",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_FASHION_SPEC",
+      "display_name": "Fashion Spec",
+      "description": "Equip a complete armor set with a unique buff.",
+      "chapter": "Early Game (Office Sector)",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_FUNGUS_AMONGUS",
+      "display_name": "Mycelium about the Consilium",
+      "chapter": "Early Midgame (Labs + Portals)",
+      "hint": "After exiting Mycofields, craft and equip a Mushroom Helmet.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": [
+        "ACH_MYCOFIELDS"
+      ]
+    },
+    {
+      "apiname": "ACH_KILL_ORDER",
+      "display_name": "Supremus Ordo Petrae",
+      "description": "Take down 50 combatants from The Order, by any means available.",
+      "chapter": "Late-Early Game (Manufacturing West + Portal)",
+      "hint": "The enemies that count are the military, these being the Grunts, Captains, Medics, Breachers, and Snipers.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_LABRAT",
+      "display_name": "Lab Rat",
+      "chapter": "Late-Early Game (Manufacturing West + Portal)",
+      "hint": "Equip both the Lab Rat suit and the Rat Pack. While the suit is obtained as a random drop, the Rat Pack requires you to use a Net Launcher and then kill the Rat with blunt damage for it to drop.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_MFGARB",
+      "display_name": "Engineering Success",
+      "description": "Collect the full Manufacturing uniform.",
+      "chapter": "Late-Early Game (Manufacturing West + Portal)",
+      "hint": "Located in the \"Upper Shipping\" area of Manufacturing West.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "https://www.youtube.com/watch?v=U1WZ2BMP9yI",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_SECTOR_4",
+      "display_name": "Survive the Night",
+      "chapter": "Midgame (Security Sector + Portals)",
+      "hint": "Story achievement: Finish Security Sector.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_SECTOR_5",
+      "display_name": "The Darkwater",
+      "chapter": "Late Midgame (Hydroplant + Portals and sublocations)",
+      "hint": "Story achievement: Finish Hydroplant.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_ALPS",
+      "display_name": "Je Suis Perdu!",
+      "chapter": "Late Midgame (Hydroplant + Portals and sublocations)",
+      "hint": "Story achievement: Finish Voussoir.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_SHORE",
+      "display_name": "We Don't Talk About That Place",
+      "chapter": "Early Midgame (Labs + Portals)",
+      "hint": "When interacting with a Portal Toilet (craftable mid-game) with any \"Toilet\" related status, there's a 50% (or 5% if you already have the achievement) chance you'll be teleported to \"Some Distant Shore\". Once you're teleported, you'll get the achievement.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_TILE",
+      "display_name": "No Running",
+      "chapter": "Early Midgame (Labs + Portals)",
+      "hint": "Interact with \"IS-0018 / The Red Chair\". The chair is located very late into Cascade Laboratories in the containment zones.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_HELMHOLTZ",
+      "display_name": "No More Room In Helmholtz",
+      "chapter": "Early Midgame (Labs + Portals)",
+      "hint": "Finish the Furniture Store.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_MIRROR",
+      "display_name": "Flat as a Pancake",
+      "chapter": "Late Midgame (Hydroplant + Portals and sublocations)",
+      "hint": "Interact with \"The World in the Mirror / IS-0855\". The mirror is located very late into Cascade Laboratories in the containment zones and requires a Keypad Hacker (Tier 5) to get inside the room.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_NIGHTR",
+      "display_name": "Sleepwalking",
+      "chapter": "Midgame (Security Sector + Portals)",
+      "hint": "Story achievement: Finish The Night Realm.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_MYCOFIELDS",
+      "display_name": "Field of Dreams",
+      "chapter": "Early Midgame (Labs + Portals)",
+      "hint": "Story achievement: Finish Mycofields.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_FARGARDEN",
+      "display_name": "It Only Gets Stranger From Here",
+      "chapter": "Early Game (Office Sector)",
+      "hint": "Story achievement: Finish the Far Gardens (Anteverse 2-A).",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_TRAIN",
+      "display_name": "All Aboard",
+      "chapter": "Late-Early Game (Manufacturing West + Portal)",
+      "hint": "Story achievement: Finish The Train.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_FOG",
+      "display_name": "The Composers",
+      "chapter": "Mid-Early Game (Flathill)",
+      "hint": "Story achievement: Finish Flathill.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_RISE",
+      "display_name": "The Big Apple",
+      "chapter": "Early Midgame (Labs + Portals)",
+      "hint": "Story achievement: Finish The Rise Facility.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_DUMMY",
+      "display_name": "Dummy",
+      "chapter": "Late-Early Game (Manufacturing West + Portal)",
+      "hint": "Interact with the Dummy inside a secret portal area found in the mines of Manufacturing West.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "https://youtu.be/uNo_Bj9CpHE",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_FISHONCE",
+      "display_name": "Catch a Fish",
+      "description": "You've successfully caught a fish, but it isn't quite what you expected!",
+      "chapter": "Early Game (Office Sector)",
+      "hint": "You do not need bait to catch normal fish, just a fishing rod.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_RAREFISH",
+      "display_name": "Rare Catch",
+      "chapter": "Early Game (Office Sector)",
+      "hint": "When using a bait to get a specific fish, there's a chance you'll get a Rare Catch, which is essentially an alternate version of the fish you're using the bait for. You absolutely do need bait for this achievement.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_HYDROGARB",
+      "display_name": "Go With The Flow",
+      "description": "Collect the full Hydroplant uniform.",
+      "chapter": "Late Midgame (Hydroplant + Portals and sublocations)",
+      "hint": "At the beginning of Hydroplant, head towards the path where the \"Docks\" sign is, keep going straight until you hit the furthest wall. Look right and find a small place you can crouch to get to a room with a hole full of water. Enter said hole and keep going straight while looking up. Take the first exit you can find, follow the vent and there you'll find the body with the suit that'll give you the achievement.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "https://youtu.be/3ysZv_SfZrE",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_SALEM",
+      "display_name": "A Lode Off My Mind",
+      "chapter": "Midgame (Security Sector + Portals)",
+      "hint": "Kill the Priest preaching in the church of Canaan.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_WINTER",
+      "display_name": "Rumble on the Royal Range",
+      "chapter": "Late Midgame (Hydroplant + Portals and sublocations)",
+      "hint": "Finish Royal Range. Royal Range is located in one of the doors very late into Cascade Laboratories in the containment zones and requires a Keypad Hacker (Tier 5) to get inside the room.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_WARHEAD",
+      "display_name": "The Village",
+      "chapter": "Late Midgame (Hydroplant + Portals and sublocations)",
+      "hint": "Story achievement: Finish Village Den da'ko Yeer.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_DUSK",
+      "display_name": "Dawn Til' Dusk",
+      "chapter": "Early Lategame (Reactors + Portals)",
+      "hint": "Story achievement: Reactivate Reactor Dusk.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_SECTOR_6",
+      "display_name": "Dark Energy",
+      "chapter": "Early Lategame (Reactors + Portals)",
+      "hint": "Story achievement: Finish Reactors.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_SUOMI",
+      "display_name": "Shadowgate",
+      "chapter": "Early Lategame (Reactors + Portals)",
+      "hint": "Story achievement: Finish Shadowgate.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_MGT",
+      "display_name": "Coreverse",
+      "chapter": "Late-Early Game (Manufacturing West + Portal)",
+      "hint": "In The Encroachment, activate The Core by interacting with the core when you have a Core Fragment in your inventory. You get this by killing the giant worm moving around the area. The Encroachment is located within the mines of Manufacturing West.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "https://www.youtube.com/watch?v=cKx3hIpg-Ew",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_INQ",
+      "display_name": "The Inquisition",
+      "chapter": "Early Lategame (Reactors + Portals)",
+      "hint": "Story achievement: Finish the Praetorium",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_BOTANIC",
+      "display_name": "The Gardens",
+      "chapter": "Lategame (Botanical Gardens + Ending)",
+      "hint": "Story achievement: Finish Botanical Gardens",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_SECTOR_7",
+      "display_name": "End of the Earth",
+      "chapter": "Mid Lategame (Residence Sector + Sub-sector)",
+      "hint": "Story achievement: Finish Residence Sector.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_END",
+      "display_name": "Apocalypse Now",
+      "chapter": "Lategame (Botanical Gardens + Ending)",
+      "hint": "Story achievement: Finish Albatross and complete the game.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_COFFEEHOLE",
+      "display_name": "Coffee in the Coffee Hole",
+      "description": "You fed coffee to an entity that probably doesn't need more coffee.",
+      "chapter": "Early Game (Office Sector)",
+      "hint": "At night you can hear IS-0223, the \"Coworker\" saying usual \"workplace phrases\". Find him and offer him a coffee to get the achievement.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_OPENCRATE_FOG",
+      "display_name": "Music Box",
+      "chapter": "Mid-Early Game (Flathill)",
+      "hint": "Open a Cacophonous Crate with a Porcelain Key. \n*(Video contains spoilers of future areas after number 3)",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "https://www.youtube.com/watch?v=nT903-_uO3Q",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_OPENCRATE_ORN",
+      "display_name": "Nosy Neighbor",
+      "chapter": "Late-Early Game (Manufacturing West + Portal)",
+      "hint": "Open an Ornate Crate with an Ornate Key.\n*(Video contains spoilers of future areas after number 3)",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "https://www.youtube.com/watch?v=5nD5uM_Z9SA",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_OPENCRATE_SEC",
+      "display_name": "Security Breach",
+      "description": "You've unlocked a GATE Security Crate.",
+      "chapter": "Early Game (Office Sector)",
+      "hint": "Open a GATE Security Crate with a GATE Security Key.\n*(Video contains spoilers of future areas after number 3)",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "https://www.youtube.com/watch?v=0EH33ZE25gw",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_OPENCRATE_GK",
+      "display_name": "Ancient Treasure",
+      "chapter": "Early Lategame (Reactors + Portals)",
+      "hint": "Open a Runic Crate with a GATE Defense Rune.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "https://www.youtube.com/watch?v=uVgb8Sp7QNk",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_KILL_JOTUN",
+      "display_name": "Sjaund",
+      "chapter": "Early Lategame (Reactors + Portals)",
+      "hint": "Early lategame you'll find Jotun as enemies. Kill one of them to get the achievement.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_KILL_GK",
+      "display_name": "Ragnarok",
+      "chapter": "Early Lategame (Reactors + Portals)",
+      "hint": "Kill 100 Shadowgate enemies (The witches, the Jotun, the soldiers and chieftains). An easy way to farm them is to put a warp pad inside the Shadowgate facility inside the Shadowgate dimension and kill all enemies in the portal world from there.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_MAESTRO",
+      "display_name": "Blind Luck",
+      "chapter": "Mid-Early Game (Flathill)",
+      "hint": "After completing Flathill, Symphonists can appear inside and outside Flathill (outside the portal only during Fog weather)",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_91",
+      "display_name": "Friendly Presence",
+      "chapter": "Early Midgame (Labs + Portals)",
+      "hint": "Contain the Leyak inside a Containment Unit: 91. This can be done by crafting, placing and powering up a Containment Unit, baiting close to the Containment Unit and then using an X-Ray Lamp or an X-Ray Tower to make the Leyak disappear.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_KYLIE",
+      "display_name": "Electric Dreams",
+      "chapter": "Late Midgame (Hydroplant + Portals and sublocations)",
+      "hint": "NOT Missable but highly recommended to start and finish ASAP and before the ending due to the rewards.\nThis achievement has two parts and multiple steps that start as early as Reactors and finish as early as the end of the game. I recommend checking the guides section for a full guide on how to get this.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    }
+  ],
+  "checklists": [
+    {
+      "id": "1784793279932",
+      "title": "\"Electric Dreams\" Progress",
+      "items": [
+        {
+          "id": "1784793357784",
+          "name": "Obtain Kylie",
+          "desc": "Bring a Diving Suit to where you get the \"Go With The Flow\" achievement (the one that gives you the blue suit). Jump down the hole and sink towards the direction where the interactable body was. Once you reach the crane at the end of the little platform, go to the opposite direction under the platform and follow the linear path. Speak to Kylie and get the recipe for a \"Hyper-Dense Neural Chip\". Craft the item and bring it to Kylie. Insert it where it asks you to and then grab Kylie (Trinket). Feel free to equip them (or not).",
+          "category": "Electric Dreams",
+          "location": "Hydroplant's Robotics sub-sector",
+          "chapter": "",
+          "imageUrl": "https://i.imgur.com/KtfEnvH.png",
+          "videoUrl": "https://www.youtube.com/watch?v=fVaRr9kz0zA"
+        },
+        {
+          "id": "1784793440424",
+          "name": "Fulfill Kylie's Promise",
+          "desc": "Bring Kylie with you to the Botanical Gardens then enter the Red Portal in front of the Double Helix (DNA molecule) statue/structure/stairs. Once inside, move towards the beginning of the ascent and you'll find a hole in the wall with a little catwalk. Get inside that catwalk and follow the linear path to enter the Green Portal. Inside the Green Portal, go up the stairs and interact with the yellow part next to the console. When Kylie mentions she needs some time, proceed to the ending of the game. You won't get the achievement until after you get to the last portal world where the ending happens.",
+          "category": "Electric Dreams",
+          "location": "Botanical Gardens",
+          "chapter": "",
+          "imageUrl": "https://i.imgur.com/ZqhhxdD.png",
+          "videoUrl": "https://www.youtube.com/watch?v=F1PyM42LtQY"
+        }
+      ]
+    }
+  ]
+}
