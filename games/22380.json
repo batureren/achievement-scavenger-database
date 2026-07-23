@@ -1,0 +1,879 @@
+{
+  "chapters": [
+    "Story",
+    "Character",
+    "Dead Money",
+    "Honest Hearts",
+    "Old World Blues",
+    "Lonesome Road",
+    "Gun Runners' Arsenal",
+    "Collectibles",
+    "Win condition",
+    "Faction: Mr. House",
+    "Faction: NCR",
+    "Faction: Caesar's Legion",
+    "Faction: Yes Man",
+    "Side-quest"
+  ],
+  "links": [],
+  "achievements": [
+    {
+      "apiname": "A01",
+      "display_name": "New Kid",
+      "description": "Reached 10th level.",
+      "chapter": "Character",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A02",
+      "display_name": "Up and Comer",
+      "description": "Reach 20th level.",
+      "chapter": "Character",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A03",
+      "display_name": "The Boss",
+      "description": "Reach 30th level.",
+      "chapter": "Character",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A04",
+      "display_name": "Ol' Buddy Ol' Pal",
+      "description": "Recruit any companion.",
+      "chapter": "Character",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A05",
+      "display_name": "The Whole Gang's Here",
+      "description": "Recruit all companions.",
+      "chapter": "Character",
+      "hint": "Multiple companions can be permanently missed. These being Craig Boone (if reputation with the NCR drops too low), Cass (If you complete Van Graff and Crimson Caravan's questlines), Veronica (If you destroy the brotherhood of steel or make them permanently hostile), Arcade Gannon (if your standing with Caesar's Legion reaches idolized or friendly or you fail the recruitment in Freeside), Lily Bowen (if Jacobstown becomes hostile)",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A06",
+      "display_name": "Crafty",
+      "description": "Craft 20 items.",
+      "chapter": "Character",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A07",
+      "display_name": "Mod Master",
+      "description": "Install 20 weapon mods.",
+      "chapter": "Character",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A08",
+      "display_name": "Walker of the Mojave",
+      "description": "Discover 50 locations.",
+      "chapter": "Character",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A09",
+      "display_name": "Master of the Mojave",
+      "description": "Discover 125 locations.",
+      "chapter": "Character",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A10",
+      "display_name": "Globe Trotter",
+      "description": "Discover all snow globes.",
+      "chapter": "Collectibles",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A11",
+      "display_name": "You Run Barter Town",
+      "description": "Sell 10,000 caps worth of goods.",
+      "chapter": "Character",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A12",
+      "display_name": "Blast Mastery",
+      "description": "Cause 10,000 damage with Energy Weapons.",
+      "chapter": "Character",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A13",
+      "display_name": "Love the Bomb",
+      "description": "Cause 10,000 damage with Explosives.",
+      "chapter": "Character",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A14",
+      "display_name": "Lead Dealer",
+      "description": "Cause 10,000 damage with Guns.",
+      "chapter": "Character",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A15",
+      "display_name": "No Tumbler Fumbler",
+      "description": "Pick 25 locks.",
+      "chapter": "Character",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A16",
+      "display_name": "Stim-ply Amazing",
+      "description": "Heal 10,000 points of damage with Stimpaks.",
+      "chapter": "Character",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A17",
+      "display_name": "New Vegas Samurai",
+      "description": "Cause 10,000 damage with Melee Weapons.",
+      "chapter": "Character",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A18",
+      "display_name": "Jury Rigger",
+      "description": "Repair 30 items.",
+      "chapter": "Character",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A19",
+      "display_name": "Hack the Mojave",
+      "description": "Hack 25 terminals.",
+      "chapter": "Character",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A20",
+      "display_name": "Artful Pocketer",
+      "description": "Pick 50 pockets.",
+      "chapter": "Character",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A21",
+      "display_name": "Outstanding Orator",
+      "description": "Make 50 Speech challenges.",
+      "chapter": "Character",
+      "hint": "There are a finite amount of Speech checks in the game and while there is a big amount of them, it is possible to not have enough to get the achievement.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A22",
+      "display_name": "Desert Survivalist",
+      "description": "Heal 10,000 points of damage with food.",
+      "chapter": "Character",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A23",
+      "display_name": "Old-Tyme Brawler",
+      "description": "Cause 10,000 damage with Unarmed weapons.",
+      "chapter": "Character",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A24",
+      "display_name": "Know When to Fold Them",
+      "description": "Win 3 games of Caravan.",
+      "chapter": "Character",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A25",
+      "display_name": "One Armed Bandit",
+      "description": "Play 10 spins of Slots.",
+      "chapter": "Character",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A26",
+      "display_name": "Little Wheel",
+      "description": "Play 10 spins of Roulette.",
+      "chapter": "Character",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A27",
+      "display_name": "Double Down",
+      "description": "Play 10 hands of Blackjack.",
+      "chapter": "Character",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A28",
+      "display_name": "Caravan Master",
+      "description": "Win 30 games of Caravan.",
+      "chapter": "Character",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A29",
+      "display_name": "The Courier Who Broke the Bank",
+      "description": "Get banned from all the Strip's casinos.",
+      "chapter": "Character",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A30",
+      "display_name": "Hardcore",
+      "description": "Play the game from start to finish in Hardcore Mode.",
+      "chapter": "Win condition",
+      "hint": "",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A31",
+      "display_name": "Ain't That a Kick in the Head",
+      "description": "Complete Ain't That a Kick in the Head.",
+      "chapter": "Story",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A32",
+      "display_name": "They Went That-a-Way",
+      "description": "Complete They Went That-a-Way.",
+      "chapter": "Story",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "A31"
+      ]
+    },
+    {
+      "apiname": "A33",
+      "display_name": "Ring-a-Ding-Ding",
+      "description": "Complete Ring-a-Ding-Ding.",
+      "chapter": "Story",
+      "hint": "Do *NOT* kill benny or the Chairmen at the Tops will get mad and make a sidequest needed for an achievement go poof.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "A32"
+      ]
+    },
+    {
+      "apiname": "A34",
+      "display_name": "The House Always Wins",
+      "description": "Complete The House Always Wins.",
+      "chapter": "Faction: Mr. House",
+      "hint": "You can only choose one faction to commit to, making the achievements from other factions unavailable.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "A33"
+      ]
+    },
+    {
+      "apiname": "A35",
+      "display_name": "For the Republic",
+      "description": "Complete For the Republic.",
+      "chapter": "Faction: NCR",
+      "hint": "You can only choose one faction to commit to, making the achievements from other factions unavailable.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "A33"
+      ]
+    },
+    {
+      "apiname": "A36",
+      "display_name": "Render Unto Caesar",
+      "description": "Complete Render Unto Caesar.",
+      "chapter": "Faction: Caesar's Legion",
+      "hint": "You can only choose one faction to commit to, making the achievements from other factions unavailable.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "A33"
+      ]
+    },
+    {
+      "apiname": "A37",
+      "display_name": "Wild Card",
+      "description": "Complete Wild Card.",
+      "chapter": "Faction: Yes Man",
+      "hint": "You can only choose one faction to commit to, making the achievements from other factions unavailable.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "A33"
+      ]
+    },
+    {
+      "apiname": "A38",
+      "display_name": "All or Nothing",
+      "description": "Complete All or Nothing.",
+      "chapter": "Faction: Mr. House",
+      "hint": "You can only choose one faction to commit to, making the achievements from other factions unavailable.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "A34"
+      ]
+    },
+    {
+      "apiname": "A39",
+      "display_name": "Veni, Vidi, Vici",
+      "description": "Complete Veni, Vidi, Vici.",
+      "chapter": "Faction: Caesar's Legion",
+      "hint": "You can only choose one faction to commit to, making the achievements from other factions unavailable.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "A45",
+        "A36"
+      ]
+    },
+    {
+      "apiname": "A40",
+      "display_name": "Eureka!",
+      "description": "Complete Eureka!",
+      "chapter": "Faction: NCR",
+      "hint": "You can only choose one faction to commit to, making the achievements from other factions unavailable.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "A46",
+        "A35"
+      ]
+    },
+    {
+      "apiname": "A41",
+      "display_name": "No Gods, No Masters",
+      "description": "Complete No Gods, No Masters",
+      "chapter": "Faction: Yes Man",
+      "hint": "You can only choose one faction to commit to, making the achievements from other factions unavailable.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "A37"
+      ]
+    },
+    {
+      "apiname": "A42",
+      "display_name": "Come Fly With Me",
+      "description": "Complete Come Fly With Me.",
+      "chapter": "Side-quest",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A43",
+      "display_name": "Talent Pool",
+      "description": "Complete Talent Pool.",
+      "chapter": "Side-quest",
+      "hint": "If Benny died, Talent Pool will become unavailable.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "A33"
+      ]
+    },
+    {
+      "apiname": "A44",
+      "display_name": "Return to Sender",
+      "description": "Complete Return to Sender.",
+      "chapter": "Side-quest",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A45",
+      "display_name": "Arizona Killer",
+      "description": "Complete Arizona Killer.",
+      "chapter": "Faction: Caesar's Legion",
+      "hint": "You can only choose one faction to commit to, making the achievements from other factions unavailable.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "A36"
+      ]
+    },
+    {
+      "apiname": "A46",
+      "display_name": "You'll Know It When It Happens",
+      "description": "Complete You'll Know It When It Happens.",
+      "chapter": "Faction: NCR",
+      "hint": "You can only choose one faction to commit to, making the achievements from other factions unavailable.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "A35"
+      ]
+    },
+    {
+      "apiname": "A47",
+      "display_name": "G.I. Blues",
+      "description": "Complete G.I. Blues.",
+      "chapter": "Side-quest",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A48",
+      "display_name": "That Lucky Old Sun",
+      "description": "Complete That Lucky Old Sun.",
+      "chapter": "Side-quest",
+      "hint": "If the NCR is hostile you wont be able to do this one.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A49",
+      "display_name": "Volare!",
+      "description": "Complete Volare!",
+      "chapter": "Side-quest",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A50",
+      "display_name": "The Legend of the Star",
+      "description": "Complete The Legend of the Star.",
+      "chapter": "Side-quest",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A51",
+      "display_name": "Assemble Your Crew",
+      "description": "Recruit Dean Domino, Christine and Dog.",
+      "chapter": "Dead Money",
+      "hint": "Story achievement.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A52",
+      "display_name": "Cash Out",
+      "description": "Confront Father Elijah in the Sierra Madre's Vault.",
+      "chapter": "Dead Money",
+      "hint": "Story achievement. You can only choose either this ending or \"Safety Deposit Box\"'s ending.",
+      "is_missable": true,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A53",
+      "display_name": "Having a Ball",
+      "description": "Complete the Sierra Madre Gala Event.",
+      "chapter": "Dead Money",
+      "hint": "Story achievement.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A54",
+      "display_name": "Safety Deposit Box",
+      "description": "Trap Father Elijah in the Sierra Madre's Vault.",
+      "chapter": "Dead Money",
+      "hint": "Story achievement. You can only choose either this ending or \"Cash Out\"'s ending.",
+      "is_missable": true,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A55",
+      "display_name": "Sierra Souvenir Aficionado",
+      "description": "Collect 500 Sierra Madre Chips.",
+      "chapter": "Dead Money",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A56",
+      "display_name": "May my Hand Forget its Skill",
+      "description": "Evacuate Zion.",
+      "chapter": "Honest Hearts",
+      "hint": "Story achievement. To choose this ending tell Daniel that leaving Zion is the best option.",
+      "is_missable": true,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": [
+        "A57"
+      ]
+    },
+    {
+      "apiname": "A57",
+      "display_name": "In a Foreign Land",
+      "description": "Scout the Zion Valley for signs of the White Legs.",
+      "chapter": "Honest Hearts",
+      "hint": "Story achievement before deciding the ending.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A58",
+      "display_name": "O Daughter of Babylon",
+      "description": "Crush the White Legs.",
+      "chapter": "Honest Hearts",
+      "hint": "Story achievement. To choose this ending tell Daniel that fighting the White Legs is the best outcome.",
+      "is_missable": true,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": [
+        "A57"
+      ]
+    },
+    {
+      "apiname": "A59",
+      "display_name": "When We Remembered Zion",
+      "description": "Arrive at Zion.",
+      "chapter": "Honest Hearts",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A60",
+      "display_name": "Restore Our Fortunes",
+      "description": "Resupply Daniel and the Sorrows.",
+      "chapter": "Honest Hearts",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A61",
+      "display_name": "Cardiac Arrest!",
+      "description": "Search your feelings... for your heart.",
+      "chapter": "Old World Blues",
+      "hint": "Story achievement.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A62",
+      "display_name": "Making Friends",
+      "description": "Reactivate all of the Sink's robotic assistants.",
+      "chapter": "Old World Blues",
+      "hint": "Side-quest achievement. Can become missable if you complete Old World Blues violently.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A63",
+      "display_name": "Make up your Mind",
+      "description": "Make up your mind... about your brain.",
+      "chapter": "Old World Blues",
+      "hint": "Story achievement.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A64",
+      "display_name": "Outsmarted",
+      "description": "Complete Old World Blues.",
+      "chapter": "Old World Blues",
+      "hint": "Story achievement. If you decide to end things violently, it will fail all the quests in Old World Blues, even those that weren't started.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A65",
+      "display_name": "Spinal-Tapped",
+      "description": "Recovered X-8 vertebrae-pulse-de-sensitizer frequency!",
+      "chapter": "Old World Blues",
+      "hint": "Story achievement.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A66",
+      "display_name": "ED-Ecated",
+      "description": "Found all of ED-E's upgrades in the Divide.",
+      "chapter": "Lonesome Road",
+      "hint": "Side-quest.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A67",
+      "display_name": "Condemned to Repeat It",
+      "description": "Decided the fate of all the Divide dwellers.",
+      "chapter": "Lonesome Road",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A68",
+      "display_name": "Hometown Hero",
+      "description": "Completed Lonesome Road.",
+      "chapter": "Lonesome Road",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A69",
+      "display_name": "Rocket's Red Glare",
+      "description": "Fully upgraded The Divide's signature weapon.",
+      "chapter": "Lonesome Road",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A70",
+      "display_name": "Warhead Hunter",
+      "description": "Detonated all of the warheads in the Divide.",
+      "chapter": "Lonesome Road",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A71",
+      "display_name": "Curios and Relics",
+      "description": "Caused 10,000 damage with unique Mojave Wasteland weapons.",
+      "chapter": "Character",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A72",
+      "display_name": "Master of the Arsenal",
+      "description": "Caused 10,000 damage with Gun Runners' Arsenal (GRA) Weapons.",
+      "chapter": "Gun Runners' Arsenal",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A73",
+      "display_name": "Up to the Challenge",
+      "description": "Completed any three Gun Runners' Arsenal (GRA) one star (*) Challenges.",
+      "chapter": "Gun Runners' Arsenal",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A74",
+      "display_name": "Combat Veteran",
+      "description": "Completed any three Gun Runners' Arsenal (GRA) two star (**) Challenges.",
+      "chapter": "Gun Runners' Arsenal",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "A75",
+      "display_name": "Pros Only",
+      "description": "Completed any three Gun Runners' Arsenal (GRA) three star (***) Challenges.",
+      "chapter": "Gun Runners' Arsenal",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    }
+  ],
+  "checklists": []
+}
