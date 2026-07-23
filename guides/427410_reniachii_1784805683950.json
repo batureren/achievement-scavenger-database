@@ -1,0 +1,81 @@
+{
+  "id": "1784793154515",
+  "name": "\"Electric Dreams\" Achievement guide.",
+  "author": "Reniachii",
+  "description": "A guide on how to get the mid-game to late-game achievement \"Electric Dreams\" with minimum spoilers.",
+  "indexes": [
+    {
+      "id": "1784793238009",
+      "title": "Make Kylie a Promise",
+      "blocks": [
+        {
+          "id": "1784794527858",
+          "type": "text",
+          "content": "Bring a Diving Suit to where you get the \"Go With The Flow\" achievement (the one that gives you the blue suit). Jump down the hole and sink towards the direction where the interactable body was. Once you reach the crane at the end of the little platform, go to the opposite direction under the platform and follow the linear path. Speak to Kylie and get the recipe for a \"Hyper-Dense Neural Chip\". Craft the item and bring it to Kylie. Insert it where it asks you to and then grab Kylie (Trinket). Feel free to equip them (or not)."
+        },
+        {
+          "id": "1784794552354",
+          "type": "media",
+          "content": "https://www.youtube.com/watch?v=fVaRr9kz0zA"
+        },
+        {
+          "id": "1784794553435",
+          "type": "checklist",
+          "content": "1784793357784"
+        },
+        {
+          "id": "1784796180594",
+          "type": "text",
+          "content": "*Do note that Kylie can later be used in a craft and while this doesn't mess up her quest or the achievement, the XP buff doesn't carry over to that new item."
+        }
+      ]
+    },
+    {
+      "id": "1784794634897",
+      "title": "Fullfill Kylie's Promise",
+      "blocks": [
+        {
+          "id": "1784794658985",
+          "type": "text",
+          "content": "*Do note that Kylie will leave your inventory after this step is done and that there is no way to get them back so if you still have things you want to do with them, do that before proceeding. "
+        },
+        {
+          "id": "1784796977267",
+          "type": "text",
+          "content": "Bring Kylie with you to the Botanical Gardens then enter the Red Portal in front of the Double Helix (DNA molecule) statue/structure/stairs. Once inside, move towards the beginning of the ascent and you'll find a hole in the wall with a little catwalk. Get inside that catwalk and follow the linear path to enter the Green Portal. Inside the Green Portal, go up the stairs and interact with the yellow part next to the console. When Kylie mentions she needs some time, proceed to the ending of the game. You won't get the achievement until after you get to the last portal world where the ending happens."
+        },
+        {
+          "id": "1784796994374",
+          "type": "media",
+          "content": "https://www.youtube.com/watch?v=F1PyM42LtQY"
+        },
+        {
+          "id": "1784796996964",
+          "type": "checklist",
+          "content": "1784793440424"
+        }
+      ]
+    },
+    {
+      "id": "1784794704639",
+      "title": "Enter the Final Portal World",
+      "blocks": [
+        {
+          "id": "1784794708375",
+          "type": "text",
+          "content": "After disabling the shields at the end of Fragments, you'll be able to enter the last portal world of the game where the ending happens. If done correctly, you should get the achievement as soon as you enter the location.\nIf you have already beaten the game, return to this portal to get the achievement. The video shows the place I'm talking about at 1:47."
+        },
+        {
+          "id": "1784794710197",
+          "type": "media",
+          "content": "https://youtu.be/-2eWS2VM9kc?si=5kbgyBsMQW6f6X5b&t=107"
+        },
+        {
+          "id": "1784794711540",
+          "type": "achievement",
+          "content": "ACH_KYLIE"
+        }
+      ]
+    }
+  ]
+}
