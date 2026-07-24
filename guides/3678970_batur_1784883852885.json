@@ -1,0 +1,128 @@
+{
+  "id": "1784709718039",
+  "name": "Standard Playthrough",
+  "indexes": [
+    {
+      "id": "1784638242059",
+      "title": "Index 1",
+      "blocks": [
+        {
+          "id": "1784638245932",
+          "type": "text",
+          "content": "Oh well, this is the guide #1.1"
+        },
+        {
+          "id": "1784638277291",
+          "type": "achievement",
+          "content": "STEAM_ACHIEVEMENT_100001"
+        },
+        {
+          "id": "1784638291859",
+          "type": "checklist",
+          "content": "1784387293321"
+        },
+        {
+          "id": "1784638497884",
+          "type": "text",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "id": "1784640888183",
+      "title": "Index 2",
+      "blocks": [
+        {
+          "id": "1784641927115",
+          "type": "text",
+          "content": "safafawfwa"
+        },
+        {
+          "id": "1784641928851",
+          "type": "text",
+          "content": "wafwafwa"
+        },
+        {
+          "id": "1784641931027",
+          "type": "text",
+          "content": "wafwaf"
+        },
+        {
+          "id": "1784641932891",
+          "type": "text",
+          "content": "fwafwaf"
+        }
+      ]
+    },
+    {
+      "id": "1784641937196",
+      "title": "fsafsafasfasfsa",
+      "blocks": [
+        {
+          "id": "1784642196540",
+          "type": "text",
+          "content": "asfas"
+        },
+        {
+          "id": "1784642198724",
+          "type": "achievement",
+          "content": "STEAM_ACHIEVEMENT_103004"
+        },
+        {
+          "id": "1784642202140",
+          "type": "checklist",
+          "content": "1784638339060"
+        },
+        {
+          "id": "1784642205532",
+          "type": "achievement",
+          "content": "STEAM_ACHIEVEMENT_103005"
+        }
+      ]
+    },
+    {
+      "id": "1784642211052",
+      "title": "AAAAAAAAAAAAAAA",
+      "blocks": [
+        {
+          "id": "1784642212508",
+          "type": "text",
+          "content": "wawawawa"
+        },
+        {
+          "id": "1784642215284",
+          "type": "text",
+          "content": "fasfas"
+        }
+      ]
+    },
+    {
+      "id": "1784642220156",
+      "title": "bbbb",
+      "blocks": [
+        {
+          "id": "1784665382364",
+          "type": "achievement",
+          "content": "STEAM_ACHIEVEMENT_113002"
+        },
+        {
+          "id": "1784665388372",
+          "type": "checklist",
+          "content": "1784387293321"
+        },
+        {
+          "id": "1784665392412",
+          "type": "media",
+          "content": ""
+        },
+        {
+          "id": "1784665393540",
+          "type": "text",
+          "content": "aaaaaaaaaaa"
+        }
+      ]
+    }
+  ],
+  "author": "Batur",
+  "description": "Test"
+}
