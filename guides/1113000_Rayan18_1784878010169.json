@@ -1,0 +1,209 @@
+{
+  "id": "1784878010169",
+  "name": "Only Missable Achievements",
+  "author": "Rayan18",
+  "description": "I will show you how to get all the missable Achievements",
+  "indexes": [
+    {
+      "id": "1784878053457",
+      "title": "Getting Physical",
+      "blocks": [
+        {
+          "id": "1784878054664",
+          "type": "achievement",
+          "content": "281832"
+        },
+        {
+          "id": "1784878063648",
+          "type": "text",
+          "content": "Pretty straightforward one overall: guard every time Shadow Jiraya either guards or powers up, and do a regular attack otherwise. If guarding correctly, the wind attack only does 2-3 damage and the power attack 8-12. Once your HP gets in the teens use a medicine to restore HP. If you’re disciplined you should win with a couple of medicines left"
+        }
+      ]
+    },
+    {
+      "id": "1784878277752",
+      "title": "Who Needs Help, Anyway?",
+      "blocks": [
+        {
+          "id": "1784878279320",
+          "type": "achievement",
+          "content": "281834"
+        },
+        {
+          "id": "1784878294400",
+          "type": "text",
+          "content": "lvl 5 izanagi. easier than the yosuke one. just rakunda, garu, all out attack, she will probably raise wind defense. cleave and bash. guard if she stares at yosuke, repeat. didnt even go under 50% HP"
+        }
+      ]
+    },
+    {
+      "id": "1784878597096",
+      "title": "The Princess' Knight in Shining Armor",
+      "blocks": [
+        {
+          "id": "1784878599463",
+          "type": "achievement",
+          "content": "281837"
+        },
+        {
+          "id": "1784878691847",
+          "type": "achievement",
+          "content": "281838"
+        },
+        {
+          "id": "1784879028807",
+          "type": "text",
+          "content": "Spend a lot of your on healing items before entering the tv. The chance of getting more in the dungeon is pretty low (especially given you can't re-randomize the dungeon in this version), so having some extra medicines will go a long way. Do get the upgraded weapon for Chie though; you'll use physical attacks a lot and the extra damage will help.\n-Try to ideally be level 8-9 before you enter the dungeon (see my [Who needs help, anyway?] cheevo comment). This is tedious, but it will save you some SPs in the lower regions, where you can rush enemies and suffer only minimal damage.\n-Make Yosuke your healer. Once you get to floor 5+ you'll find a few enemies that are weak to elements only Yu can wield at that time, so you need to save his SPs, and Chie can't heal. On the other hand, only a couple of enemies are weak to wind in the upper floors, so once you've defeated the miniboss on floor 5 Yosuke's SPs can basically all be used on healing.\n-Go back to the entrance to save and fuse personas before the major fights. Your personas should be at most one or two level behind your current level, or you're just wasting potential.\n-Remember that escaping a battle that will cost you a lot of SPs is a viable strategy! More shadows will appear and you'll get to fight them on your own terms.\n-The strategy for the miniboss is just to spam magic attacks; he's resistant to physical damage, and if you enter the room at level 11+ and with full health a single attack on his part won't be enough to kill a party member. With a little bit of luck you'll make it out with all characters alive or at most one dead.\n-Follow the strategy on [Don't feed the birds] for an easy defeat of Yukiko's shadow; feel free to heal as well if you don't care about the achievement.\n\nGood luck! \nGuide by Nikilist"
+        }
+      ]
+    },
+    {
+      "id": "1784879064807",
+      "title": "It's Not What You Think, I Swear!",
+      "blocks": [
+        {
+          "id": "1784879066918",
+          "type": "achievement",
+          "content": "281844"
+        },
+        {
+          "id": "1784879095582",
+          "type": "achievement",
+          "content": "281845"
+        },
+        {
+          "id": "1784879105470",
+          "type": "text",
+          "content": "did this with 2 personas:\n\n1-Rakshasa (resist physical innately) w/Auto tarukaja @lvl 26 and Kill Rush\nsince it's Strength Arcana - one of the earliest SLs in the game - your social link should be very helpful, I was level 23 and after fusion it got to 26 by SL bonus alone\n\n2- Andras (nulls Elec) with buffs, media and dekaja\n\nrotate between these 2 personas and make sure to be on Rakshasa when boss power charges, use Kill rush, tank the damage and dekaja the heat riser next turn, if they didn't use heat riser, use media or buff chie or MC\n\nChie does 2 things, Tarukaja and Assault dive\n\nYukiko also does 2 things, media and physical mirrors which she applies on herself, (i had 3 physical mirrors without grinding) and some Agilao when everyone has relatively high HP\n\nHere's the important part: KILL the nice guy first and move on to the main boss, DO NOT EVEN ATTEMPT TO KILL the tough guy, he drains physical and this setup is pure physical damage\n\n**To make this really easy, grind Rakshasa to level 28, he learns power charge which is absolutely broken**\nGuide by kolento\n"
+        }
+      ]
+    },
+    {
+      "id": "1784879265775",
+      "title": "Gone Clubbin &  Boy's Night",
+      "blocks": [
+        {
+          "id": "1784879269230",
+          "type": "achievement",
+          "content": "281855"
+        },
+        {
+          "id": "1784879284102",
+          "type": "achievement",
+          "content": "281856"
+        },
+        {
+          "id": "1784879289646",
+          "type": "text",
+          "content": "Did this with a Lv. 36 Protagonist, Lv. 35 Yosuke, Lv. 35 Chie, and Lv. 35 Yukiko on Normal difficulty.\n\nYosuke and Chie literally both went into the Shadow Rise fight with less than 20 SP each, so it's totally unnecessary to refill their SP meters if they're drained by the time you get to 11F.\n\nThe HP/SP meters refill for the whole party anyways after defeating Shadow Rise, so you start the Shadow Teddie fight in a fully restored slate.\n\nGuide By goobz999\n"
+        }
+      ]
+    },
+    {
+      "id": "1784879397326",
+      "title": "Speedrunner & All I Need Is One",
+      "blocks": [
+        {
+          "id": "1784879398790",
+          "type": "achievement",
+          "content": "281861"
+        },
+        {
+          "id": "1784879404254",
+          "type": "achievement",
+          "content": "281862"
+        },
+        {
+          "id": "1784879411301",
+          "type": "text",
+          "content": "Fuse a black forest that's it then power charge your way through it\n\nGuise by Subhrayan"
+        }
+      ]
+    },
+    {
+      "id": "1784879483630",
+      "title": "Naoto's Laboratory &  No Sleeping on the Job",
+      "blocks": [
+        {
+          "id": "1784879485302",
+          "type": "achievement",
+          "content": "281868"
+        },
+        {
+          "id": "1784879491966",
+          "type": "achievement",
+          "content": "281869"
+        },
+        {
+          "id": "1784879499813",
+          "type": "text",
+          "content": "Guide By goobz999\nPretty easy to not die if your whole party is at least Lv. 55. Me personally, I went into the fight with a Lv. 57 Protagonist, Lv. 56 Yosuke, Lv. 56 Chie, and Lv. 56 Yukiko."
+        }
+      ]
+    },
+    {
+      "id": "1784879564246",
+      "title": "Big Bro the Protector & Big Bro is Best Bro",
+      "blocks": [
+        {
+          "id": "1784879566541",
+          "type": "achievement",
+          "content": "281883"
+        },
+        {
+          "id": "1784879574117",
+          "type": "achievement",
+          "content": "281884"
+        },
+        {
+          "id": "1784879582726",
+          "type": "text",
+          "content": "Guide By kolento\n\nI was level 65 and way under-leveled for this boss and to use hachiman which is a level 70 persona, and I really didn't want to grind so here's how I did it:\n\nGabriel with skills: Mediarama, invigorate 2, power charge, heat wave (it learns it @ level 48 but you can inherit a better physical skill), Evade Ice (optional)\n\n4 Personas that repel 4 elements (absorb and null are also fine, repel just makes it a bit faster)\n\n3-5 magic mirrors (If you don't have magic mirrors or just want to save them, fuse a persona with Makarakarn)\n\na bunch of single user HP items (I used around 6 life stones but I recommend 10+)\n\nFull HP/SP\n\nyour goal is to reach to phase 2 as fast as possible, which is way easier said than done, gabriel drains garu and resists agi, evade/dodge ice helps too but it rarely worked for me I think it triggered only once, spam power charge -> heat wave (or strongest physical skill that your Gabriel has) and when your hp drops to 200 use mediarama, if you get lucky, boss uses garu skills and heals you, if you get really unlucky and boss just spams Zio skills, stall with your life stones to regain some SP from invigorate 2, and repeat the process\n\nwhen boss changes to phase 2, AKA casts quad converge, you're basically home free. use a magic mirror (or cast makarakarn) and next turn switch to a persona that repels/absorbs/nulls the element that boss used last turn and use the same element against it, repeat until end of the fight"
+        }
+      ]
+    },
+    {
+      "id": "1784879684510",
+      "title": "Never Hurts to Have Your own Detective",
+      "blocks": [
+        {
+          "id": "1784879686941",
+          "type": "achievement",
+          "content": "281889"
+        }
+      ]
+    },
+    {
+      "id": "1784879720494",
+      "title": "The One vs The One in Blue",
+      "blocks": [
+        {
+          "id": "1784879722221",
+          "type": "achievement",
+          "content": "282601"
+        },
+        {
+          "id": "1784879787701",
+          "type": "text",
+          "content": "Guide By scl1mb\nhttps://youtu.be/kYfmy96WzuM\n\nI used this video as the basis for winning strategy (I don't know why I decided to do it on expert, lol).\n\nLimit: 50 turns, otherwise you lose.\n\nCharacter: 99 lvl, Blade of Totsuka (from Reaper), Godly Robe (from Reaper), Omega Drive (from golden chest, but I'll be honest, even with this, crits worked very rarely)\nHeal: Bead + Soma.\n\nPersonas:\nYoshitsune - (99 lvl need) victory persona. Hassou Tobi + Power Charge + Heat Riser (all three default). You need to make it with Null Wind, Arms Master and Apt Pupil (Firm Stance optional).\nTrumpeter - Debilitate (default)\nZaou-Gongen - with Phys Repel. Power Charge (default).\nNorn - Debilitate (default) + Absorb Elec (from Lucifer), since this is his weak point and Dodge Elec will not help in any way.\nSui-Ki - Power Charge (default) + Ice Drain (default).\n(P4 Fusion Calculator wii help you)\n\nAnd it is desirable to have one persona with a good magic attack, at your discretion, the main thing is to watch when she has a drain with a certain attack, because in the second phase she will start doing Hassou Tobi and she will have a drain for physical attacks, and she cannot be treated under any circumstances.\n\nAnd most importantly, during the boss fight there should be at least 2 crits in one battle, if there is none or you miss once - you can safely restart the battle).\n\nWatch the video and see the sequence of her attacks and what personas to use. I collected the main ones that I used in the text. But it may take many attempts to execute, here I will be honest. Good luck :)"
+        }
+      ]
+    },
+    {
+      "id": "1784879819894",
+      "title": "The Real Persona was the Friends we Made Along the Way",
+      "blocks": [
+        {
+          "id": "1784879824581",
+          "type": "achievement",
+          "content": "281923"
+        },
+        {
+          "id": "1784879839765",
+          "type": "text",
+          "content": "If anyone feels overwhelmed by this achievement, here's a guide to max all social links in one New Game playthrough: https://gamefaqs.gamespot.com/ps2/945498-shin-megami-tensei-persona-4/faqs/55038"
+        }
+      ]
+    }
+  ]
+}
