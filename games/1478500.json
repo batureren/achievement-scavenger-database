@@ -1,0 +1,143 @@
+{
+  "chapters": [
+    "Progression related achievement",
+    "Character progression achievement",
+    "Sidetrack"
+  ],
+  "links": [],
+  "achievements": [
+    {
+      "apiname": "Drawbridge",
+      "display_name": "Big Walk",
+      "description": "Cross the drawbridge",
+      "chapter": "Progression related achievement",
+      "hint": "Towards the spawn's beach there's a big red bridge. To lower it you must finish the \"gameplay loop tease/tutorial\" by completing all the starting puzzles, putting the oddly shaped items into their respective slots (physical capsules) and finally getting and making the key by putting it on the different keyholes then onto the slot for the key.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Map",
+      "display_name": "Big View",
+      "description": "Visit the map",
+      "chapter": "Progression related achievement",
+      "hint": "After crossing the bridge, if you keep going forwards while heading towards where the spawn is, you'll be able to open a shortcut . In this shortcute there's many places to go but one of them has a bunch of red stairs going up. To open the door at the very top of the stairs you'll need the key from the red tower.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Chairlift",
+      "display_name": "Big Sit",
+      "description": "Ride the chairlift",
+      "chapter": "Progression related achievement",
+      "hint": "The chairlift is obtained by completing the Green Tower then using the chairlift. Do note that if you ride the lift by getting picked up by a player then you won't get it until you interact with any of the chairs.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Train",
+      "display_name": "Big Ride",
+      "description": "Ride the train",
+      "chapter": "Progression related achievement",
+      "hint": "The train is unlocked by finishing the Blue Tower. Do note that if you ride the train by getting picked up by a player then you won't get it until you step on the train.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Tunnel",
+      "display_name": "Big Tunnel",
+      "description": "Enter a big tunnel",
+      "chapter": "Progression related achievement",
+      "hint": "The tunnels are unlocked by completing the Yellow Tower. ",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Wall",
+      "display_name": "Big Wall",
+      "description": "Go beyond the wall",
+      "chapter": "Progression related achievement",
+      "hint": "After finishing all colored towers, head to the black obelisk and fulfill the requirements to get the final key used to open the door that leads to the big ball past the big wall.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Ending1",
+      "display_name": "Big Goodbye",
+      "chapter": "Progression related achievement",
+      "hint": "Ending achievement. Head to the big ball past the big wall, complete the puzzles and come out from the other side. You won't get the achievement until you head through the white door and exit the game.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Ending2",
+      "display_name": "Big Game",
+      "chapter": "Sidetrack",
+      "hint": "Post-game/post-ending achievement (after finishing the game, additional puzzles will be unlocked). After completing all remaining puzzles (new and old) you will have enough key items to obtain the final key. This key is located at the spawn's northern shortcut on a green mostly underground building close to the train station. ",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Ending1"
+      ]
+    },
+    {
+      "apiname": "Peak",
+      "display_name": "Big Climb",
+      "description": "Reach the highest point",
+      "chapter": "Sidetrack",
+      "hint": "West of the blue tower (or in front of it, if you don't have the map) there's a big mountain where the Chairlifts go through (thus also a landing spot from the chairlifts); the tallest mountain they go through. At the very top there's a blinking light and an orange metal structure which will give you the achievement once you reach it.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Shiny",
+      "display_name": "Big Makeover",
+      "description": "Get shiny",
+      "chapter": "Sidetrack",
+      "hint": "After finishing the Yellow Tower and unlocking the tunnels, head to the Blue Tunnel in front of the Blue Tower and head straight and at the fork take the path with the Green Tower marker. As soon as you see the blue tower marker, drop down to the right and head to the unmarked path to the right of the blue tower sign (sanity check: if you see it going down a blue tunnel towards a green spot with two red tunnels, that's the spot). At the fork with the red tunnels, choose left and go down into the dark green section. Ignore the opening and keep heading straight, seeing a bunch of different colors, then go down a set of red stairs in the area with purple walls. At the very bottom of the stairs, there's only one path to go. Have someone use the 3 shiny colors at the very bottom of the palette on you and voilá! ",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "https://www.youtube.com/watch?v=8Lxp8RYmsJ0",
+      "requires": []
+    },
+    {
+      "apiname": "Backpack",
+      "display_name": "Big Pack",
+      "description": "Wear a backpack",
+      "chapter": "Character progression achievement",
+      "hint": "There are multiple backpack locations, always in the same blue circular looking structure but the earliest one you can find will probably be the one after the red drawbridge, north of the Yellow Maze puzzle, west of the Green buttons puzzle. Do remember someone else has to place the backpack on you to get the achievement.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Holster",
+      "display_name": "Big Help",
+      "description": "Wear something on your hip",
+      "chapter": "Character progression achievement",
+      "hint": "There are multiple hip pouch locations, always in the same blue circular looking structure but the earliest one you can find will probably be the one between the (south of) blue and (north of) green tower in the rocky area, sandwiched by the chairlift and the train tracks. ",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    }
+  ],
+  "checklists": []
+}
