@@ -1,0 +1,267 @@
+{
+  "chapters": [
+    "Story",
+    "#0 Lunatic",
+    "#1 Decoyman",
+    "*# Placebo",
+    "#2 Spectrum",
+    "#3 Parade",
+    "#5 Lifecut",
+    "#25 Whiteout",
+    "#! danwa"
+  ],
+  "links": [],
+  "achievements": [
+    {
+      "apiname": "ACH_TRANSMITTER_0_END",
+      "display_name": "Lunatic",
+      "chapter": "Story",
+      "hint": "Story achievement. Finish case #0 Lunatic.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_TRANSMITTER_1_END",
+      "display_name": "Met Kamui",
+      "chapter": "Story",
+      "hint": "Story achievement. Finish case #1 Decoyman.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_TRANSMITTER_2_END",
+      "display_name": "Many Shades",
+      "chapter": "Story",
+      "hint": "Story achievement. Finish case #2 Spectrum.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_TRANSMITTER_3_END",
+      "display_name": "Grand Marshal",
+      "chapter": "Story",
+      "hint": "Story achievement. Finish case #3 Parade.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_TRANSMITTER_4_END",
+      "display_name": "Behind the Net",
+      "chapter": "Story",
+      "hint": "Story achievement. Finish case #4 Kamuidrome",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_TRANSMITTER_5_END",
+      "display_name": "A New Birth?",
+      "chapter": "Story",
+      "hint": "Story achievement. Finish case #5 Lifecut",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_PLACEBO_1_END",
+      "display_name": "Dream",
+      "chapter": "Story",
+      "hint": "Story achievement. Finish investigation *1 YUME",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_PLACEBO_2_END",
+      "display_name": "Flower",
+      "chapter": "Story",
+      "hint": "Story achievement. Finish investigation *2 HANA",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_PLACEBO_3_END",
+      "display_name": "Moon",
+      "chapter": "Story",
+      "hint": "Story achievement. Finish investigation *3 TSUKI",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_PLACEBO_4_END",
+      "display_name": "Love",
+      "chapter": "Story",
+      "hint": "Story achievement. Finish investigation *4 AI",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_PLACEBO_5_END",
+      "display_name": "Light",
+      "chapter": "Story",
+      "hint": "Story achievement. Finish investigation *5 HIKARI",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_TELEPHONE_1MINUTE",
+      "display_name": "It must be important...",
+      "chapter": "#1 Decoyman",
+      "hint": "in #1 Decoyman, after getting to your apartment for the first time (you might want to save here), continue through the main path until you hear a phone ringing. Don't answer immediately, let it ring for a few minutes and then pick it up. You'll get the achievement after picking up the phone.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_COMIC_BEAM",
+      "display_name": "Avid Reader",
+      "chapter": "#0 Lunatic",
+      "hint": "During #0 Lunatic's Cauliflower section, you can find two magazines. The first one is in 1F, in front of the elevator, in the ground. You can get the second one once you reach the roof. Head to the left, go down the ladder and grab the magazine in the floor.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_HIT_AND_BLOW",
+      "display_name": "All Green",
+      "chapter": "#1 Decoyman",
+      "hint": "In #1 Decoyman's Babylon, you'll find a puzzle that you need to complete in less than 5 attempts. Save before attempting. Feel free to use Polyomino.jp's \"hit and blow\" solver if you're anxious/tired of this achievement.\nhttps://polyomino.jp/hit-and-blow/solver",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_FOREST_PERFECT",
+      "display_name": "Follows Orders",
+      "chapter": "#1 Decoyman",
+      "hint": "Near the beginning of #1 Decoyman, you'll be in the forest with your squad. Follow the orders exactly as the higher up says it, otherwise you'll miss the achievement.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_TYPHOON_COMPLETE",
+      "display_name": "My other job is property manager.",
+      "chapter": "#2 Spectrum",
+      "hint": "In #02 Spectrum, interact with all of the doors and triangles of the Typhoon. You'll see the parking lot and other areas as you go through the story but do know that the third time you get to this location will be the last one.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_QUIZ_COMPLETE",
+      "display_name": "Your score is in your heart.",
+      "chapter": "#2 Spectrum",
+      "hint": "Near the end of the case #2 Spectrum, you'll be in some sort of \"break room\" with Morikawa. He will give you a timed 100 questions quiz. You need to finish it without making a mistake so be sure to save before trying! Head to the guides section for a list of all the 100 answers of the quiz.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "https://www.youtube.com/watch?v=ro93Jz03nfU",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_TRANSMITTER_6_END",
+      "display_name": "Resolution?",
+      "chapter": "Story",
+      "hint": "Story achievement. Finish case #! Danwa",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_TRANSMITTER_7_END",
+      "display_name": "White Out prologue",
+      "chapter": "Story",
+      "hint": "Story achievement. Finish case #25 Whiteout",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_PLACEBO_6_END",
+      "display_name": "Darkness",
+      "chapter": "Story",
+      "hint": "Story achievement. Finish investigation *6 YAMI",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_MIKUMO_DOCUMENT",
+      "display_name": "Investigate Orderly",
+      "chapter": "#3 Parade",
+      "hint": "At the end of case #3 Parade, you'll be in Warehouse 24, in a room full of file cabinets (You might want to save here). Read the documents in order and you'll get the achievement. ",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "https://www.youtube.com/watch?v=IJuP5bANYv8",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_KURAYAMI_DANCE",
+      "display_name": "Dancer in the Dark",
+      "chapter": "#5 Lifecut",
+      "hint": "Similar to the achievement \"Avid Reader\", during case #5 Lifecut, you can find two volumes of Kurayami Dance. The first one is in the Kinjo Building's 4F, in front of the Flower Sun & Bar, in the ground. The second one will be in the Shelter Plaza, at the entrance, left side of the fountain, in the floor.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_25_WORD",
+      "display_name": "A 25th Ward?",
+      "chapter": "#25 Whiteout",
+      "hint": "During #25 Whiteout, when you're able to move in a room of just couches, interact with the poster on a green couch.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_AKAMIMI",
+      "display_name": "Turtle Lover",
+      "chapter": "*# Placebo",
+      "hint": "During any Placebo chapter interact with Red, the turtle, 50 times.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_ORIGINAL_SETTINGS",
+      "display_name": "Living in the Past",
+      "chapter": "#! danwa",
+      "hint": "Go to the settings then leave everything that says \"remastered\" as \"Original\" then start a chapter and finish it to get the achievement. \"#! Danwa\" works the best since it's very short.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    }
+  ],
+  "checklists": []
+}
