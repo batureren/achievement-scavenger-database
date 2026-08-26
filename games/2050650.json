@@ -1,4 +1,5 @@
 {
+  "gameName": "Resident Evil 4",
   "chapters": [
     "Chapter 1",
     "Chapter 2",
@@ -564,5 +565,6 @@
         "43"
       ]
     }
-  ]
+  ],
+  "checklists": []
 }
