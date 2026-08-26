@@ -1,0 +1,656 @@
+{
+  "gameName": "Crash™ Team Racing Nitro-Fueled",
+  "chapters": [
+    "Adventure Mode - N. Sanity Beach",
+    "Adventure Mode - The Lost Ruins",
+    "Adventure Mode - Glacier Park",
+    "Adventure Mode - Citadel City",
+    "Adventure Mode - 100% Completion",
+    "Adventure Mode - Hard",
+    "Adventure Collectibles",
+    "Time Trial",
+    "Shortcuts",
+    "Driving & Boosting",
+    "Power-Ups",
+    "Battle Mode",
+    "Crystal Challenges",
+    "Track Completion",
+    "Customization & Characters",
+    "Miscellaneous"
+  ],
+  "links": [
+    "https://www.powerpyx.com/crash-team-racing-nitro-fueled-trophy-guide-roadmap/",
+    "https://www.powerpyx.com/crash-team-racing-nitro-fueled-time-trials-guide-tropy-oxide/",
+    "https://www.powerpyx.com/crash-team-racing-nitro-fueled-all-shortcuts/",
+    "https://www.playstationtrophies.org/game/crash-team-racing-nitro-fueled/guide/"
+  ],
+  "achievements": [
+    {
+      "apiname": "0",
+      "display_name": "Woah!",
+      "description": "Earn all the other trophies.",
+      "chapter": "Adventure Mode - 100% Completion",
+      "hint": "Earn every other trophy. There are no online trophies and no missables.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47"
+      ]
+    },
+    {
+      "apiname": "1",
+      "display_name": "Off to a Good Start",
+      "description": "Win your first race in the Adventure Mode.",
+      "chapter": "Adventure Mode - N. Sanity Beach",
+      "hint": "Win any race in Adventure Mode. This naturally starts the boss progression.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "2",
+      "display_name": "Crazier than the Ripper",
+      "description": "Win against Ripper Roo in the Adventure Mode.",
+      "chapter": "Adventure Mode - N. Sanity Beach",
+      "hint": "Defeat Ripper Roo after winning the four N. Sanity Beach races required to challenge him.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "1"
+      ]
+    },
+    {
+      "apiname": "3",
+      "display_name": "Me Fast, You Slow",
+      "description": "Win against Papu Papu in the Adventure Mode.",
+      "chapter": "Adventure Mode - The Lost Ruins",
+      "hint": "Defeat Papu Papu after progressing through The Lost Ruins.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "2"
+      ]
+    },
+    {
+      "apiname": "4",
+      "display_name": "Komodone",
+      "description": "Win against Komodo Joe in the Adventure Mode.",
+      "chapter": "Adventure Mode - Glacier Park",
+      "hint": "Defeat Komodo Joe after progressing through Glacier Park.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "3"
+      ]
+    },
+    {
+      "apiname": "5",
+      "display_name": "Why don't you get a job?",
+      "description": "Win against PinStripe in the Adventure Mode.",
+      "chapter": "Adventure Mode - Citadel City",
+      "hint": "Defeat PinStripe after progressing through Citadel City.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "4"
+      ]
+    },
+    {
+      "apiname": "6",
+      "display_name": "Interstellar Challenge",
+      "description": "Win against Nitros Oxide in the Adventure Mode.",
+      "chapter": "Adventure Mode - Citadel City",
+      "hint": "Defeat all four previous Adventure Mode bosses to unlock the first race against Nitros Oxide.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    {
+      "apiname": "7",
+      "display_name": "Galaxy's Fastest",
+      "description": "Defeat Nitros Oxide in the Adventure Mode once and for all.",
+      "chapter": "Adventure Mode - 100% Completion",
+      "hint": "Reach 100% Adventure Mode completion, then defeat Nitros Oxide again. This requires the Adventure races plus Relics, CTR Tokens and Gem Cups.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "6",
+        "12",
+        "13",
+        "14"
+      ]
+    },
+    {
+      "apiname": "8",
+      "display_name": "Arena Explorer",
+      "description": "Complete a Crystal Challenge in the Adventure Mode.",
+      "chapter": "Crystal Challenges",
+      "hint": "Complete any Adventure Mode Crystal Challenge. More Crystal Challenges are available in Local Arcade.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "9",
+      "display_name": "Spare Change",
+      "description": "Win a CTR challenge in the Adventure Mode.",
+      "chapter": "Adventure Collectibles",
+      "hint": "After winning a track, replay it as a CTR Challenge and collect C, T and R while still finishing first.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "2"
+      ]
+    },
+    {
+      "apiname": "10",
+      "display_name": "Sprinter",
+      "description": "Win a Relic Race in the Adventure Mode.",
+      "chapter": "Adventure Collectibles",
+      "hint": "After unlocking Relic Races, beat the target time on any track. Crates stop the clock for 1, 2 or 3 seconds.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "2"
+      ]
+    },
+    {
+      "apiname": "11",
+      "display_name": "Booyah, Grandma!",
+      "description": "Win a Cup Race in the Adventure Mode.",
+      "chapter": "Adventure Collectibles",
+      "hint": "Win any Gem Cup after unlocking it through the appropriate complete set of CTR Tokens.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "9",
+        "14"
+      ]
+    },
+    {
+      "apiname": "12",
+      "display_name": "Relic Collector",
+      "description": "Earn all the Relics in the Adventure Mode.",
+      "chapter": "Adventure Collectibles",
+      "hint": "Earn at least a Sapphire Relic on every required Adventure Mode Relic Race; Gold and Platinum Relics are not required.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "10"
+      ]
+    },
+    {
+      "apiname": "13",
+      "display_name": "Gem Collector",
+      "description": "Earn all the Gems in the Adventure Mode.",
+      "chapter": "Adventure Collectibles",
+      "hint": "Collect all CTR Tokens, grouped by color, to unlock every Gem Cup and win each Cup.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "14"
+      ]
+    },
+    {
+      "apiname": "14",
+      "display_name": "Token Collector",
+      "description": "Earn all the CTR Tokens in the Adventure Mode.",
+      "chapter": "Adventure Collectibles",
+      "hint": "Complete the CTR Challenges across the Adventure tracks by collecting C, T and R and finishing first.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "2"
+      ]
+    },
+    {
+      "apiname": "15",
+      "display_name": "Photo Finish",
+      "description": "Win a race with less than 0.3 seconds between you and the second place.",
+      "chapter": "Miscellaneous",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "16",
+      "display_name": "BOOM!",
+      "description": "Hit two opponents with a single Bowling Bomb.",
+      "chapter": "Power-Ups",
+      "hint": "A Bowling Bomb must hit two opponents with one explosion. Battle Mode or local multiplayer can make this easier.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "17",
+      "display_name": "Super Boost!",
+      "description": "Do a Super Boost.",
+      "chapter": "Driving & Boosting",
+      "hint": "Perform a drift boost immediately after starting a drift when the boost meter is in the optimal zone.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "18",
+      "display_name": "Expert Dodger",
+      "description": "Win a boss challenge without getting hit by any of the boss' Power-Ups.",
+      "chapter": "Adventure Mode - N. Sanity Beach",
+      "hint": "Any Adventure boss challenge works. Avoid every Power-Up fired or placed by the boss.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "2"
+      ]
+    },
+    {
+      "apiname": "19",
+      "display_name": "Drifter",
+      "description": "Drift 15 Times in a row during a race.",
+      "chapter": "Driving & Boosting",
+      "hint": "Chain 15 drifts consecutively in one race. A wide, safe track makes this easier.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "20",
+      "display_name": "Master Drifter",
+      "description": "Successfully use all three Turbo Boost charges 5 times in a row during a race.",
+      "chapter": "Driving & Boosting",
+      "hint": "Build and release all three drift-boost charges five times consecutively without breaking the sequence.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "21",
+      "display_name": "Burning Rubber!",
+      "description": "Drift Boost a total of 500 times.",
+      "chapter": "Driving & Boosting",
+      "hint": "This is cumulative. Every successful Drift Boost counts toward the total of 500.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "22",
+      "display_name": "Yeeee HAW!",
+      "description": "Complete the Adventure Mode on the Hard difficulty.",
+      "chapter": "Adventure Mode - Hard",
+      "hint": "Start a Nitro-Fueled Adventure on Hard. Only the 16 main Adventure races and the first Nitros Oxide victory are required; collectibles can be skipped.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "6"
+      ]
+    },
+    {
+      "apiname": "23",
+      "display_name": "Hyper Speed",
+      "description": "Finish first when you were last on the final lap.",
+      "chapter": "Miscellaneous",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "24",
+      "display_name": "Rear-viewed",
+      "description": "Block an incoming missile with all of the following Power-Ups: Beaker, Crate, Bowling Bomb.",
+      "chapter": "Power-Ups",
+      "hint": "Block incoming missiles by throwing a Beaker, Crate and Bowling Bomb behind you on separate successful blocks.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "25",
+      "display_name": "The New Time-Master",
+      "description": "Beat all of Nefarious Tropy's times in Time Trial Mode.",
+      "chapter": "Time Trial",
+      "hint": "Beat N. Tropy's ghost on every required CTR and CNK Time Trial. You must first set a qualifying time to unlock each ghost.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "26",
+      "display_name": "Gasmoxian Slug",
+      "description": "Beat all of Nitros Oxide's times in Time Trial Mode.",
+      "chapter": "Time Trial",
+      "hint": "N. Oxide's ghost only becomes available after beating N. Tropy on that track. Beat Oxide on all required CTR and CNK trials.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "25"
+      ]
+    },
+    {
+      "apiname": "27",
+      "display_name": "Natural",
+      "description": "Win a race without using any Power-Ups.",
+      "chapter": "Miscellaneous",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "28",
+      "display_name": "Nitrostalgia",
+      "description": "Finish first on all tracks. (CTR & CNK)",
+      "chapter": "Track Completion",
+      "hint": "Finish first on every CTR and CNK track, including the full track roster counted by the game.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "29",
+      "display_name": "Can't Hide From Me",
+      "description": "Successfully land all three missiles from a Triple Missile Power-Up.",
+      "chapter": "Power-Ups",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "30",
+      "display_name": "Weapon Technician",
+      "description": "Use every Power-Up once. (Race & Battle Arena)",
+      "chapter": "Power-Ups",
+      "hint": "Use every standard Power-Up at least once across Race and Battle Arena modes.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "31",
+      "display_name": "Dungeon Vaulter",
+      "description": "Use the shortcut in Cortex Castle.",
+      "chapter": "Shortcuts",
+      "hint": "Use the Cortex Castle shortcut at least once.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "32",
+      "display_name": "Arctic Hurdler",
+      "description": "Use the shortcut in Polar Pass.",
+      "chapter": "Shortcuts",
+      "hint": "Use the Polar Pass shortcut at least once.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "33",
+      "display_name": "Winter Time Off-Roading",
+      "description": "Use all of Blizzard Bluff's shortcuts in the same race.",
+      "chapter": "Shortcuts",
+      "hint": "Take every Blizzard Bluff shortcut during the same race.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "34",
+      "display_name": "Pyramid Parkour",
+      "description": "Use all of Papu's Pyramid's shortcuts in the same race.",
+      "chapter": "Shortcuts",
+      "hint": "Take every Papu's Pyramid shortcut during the same race.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "35",
+      "display_name": "Puddle Hopper",
+      "description": "Use the shortcut in Crash Cove.",
+      "chapter": "Shortcuts",
+      "hint": "Use the Crash Cove shortcut.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "36",
+      "display_name": "Half-Pipe Karting",
+      "description": "Use the shortcut in Sewer Speedway.",
+      "chapter": "Shortcuts",
+      "hint": "Use the Sewer Speedway shortcut.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "37",
+      "display_name": "Let me in!",
+      "description": "Use the shortcut in Tiger Temple.",
+      "chapter": "Shortcuts",
+      "hint": "Use the Tiger Temple shortcut.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "38",
+      "display_name": "Minekarting",
+      "description": "Use the shortcut in Dragon Mines without being crushed.",
+      "chapter": "Shortcuts",
+      "hint": "Take the Dragon Mines shortcut without being crushed.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "39",
+      "display_name": "I know the way!",
+      "description": "Earn all the shortcut trophies.",
+      "chapter": "Shortcuts",
+      "hint": "Earn all eight shortcut-related trophies: Cortex Castle, Polar Pass, Blizzard Bluff, Papu's Pyramid, Crash Cove, Sewer Speedway, Tiger Temple and Dragon Mines.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38"
+      ]
+    },
+    {
+      "apiname": "40",
+      "display_name": "Juiced Up!",
+      "description": "Use all Juiced Up Power-Ups once. (Race & Battle Arena)",
+      "chapter": "Power-Ups",
+      "hint": "Collect 10 Wumpa Fruit to juice a Power-Up, then use every Juiced Up Power-Up at least once across Race or Battle Arena.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "30"
+      ]
+    },
+    {
+      "apiname": "41",
+      "display_name": "Unstoppable",
+      "description": "Sustain your boost for a whole lap.",
+      "chapter": "Driving & Boosting",
+      "hint": "Maintain a continuous boost for an entire lap. Tracks with long drift chains and Sacred Fire make this easier.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "42",
+      "display_name": "The Dominator!",
+      "description": "Win a match in every type of Battle Mode.",
+      "chapter": "Battle Mode",
+      "hint": "Win at least one match in each Battle Mode type.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "43",
+      "display_name": "Get off me!",
+      "description": "Free yourself from a TNT crate.",
+      "chapter": "Power-Ups",
+      "hint": "Shake off a TNT crate before it explodes by repeatedly hopping.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "44",
+      "display_name": "Alchemist",
+      "description": "Directly hit an opponent with a thrown Beaker Power-Up.",
+      "chapter": "Power-Ups",
+      "hint": "Throw a Beaker directly into an opponent rather than relying on them driving into it.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "45",
+      "display_name": "That's How I Roll",
+      "description": "Customize your ride.",
+      "chapter": "Customization & Characters",
+      "hint": "Change any kart customization option such as body, paint job, wheels, decal or character setup.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "46",
+      "display_name": "Is everyone here?",
+      "description": "Unlock all characters from the original roster.",
+      "chapter": "Customization & Characters",
+      "hint": "Unlock every character from the original CTR roster through Adventure Mode progression and the game's character unlock conditions.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "47",
+      "display_name": "Oh, Shiny!",
+      "description": "Complete all Crystal Challenges. (CTR & CNK)",
+      "chapter": "Crystal Challenges",
+      "hint": "Complete all Crystal Challenges from both CTR and CNK content; Adventure Mode challenges count toward the total.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "8"
+      ]
+    }
+  ],
+  "checklists": []
+}
