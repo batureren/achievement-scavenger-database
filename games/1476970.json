@@ -31,23 +31,23 @@
   ],
   "links": [
     {
-      "name": "IdleOn Official Wiki",
+      "title": "IdleOn Official Wiki",
       "url": "https://idleon.wiki/wiki/Main_Page"
     },
     {
-      "name": "IdleOn Efficiency (Account Tracker)",
+      "title": "IdleOn Efficiency (Account Tracker)",
       "url": "https://www.idleonefficiency.com/"
     },
     {
-      "name": "IdleOn Toolbox (Account Tracker)",
+      "title": "IdleOn Toolbox (Account Tracker)",
       "url": "https://idleontoolbox.com/"
     },
     {
-      "name": "IdleOn Insight (Database)",
+      "title": "IdleOn Insight (Database)",
       "url": "https://idleoninsight.com/"
     },
     {
-      "name": "Steam Community Guides",
+      "title": "Steam Community Guides",
       "url": "https://steamcommunity.com/app/1476970/guides/"
     }
   ],
