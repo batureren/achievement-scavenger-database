@@ -1,0 +1,3237 @@
+{
+  "chapters": [
+    "General",
+    "World 1",
+    "World 2",
+    "World 3",
+    "World 4",
+    "World 5",
+    "World 6",
+    "Bosses",
+    "Minibosses",
+    "Minigames",
+    "Quests",
+    "Guilds",
+    "Dungeons",
+    "Classes",
+    "Deathnote",
+    "Alchemy",
+    "Construction",
+    "Worship",
+    "Breeding",
+    "Cooking",
+    "Lab",
+    "Sailing",
+    "Divinity",
+    "Gaming",
+    "Farming",
+    "Sneaking",
+    "Summoning",
+    "Beanstalk"
+  ],
+  "links": [
+    {
+      "name": "IdleOn Official Wiki",
+      "url": "https://idleon.wiki/wiki/Main_Page"
+    },
+    {
+      "name": "IdleOn Efficiency (Account Tracker)",
+      "url": "https://www.idleonefficiency.com/"
+    },
+    {
+      "name": "IdleOn Toolbox (Account Tracker)",
+      "url": "https://idleontoolbox.com/"
+    },
+    {
+      "name": "IdleOn Insight (Database)",
+      "url": "https://idleoninsight.com/"
+    },
+    {
+      "name": "Steam Community Guides",
+      "url": "https://steamcommunity.com/app/1476970/guides/"
+    }
+  ],
+  "achievements": [
+    {
+      "apiname": "Achieve0",
+      "display_name": "The Sculpture Within",
+      "description": "Buy the Sculpting Tools so you can craft the town table",
+      "chapter": "World 1",
+      "hint": "Purchase the Sculpting Tools from the World 1 Town shop and use it on the town task board.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Achieve1",
+      "display_name": "Down by the Desert",
+      "description": "Reach the 2nd world, where there's lots of sand... I hate sand...",
+      "chapter": "World 2",
+      "hint": "Defeat Amarok in World 1 and talk to the Ghost with the Desert Topaz to access World 2.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Achieve2",
+      "display_name": "Snowy Wonderland",
+      "description": "Reach world 3, the coolest world in the game!",
+      "chapter": "World 3",
+      "hint": "Defeat Efaunt in World 2 and go through the frozen portal to access World 3.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Achieve1"
+      ]
+    },
+    {
+      "apiname": "Achieve3",
+      "display_name": "Rookie Player",
+      "description": "You've done better than people who ditch after a few hours!",
+      "chapter": "General",
+      "hint": "Level up your character by fighting monsters or gathering resources.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Achieve4",
+      "display_name": "Average Player",
+      "description": "You're easily in the top 50% of players now!",
+      "chapter": "General",
+      "hint": "Continue leveling up your character.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Achieve3"
+      ]
+    },
+    {
+      "apiname": "Achieve5",
+      "display_name": "Elite Player",
+      "description": "You've done better than most of my IRL friends who totally exist and aren't made up!",
+      "chapter": "General",
+      "hint": "Reach a higher character level milestone.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Achieve4"
+      ]
+    },
+    {
+      "apiname": "Achieve6",
+      "display_name": "Veteran Gamer",
+      "description": "You're easily in the top 5% now, that's something to be proud of maybe kind of! ",
+      "chapter": "General",
+      "hint": "Reach a very high character level milestone.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Achieve5"
+      ]
+    },
+    {
+      "apiname": "Achieve7",
+      "display_name": "Legendary Gamer",
+      "description": "Your level is so massive it needs three digits! Just 4 more and you'll have a phone number!",
+      "chapter": "General",
+      "hint": "Reach level 100 on a single character.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Achieve6"
+      ]
+    },
+    {
+      "apiname": "Achieve9",
+      "display_name": "Small Savings",
+      "description": "10,000 copper coins worth, that's enough to buy 1400 nomwiches!",
+      "chapter": "General",
+      "hint": "Hold 1 Silver Coin in your inventory.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Achieve10",
+      "display_name": "Retirement Fund",
+      "description": "1,000,000 copper coins worth, that's enough to buy almost 91,000 rolls of Cue Tape!",
+      "chapter": "General",
+      "hint": "Hold 1 Gold Coin in your inventory.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Achieve9"
+      ]
+    },
+    {
+      "apiname": "Achieve11",
+      "display_name": "Large Fortune",
+      "description": "100,000,000 copper coins worth, that's enough to buy 3.8 million hot dogs!",
+      "chapter": "General",
+      "hint": "Hold 1 Platinum Coin in your inventory.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Achieve10"
+      ]
+    },
+    {
+      "apiname": "Achieve12",
+      "display_name": "Guild Member",
+      "description": "Contribute 500 GP to your guild, proving you aren't that kid in the school project who lets others do everything!",
+      "chapter": "Guilds",
+      "hint": "Join a Guild and complete daily/weekly tasks to earn and automatically contribute 500 Guild Points.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Achieve13",
+      "display_name": "Guild Higher-Up",
+      "description": "Contribute 3000 GP to your guild, putting yourself above fellow members who only have the 500 GP achievement!",
+      "chapter": "Guilds",
+      "hint": "Contribute a total of 3,000 GP to your current guild.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Achieve12"
+      ]
+    },
+    {
+      "apiname": "Achieve50",
+      "display_name": "Guild Top Dawg",
+      "description": "Contribute 20000 GP to your guild, which means your probably the best bow-wow in your guild!",
+      "chapter": "Guilds",
+      "hint": "Contribute a total of 20,000 GP to your current guild.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Achieve13"
+      ]
+    },
+    {
+      "apiname": "Achieve14",
+      "display_name": "Another Me!",
+      "description": "Create your 2nd character, who will probably never be as good as your 1st character.",
+      "chapter": "General",
+      "hint": "Unlock your second character slot by leveling up your first character.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Achieve15",
+      "display_name": "More and More Me!",
+      "description": "Create your 4th character, who will never appreciate the struggle the earlier characters went through from having no family bonus stats.",
+      "chapter": "General",
+      "hint": "Reach the required total account level to unlock your 4th character slot.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Achieve14"
+      ]
+    },
+    {
+      "apiname": "Achieve16",
+      "display_name": "A Family of Me!",
+      "description": "Create your 8th character, who will never get the love and affection you gave your first few characters when making new characters was still special",
+      "chapter": "General",
+      "hint": "Reach the required total account level to unlock your 8th character slot.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Achieve15"
+      ]
+    },
+    {
+      "apiname": "Achieve17",
+      "display_name": "Do What You're Told",
+      "description": "Complete 25 Quests on a single character. They're called Quests but they're more like chores tbh",
+      "chapter": "Quests",
+      "hint": "Complete 25 unique NPC quests on one character. Daily repeating quests don't count.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Achieve18",
+      "display_name": "Bending over Backward to Help",
+      "description": "Complete 75 Quests on a single character. Seriously these are just errands the NPC's didn't wanna do.",
+      "chapter": "Quests",
+      "hint": "Complete 75 unique NPC quests on one character.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Achieve17"
+      ]
+    },
+    {
+      "apiname": "Achieve19",
+      "display_name": "Simpin' for NPC's",
+      "description": "Complete 150 Quests on a single character. The name speaks for itself.",
+      "chapter": "Quests",
+      "hint": "Complete 150 unique NPC quests on one character. This requires progressing through several worlds.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Achieve18"
+      ]
+    },
+    {
+      "apiname": "Achieve20",
+      "display_name": "Card Collector",
+      "description": "Collect 10 unique cards. Who knows you may even get a Baba Yaga Rookie Card!",
+      "chapter": "General",
+      "hint": "Loot monster or skilling cards to register 10 unique cards to your collection.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Achieve21",
+      "display_name": "Card Enthusiast",
+      "description": "Collect 30 unique cards. If u wanna trade I got some spare Amarok cards!",
+      "chapter": "General",
+      "hint": "Register 30 unique cards to your collection.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Achieve20"
+      ]
+    },
+    {
+      "apiname": "Achieve22",
+      "display_name": "Card Dude",
+      "description": "Collect 120 unique cards. This basically makes you like, THE guy who does the card stuff!",
+      "chapter": "General",
+      "hint": "Register 120 unique cards to your collection. Bosses, resources, and event cards all count.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Achieve21"
+      ]
+    },
+    {
+      "apiname": "Achieve23",
+      "display_name": "Anvil Expansion",
+      "description": "Craft the Anvil II expander. More things to craft, yay!",
+      "chapter": "World 1",
+      "hint": "Purchase the Anvil Tab 2 crafting recipe and produce it at the anvil.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Achieve24",
+      "display_name": "Anvil Expansion Again",
+      "description": "Craft the Anvil III expander. More things to craft, again, yay!",
+      "chapter": "World 2",
+      "hint": "Purchase the Anvil Tab 3 crafting recipe (from World 2 shop) and produce it.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Achieve23"
+      ]
+    },
+    {
+      "apiname": "Achieve25",
+      "display_name": "Boss Buster",
+      "description": "Defeat the big poop and the giant house with legs!",
+      "chapter": "World 1",
+      "hint": "Defeat the secret bosses Dr. Defecaus (Sewers) and Baba Yaga (Birch Enclave).",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Achieve26",
+      "display_name": "Demon Demolisher",
+      "description": "Defeat the big hourglass and the toilet paper guy!",
+      "chapter": "World 2",
+      "hint": "Defeat Biggie Hours (drop an Hourglass in the desert) and King Doot (summoned by a 3-player party dropping specific items).",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Achieve27",
+      "display_name": "Spike Minigame Master",
+      "description": "If u love me let me go... erm, I mean get a score of 13 in the Spike Minigame",
+      "chapter": "Minigames",
+      "hint": "Enter the hidden Spike Minigame in the Frog area by clicking the secret spot on the top right, and score 13 points.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Achieve28",
+      "display_name": "Tree Top Dropout",
+      "description": "Reach the top of the Giant Tree, then jump off... wait no don't do that last part.",
+      "chapter": "World 1",
+      "hint": "Climb through the portal maps in the giant tree (starting from the Slimes) to reach the very top.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Achieve29",
+      "display_name": "Minecart Master",
+      "description": "Get a score of 103+ in the Mining Minigame, beating the Developer's score!",
+      "chapter": "Minigames",
+      "hint": "Play the Mining Minigame by clicking the icon on a mining node and score at least 103.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Achieve30",
+      "display_name": "Choppin' to the Beat",
+      "description": "Get a score of 141+ in the Choppin' Minigame, beating the Developer's score!",
+      "chapter": "Minigames",
+      "hint": "Play the Chopping Minigame on a tree node and score at least 141.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Achieve31",
+      "display_name": "Fishing Finesse",
+      "description": "Get a score of 67+ in the Fishing Minigame, beating the Developer's score!",
+      "chapter": "Minigames",
+      "hint": "Play the Fishing Minigame in World 2 and score at least 67.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Achieve32",
+      "display_name": "Catching Coronation",
+      "description": "Get a score of 128+ in the Catching minigame, beating the Developer's score!",
+      "chapter": "Minigames",
+      "hint": "Play the Catching Minigame on a bug node in World 2 and score at least 128.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Achieve33",
+      "display_name": "Crystal Beatdown",
+      "description": "Defeat your first Crystal Monster! These have a 1 in 2000 chance to spawn each time you defeat a normal monster.",
+      "chapter": "General",
+      "hint": "Active AFK in any monster zone until a crystal mob spawns and defeat it.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Achieve34",
+      "display_name": "Crystal S-S-S-Suuuper Slam",
+      "description": "Defeat 100 Crystal Monsters! This could go a couple rounds...",
+      "chapter": "General",
+      "hint": "Equip the Poop card and Crystals 4 dayys card to increase crystal spawn chance while active AFKing.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Achieve33"
+      ]
+    },
+    {
+      "apiname": "Achieve35",
+      "display_name": "Crystal Championship Bout",
+      "description": "Defeat 2000 Crystal Monsters to become the Heavyweight Champion of IdleOn!",
+      "chapter": "General",
+      "hint": "Maximize your crystal spawn chance through stamps, cards, and alchemy, and active AFK with high kill-speed classes like Maestro or ES.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Achieve34"
+      ]
+    },
+    {
+      "apiname": "Achieve36",
+      "display_name": "Bad Doggy!",
+      "description": "Defeat Amarok on Chaotic Difficulty. He's all bark and... well, all bite too honestly.",
+      "chapter": "Bosses",
+      "hint": "Craft or obtain Chaotic Amarok Keys and defeat the chaotic variant in World 1.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Achieve37",
+      "display_name": "Dumbo the Destroyer",
+      "description": "Defeat Efaunt on Chaotic Difficulty. Watch out for his new kick attack, and for all his old attacks since they're still deadly!",
+      "chapter": "Bosses",
+      "hint": "Craft or obtain Chaotic Efaunt Keys and defeat the chaotic variant in World 2.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Achieve38",
+      "display_name": "Pro Gamer Move",
+      "description": "Die to a Green Mushroom.",
+      "chapter": "General",
+      "hint": "Unequip all your armor, weapons, and remove healing food, then let a Green Mushroom kill you.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Achieve39",
+      "display_name": "Peanut Pioneer",
+      "description": "Craft a Peanut.",
+      "chapter": "World 1",
+      "hint": "Complete the first quest from the Picnic Stowaway in World 1 to unlock the Peanut recipe, then craft one.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Achieve40",
+      "display_name": "Meel Time!",
+      "description": "Consume a Golden Jam.",
+      "chapter": "Quests",
+      "hint": "Finish the daily Picnic Stowaway questline to receive a Golden Jam, then tap/hold it to consume.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Achieve41",
+      "display_name": "Meet the Dev",
+      "description": "Find and interact with the Developer NPC.",
+      "chapter": "General",
+      "hint": "Talk to the Lavaflame2 NPC hidden in the game.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Achieve42",
+      "display_name": "Part 1: Learn to Forge",
+      "description": "Complete Glumlee's part of the Main Questline",
+      "chapter": "Quests",
+      "hint": "Complete all of Glumlee's quests in the World 1 town.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Achieve43",
+      "display_name": "Part 2: Learn to Entertain",
+      "description": "Complete the Picnic Stowaway's part of the Main Questline",
+      "chapter": "Quests",
+      "hint": "Complete the Picnic Stowaway's introductory quests located in the Frog map.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Achieve42"
+      ]
+    },
+    {
+      "apiname": "Achieve44",
+      "display_name": "Part 3: Learn to Translate",
+      "description": "Complete Stiltzcho's part of the Main Questline",
+      "chapter": "Quests",
+      "hint": "Complete Stiltzcho's introductory quests located in the Spore map.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Achieve43"
+      ]
+    },
+    {
+      "apiname": "Achieve45",
+      "display_name": "Classy!",
+      "description": "Choose one of the 3 starting classes, since like there are only 3 starting classes and not 4.",
+      "chapter": "General",
+      "hint": "Reach level 10 and speak to Promotheus to upgrade your Beginner into a Warrior, Archer, or Mage.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Achieve46",
+      "display_name": "Sleepy Gamer",
+      "description": "Claim 100 hours of AFK Gains. That's like 4 days and a side of fries.",
+      "chapter": "General",
+      "hint": "Let your characters idle and claim the AFK rewards. This counts across all characters.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Achieve47",
+      "display_name": "Slumbering Gamer",
+      "description": "Claim 2000 hours of AFK Gains. That's like 3 months but not really cuz u have multiple characters.",
+      "chapter": "General",
+      "hint": "Continue claiming AFK gains across your characters.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Achieve46"
+      ]
+    },
+    {
+      "apiname": "Achieve48",
+      "display_name": "Comatose Gamer",
+      "description": "Claim 30,000 hours of AFK gains. That's like 2 years, but again it's really more like 2 months cuz you have so many peeps in ur squad.",
+      "chapter": "General",
+      "hint": "Create more characters to multiply your AFK hours easily.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Achieve47"
+      ]
+    },
+    {
+      "apiname": "Achieve49",
+      "display_name": "Hibernating Gamer",
+      "description": "Claim 111,000 hours of AFK gains. Jeez, ok that's like an entire year, even with all your character idling to the max lol",
+      "chapter": "General",
+      "hint": "Make sure to max out all character slots and let them idle.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Achieve48"
+      ]
+    },
+    {
+      "apiname": "Achieve51",
+      "display_name": "My First Trophy!",
+      "description": "Equip any trophy. Well, almost any trophy, limited-time trophies don't count.",
+      "chapter": "General",
+      "hint": "Complete a full NPC questline or event to get a permanent trophy, and equip it in the trophy slot.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Achieve8",
+      "display_name": "Mythical Gamer",
+      "description": "Your level has reached a point where people debate whether or not it is possible!",
+      "chapter": "General",
+      "hint": "Reach a mythically high character level.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Achieve7"
+      ]
+    },
+    {
+      "apiname": "Achieve52",
+      "display_name": "Big Mobs, eek!",
+      "description": "Defeat 5 Giant Monsters. You'll learn about these at the Prayer Rock in the Frostbite Tundra town.",
+      "chapter": "World 3",
+      "hint": "Unlock and equip the Giant Mobs prayer from the World 3 Prayer Rock, then active-kill until 5 giants spawn and defeat them.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Achieve53",
+      "display_name": "Powdered Neutronium",
+      "description": "Rank up the Explosive Combustion refinery chamber to rank 2.",
+      "chapter": "Construction",
+      "hint": "Feed the Red Salt crucible in the World 3 Refinery enough materials and power to rank it up to 2.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Achieve54",
+      "display_name": "There Can Be Only One",
+      "description": "Beat wave 50 of Wakawaka War without using more than 1 of any specific tower type. So just 1 boulder, 1 freeze, etc...  ",
+      "chapter": "Worship",
+      "hint": "Play Wakawaka War worship tower defense ensuring you place exactly 1 of each tower. Do not place duplicates.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Achieve55",
+      "display_name": "Blurple Skull",
+      "description": "Get a Dementia Skull or higher on every mob within World 3 in the Deathnote feature. I probably don't have to specify \"or higher\" here lol",
+      "chapter": "Deathnote",
+      "hint": "Defeat 1 million of every single monster in World 3 to earn Dementia skulls.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Achieve56",
+      "display_name": "A Most Nice Sale",
+      "description": "Sell items to a shop for exactly 69 coins.",
+      "chapter": "General",
+      "hint": "Calculate the sell value of cheap items and sell an exact amount to yield exactly 69 copper coins.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Achieve57",
+      "display_name": "Mutant Massacrer",
+      "description": "Defeat both mutant Minibosses: The Dilapidated Slush of World 3, and the Mutated Mush of World 4.",
+      "chapter": "Minibosses",
+      "hint": "Use Slushy Skulls in World 3 and Toxic Waste in World 4 to spawn and defeat these minibosses.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Achieve58",
+      "display_name": "Lv.5 Nothing..?",
+      "description": "Upgrade the 'Nothing' bubble in Alchemy to Level 5.",
+      "chapter": "Alchemy",
+      "hint": "In the World 2 Alchemy cauldrons, upgrade the entirely useless 'Nothing' bubble.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Achieve59",
+      "display_name": "Petless",
+      "description": "Trash 1000 pets. How could you be so heartless, so cold...",
+      "chapter": "Breeding",
+      "hint": "In the World 4 Breeding feature, drag 1000 hatched pets into the trash can.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Achieve60",
+      "display_name": "Milky Wayfarer",
+      "description": "Reach World 4, the purple world with all the space stuff and things!",
+      "chapter": "World 4",
+      "hint": "Defeat Chizoar in World 3 and enter the portal to unlock World 4.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Achieve2"
+      ]
+    },
+    {
+      "apiname": "Kill0",
+      "display_name": "Mushrooms Defeated",
+      "description": "Defeat enough Green Mushrooms to unlock the portal to FROGS!",
+      "chapter": "World 1",
+      "hint": "Simply kill enough Green Mushrooms to open the first portal.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Kill1",
+      "display_name": "Frogs Defeated",
+      "description": "Defeat enough Frogs to unlock the portal to BEANS!",
+      "chapter": "World 1",
+      "hint": "Kill enough Frogs to proceed to the next map.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Kill0"
+      ]
+    },
+    {
+      "apiname": "Kill2",
+      "display_name": "Beans Defeated",
+      "description": "Defeat enough Beans to unlock the portal to SLIMES!",
+      "chapter": "World 1",
+      "hint": "Kill enough Bored Beans to proceed to the next map.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Kill1"
+      ]
+    },
+    {
+      "apiname": "Kill3",
+      "display_name": "Slimes Defeated",
+      "description": "Defeat enough Slimes to unlock the portal to BABY BOAS!",
+      "chapter": "World 1",
+      "hint": "Kill enough Slimes to proceed to the next map.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Kill2"
+      ]
+    },
+    {
+      "apiname": "Kill4",
+      "display_name": "Baby Boas Defeated",
+      "description": "Defeat enough Baby Boas to unlock the portal to CARROTMEN!",
+      "chapter": "World 1",
+      "hint": "Kill enough Baby Boas to proceed to the next map.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Kill3"
+      ]
+    },
+    {
+      "apiname": "Kill5",
+      "display_name": "Carrotmen Defeated",
+      "description": "Defeat enough Carrotmen to unlock the portal to GLUBLINS!",
+      "chapter": "World 1",
+      "hint": "Kill enough Carrotmen to proceed to the next map.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Kill4"
+      ]
+    },
+    {
+      "apiname": "Kill6",
+      "display_name": "Glublins Defeated",
+      "description": "Defeat enough Glublins to unlock the portal to THE BOSS!",
+      "chapter": "World 1",
+      "hint": "Kill enough Glublins to reach the Encroaching Forest boss arena.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Kill5"
+      ]
+    },
+    {
+      "apiname": "_achA4",
+      "display_name": "Hitting the Mark",
+      "description": "Chop 15 yellow sections in a row during the Choppin' Minigame.",
+      "chapter": "Minigames",
+      "hint": "Focus entirely on precision, waiting for the leaf to slow down before clicking.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achA6",
+      "display_name": "5 'hunned Copper",
+      "description": "Have a stack of exactly 500 Copper Ore in your Storage Chest.",
+      "chapter": "World 1",
+      "hint": "Use split stacks in your inventory to deposit exactly 500 Copper Ore into a single chest slot.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achA8",
+      "display_name": "1.5 Ki'log'grams",
+      "description": "Have a stack of exactly 1500 Oak Logs in your Storage Chest.",
+      "chapter": "World 1",
+      "hint": "Deposit exactly 1500 Oak Logs into an empty slot in your storage chest.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achA10",
+      "display_name": "Copper 'Quipment",
+      "description": "Equip the Copper Helmet and Copper Platebody",
+      "chapter": "World 1",
+      "hint": "Craft and equip these two basic copper armors.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achA15",
+      "display_name": "Wode Together",
+      "description": "Defeat 250 Wode Boards with at least 1 other party member",
+      "chapter": "World 1",
+      "hint": "Invite another player into a party on the Wode Boards map and defeat 250 enemies while they are present.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achA16",
+      "display_name": "2 Tons of Iron",
+      "description": "Have a stack of exactly 2,000 Iron Ore in your Storage Chest.",
+      "chapter": "World 1",
+      "hint": "Deposit exactly 2000 Iron Ore into an empty slot in your storage chest.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achA17",
+      "display_name": "Giga Decimation",
+      "description": "Defeat all Giga Frogs before any respawn.",
+      "chapter": "World 1",
+      "hint": "Go to the Giga Frog map with high damage and movement speed to wipe out all frogs within a few seconds.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achA18",
+      "display_name": "Shut it Poochy",
+      "description": "Defeat Amarok, the stone golem wolf of the Encroaching Forest.",
+      "chapter": "Bosses",
+      "hint": "Use Amarok Keys (earned from daily quests) to enter the arena and defeat the World 1 boss.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achA20",
+      "display_name": "Slimeicidal Endeavor",
+      "description": "Defeat 25,000 slimes in total. This counts kills from all your characters!",
+      "chapter": "World 1",
+      "hint": "Leave your characters AFK on Slimes.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achA21",
+      "display_name": "Right to Bear Iron",
+      "description": "Equip an Iron Helmet, Iron Chestplate, Iron Pants, and one Iron Tool.",
+      "chapter": "World 1",
+      "hint": "Craft the full set of Iron gear at the anvil and equip it.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achA22",
+      "display_name": "5-6 Pick up Sticks",
+      "description": "Have a stack of exactly 20,000 Sticks in your Storage Chest.",
+      "chapter": "World 1",
+      "hint": "Use split stacks to deposit exactly 20,000 Sticks into a storage chest slot.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achA23",
+      "display_name": "20 Bundles of Jungle",
+      "description": "Have a stack of exactly 20,000 Forest Fibers in your Storage Chest.",
+      "chapter": "World 1",
+      "hint": "Deposit exactly 20,000 Forest Fibers into a single storage chest slot.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achA24",
+      "display_name": "Colosseum Contender",
+      "description": "Get a score of 25,000 or more in the Dewdrop Colosseum.",
+      "chapter": "World 1",
+      "hint": "Use Colosseum tickets in World 1 and clear waves as fast as possible. Area-of-effect skills help significantly.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achA26",
+      "display_name": "Ten Trips of Gold",
+      "description": "Have a stack of exactly 30,000 Gold Ore in your Storage Chest.",
+      "chapter": "World 1",
+      "hint": "Deposit exactly 30,000 Gold Ore into a single storage chest slot.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achA27",
+      "display_name": "Minecart Maniac",
+      "description": "Slam on a yellow ore vein in the Mining Minigame, which gives 3 points!",
+      "chapter": "Minigames",
+      "hint": "In the Mining Minigame, time your tap to land the cart precisely on a yellow vein.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achA30",
+      "display_name": "Steppin' on the Rats",
+      "description": "Defeat 500 Rats with at least 1 other party member",
+      "chapter": "World 1",
+      "hint": "Party up with a friend in the Sewer Rats map and defeat 500 of them actively.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achA31",
+      "display_name": "Tree Top Dropout",
+      "description": "Reach the top of the Giant Tree in Blunder Hills",
+      "chapter": "World 1",
+      "hint": "Navigate up the platforms in the various tree maps until you reach the very top.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achA32",
+      "display_name": "Naked and Unafraid",
+      "description": "Enter the Sewers with no equipment or weapon, and defeat a sewer poop. Don't want to get your stuff dirty after all!",
+      "chapter": "World 1",
+      "hint": "Unequip everything (including tools) before entering the Sewers and punch a Poop to death.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achA33",
+      "display_name": "House Flipper",
+      "description": "Defeat Baba Yaga in under 25 seconds after they spawn in the Birch Enclave",
+      "chapter": "World 1",
+      "hint": "Wait in the Birch Enclave for the hourly spawn (XX:00) and use your strongest burst attacks to kill her quickly.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achA34",
+      "display_name": "Platinum 200G",
+      "description": "Have a stack of exactly 200,000 Platinum Ore in your Storage Chest.",
+      "chapter": "World 1",
+      "hint": "Deposit exactly 200,000 Platinum Ore into an empty slot in your storage chest.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achA37",
+      "display_name": "Nutty Crafter",
+      "description": "Craft 42 golden peanuts, whatever those might be!",
+      "chapter": "World 1",
+      "hint": "Unlock the Golden Peanut recipe via a quest and craft 42 of them at the anvil.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achA40",
+      "display_name": "Decked Out in Gold",
+      "description": "Equip Golden Helmet, Chestplate, Pants, Shoes, two Golden tools, and the Defenders Dignity ring.",
+      "chapter": "World 1",
+      "hint": "Craft all the golden equipment and the Defenders Dignity ring at the anvil, then equip them all simultaneously.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achA41",
+      "display_name": "Nice Fur Suit",
+      "description": "Equip all 4 pieces of Amarok armor.",
+      "chapter": "World 1",
+      "hint": "Farm Amarok for Grandma Disguise (or craft the helmet) and Amarok slabs, craft the full Amarok set, and equip it.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achA42",
+      "display_name": "Half a Mill-log",
+      "description": "Have a stack of exactly 500,000 Veiny Logs in your Storage Chest.",
+      "chapter": "World 1",
+      "hint": "Deposit exactly 500,000 Veiny Logs into an empty slot in your storage chest.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achA44",
+      "display_name": "Two-Time Savior",
+      "description": "Equip the Blunder Hero Trophy, while also having another in your inventory.",
+      "chapter": "World 1",
+      "hint": "Complete the final Token quest in World 1 on two different characters to receive two Blunder Hero trophies.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achA45",
+      "display_name": "Million Null 'n Void",
+      "description": "Have a stack of exactly 1,000,000 Void Ore in your Storage Chest.",
+      "chapter": "World 1",
+      "hint": "Deposit exactly 1,000,000 Void Ore into a single storage chest slot.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achA46",
+      "display_name": "Lucky 7s",
+      "description": "Have exactly 777 coins or roll three 7s.",
+      "chapter": "General",
+      "hint": "A luck-based achievement. Can often be manipulated by calculating coin drops or shop selling.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achA47",
+      "display_name": "What a View!",
+      "description": "Stand at the highest point in World 1.",
+      "chapter": "World 1",
+      "hint": "Climb up to the topmost branch in the Giant Tree maps and stand at the edge.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achA48",
+      "display_name": "Cavernous Nook",
+      "description": "Find the secret hidden area in World 1.",
+      "chapter": "World 1",
+      "hint": "Locate the hidden portal in the Frog map (top right platform).",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achA49",
+      "display_name": "Seriousleaf-ast!",
+      "description": "Score a point in the Choppin' Minigame while the leaf is ZOOMING!!!",
+      "chapter": "Minigames",
+      "hint": "Wait for the leaf to reach its absolute fastest speed during the Choppin' minigame and successfully tap it.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achA54",
+      "display_name": "Heyo!",
+      "description": "Say 'Hi' to 250 different people without closing the game.",
+      "chapter": "General",
+      "hint": "Go to a crowded server (like Server 1 town) and type 'Hi' in the chat, aiming it at many different players in one session.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achA56",
+      "display_name": "Based Roots",
+      "description": "Reach The Roots, which is the map below the Sticks monsters in the Giant Tree",
+      "chapter": "World 1",
+      "hint": "Go to the Sticks map in the Giant Tree and drop down into the bottom portal.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achA57",
+      "display_name": "Dungeon Pinch",
+      "description": "Deal 100 or more damage in a single hit in any party dungeon.",
+      "chapter": "Dungeons",
+      "hint": "Collect weapon items and damage-boosting RNG items in the Grandfrogger dungeon to hit a 100+ damage attack.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achA58",
+      "display_name": "Big Frog Angry",
+      "description": "Defeat Grandfrogger on his 1st Difficulty.",
+      "chapter": "Dungeons",
+      "hint": "Defeat the first stage of the boss at the end of the World 1 party dungeon.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achA59",
+      "display_name": "Big Frog Furious",
+      "description": "Defeat Grandfrogger on his 2nd Difficulty.",
+      "chapter": "Dungeons",
+      "hint": "Defeat the second stage of Grandfrogger in the party dungeon by throwing its drops into the cauldron.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "_achA58"
+      ]
+    },
+    {
+      "apiname": "_achA60",
+      "display_name": "Big Frog Big Sad",
+      "description": "Defeat Grandfrogger on his 3rd Difficulty.",
+      "chapter": "Dungeons",
+      "hint": "Defeat the third stage of Grandfrogger in the party dungeon.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "_achA59"
+      ]
+    },
+    {
+      "apiname": "_achA61",
+      "display_name": "2 Minute Meal",
+      "description": "Spawn Grandfrogger within 2 minutes of entering the dungeon.",
+      "chapter": "Dungeons",
+      "hint": "In a coordinated party, rush clearing the dungeon maps and dropping monster parts into the cauldron as fast as possible.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achA62",
+      "display_name": "Big Frog Big Mad",
+      "description": "Defeat Grandfrogger on his 4th Difficulty, and avoid becoming one with the soup...",
+      "chapter": "Dungeons",
+      "hint": "Defeat the very difficult fourth stage of Grandfrogger in the party dungeon.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "_achA60"
+      ]
+    },
+    {
+      "apiname": "_achB4",
+      "display_name": "Golden Fly",
+      "description": "Pass through the small golden hoop in the Catching Minigame. It's worth 3 points!",
+      "chapter": "Minigames",
+      "hint": "In the Catching Minigame, precisely tap to navigate your net through the rare, smaller golden hoop.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achB5",
+      "display_name": "Hammer Bub",
+      "description": "Level up the 'Hammer Hammer' Alchemy bubble to Lv. 10",
+      "chapter": "Alchemy",
+      "hint": "In the World 2 Alchemy feature, upgrade the specific 'Hammer Hammer' bubble (Green/Archer cauldron) to level 10.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achB6",
+      "display_name": "Wassup Yo!",
+      "description": "Say 'Hi' to 100 unique people without closing the game or changing Servers.",
+      "chapter": "General",
+      "hint": "Stand in a populated town hub and type 'Hi' continuously until 100 different players are near.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achB7",
+      "display_name": "Gold School",
+      "description": "Have a stack of exactly 1500 Goldfish in your Storage Chest.",
+      "chapter": "World 2",
+      "hint": "Deposit exactly 1500 Goldfish into a single storage chest slot.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achB8",
+      "display_name": "Buzz Buzz",
+      "description": "Have a stack of exactly 2500 Flies in your Storage Chest.",
+      "chapter": "World 2",
+      "hint": "Deposit exactly 2500 Flies into a single storage chest slot.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achB9",
+      "display_name": "Careful, it's Sharp!",
+      "description": "Have a stack of exactly 15 Glass Shards in your Storage Chest.",
+      "chapter": "World 2",
+      "hint": "Deposit exactly 15 Glass Shards (dropped by Sandy Pots) into your storage chest.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achB10",
+      "display_name": "Hybernation",
+      "description": "Leave one of your players AFK for an entire week, which is 168 hours! Anything more counts too!",
+      "chapter": "General",
+      "hint": "Do not log into a specific character for 7 consecutive days (168 hours).",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achB11",
+      "display_name": "Vial Noob",
+      "description": "Get 3 vials to Lv. 4, which are the green ones",
+      "chapter": "Alchemy",
+      "hint": "Upgrade any 3 Alchemy Vials in World 2 to the green tier (Level 4).",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achB12",
+      "display_name": "Specializational!",
+      "description": "Choose a subclass for two of your characters.",
+      "chapter": "General",
+      "hint": "Reach the subclass requirements on two different characters and upgrade them at Promotheus.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achB13",
+      "display_name": "Obols Oh Boy!",
+      "description": "Have 10 Silver Obols equipped at once. The Family tab counts here!",
+      "chapter": "World 2",
+      "hint": "Collect or upgrade to Silver Obols and place 10 of them across your Personal and Family Obol pages.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achB14",
+      "display_name": "B-o-B to Help",
+      "description": "Complete 75 unique quests on a single character. I'm not sure what B-o-B stands for either...",
+      "chapter": "Quests",
+      "hint": "Progress through various NPC storylines to reach 75 unique completed quests.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achB23",
+      "display_name": "A Fish Too Far",
+      "description": "Catch a total of 1000 fish across all Fishing Minigame plays.",
+      "chapter": "Minigames",
+      "hint": "Play the Fishing Minigame repeatedly until you have cumulatively caught 1000 fish inside the minigame.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achB24",
+      "display_name": "Rat-a-tat-tat",
+      "description": "Level up the 'FMJ' Alchemy bubble to Lv. 30",
+      "chapter": "Alchemy",
+      "hint": "Upgrade the FMJ (Orange/Warrior cauldron) Alchemy bubble to level 30.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achB25",
+      "display_name": "Pillars of Sand",
+      "description": "Defeat 250,000 Sandy Pots combined across all characters. Forget the Pillars of Salt though.",
+      "chapter": "World 2",
+      "hint": "Check your Deathnote or card screen to track total Sandy Pot kills and grind them with AFK characters.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achB26",
+      "display_name": "Vial Connoisseur",
+      "description": "Get 6 vials to Lv. 7, which are the pink ones",
+      "chapter": "Alchemy",
+      "hint": "Invest resources into 6 Alchemy Vials until they reach the pink tier (Level 7).",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "_achB11"
+      ]
+    },
+    {
+      "apiname": "_achB27",
+      "display_name": "Coarse Cards",
+      "description": "Level up cards for Mafioso, Sandcastle, Pincermin, and Mashed Potato, all up to 1 star.",
+      "chapter": "World 2",
+      "hint": "Farm these specific World 2 desert monsters until you collect enough of their cards to upgrade them to 1 star.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achB28",
+      "display_name": "Trial by Time",
+      "description": "Run from Town to Efaunt's Tomb in under 2 minutes. No teleporting using the World Map.",
+      "chapter": "World 2",
+      "hint": "Use movement speed potions or skills, avoid fighting, and rush map-to-map manually from the World 2 Town to Efaunt's Tomb.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achB29",
+      "display_name": "Golden Obolden!",
+      "description": "Have 15 Golden Obols equipped at once. The Family tab counts here!",
+      "chapter": "World 2",
+      "hint": "Combine Obols in the Alchemy lab until you have 15 gold tier Obols, and equip them across your Personal/Family pages.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "_achB13"
+      ]
+    },
+    {
+      "apiname": "_achB30",
+      "display_name": "Monocle No More",
+      "description": "Defeat 160 Sand Giants within 10 minutes of entering the map. Auto must be off.",
+      "chapter": "World 2",
+      "hint": "Enter the Sand Giant map and manually kill 160 of them quickly. High damage AoE classes work best.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achB31",
+      "display_name": "Jellyfish Jelly",
+      "description": "Have a stack of exactly 6000 Jellyfish in your Storage Chest. I heard their Jelly goes good with burgers btw.",
+      "chapter": "World 2",
+      "hint": "Deposit exactly 6000 Jellyfish (from fishing) into an empty slot in your storage chest.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achB32",
+      "display_name": "Super Cereal",
+      "description": "Have a stack of exactly 50,000 Sentient Cereal in your Storage Chest.",
+      "chapter": "World 2",
+      "hint": "Deposit exactly 50,000 Sentient Cereal into an empty slot in your storage chest.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achB33",
+      "display_name": "Sweet Victory",
+      "description": "Get a Score of 200,000 or more in the Sandstone Colosseum",
+      "chapter": "World 2",
+      "hint": "Use tickets in the World 2 Colosseum and rapidly clear waves. Use an active class with massive AoE.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achB34",
+      "display_name": "Ink Blot",
+      "description": "Use 101 silver pens in the Post Office",
+      "chapter": "World 2",
+      "hint": "Collect Silver Pens from monster drops and use 101 of them to manually refresh Post Office orders.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achB37",
+      "display_name": "Threadin' the Needle",
+      "description": "Pass through the teenie tiny Lava hoop in the Catching Minigame. It only appears if you go through 25 hoops in a row!",
+      "chapter": "Minigames",
+      "hint": "Maintain a flawless streak of 25 hoops in the Catching minigame to spawn the tiny lava hoop, then carefully pass through it.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achB38",
+      "display_name": "S-M-R-T",
+      "description": "Level up the 'Smarty Boi' Alchemy bubble to Lv. 50",
+      "chapter": "Alchemy",
+      "hint": "Upgrade the Smarty Boi (Purple/Mage cauldron) Alchemy bubble to level 50.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achB39",
+      "display_name": "Two Desserts!",
+      "description": "Have the YumYum Sheriff trophy equipped, while also having another in your inventory.",
+      "chapter": "World 2",
+      "hint": "Complete the final World 2 Token quest on two different characters to receive two YumYum Sheriff trophies.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achB40",
+      "display_name": "Nuget Nightmare",
+      "description": "Kill Crabbycakes manually, without Auto on, until one drops a Nuget Cake. Good luck...",
+      "chapter": "World 2",
+      "hint": "Turn off auto-attack entirely. Manually click/tap to attack Crabbycakes until the extremely rare Nuget Cake drops. Stack drop rate modifiers before attempting.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achB41",
+      "display_name": "Bigtime Bloacher",
+      "description": "Have a stack of exactly 100,000 Bloaches in your Storage Chest.",
+      "chapter": "World 2",
+      "hint": "Deposit exactly 100,000 Bloaches (caught from fishing) into a single storage chest slot.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achB42",
+      "display_name": "Vial Junkee",
+      "description": "Get 10 vials to Lv. 9, which are the hyperlight Orange ones. Stop focusing so much on vials, it's not healthy!",
+      "chapter": "Alchemy",
+      "hint": "Heavily invest resources into 10 Alchemy Vials to reach the hyperlight Orange tier (Level 9).",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "_achB26"
+      ]
+    },
+    {
+      "apiname": "_achB43",
+      "display_name": "Fruit Salad",
+      "description": "Have a stack of exactly 1,000,000 Fruit Flies in your Storage Chest.",
+      "chapter": "World 2",
+      "hint": "Deposit exactly 1,000,000 Fruit Flies (from catching) into an empty storage chest slot.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achB44",
+      "display_name": "Your Skin, My Skin",
+      "description": "Wear the Efaunt helmet, Ribcage, Hipillium, and Ankles. Also have 1 Efaunt Obol equipped.",
+      "chapter": "World 2",
+      "hint": "Farm Efaunt extensively to craft the full Efaunt armor set and obtain an Efaunt Obol, then equip them all.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achB45",
+      "display_name": "WAAAAAAAHH!",
+      "description": "Fall off a high place or specific map edge.",
+      "chapter": "General",
+      "hint": "Jump or fall from a specific high point in the game that triggers this Waluigi-style scream reference.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achB46",
+      "display_name": "Bobjoepicklejar",
+      "description": "Obtain a Bobjoepickle.",
+      "chapter": "Alchemy",
+      "hint": "Purchase a Bobjoepickle from the World 2 Alchemy Shop (it requires extreme luck for it to appear/be affordable).",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achB47",
+      "display_name": "Fish Aint Biting",
+      "description": "Fail to catch fish for an extended period.",
+      "chapter": "Minigames",
+      "hint": "Equip the worst possible fishing rod/bait combination and fish to guarantee a string of failures.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achB48",
+      "display_name": "Skill Maestro",
+      "description": "Achieve high skill levels to unlock Maestro.",
+      "chapter": "Classes",
+      "hint": "Complete the long hidden questline starting with the Goldric NPC to unlock the Maestro secret class.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achB49",
+      "display_name": "Tomb Raider",
+      "description": "Defeat Snakenhotep on his 1st Difficulty.",
+      "chapter": "Dungeons",
+      "hint": "Defeat the first form of the boss in the World 2 party dungeon.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achB50",
+      "display_name": "Tomb Defiler",
+      "description": "Defeat Snakenhotep on his 2nd Difficulty.",
+      "chapter": "Dungeons",
+      "hint": "Defeat the second form of Snakenhotep in the party dungeon.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": [
+        "_achB49"
+      ]
+    },
+    {
+      "apiname": "_achB51",
+      "display_name": "Tomb Completionist",
+      "description": "Defeat Snakenhotep on his 3rd Difficulty.",
+      "chapter": "Dungeons",
+      "hint": "Defeat the third form of Snakenhotep in the party dungeon.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": [
+        "_achB50"
+      ]
+    },
+    {
+      "apiname": "_achB52",
+      "display_name": "Wazzzzam!",
+      "description": "Wazam 125 rooms in Snakenhotep's Dungeon by performing exceptionally well in a room.",
+      "chapter": "Dungeons",
+      "hint": "In the World 2 party dungeon, complete the room objectives extremely fast and flawlessly to trigger a 'Wazam!' rating 125 times.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achB53",
+      "display_name": "Just Passing By",
+      "description": "Pass 30 rooms in Snakenhotep's Dungeon by doing the thingy the room says to do.",
+      "chapter": "Dungeons",
+      "hint": "Clear 30 rooms in the World 2 dungeon.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achB54",
+      "display_name": "Dungeon Slap",
+      "description": "Deal 1000 or more damage in a single hit within any Dungeon.",
+      "chapter": "Dungeons",
+      "hint": "Stack damage upgrades and specialized weapons in any party dungeon to hit 1,000+ damage.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "_achA57"
+      ]
+    },
+    {
+      "apiname": "_achC3",
+      "display_name": "Croakin' Froge",
+      "description": "Have a stack of exactly 250 Doge -I mean froge- critters in your Storage Chest.",
+      "chapter": "World 3",
+      "hint": "Use Trapping to capture exactly 250 Froges and deposit them in an empty chest slot.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achC4",
+      "display_name": "Sad Souls",
+      "description": "Have a stack of exactly 1,000 Forest Souls in your Storage Chest.",
+      "chapter": "World 3",
+      "hint": "Use Worship to gather exactly 1,000 Forest Souls and deposit them in an empty chest slot.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achC5",
+      "display_name": "Checkout Takeout",
+      "description": "Checkout a total of 1000 talent books from the Talent Book Library.",
+      "chapter": "Construction",
+      "hint": "Regularly check out books from the Talent Book Library in the World 3 Town. This will take a long time to accumulate.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achC6",
+      "display_name": "Yawning Cogs",
+      "description": "Have 4 unclaimed Yellow Cogs during any single moment in time, apart from March 16, 2026 at 3.07pm",
+      "chapter": "Construction",
+      "hint": "Produce Cogs on your Construction board and intentionally leave 4 Yellow Cogs uncollected.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achC7",
+      "display_name": "Blunder Skull",
+      "description": "Get a Copper Skull or higher on every Blunder Hills monster in the Deathnote.",
+      "chapter": "Deathnote",
+      "hint": "Defeat 10,000 of every World 1 (Blunder Hills) monster to register Copper Skulls in the Deathnote.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achC8",
+      "display_name": "Too Cute To Live",
+      "description": "You're gonna kill all them lil' poofs? You monster... well, at least make it quick, like 20s or less after entering the map.",
+      "chapter": "World 3",
+      "hint": "Enter the Sheepie/Poof map and completely clear all of them within 20 seconds.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achC11",
+      "display_name": "Soulslike",
+      "description": "Have 4 Prayers in your Prayer Rock thingy. You get Prayers by placing these wizard dudes into towers and stuff and kickin' butt!",
+      "chapter": "Worship",
+      "hint": "Unlock 4 different prayers from playing Worship Tower Defense minigames, and equip them on the Prayer Rock.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achC12",
+      "display_name": "Good Times Roll",
+      "description": "Beat wave 50 in Glublin Gorefest using ONLY Boulder Roller wizards. No freeze, no confetti, just boulder.",
+      "chapter": "Worship",
+      "hint": "In the World 1 Worship tower defense, only build Boulder Rollers and survive up to wave 50.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achC13",
+      "display_name": "Cog in the System",
+      "description": "Have 20 Grey Cogs placed on the board at once. Not sure why this is an achievement, cogs are boring.",
+      "chapter": "Construction",
+      "hint": "Produce and place 20 basic Grey Cogs onto your Construction board at the same time.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achC14",
+      "display_name": "I Create...",
+      "description": "Upgrade buildings in construction a total of 50 times. Any buildings, utilities, wizards, shrines, they all count!",
+      "chapter": "Construction",
+      "hint": "Upgrade any combination of structures on your construction board 50 times total.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achC15",
+      "display_name": "I Sawed...",
+      "description": "Upgrade buildings in construction a total of 250 times.",
+      "chapter": "Construction",
+      "hint": "Upgrade any combination of structures on your construction board 250 times total.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "_achC14"
+      ]
+    },
+    {
+      "apiname": "_achC16",
+      "display_name": "Hairy Ice Comb",
+      "description": "Manually loot 1000 floof poofs, then 1000 melty cubes, then 1000 moustache combs. So 3000 in total!",
+      "chapter": "World 3",
+      "hint": "Turn off auto-loot if you have it. You must manually pick up 1000 of each of these World 3 drops in order.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achC17",
+      "display_name": "Giant Slayer",
+      "description": "Defeat 5 Giant Mobs of each type; Bloque, Mamooth, Snowman, Penguin, then Thermister, IN THAT ORDER. So 25 in total!",
+      "chapter": "World 3",
+      "hint": "Equip the Giant Mobs prayer and active-kill in specific maps to spawn 5 giants per map, strictly in the stated order.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Achieve52"
+      ]
+    },
+    {
+      "apiname": "_achC18",
+      "display_name": "Saharan Skull",
+      "description": "Get a Golden Skull or higher on every YumYum Desert monster in the Deathnote.",
+      "chapter": "Deathnote",
+      "hint": "Defeat 250,000 of every World 2 (YumYum Desert) monster to register Golden Skulls in the Deathnote.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achC19",
+      "display_name": "Fat Souls",
+      "description": "Have a stack of exactly 10,000 Dune Souls in your Storage Chest.",
+      "chapter": "World 3",
+      "hint": "Gather exactly 10,000 Dune Souls via Worship and place them into an empty chest slot.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achC20",
+      "display_name": "Borrowed Pens",
+      "description": "Remember all those pens you lent out in school and never got back? You've got 13 seconds to vent your anger on every penguin mob!",
+      "chapter": "World 3",
+      "hint": "Enter the Penguin map and clear all enemies completely within 13 seconds.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achC22",
+      "display_name": "Sqeakin' Mousey",
+      "description": "Have a stack of exactly 60,000 Mouseys in your Storage Chest. Imagine the noise in that chest of yours... or even the smell, ugh.",
+      "chapter": "World 3",
+      "hint": "Trap exactly 60,000 Mousey critters and place them into an empty chest slot.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achC23",
+      "display_name": "Geared for Success",
+      "description": "Have 40 Yellow Cogs placed on the board at once. Alright now I see how this is achievement worthy, cogs are kinda neat.",
+      "chapter": "Construction",
+      "hint": "Produce and place 40 Yellow Cogs onto your Construction board at the same time.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achC26",
+      "display_name": "Entangled Compounds",
+      "description": "Rank up the Spontaneous Combustion refinery chamber to Rank 3.",
+      "chapter": "Construction",
+      "hint": "Fuel the Orange Salt crucible in the World 3 Refinery to rank it up to 3.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Achieve53"
+      ]
+    },
+    {
+      "apiname": "_achC29",
+      "display_name": "Souped Up Salts",
+      "description": "Rank up the Redox Combustion refinery chamber to Rank 10.",
+      "chapter": "Construction",
+      "hint": "Fuel the primary Red Salt crucible in the World 3 Refinery over a long period to reach rank 10.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "_achC26"
+      ]
+    },
+    {
+      "apiname": "_achC30",
+      "display_name": "I Constructed!",
+      "description": "Upgrade buildings in construction a total of 900 times.",
+      "chapter": "Construction",
+      "hint": "Upgrade any combination of structures on your construction board 900 times total.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "_achC15"
+      ]
+    },
+    {
+      "apiname": "_achC31",
+      "display_name": "Cogs Be Waitin'",
+      "description": "Have 16 unclaimed Grey Cogs at once. Jeez, I'm glad anthropomorphic cogs aren't real.",
+      "chapter": "Construction",
+      "hint": "Produce Cogs on your board but intentionally leave 16 basic Grey Cogs uncollected.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achC33",
+      "display_name": "Top Cogs",
+      "description": "78 Cogs. All purple cogs. Did I say cogs are great? I think cogs are great. Cog cog cog!",
+      "chapter": "Construction",
+      "hint": "Produce and place 78 Purple Cogs on your Construction board at the same time.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achC36",
+      "display_name": "Smirky Souls",
+      "description": "Have a stack of exactly 250,000 Rooted Souls in your Storage Chest.",
+      "chapter": "World 3",
+      "hint": "Gather exactly 250,000 Rooted Souls via Worship and place them into an empty chest slot.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achC38",
+      "display_name": "Knock on Wood",
+      "description": "Beat wave 50 of Acorn Assault with just 4 towers active. Place down a 5th tower at any time, and it wont count!",
+      "chapter": "Worship",
+      "hint": "Play the Acorn Assault tower defense using only 4 towers total, upgrading them highly to survive.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achC39",
+      "display_name": "The Goose is Loose",
+      "description": "Have a HONK of exactly 1,000,000 Honkers in your HONK Chest. HONKHONKHONK HOOOONK!!!",
+      "chapter": "World 3",
+      "hint": "Use Trapping to capture exactly 1,000,000 Honker critters and place them into a chest slot.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achC40",
+      "display_name": "Sepia Vision",
+      "description": "Have a stack of exactly 500 Black Lenses in your Storage Chest. Better complete this before I make it 1,000!",
+      "chapter": "World 3",
+      "hint": "Farm Sheepies until you get exactly 500 Black Lenses and deposit them into your chest.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achC41",
+      "display_name": "Rattle them Bones",
+      "description": "Defeat every Bloodbone in just 12 seconds after entering the map. Wow, wild.",
+      "chapter": "World 3",
+      "hint": "Enter the Bloodbone map with a high-AoE class (like Elemental Sorcerer or Divine Knight) and wipe them out immediately.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achC43",
+      "display_name": "Cool Score!",
+      "description": "Get a Score of 2,500,000 or more in the Chillsnap Colosseum",
+      "chapter": "World 3",
+      "hint": "Use a World 3 Colosseum ticket and clear the waves fast for a huge score.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achC44",
+      "display_name": "Dungeon Wallop",
+      "description": "Deal 25000 or more damage in a single hit within any Dungeon.",
+      "chapter": "Dungeons",
+      "hint": "Stack extreme damage buffs and powerful weapons in a party dungeon run to land a hit over 25k.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "_achA54"
+      ]
+    },
+    {
+      "apiname": "_achC45",
+      "display_name": "Boss Defeated",
+      "description": "Defeat Glaciaxus on its 1st difficulty",
+      "chapter": "Dungeons",
+      "hint": "Defeat the first stage of the boss in the World 3 party dungeon.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achC46",
+      "display_name": "Manager Defeated",
+      "description": "Defeat Glaciaxus on its 2nd difficulty",
+      "chapter": "Dungeons",
+      "hint": "Defeat the second stage of Glaciaxus in the party dungeon.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "_achC45"
+      ]
+    },
+    {
+      "apiname": "_achC47",
+      "display_name": "Kingpin Defeated",
+      "description": "Defeat Glaciaxus on its 3rd difficulty",
+      "chapter": "Dungeons",
+      "hint": "Defeat the third stage of Glaciaxus in the party dungeon.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "_achC46"
+      ]
+    },
+    {
+      "apiname": "_achC48",
+      "display_name": "Capitalist Win",
+      "description": "Complete 1000 jobs within the Glacial Basement dungeon.",
+      "chapter": "Dungeons",
+      "hint": "Over many runs in the World 3 party dungeon, complete the randomized tasks assigned by the statues.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achC49",
+      "display_name": "Equinox Visitor",
+      "description": "Find the Equinox Mirror drop from Bloodbones, a 1 in 1000 drop, and use it to visit the Equinox Valley.",
+      "chapter": "General",
+      "hint": "Farm Bloodbones in World 3 until they drop the Equinox Mirror, then use it to access the Equinox challenges.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achD1",
+      "display_name": "Channel Surfing",
+      "description": "Have a stack of exactly 75,000 TV remotes in your Storage Chest.",
+      "chapter": "World 4",
+      "hint": "Farm TV Remotes from the World 4 enemies and deposit exactly 75,000 into a single storage chest slot.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achD2",
+      "display_name": "Bottle Capital",
+      "description": "Have a stack of exactly 800,000 Bottle Caps in your Storage Chest.",
+      "chapter": "World 4",
+      "hint": "Deposit exactly 800,000 Bottle Caps (from catching) into an empty chest slot.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achD3",
+      "display_name": "Too Many Tentacles",
+      "description": "Have a stack of exactly 10,000,000 Wriggly Balls in your Storage Chest. Green Stack bro!",
+      "chapter": "World 4",
+      "hint": "A green stack requires 10 million. Deposit exactly 10,000,000 Wriggly Balls into your storage chest.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achD5",
+      "display_name": "Matrix Wickermen",
+      "description": "Accumulate 8760 hours, or an entire year, of Lab AFK time across all players.",
+      "chapter": "Lab",
+      "hint": "Leave your characters in the World 4 Lab until their cumulative time spent equals a full year.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achD6",
+      "display_name": "Bland Dish",
+      "description": "Cook a meal with no spices.",
+      "chapter": "Cooking",
+      "hint": "Try to discover a new meal in World 4 Cooking using absolutely no spices.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achD8",
+      "display_name": "I Like This Pet",
+      "description": "Get a Breedability III heart on at least 2 Pets within the nest.",
+      "chapter": "Breeding",
+      "hint": "In World 4 Breeding, breed pets until the breedability modifier hits level III on two separate pets.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achD9",
+      "display_name": "I LOVE These Pets",
+      "description": "Get a Breedability VII heart on at least 15 pets within the nest.",
+      "chapter": "Breeding",
+      "hint": "Breed pets heavily until 15 different pets have reached a breedability level of VII.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "_achD8"
+      ]
+    },
+    {
+      "apiname": "_achD10",
+      "display_name": "Shiny Shells",
+      "description": "Have 6 bronze (or rarer) eggs in your nest at the same time, waiting to be hatched!",
+      "chapter": "Breeding",
+      "hint": "Upgrade your eggs in World 4 Breeding and let them accumulate until you have 6 bronze or better eggs ready.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achD11",
+      "display_name": "Gilded Shells",
+      "description": "Have 12 gold (or rarer) eggs in your nest at the same time, waiting to be hatched!",
+      "chapter": "Breeding",
+      "hint": "Highly upgrade your egg rarity rate and let them pile up until you have 12 gold or better eggs.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "_achD10"
+      ]
+    },
+    {
+      "apiname": "_achD12",
+      "display_name": "Barley Lost",
+      "description": "Fail a pet battle with the enemy team having only 5% HP or less. Wait, barely it's spelled HOW???",
+      "chapter": "Breeding",
+      "hint": "Purposely set up a very close pet battle in the Arena or Foraging and lose when the enemy is almost dead.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achD14",
+      "display_name": "Cabbage Patch",
+      "description": "Have 5 kitchens all cooking cabbages at the same time. Remember gamers, eat your vegetables, they ain't so bad!",
+      "chapter": "Cooking",
+      "hint": "Unlock at least 5 kitchens in World 4 and set them all to cook Cabbages simultaneously.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achD15",
+      "display_name": "Le Pretzel Bleu",
+      "description": "Have 8 kitchens all cooking Pretzels at the same time. Don't get it twisted, them pretzels are the real deal.",
+      "chapter": "Cooking",
+      "hint": "Unlock at least 8 kitchens in World 4 and set them all to cook Pretzels simultaneously.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "_achD14"
+      ]
+    },
+    {
+      "apiname": "_achD16",
+      "display_name": "Michelin Ranked",
+      "description": "Upgrade any kitchen stat to Lv. 300, giving you an elite crown over the upgrade bars, thus resulting in dopamine.",
+      "chapter": "Cooking",
+      "hint": "Invest extreme amounts of coins/resources into upgrading a single Kitchen stat (like Speed) to level 300.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achD17",
+      "display_name": "WOAH That's Fast",
+      "description": "Have a speed of 'Too Fast' displayed while cooking an Eggplant. No this is not a metaphor.",
+      "chapter": "Cooking",
+      "hint": "Raise your cooking speed incredibly high so that when you try to cook Eggplants, the time displays as 'Too Fast'.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achD18",
+      "display_name": "Stars Among Stars",
+      "description": "Complete all constellations in the Hyperion Nebula. Thats what world 4 is called btw.",
+      "chapter": "World 4",
+      "hint": "Check the Telescope in World 1 or 4 and fulfill all the requirements for every World 4 star constellation.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achD19",
+      "display_name": "Chippin' Away",
+      "description": "Claim 25 chips from the Chip Repository. I was gonna make this 250 chips, but people from the future told me not to.",
+      "chapter": "Lab",
+      "hint": "Purchase 25 chips total from the Lab's Chip Repository (rotates weekly).",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achD20",
+      "display_name": "Hunned Times a Day",
+      "description": "Claim spices by any means 10,000 times. Like, individual claims.",
+      "chapter": "Breeding",
+      "hint": "Spam click to claim spices in the Foraging menu, or let pets gather for a very long time.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achD21",
+      "display_name": "Good Plate",
+      "description": "Upgrade a meal at the Dinner Menu to the point where it gets a diamond plate!",
+      "chapter": "Cooking",
+      "hint": "Upgrade any meal to level 11 to obtain the Diamond Plate.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achD22",
+      "display_name": "Great Plate",
+      "description": "Upgrade a meal at the Dinner Menu to the point where it gets a purple plate!",
+      "chapter": "Cooking",
+      "hint": "Upgrade any meal to level 30 to obtain the Purple Plate.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "_achD21"
+      ]
+    },
+    {
+      "apiname": "_achD23",
+      "display_name": "Best Plate",
+      "description": "Upgrade a meal at the Dinner Menu to the point where it gets a void pearl plate!",
+      "chapter": "Cooking",
+      "hint": "Upgrade any meal to an extremely high level (50+) to unlock the Void Pearl plate.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "_achD22"
+      ]
+    },
+    {
+      "apiname": "_achD24",
+      "display_name": "Space Party!!!",
+      "description": "Dance with at least 5 other people while you're all in World 4 town!",
+      "chapter": "World 4",
+      "hint": "Gather in World 4 town on a crowded server and type '/dance' with 5 other players simultaneously.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achD25",
+      "display_name": "Zero G Scoring",
+      "description": "Get a Score of 10,000,000 or more in the Astro Colosseum",
+      "chapter": "World 4",
+      "hint": "Use a World 4 Colosseum ticket and clear the waves extremely fast with high Area-of-Effect classes.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achD28",
+      "display_name": "Soda Poisoning",
+      "description": "Beat wave 50 of Clash of Cans with 3 Poisonic Elders at Lv 5 or higher. Also, you can't sell towers.",
+      "chapter": "Worship",
+      "hint": "Play the Clash of Cans tower defense, build three Poisonic Elders, upgrade them to Lv 5, and win wave 50 without selling anything.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achD29",
+      "display_name": "The True King",
+      "description": "Reach a total of 1 million Orb Kills.",
+      "chapter": "Classes",
+      "hint": "Use the Divine Knight class and repeatedly active-farm maps using the Divine Knight's Orb skill to rack up kills.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achD30",
+      "display_name": "The True Pirate",
+      "description": "Reach a total of 1 million Plunderous Kills. This one is the true challenge of the three.",
+      "chapter": "Classes",
+      "hint": "Use the Siege Breaker class and active-farm maps where Plunderous Mobs spawn from the flag to rack up kills.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achD31",
+      "display_name": "The True Emperor",
+      "description": "Reach a total of 1 million Wormhole Kills.",
+      "chapter": "Classes",
+      "hint": "Use the Elemental Sorcerer class and active-farm maps, destroying mobs spawned out of the Wormhole.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achD32",
+      "display_name": "Veritable Master",
+      "description": "Destruction comes to all who cross your path, no matter how many times you cross paths.",
+      "chapter": "Classes",
+      "hint": "Complete the 'True King', 'True Pirate', and 'True Emperor' achievements by mastering the active skills of all three elite classes.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "_achD29",
+        "_achD30",
+        "_achD31"
+      ]
+    },
+    {
+      "apiname": "_achE0",
+      "display_name": "Maple Logger",
+      "description": "Have a stack of exactly 200,000 Maple Logs in your Storage Chest.",
+      "chapter": "World 5",
+      "hint": "Deposit exactly 200,000 Maple Logs (chopped in W5) into an empty chest slot.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achE1",
+      "display_name": "Vitamin D-licious",
+      "description": "Have a stack of exactly 5,000,000 Orange Slices in your Storage Chest.",
+      "chapter": "World 5",
+      "hint": "Deposit exactly 5,000,000 Orange Slices (dropped by World 5 Oranges) into an empty chest slot.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achE2",
+      "display_name": "Wurm Wumbo",
+      "description": "Have a stack of exactly 100,000,000 Mongo Worm Slices in your Storage Chest.",
+      "chapter": "World 5",
+      "hint": "Deposit exactly 100,000,000 Mongo Worm Slices (dropped by World 5 Worms) into an empty chest slot. Green stack!",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achE3",
+      "display_name": "Supernatural Gamer",
+      "description": "Reach level 300 on any character! My oh my! This would have been inconceivable just a few years ago!",
+      "chapter": "General",
+      "hint": "Level up one character to level 300. XP modifiers, alchemy, and high-level World 5/6 farming are necessary.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Achieve8"
+      ]
+    },
+    {
+      "apiname": "_achE4",
+      "display_name": "Smokin' Stars",
+      "description": "Complete all constellations in the Smolderin' Plateau. You can check your progress within the Telescope.",
+      "chapter": "World 5",
+      "hint": "Check the Telescope in town and fulfill all requirements for every World 5 star constellation.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achE5",
+      "display_name": "The Plateauourist",
+      "description": "Reach World 5, a personal favorite world of mine! Look, I like lava what can I say.",
+      "chapter": "World 5",
+      "hint": "Defeat Troll in World 4 and enter the portal to unlock World 5.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Achieve60"
+      ]
+    },
+    {
+      "apiname": "_achE6",
+      "display_name": "No Krakens? ):",
+      "description": "Reach Wave 50 of Citric Conflict tower defence without placing a single Kraken Towers. Not even one.",
+      "chapter": "Worship",
+      "hint": "Play the Citric Conflict tower defense relying on Party Starters, Poisonic Elders, and Boulder Rollers.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achE7",
+      "display_name": "Artifact Finder",
+      "description": "Collect 15 Artifacts from Sailing",
+      "chapter": "Sailing",
+      "hint": "Send ships to islands in World 5 Sailing to discover 15 distinct artifacts.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achE8",
+      "display_name": "Artifact Enjoyer",
+      "description": "Collect all 30 Artifacts from Sailing",
+      "chapter": "Sailing",
+      "hint": "Unlock and explore all islands in World 5 Sailing to find all 30 base artifacts.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "_achE7"
+      ]
+    },
+    {
+      "apiname": "_achE9",
+      "display_name": "Artifact Jones",
+      "description": "Collect all 30 ANCIENT Artifacts from Sailing. All that glitters is not gold, but it sure is shiny!",
+      "chapter": "Sailing",
+      "hint": "Keep searching islands you've already found artifacts on to upgrade all 30 artifacts to Ancient (Gold) tier.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "_achE8"
+      ]
+    },
+    {
+      "apiname": "_achE10",
+      "display_name": "Gilded Vessel",
+      "description": "Upgrade a boat to Lv 100 in Sailing. It'll turn gold to reflect its power!",
+      "chapter": "Sailing",
+      "hint": "Spend materials upgrading the speed/loot stats of a single boat in World 5 Sailing until it reaches level 100.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achE11",
+      "display_name": "Maroon Warship",
+      "description": "Upgrade a boat to Lv 300 in Sailing. This is the pinnacle of naval prowess, it doesn't get fancier than this!",
+      "chapter": "Sailing",
+      "hint": "Continue upgrading a single boat in World 5 Sailing heavily until it hits level 300.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "_achE10"
+      ]
+    },
+    {
+      "apiname": "_achE12",
+      "display_name": "Glory To Nobisect",
+      "description": "Unlock the 3rd Divinity God.",
+      "chapter": "Divinity",
+      "hint": "Gain enough Divinity points in World 5 to unlock Nobisect, the 3rd god.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achE13",
+      "display_name": "All Hail Purrmep",
+      "description": "Unlock the 7th Divinity God.",
+      "chapter": "Divinity",
+      "hint": "Gain enough Divinity points to unlock Purrmep, the 7th god.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "_achE12"
+      ]
+    },
+    {
+      "apiname": "_achE14",
+      "display_name": "Long Live Bagur",
+      "description": "Unlock the 10th and final Divinity God.",
+      "chapter": "Divinity",
+      "hint": "Gain enough Divinity points to unlock Bagur, the 10th god.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "_achE13"
+      ]
+    },
+    {
+      "apiname": "_achE15",
+      "display_name": "POiNG Champion",
+      "description": "Get a POiNG score of 25,000 or more! My personal highscore is 38,323 at the time of coding this!",
+      "chapter": "Minigames",
+      "hint": "Play the hidden POiNG minigame in World 5 (accessed via the Gaming interface or specific secret) and score at least 25,000.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achE16",
+      "display_name": "Lucky Harvest",
+      "description": "Harvest a plant with a Bit worth who's first 3 digits are 777. For example, 77.7K Bits would count, or 777M Bits too!",
+      "chapter": "Gaming",
+      "hint": "A luck-based achievement in World 5 Gaming. Keep harvesting plants until the value lands exactly on a 777 sequence.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achE17",
+      "display_name": "Chemical Collector",
+      "description": "Harvest a total of 1000 Chemical-type Plants in Gaming.",
+      "chapter": "Gaming",
+      "hint": "Unlock the Chemical plant mutation in World 5 Gaming and harvest 1000 of them over time.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achE18",
+      "display_name": "Voraci Vantasia",
+      "description": "Harvest a total of 500 Voraci-type Plants in Gaming.",
+      "chapter": "Gaming",
+      "hint": "Unlock the Voraci plant mutation in World 5 Gaming and harvest 500 of them over time.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achE19",
+      "display_name": "Bonsai Bonanza",
+      "description": "Harvest a total of 100 Bonsai-type Plants in Gaming.",
+      "chapter": "Gaming",
+      "hint": "Unlock the Bonsai plant mutation in World 5 Gaming and harvest 100 of them.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achE20",
+      "display_name": "Perfect Trade Deal",
+      "description": "Make a trade with Blobby G worth a gold bar amount that starts with 777, like 777K or 7.77M for example. PS; 776 and 778 work too lol",
+      "chapter": "Sailing",
+      "hint": "Manipulate your Sailing loot and check the daily trades with Blobby G to find or create one that hits the 777 gold bar threshold.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achE21",
+      "display_name": "True Naval Captain",
+      "description": "Buy all 20 Boats in Sailing. Uh, yea, there is a scroll bar below the boats, you can buy more than 5 boats",
+      "chapter": "Sailing",
+      "hint": "Unlock and purchase all 20 available boats from the World 5 Sailing dock.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achE22",
+      "display_name": "Legendary Orb",
+      "description": "On your Divine Knight, get an Orb Score of 400 or more on OJ Bay. This is the number above your Orb!",
+      "chapter": "Classes",
+      "hint": "Go to OJ Bay, pop your Divine Knight Orb skill, and use high-speed clearing methods to score over 400 before it expires.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achE23",
+      "display_name": "Legendary Flag",
+      "description": "On your Siege Breaker, get a Flag Score of 150 or more on Erruption River. This is the number above your Flag!",
+      "chapter": "Classes",
+      "hint": "Go to Erruption River on your Siege Breaker, place your flag, and kill enemies fast enough to reach 150 score.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achE24",
+      "display_name": "Legendary Wormhole",
+      "description": "On your Elemental Sorcerer, get a Wormhole Score of 83 or more on Niagrilled Falls. This is the number above your Wormhole!",
+      "chapter": "Classes",
+      "hint": "Go to Niagrilled Falls on your Elemental Sorcerer, use the Wormhole skill, and clear fast enough to hit a score of 83.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achE25",
+      "display_name": "Utter DISRESPECT",
+      "description": "Defeat Kattlecruk while unequipped of all armor and weapons.",
+      "chapter": "Bosses",
+      "hint": "Unequip your armor and weapon before defeating the World 5 boss, Kattlecruk. You can weaken him first, then swap gear before the final blow.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achE26",
+      "display_name": "Sneaky Stealing",
+      "description": "Steal an item.",
+      "chapter": "World 5",
+      "hint": "Relates to the World 5 Shop mechanics. Potentially interacting with or acquiring a specific item in a cheeky way.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achE27",
+      "display_name": "Broken Controller",
+      "description": "Fail a minigame instantly or rapidly.",
+      "chapter": "Minigames",
+      "hint": "In a World 5 minigame, fail immediately upon starting it multiple times.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achE28",
+      "display_name": "Lavathian Skulls",
+      "description": "Get a Lava Skull or higher on every Smolderin' Plateau monster in the Deathnote. Yea, the 100M Kill Skull. This is gonna take a while.",
+      "chapter": "Deathnote",
+      "hint": "Defeat 100 million of every single monster in World 5. This requires immense multikill multipliers.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achE29",
+      "display_name": "Seaworthy Captain",
+      "description": "Level up a Sailing Captain to Lv 15. Few captains in the universe can rival their ability to plunder!",
+      "chapter": "Sailing",
+      "hint": "Keep sending a specific captain on voyages in World 5 Sailing until they reach level 15.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "_achE30"
+      ]
+    },
+    {
+      "apiname": "_achE30",
+      "display_name": "Grand Captain",
+      "description": "Level up a Sailing Captain to Lv 10. They shall sail the seas with confidence!",
+      "chapter": "Sailing",
+      "hint": "Keep sending a specific captain on voyages in World 5 Sailing until they reach level 10.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achF0",
+      "display_name": "Valley Visitor",
+      "description": "Reach World 6, the Spirited Valley! You'll love it here, all the spirits are very friendly!",
+      "chapter": "World 6",
+      "hint": "Defeat Kattlecruk in World 5 and go through the portal to unlock World 6.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "_achE5"
+      ]
+    },
+    {
+      "apiname": "_achF1",
+      "display_name": "Scorin' the Ladies",
+      "description": "Have a stack of exactly 250,000 Ladybugs in your Storage Chest.",
+      "chapter": "World 6",
+      "hint": "Deposit exactly 250,000 Ladybugs (from catching) into an empty chest slot.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achF2",
+      "display_name": "Effervess Enthusiess",
+      "description": "Have a stack of exactly 5,000,000 Effervescent Logs in your Storage Chest.",
+      "chapter": "World 6",
+      "hint": "Deposit exactly 5,000,000 Effervescent Logs (chopped in W6) into an empty chest slot.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achF3",
+      "display_name": "That's MY Crown",
+      "description": "Have a stack of exactly 100,000,000 Royal Headpiece in your Storage Chest.",
+      "chapter": "World 6",
+      "hint": "Deposit exactly 100,000,000 Royal Headpiece monster drops into an empty chest slot.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achF4",
+      "display_name": "Leet Lanterns",
+      "description": "Have exactly 1337 Lanterns in your inventory.",
+      "chapter": "World 6",
+      "hint": "Deposit or manage your inventory to hold exactly 1,337 Lanterns from World 6.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achF5",
+      "display_name": "Lil' Overgrowth",
+      "description": "Get an overgrowth of 32x on a single crop.",
+      "chapter": "Farming",
+      "hint": "Let a plant sit on your World 6 Farming plot until its overgrowth multiplier reaches exactly or surpasses 32x.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achF6",
+      "display_name": "Major Overgrowth",
+      "description": "Get an overgrowth of 1,024x on a single crop.",
+      "chapter": "Farming",
+      "hint": "Unlock the higher overgrowth limits in Farming and wait for a crop to hit 1,024x.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "_achF5"
+      ]
+    },
+    {
+      "apiname": "_achF7",
+      "display_name": "Unreal Overgrowth",
+      "description": "Get an overgrowth of 8,192x on a single crop.",
+      "chapter": "Farming",
+      "hint": "Max out overgrowth capabilities and let a crop sit for a very long time to reach 8,192x.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "_achF6"
+      ]
+    },
+    {
+      "apiname": "_achF8",
+      "display_name": "Doctor Repellant",
+      "description": "Have 10,000 or more Apple crops in your Depot at once. You can lock the first crop before it grows to guarantee an apple!",
+      "chapter": "Farming",
+      "hint": "Grow and harvest Apples in World 6 Farming until your depot holds 10,000.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achF9",
+      "display_name": "Cob Enjoyer",
+      "description": "Have 1,000,000 or more Corn crops in your Depot at once. Mmmm, Corn!",
+      "chapter": "Farming",
+      "hint": "Grow and harvest Corn in World 6 Farming until your depot holds 1,000,000.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achF10",
+      "display_name": "Science Undergrad",
+      "description": "Find 30 unique crops, as shown by the Crop Scientist!",
+      "chapter": "Farming",
+      "hint": "Use Magic Beans and upgrades to unlock 30 different crop mutations.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achF11",
+      "display_name": "Science Graduate",
+      "description": "Find 70 unique crops, as shown by the Crop Scientist!",
+      "chapter": "Farming",
+      "hint": "Use Magic Beans and upgrades to unlock 70 different crop mutations.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "_achF10"
+      ]
+    },
+    {
+      "apiname": "_achF12",
+      "display_name": "Science Post Doc",
+      "description": "Find 110 unique crops, as shown by the Crop Scientist!",
+      "chapter": "Farming",
+      "hint": "Use Magic Beans and upgrades to unlock 110 different crop mutations.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "_achF11"
+      ]
+    },
+    {
+      "apiname": "_achF13",
+      "display_name": "Crop Flooding",
+      "description": "Fill every single plot with the exact same crop.",
+      "chapter": "Farming",
+      "hint": "Lock in one specific seed for every plot on your World 6 Farm until they all match.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achF14",
+      "display_name": "Legumulucky",
+      "description": "Make a crop trade with the Legumulyte worth exactly 777 magic beans.",
+      "chapter": "Farming",
+      "hint": "Check the Magic Bean trades daily and try to set up an exact trade of 777.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achF15",
+      "display_name": "Big Time Land Owner",
+      "description": "Get 27 plots of land in your farm.",
+      "chapter": "Farming",
+      "hint": "Unlock maximum plots on your World 6 farm by purchasing expansions with Magic Beans.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achF16",
+      "display_name": "Ceramic Sneaking",
+      "description": "Reach the Sneaking Floor with the Petrified Ceramist guest.",
+      "chapter": "Sneaking",
+      "hint": "Climb up the floors in World 6 Sneaking until you encounter the Petrified Ceramist.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achF17",
+      "display_name": "Top Floor Sneaking",
+      "description": "Reach what seems like the top Floor of Sneaking with the Eldar Kingulyte guest.",
+      "chapter": "Sneaking",
+      "hint": "Reach the highest available floors in the Sneaking building.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "_achF16"
+      ]
+    },
+    {
+      "apiname": "_achF18",
+      "display_name": "Untying Extraordinaire",
+      "description": "Untie 6 other Ninja Twins.",
+      "chapter": "Sneaking",
+      "hint": "Find and untie 6 Ninja Twins while exploring the floors in Sneaking.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achF19",
+      "display_name": "Lucky Stealy",
+      "description": "Successfully find 6 items in a row, in a single AFK claim within Sneaking.",
+      "chapter": "Sneaking",
+      "hint": "Equip high find-chance items and leave your ninjas to idle, claiming when they are likely to succeed 6 steals back-to-back.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achF20",
+      "display_name": "Yellow Belt",
+      "description": "Find a +50 Yellow Belt Sneaking Charm. Yes, exactly +50.",
+      "chapter": "Sneaking",
+      "hint": "Loot charms in Sneaking until you get a Yellow Belt that provides exactly +50 to its stat.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achF21",
+      "display_name": "Straw Hat Stacking",
+      "description": "Equip the Straw Hat or stack buffs.",
+      "chapter": "General",
+      "hint": "Relates to finding/equipping the Straw Hat related to World 6 mechanics.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achF22",
+      "display_name": "Best Bloomie",
+      "description": "Get a Bloomy Summoning Familiar.",
+      "chapter": "Summoning",
+      "hint": "In World 6 Summoning, successfully summon a Bloomy familiar.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achF23",
+      "display_name": "Regalis My Beloved",
+      "description": "Get a Regalis Summoning Familiar.",
+      "chapter": "Summoning",
+      "hint": "In World 6 Summoning, successfully summon a rare Regalis familiar.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achF24",
+      "display_name": "This, is, Summoning!",
+      "description": "Survive for 5 minutes in The King's Gambit. Find this feature in Cavern 14 of the Hole in world 5.",
+      "chapter": "Summoning",
+      "hint": "Access the King's Gambit mode via the World 5 hole caverns and use defensive/stall tactics to survive 5 minutes.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achF25",
+      "display_name": "Summoning CM",
+      "description": "Get 10 Career Wins within Summoning",
+      "chapter": "Summoning",
+      "hint": "Win 10 matches in the Summoning battles.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achF26",
+      "display_name": "Summoning IM",
+      "description": "Get 25 Career Wins within Summoning",
+      "chapter": "Summoning",
+      "hint": "Win 25 matches in the Summoning battles.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "_achF25"
+      ]
+    },
+    {
+      "apiname": "_achF27",
+      "display_name": "Summoning GM",
+      "description": "Get 58 Career Wins within Summoning",
+      "chapter": "Summoning",
+      "hint": "Win 58 matches in the Summoning battles.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "_achF26"
+      ]
+    },
+    {
+      "apiname": "_achF28",
+      "display_name": "Penta Defence",
+      "description": "Reach Wave 50 in Breezy Battle without placing more than 5 Towers in total.",
+      "chapter": "Worship",
+      "hint": "Play the Breezy Battle tower defense using only 5 towers max, prioritizing powerful upgrades over volume.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achF29",
+      "display_name": "Spectre Stars",
+      "description": "Complete all constellations in the Spirited Valley. You can check your progress within the Telescope.",
+      "chapter": "World 6",
+      "hint": "Check the Telescope in town and fulfill all requirements for every World 6 star constellation.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achF30",
+      "display_name": "Beanstacker Trainee",
+      "description": "Add 5 different golden foods to The Beanstalk.",
+      "chapter": "Beanstalk",
+      "hint": "Collect the required base amount (usually 10,000) of 5 different Golden Foods to store them in the Beanstalk.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achF31",
+      "display_name": "Big Big Hampter",
+      "description": "Find or interact with the Giant Hampter.",
+      "chapter": "World 6",
+      "hint": "Breed or discover the secret Giant Hampter pet/summon.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achF32",
+      "display_name": "Ghost Buster",
+      "description": "Defeat a specific spirit challenge.",
+      "chapter": "World 6",
+      "hint": "Defeat the ghost/spirit enemy in World 6.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achF33",
+      "display_name": "Beanstacker Prodigy",
+      "description": "Add 14 different golden foods to The Beanstalk.",
+      "chapter": "Beanstalk",
+      "hint": "Collect the required base amount (usually 10,000) of 14 different Golden Foods to store them in the Beanstalk.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "_achF30"
+      ]
+    },
+    {
+      "apiname": "_achF34",
+      "display_name": "W6 is Donezo",
+      "description": "Get a Lava Skull or higher on every Spirited Valley monster in the Deathnote.",
+      "chapter": "Deathnote",
+      "hint": "Defeat 100 million of every single monster in World 6.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "_achE31",
+      "display_name": "Hug_from_Timmy",
+      "description": "Receive a hug from Timmy.",
+      "chapter": "General",
+      "hint": "Secret achievement relating to the World 5 or World 6 NPC interactions, possibly requiring a specific item drop.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    }
+  ],
+  "checklists": []
+}
