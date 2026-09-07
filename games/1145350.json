@@ -1,0 +1,1658 @@
+{
+  "gameName": "Hades II",
+  "chapters": [
+    "Story",
+    "Relationship",
+    "Battle",
+    "Grinding"
+  ],
+  "links": [],
+  "achievements": [
+    {
+      "apiname": "AchClearErebus",
+      "display_name": "Witch of the Woods",
+      "description": "Clear Erebus",
+      "chapter": "Story",
+      "hint": "Complete the first area of the Underworld: Erebus.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "AchClearOceanus",
+      "display_name": "Witch of the Depths",
+      "description": "Clear Oceanus",
+      "chapter": "Story",
+      "hint": "Complete the second area of the Underworld: Oceanus.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "AchClearErebus"
+      ]
+    },
+    {
+      "apiname": "AchClearFields",
+      "display_name": "Witch of the Plains",
+      "description": "Clear the Fields of Mourning",
+      "chapter": "Story",
+      "hint": "Complete the third area of the Underworld: Fields of Mourning.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "AchClearErebus",
+        "AchClearOceanus"
+      ]
+    },
+    {
+      "apiname": "AchClearTartarus",
+      "display_name": "Witch of the Abyss",
+      "description": "Clear Tartarus",
+      "chapter": "Story",
+      "hint": "Complete the fourth area of the Underworld: Tartarus.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "AchClearErebus",
+        "AchClearOceanus",
+        "AchClearFields"
+      ]
+    },
+    {
+      "apiname": "AchClearEphyra",
+      "display_name": "Witch of the Outskirts",
+      "description": "Clear the City of Ephyra",
+      "chapter": "Story",
+      "hint": "Complete the first area of the Surface: City of Ephyra.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "AchClearThessaly",
+      "display_name": "Witch of the Waters",
+      "description": "Clear the Rift of Thessaly",
+      "chapter": "Story",
+      "hint": "Complete the second area of the Surface: Rift of Thessaly.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "AchClearEphyra"
+      ]
+    },
+    {
+      "apiname": "AchClearOlympus",
+      "display_name": "Witch of the Mountains",
+      "description": "Clear Mount Olympus",
+      "chapter": "Story",
+      "hint": "Complete the third area of the Surface: Mount Olympus.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "AchClearEphyra",
+        "AchClearThessaly"
+      ]
+    },
+    {
+      "apiname": "AchClearSummit",
+      "display_name": "Witch of the Clouds",
+      "description": "Clear the Summit",
+      "chapter": "Story",
+      "hint": "Complete the fourth area of the Surface: Summit",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "AchClearEphyra",
+        "AchClearThessaly",
+        "AchClearOlympus"
+      ]
+    },
+    {
+      "apiname": "AchCauldronSpells1",
+      "display_name": "So Mote It Be",
+      "description": "Cast 50 Incantations at the Crossroads Cauldron",
+      "chapter": "Grinding",
+      "hint": "Pretty hard to not get, just do every incantation you get.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "AchBathHouse",
+      "display_name": "Soothing Soak",
+      "description": "Take one of your comrades to the Hot Springs",
+      "chapter": "Relationship",
+      "hint": "To unlock the Soothing Soak achievement you must complete the incantation \"Rite of Vapor-Cleansing\" to unlock the Hot Springs and then gift a character \"Bathing Salts\" to invite them. \nTo get the incantation you need:\n-Moros to arrive at the crossroad\n-Gifted 6 or more nectar\n-Gifted at least 2 to at least one of the following npcs: Hecate, Odysseus, Nemesis, Eris, Moros, Dora or Icarus",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "AchFishingPier",
+      "display_name": "Catch of the Night",
+      "description": "Take one of your comrades to the Fishing Pier",
+      "chapter": "Relationship",
+      "hint": "To unlock the Catch of the Night achievement you must complete the incantation \"Rite of River-Fording\" to unlock the Fishing Pier and then gift a character \"Twin Lures\" to invite them. \nTo get the incantation you need:\n-Rod of Fishing unlocked\n-Gifted 12 or more nectar in total.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "AchTaverna",
+      "display_name": "Ambrosia for Two",
+      "description": "Take one of your comrades to the Taverna",
+      "chapter": "Relationship",
+      "hint": "To unlock the Ambrosia for Two achievement you must complete the incantation \"Rite of Social-Solidarity\" to unlock the Taverna and then gift a character \"Ambrosia\" to invite them. \nTo get the incantation you need to have gifted 12 or more nectar in total.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "AchForgeBonds",
+      "display_name": "Close Comrades",
+      "description": "Forge a bond with 10 comrades",
+      "chapter": "Relationship",
+      "hint": "Most of the characters max bond levels are locked behind the ending and other requirements later but the ones you can get before that are Hephaestus and Charon.\nDo note that the ones that have achievements tied to them are Dora, Odysseus, Arachne, Echo, Narcissus, and Hypnos.\nRegardless, do atleast gift 1 nectar to every character for their keepsake, which is another achievement.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "AchTrueEnding"
+      ]
+    },
+    {
+      "apiname": "AchProphecies1",
+      "display_name": "Hand of the Fates",
+      "description": "Fulfill 60 Minor Prophecies",
+      "chapter": "Grinding",
+      "hint": "There's a total of 89 prophecies in Hades 2. Every god has their \"Get all my boons\" prophecies aswell as get all duo/legendary ones but besides that you won't really need to get out of your way, just aim to do whatever prophecy you can. You can find these after Moros enters the crossroads.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "AchMaxMem",
+      "display_name": "Mind for Magick",
+      "description": "Gain 30 Grasp at the Altar of Ashes",
+      "chapter": "Grinding",
+      "hint": "The total cost to get Grasp 30 is 2,596 Psyche, 2 Shadow Extracts and 2 Darkness.\nYou upgrade your grasp level at the Altar of Ashes in the Training Grounds.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "AchAllArcana",
+      "display_name": "Breadth of Knowledge",
+      "description": "Fulfill the Prophecy 'Breadth of Knowledge'",
+      "chapter": "Grinding",
+      "hint": "Unlock all of the Arcana cards at the Altar of Ashes in the training grounds.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "AchAllArcanaMax",
+      "display_name": "Unassailable Insight",
+      "description": "Fully upgrade all Arcana",
+      "chapter": "Grinding",
+      "hint": "To be able to upgrade Arcana you need to finish the incantation \"Consecration of Ashes\". To obtain the incantation you need to:\n- Defeat Hecate 5 or more times\n- Have 20 or more Grasp\n- Unlock 10 or more Arcana Cards\n- Summoning of Mercantile Fortune unlocked (Wretched Broker incantation)\nYou will receive the incantation from Hecate after defeating her.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "AchAllArcana"
+      ]
+    },
+    {
+      "apiname": "AchAllWeapons",
+      "display_name": "The Arms of Night",
+      "description": "Fulfill the Prophecy 'The Arms of Night'",
+      "chapter": "Grinding",
+      "hint": "Unlock all six Nocturnal Arms in the Training Grounds. To unlock the last two, simply craft the other weapons.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "AchAllAspects",
+      "display_name": "The Unseen Sentinel",
+      "description": "Fulfill the Prophecy 'The Unseen Sentinel'",
+      "chapter": "Grinding",
+      "hint": "Obtain all aspects of all of the Nocturnal Arms, including secret. For a guide on how to get the secret ones, check the \"checklist\" section for the Bearing of Dark Gifts checklist, which is tied to this achievement.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "AchAllWeapons"
+      ]
+    },
+    {
+      "apiname": "AchConfideFrinos",
+      "display_name": "Familiar Confidant",
+      "description": "Fulfill the Prophecy 'Familiar Confidant'",
+      "chapter": "Grinding",
+      "hint": "Near Melinoë's tent there's \"Frinos\", the frog. Interact with them after each run and you should get the achievement and prophecy after 6 runs.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "AchAllFamiliars",
+      "display_name": "Animal Whisperer",
+      "description": "Recruit all Animal Familiars",
+      "chapter": "Grinding",
+      "hint": "To be able to recruit Animal Familiars you must complete the incantation \"Faith of Familiar Spirits\".\nTo unlock the incantation you need to:\n- Defeat Hecate 7 times or more\n- Gathered 2 times with the Crescent Pick\n- Gathered 8 times with the Tablet of Peace\n- Gathered 1 time with the Silver Spade\n\nFor a guide on how to get all animal familiars, check the checklist section.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "AchAllFamiliarsMax",
+      "display_name": "Beast Master",
+      "description": "Fully upgrade all Animal Familiars",
+      "chapter": "Grinding",
+      "hint": "To be able to upgrade Familiars, you must finish the incantation \"Bravery of Familiar Spirits\" which requires:\n- The ability to recruit Animal Familiars\n- Having spent 4 treats total in recruiting Animal Familiars.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "AchAllFamiliars"
+      ]
+    },
+    {
+      "apiname": "AchEarnPrestige1",
+      "display_name": "Giving Back",
+      "description": "Earn 10,000 Kudos",
+      "chapter": "Grinding",
+      "hint": "You get kudos by recycling materials.\nTo do this you need to do the incantation \"Earthly Fortune\". To unlock said incantation, you need to:\n- Gift at least 1 nectar to Dora\n- Have at least 40 progression upgrades or more (Incantations, Nocturnal Arms, Familiars, etc.)\n- Trigger the specific Dora dialogue that makes her able to start decorating the base. \n* There is an achievement related to Dora's relationship so don't get frustrated if you don't get the trigger, you'll get there eventually!\n\nIn case you want to start gathering materials early, the most expensive items to sell (in order) are: Flux (177kudos), Snake-Reed (140kudos), Poppy (140kudos), Olive/Wheat (120kudos), Cattail/Mandrake (100kudos), Thalamus (99kudos). Everything else gives under 99 kudos.\nOlives are probably the easiest to farm although Thalamus gives 2 per harvest and you will only need 2 to unlock everything they can be used for in the entire game. Besides one bat incantation from Rubbish, Rubbish and Gemstones's main use is getting kudos, but they don't give much. \n*OPTIONAL: You might want to wait until you unlock the incantation \"Observance of Gaia's Secrets\" since it adds a 35% chance of getting an extra seed when harvesting, which is mega useful for the rare Origin Seeds. It requires all soil upgrades and the ability to upgrade gathering tools. To get all soil upgrades you need to harvest at least:\n- 6 Moly\n- 4 Nightshade\n- 1 Cattail\n- 1 Wheat\n- 4 Mandrake\n- 4 Poppy\n- 4 Garlic\n- 1 Olive\n\nThe way I farmed this achievement was by equipping \"Hecuba, the Hound\" as a familiar to improve the chances of seed spots appearing then going surface route to get Olives from Mount Olympus. As I do this, I take every chaos gate I see for even more seeds, while checking wells of charon for the item that guarantees a gate. \nWith Observance of Gaia's Secrets and Origin seeds in all plots, I was able to plant -> do a bond event/chaos trial -> harvest all -> plant again -> go into a run.\nSince each harvest gives you two Thalamus, with every soil plot with Origin Seeds, you get 1188 kudos which means you can be done with it in around 11 or less runs. Fill whatever you couldn't fill with olive branches and you'll be swimming in kudos in no time.\n\n!!!You will only get the achievement after you *spend* a total of 10,000 kudos, as that is what the prophecy asks for.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "AchAllKeepsakes",
+      "display_name": "Sentimental Value",
+      "description": "Collect every Keepsake",
+      "chapter": "Grinding",
+      "hint": "You obtain a Keepsake the first time you gift a Nectar to an NPC.\nFor a full list of Keepsakes, check the checklist section.\nDo know that 3 Keepsakes can only be given by post-game characters.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "AchTrueEnding",
+        "AchWinSecretContest"
+      ]
+    },
+    {
+      "apiname": "AchBounties1",
+      "display_name": "Infinite Possibility",
+      "description": "Clear 20 Chaos Trials",
+      "chapter": "Battle",
+      "hint": "To unlock Chaos Trials one must finish the incantation \"Abyssal Insight\" obtained by\n- Converting 3 Chaos curses into blessings then speaking to Chaos\n- Doing the incantation \"Unraveling a Fateful Bond\" (obtained after speaking to Moros after a run in the Surface, regardless of outcome)\n\nOnce the incantation \"Abyssal Insight\" is done, head to the stone where the Infernal Arms are at and clear 20 Chaos Trials.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "AchAllRandomStreak",
+      "display_name": "Improbable Outcomes",
+      "description": "Fulfill the Prophecy 'Improbable Outcomes'",
+      "chapter": "Battle",
+      "hint": "After unlocking all weapons and their aspects (including hidden), and having the Chaos Trials unlocked, you unlock the randomized Chaos Trials. These randomize weapons and keepsakes and depending if it's a \"Great\" trial or not, also randomizes Vows from the Oath of the Unseen.\n\nFor you to get this achievement you must clear two randomized trials **in a row**. I recommend first doing the achievement \"Chaos in Hell\" followed by a 0 fear randomized trial to avoid doing more than two of these.\n\nThe achievement pops shortly after getting back to base.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "AchAllRandomUnderworld"
+      ]
+    },
+    {
+      "apiname": "AchAllRandomUnderworld",
+      "display_name": "Chaos in Hell",
+      "description": "Clear the 'Great Chaos Below' Trial",
+      "chapter": "Battle",
+      "hint": "After unlocking all weapons and their aspects (including hidden), and having the Chaos Trials unlocked, you unlock the randomized Chaos Trials. These randomize weapons and keepsakes and depending if it's a \"Great\" trial or not, also randomizes Vows from the Oath of the Unseen.\n\nFor you to get this achievement you must specifically select the trial called \"Great Chaos Below\", which will take you to the underground with your loadout randomized.\n\nThe achievement pops shortly after getting back to base.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "AchBounties1"
+      ]
+    },
+    {
+      "apiname": "AchBeatHecateNoArcana",
+      "display_name": "Natural Talent",
+      "description": "Fulfill the Prophecy 'Natural Talent'",
+      "chapter": "Battle",
+      "hint": "Defeat Hecate with no Arcana cards enabled.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "AchClearErebus"
+      ]
+    },
+    {
+      "apiname": "AchHelpOdysseus",
+      "display_name": "Unfinished Business",
+      "description": "Fulfill the Prophecy 'Unfinished Business'",
+      "chapter": "Relationship",
+      "hint": "Complete Odysseus side-quest.\nTo get it you must have\n- 10+ hearts with him\n- Achieved the ending\n\nAfter that he'll give you the prophecy \"Nobody but Nobody\" which will ask you to bring his Keepsake to a bunch of bosses and npcs. After that's done, he'll leave and then come back and give you the achievement.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "AchTrueEnding"
+      ]
+    },
+    {
+      "apiname": "AchHelpDora",
+      "display_name": "Haunted by the Past",
+      "description": "Fulfill the Prophecy 'Haunted by the Past'",
+      "chapter": "Relationship",
+      "hint": "The first time Dora accepts Ambrosia as a gift (10 hearts), she'll give you the prophecy \"Haunted by the Past\" which asks you to speak to Prometheus and then Dora around 4 times. Do note you can still get this if Prometheus is affected by the Vow of Rivals, although the new introductory dialogue will take priority over the quest.\n\nYou'll get the achievement after the last time you are required to speak to Dora.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "AchClearOlympus"
+      ]
+    },
+    {
+      "apiname": "AchHelpHypnos",
+      "display_name": "Soundest of Sleepers",
+      "description": "Fulfill the Prophecy 'Soundest of Sleepers'",
+      "chapter": "Relationship",
+      "hint": "You can only complete this after seeing the ending but you can start it before that.\n1st incantation is unlocked by gifting 2 nectar to Hypnos, harvest 1 Poppy then talking to Hypnos.\n2nd incantation is unlocked by gifting 1 Dream Vapor to Hypnos and talking to Medea in the surface.\n3rd and last incantation is unlocked after giving a total of 2 Dream Vapors to Hypnos and talking to Medea in the surface again.\nThe unknown material required is obtained after the ending. Go see the chained NPC in Tartarus to receive the material.\n\nYou'll get the achievement after doing the last incantation and gifting the item to Hypnos as many times as the game lets you.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "AchTrueEnding"
+      ]
+    },
+    {
+      "apiname": "AchHelpArachne",
+      "display_name": "Silk and Spitefulness",
+      "description": "Fulfill the Prophecy 'Silk and Spitefulness'",
+      "chapter": "Relationship",
+      "hint": "Gift 3 Nectar to Arachne and Hecate aswell as 4 to Athena.\nSpeak to Arachne and Hecate until Hecate tells you information about Arachne's curse and tells you to invite Arachne to the base. \n\nSpeak to Athena \n",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "AchHelpNarcissusAndEcho",
+      "display_name": "Voice and Vanity",
+      "description": "Fulfill the Prophecy 'Voice and Vanity'",
+      "chapter": "Relationship",
+      "hint": "Keep talking and gifting stuff to Narcissus in Oceanus and Echo in Fields of Mourning until you get the incantation \"Purification of Crystal Clarity\". Do the incantation then keep talking to them both and you'll get the achievement. ",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "AchCatchFish",
+      "display_name": "Denizens of the Depths",
+      "description": "Fulfill the Prophecy 'Denizens of the Depths'",
+      "chapter": "Grinding",
+      "hint": "To fulfill the Prophecy \"Denizens of the Depths\" you have to fish a total 20 fish. You can do this before or after receiving the prophecy.\nYou won't get the achievement until you get the Prophecy which might take more time to trigger than to actually catch the fish. \nTo get the Prophecy, you have to advance Poseidon's bond/relationship until after it gets locked and then wait for all the story dialogues to ran out.\n\nYou can get a higher chance of getting fishing spots by bringing the animal familiar Toula with you.\nFor more info on Animal Familiars, check the guide in the guides section.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "AchBeatRivalsVow1",
+      "display_name": "Unrivaled Prowess",
+      "description": "Fulfill the Prophecy 'Unrivaled Prowess'",
+      "chapter": "Battle",
+      "hint": "In the \"Oath of the Unseen\", there are multiple vows you can take. One of them is an unlockable called \"Vow of Rivals\" which strenghtens/changes the bosses. Rank 1 will affect the first bosses (Hecate and Polyphemus), Rank 2 will affect the second bosses (Scylla and Eris) so on and so forth. To unlock the Vow of Rivals and subsequent ranks, you need to defeat the bosses that will be affected 3+ times, both surface and underworld. After you see them all in their buffed versions, the achievement will pop.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "AchBeatTyphonWithWeapons",
+      "display_name": "Sword of the Night",
+      "description": "Fulfill the Prophecy 'Sword of the Night'",
+      "chapter": "Battle",
+      "hint": "Defeat Typhon using every Infernal Arm. Doesn't matter which aspect, as it counts only the weapon.\nIf you want to track it without using the prophecy ingame, there's a checklist in the checklists section.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "AchAllWeapons",
+        "AchClearEphyra",
+        "AchClearThessaly",
+        "AchClearOlympus",
+        "AchClearSummit",
+        "AchAllAspects"
+      ]
+    },
+    {
+      "apiname": "AchBeatChronosWithArcana",
+      "display_name": "Arcana of the Ages",
+      "description": "Fulfill the Prophecy 'Arcana of the Ages'",
+      "chapter": "Battle",
+      "hint": "To fulfill the prophecy \"Arcana of the Ages\", you need to defeat Chronos while using each Arcana card (either the same run or multiple).\n\nYou can finish a run with 24 out of 25 cards. To do this you need\n- All Arcana cards unlocked\n- The [XXV] Judgement Arcana unlocked and max upgrades (total cost counting the unlock: 50 Ash, 1 Feather, 30 Moon Dust, 20 Fate Fabric)\n- Circe's \"Crystal Figurine\" Keepsake maxed\n- At least 5 grasp\nOnce you meet all of the requirements, select all of the cards of the last column; [X] Night and [XV] The Lovers. The rest inside that column should turn on automatically. Select 1 more card (any card you like), equip Circe's Keepsake \"Crystal Figurine\" and then head into an underworld run. For every boss you kill, you'll activate 5 arcana cards and after the first boss, Circe's Keepsake should of have turned on. You can swap the Keepsake for something else once the effect activates, it won't take your arcana away.\nBy the time you defeat Chronos, you should have 24/25 or 25/25 cards. If you're missing one card, just do another run with that one card selected and whatever else you want.\n\nIf for any reason you don't want to do this strategy, there's a checklist of arcana under the Checklists section, aswell as a prophecy ingame telling you which ones you used or are missing.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "AchClearTartarus",
+        "AchClearFields",
+        "AchClearErebus",
+        "AchClearOceanus"
+      ]
+    },
+    {
+      "apiname": "AchClearWithAllAspects",
+      "display_name": "Bearing Dark Gifts",
+      "description": "Fulfill the Prophecy 'Bearing Dark Gifts'",
+      "chapter": "Battle",
+      "hint": "Defeat a final boss (Chronos or Typhon) with every aspect, including hidden.\nFor a guide on how to unlock the hidden aspects and a checklist, check the checklists section.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "AchClearErebus",
+        "AchClearOceanus",
+        "AchClearFields",
+        "AchClearTartarus",
+        "AchClearSummit",
+        "AchClearThessaly",
+        "AchClearEphyra",
+        "AchClearOlympus",
+        "AchAllAspects",
+        "AchAllWeapons"
+      ]
+    },
+    {
+      "apiname": "AchClearChaosQuest",
+      "display_name": "Born to Win",
+      "description": "Fulfill the Prophecy 'Born to Win'",
+      "chapter": "Battle",
+      "hint": "This achievement was hell to me because it seems to require you to find a chaos gate in the surface and enter it once. The surface only has 2 spawns for chaos gates which is the very beginning of the run (as in the starting room) and the very beginning of mount olympus. I did not know this until after three hours of farming seeds.\n\nBesides what I mentioned on the paragraph above, the requirements to get the prophecy is to enter a chaos gate with the chaos embryo keepsake on you. Chaos will comment on it multiple times before giving you the prophecy. \nYou can complete the prophecy before you even get it so if you do a full run with it equipped before or after receiving the prophecy, it will still count but you will only get the achievement after obtaining said prophecy.\n\nIf you're in the underground, look for Charon Wells having the item \"Spark of Ixion\" since it guarantees a spawn.\nIf you got unlucky and didnt get the surface, I recommend waiting to do this after the epilogue since you unlock an incantation that allows you to reset a seed so you won't have to stay still to die and retry but of course, you can always do this before the incantation if you want. \n\nIn short; Start the run with Chaos's Keepsake \"Transcendent Embryo\" equipped and don't take it off until after you defeat the final boss and are back at the base. ",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "AchClearEphyra"
+      ]
+    },
+    {
+      "apiname": "AchNemesisCombat",
+      "display_name": "Fair Fight",
+      "description": "Earn 1,000 Gold competing against Nemesis",
+      "chapter": "Grinding",
+      "hint": "Nemesis can only appear in the first three areas of the Underworld route. Nemesis has a bunch of different kinds of events, you're looking for the one where you two fight enemies together.\nNot sure if this was a coincidence or not, but she seems to be behind bone/ash/gold doors and the fighting event seem to have more chances to happen if you have at least 100 gold, since it is what you gotta pay if you lose.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "AchFamiliarCostumes",
+      "display_name": "Unfamiliar Forms",
+      "description": "Alter the appearance of each Animal Familiar",
+      "chapter": "Grinding",
+      "hint": "Given by Circe at the end of the Surface's second zone. \nTo unlock her incantation you need to:\n- Have all Animal Familiars unlocked\n- Spend 20 or more treats on Familiars\n- Have a familiar fully upgraded\n- Have 30 Grasp.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "AchAllFamiliars"
+      ]
+    },
+    {
+      "apiname": "AchKillWitchAsSheep",
+      "display_name": "Sheep's Clothing",
+      "description": "Slay a Sister of the Dead while afflicted with Twilight Curse",
+      "chapter": "Battle",
+      "hint": "In the first area of the Underworld; Erebus, you'll find Hecate as a boss. Sometimes she will have an attack that can turn you into a sheep and you can only dodge and attack (more of a tickle tbh) and move very slowly. Hit one of the trees, aiming towards a Sister of the Dead (the adds) and kill one or more for this achievement to pop.\nNOTE: Be careful if you're bringing Frinos as your companion, as they can eat the projectile for you.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "AchSummonSiren",
+      "display_name": "Breaking Up the Band",
+      "description": "Use Night Bloom to raise a Siren",
+      "chapter": "Battle",
+      "hint": "Selene, the Goddess of the Moon, offers you a hex called \"Night Bloom\" which resurrects a fallen enemy *of that encounter* and turns them into an ally. When fighting the Sirens in the second area of the Underworld; Oceanus. As soon as you kill one of them, use the hex to resurrect her and get the achievement.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "AchTartarusInDress",
+      "display_name": "Dressed to Kill",
+      "description": "Reach the final confrontation in an Arachne outfit",
+      "chapter": "Battle",
+      "hint": "Arachne can be found in Erebus, the first zone of the Underworld, behind a \"npc encounter\" door. Get one of her outfits and reach Chronos with some armor left. You don't have to beat Chronos, just reach him.\nYou can use her keepsake to add durability to the outfit aswell as some of Hephaestus's boons if you desire. ",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "AchEarnStatue1",
+      "display_name": "Behold Night's Champion",
+      "description": "Earn the first Gift of the Veil",
+      "chapter": "Battle",
+      "hint": "To unlock being able to earn the Gifts of Veil one must\n- Obtain the Oath of the Unseen and inspect it\n- Complete the Underworld route 5 times or more\n- Complete the Surface route 1 time or more.\n\nThe first gift is earned after beating [Underworld Fear 8] and [Surface Fear 6].\nNote: You can attempt this before Skelly shows you the covered gifts, although the gifts will be uncovered one by one so once you meet the requirements you'll have to do another run (outcome and fear won't matter since those runs are just to free the queued dialogue/events) ",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "AchEarnStatue2",
+      "display_name": "Mercy, Night's Executioner",
+      "description": "Earn the second Gift of the Veil",
+      "chapter": "Battle",
+      "hint": "To unlock being able to earn the Gifts of Veil one must\n- Obtain the Oath of the Unseen and inspect it\n- Complete the Underworld route 5 times or more\n- Complete the Surface route 1 time or more.\n\nThe second gift is earned after beating [Underworld Fear 16]  and [Surface Fear 12].\n*There is a third gift with no achievement at [Underworld Fear 32] and [Surface Fear 24].\nNote: You can attempt this before Skelly shows you the covered gifts, although the gifts will be uncovered one by one so once you meet the requirements you'll have to do another run (outcome and fear won't matter since those runs are just to free the queued dialogue/events) ",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "AchEarnStatue1"
+      ]
+    },
+    {
+      "apiname": "AchWinSecretContest",
+      "display_name": "Elysian Glory",
+      "description": "Prevail in the Contest of Champions",
+      "chapter": "Battle",
+      "hint": "After reaching the True Ending (credits), touch the Infernal Contract in Charon's shop to start a boss encounter. After beating the boss you'll get the achievement.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "AchTrueEnding"
+      ]
+    },
+    {
+      "apiname": "AchTrueEnding",
+      "display_name": "Death to Chronos",
+      "description": "Complete the lifelong task of the Princess of the Underworld",
+      "chapter": "Story",
+      "hint": "To start the ending sequence, you need to complete the Incantation \"Disintegration of Monstrosity\" and \"Dissolution of time\"\nDo know that once you do one or the other, you start the ending sequence and have to do what the game tells you to, can't do side stuff until after the credits.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "AchEpilogue",
+      "display_name": "Golden Age",
+      "description": "Reach the epilogue of the story",
+      "chapter": "Story",
+      "hint": "After getting the credits, you'll get a prophecy asking you to meet the three fates. To do this, you must complete the riddles.\nThese riddles and their answers are:\n- Seek to know he who is our emissary: Max Moros relationship\n- Seek to know they who created the world: Speak with Chaos\n- Seek to know he who cast us out: Speak with Chronos\n- Seek to know she who trained you: Max Hecate's relationship\n- Seek to know he who rebels against the gods: Keep fighting Prometheus\n- Seek to know he who labors for the gods: Keep talking and gifting nectar to Heracles.\n\nAfter you got them all, equip Moros's Keepsake, Engraved Pin, and continue to Oceanus. Die and resurrect with the charm 3 different rooms in a row and after the third time allow you to die on purpose and you'll get the achievement.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": [
+        "AchTrueEnding"
+      ]
+    },
+    {
+      "apiname": "AchAllOtherAch",
+      "display_name": "Goddess of Nightmares",
+      "description": "Earn all other Achievements",
+      "chapter": "",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "AchClearErebus",
+        "AchClearOceanus",
+        "AchClearTartarus",
+        "AchClearSummit",
+        "AchClearOlympus",
+        "AchClearFields",
+        "AchClearThessaly",
+        "AchClearEphyra",
+        "AchCauldronSpells1",
+        "AchBathHouse",
+        "AchFishingPier",
+        "AchTaverna",
+        "AchAllArcana",
+        "AchMaxMem",
+        "AchProphecies1",
+        "AchForgeBonds",
+        "AchAllArcanaMax",
+        "AchAllWeapons",
+        "AchAllAspects",
+        "AchConfideFrinos",
+        "AchAllKeepsakes",
+        "AchEarnPrestige1",
+        "AchAllFamiliarsMax",
+        "AchAllFamiliars",
+        "AchBounties1",
+        "AchHelpOdysseus",
+        "AchCatchFish",
+        "AchHelpDora",
+        "AchAllRandomStreak",
+        "AchHelpNarcissusAndEcho",
+        "AchBeatRivalsVow1",
+        "AchHelpHypnos",
+        "AchAllRandomUnderworld",
+        "AchBeatHecateNoArcana",
+        "AchHelpArachne",
+        "AchBeatTyphonWithWeapons",
+        "AchNemesisCombat",
+        "AchTartarusInDress",
+        "AchTrueEnding",
+        "AchWinSecretContest",
+        "AchSummonSiren",
+        "AchClearChaosQuest",
+        "AchClearWithAllAspects",
+        "AchKillWitchAsSheep",
+        "AchEarnStatue2",
+        "AchEarnStatue1",
+        "AchFamiliarCostumes",
+        "AchBeatChronosWithArcana",
+        "AchEpilogue"
+      ]
+    }
+  ],
+  "checklists": [
+    {
+      "id": "1788156040397",
+      "title": "Prophecy: Sword of the Night",
+      "items": [
+        {
+          "id": "1788156183112",
+          "name": "Witch's Staff",
+          "desc": "",
+          "category": "Weapons",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/7/73/Weapon_Staff01.png/revision/latest?cb=20240528210735",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788156203028",
+          "name": "Sister Blades",
+          "desc": "",
+          "category": "Weapons",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/9/95/Weapon_Dagger01.png/revision/latest?cb=20240528210735",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788156217839",
+          "name": "Umbral Flames",
+          "desc": "",
+          "category": "Weapons",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/4/42/Weapon_Torch01.png/revision/latest?cb=20240528210735",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788156228211",
+          "name": "Moonstone Axe",
+          "desc": "",
+          "category": "Weapons",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/4/43/Weapon_Axe01.png/revision/latest?cb=20240528210734",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788156239893",
+          "name": "Argent Skull",
+          "desc": "",
+          "category": "Weapons",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/d/df/Weapon_Skull01.png/revision/latest?cb=20240528210736",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788156252969",
+          "name": "Black Coat",
+          "desc": "",
+          "category": "Weapons",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/f/fa/Weapon_Coat01.png/revision/latest?cb=20241113132802",
+          "videoUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "1788156056729",
+      "title": "Prophecy: Arcana of the Ages",
+      "items": [
+        {
+          "id": "1788156416159",
+          "name": "[I] The sorceress",
+          "desc": "",
+          "category": "Arcana",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/4/48/Card01.png/revision/latest?cb=20250929081623",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788156428812",
+          "name": "[II] The Wayward Son",
+          "desc": "",
+          "category": "Arcana",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/f/f8/Card02.png/revision/latest?cb=20250929081742",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788156453843",
+          "name": "[III] The Huntress",
+          "desc": "",
+          "category": "Arcana",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/9/91/Card03.png/revision/latest?cb=20250929090412",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788156464915",
+          "name": "[IV] Eternity",
+          "desc": "",
+          "category": "Arcana",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/d/d4/Card04.png/revision/latest?cb=20250930081306",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788158146561",
+          "name": "[V] The Moon",
+          "desc": "",
+          "category": "Arcana",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/2/29/Card05.png/revision/latest?cb=20250930075558",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788158172655",
+          "name": "[VI] The Furies",
+          "desc": "",
+          "category": "Arcana",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/b/b4/Card06.png/revision/latest?cb=20250930075708",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788158231994",
+          "name": "[VII] Persistence",
+          "desc": "",
+          "category": "Arcana",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/c/c5/Card07.png/revision/latest?cb=20250930075853",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788158259901",
+          "name": "[VIII] The Messenger",
+          "desc": "",
+          "category": "Arcana",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/7/7d/Card08.png/revision/latest?cb=20250930080124",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788158275770",
+          "name": "[IX] The Unseen",
+          "desc": "",
+          "category": "Arcana",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/2/29/Card09.png/revision/latest?cb=20250930080211",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788158287077",
+          "name": "[X] Night",
+          "desc": "",
+          "category": "Arcana",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/c/c2/Card10.png/revision/latest?cb=20250930080333",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788158296800",
+          "name": "[XI] The Swift Runner",
+          "desc": "",
+          "category": "Arcana",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/5/5f/Card11.png/revision/latest?cb=20250930081425",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788158309638",
+          "name": "[XII] Death",
+          "desc": "",
+          "category": "Arcana",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/f/f7/Card12.png/revision/latest?cb=20250930080514",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788158320759",
+          "name": "[XIII] The Centaur",
+          "desc": "",
+          "category": "Arcana",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/d/da/Card13.png/revision/latest?cb=20250930081506",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788158330515",
+          "name": "[XIV] Origination",
+          "desc": "",
+          "category": "Arcana",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/3/37/Card14.png/revision/latest?cb=20250930081534",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788158340596",
+          "name": "[XV] The Lovers",
+          "desc": "",
+          "category": "Arcana",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/b/b7/Card15.png/revision/latest?cb=20250930081646",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788158353091",
+          "name": "[XVI] The Enchantress",
+          "desc": "",
+          "category": "Arcana",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/8/80/Card16.png/revision/latest?cb=20250930081706",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788158368581",
+          "name": "[XVII] The Boatman",
+          "desc": "",
+          "category": "Arcana",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/d/d1/Card17.png/revision/latest?cb=20250930081726",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788158384779",
+          "name": "[XVIII] The Artificer",
+          "desc": "",
+          "category": "Arcana",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/e/e8/Card18.png/revision/latest?cb=20250930081754",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788158428110",
+          "name": "[XIX] Excellence",
+          "desc": "",
+          "category": "Arcana",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/4/47/Card19.png/revision/latest?cb=20250930082711",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788158437220",
+          "name": "[XX] The Queen",
+          "desc": "",
+          "category": "Arcana",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/b/b9/Card20.png/revision/latest?cb=20250930082106",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788158555920",
+          "name": "[XXI] The Fates",
+          "desc": "",
+          "category": "Arcana",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/0/05/Card21.png/revision/latest?cb=20250930082205",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788158565642",
+          "name": "[XXII] The Champions",
+          "desc": "",
+          "category": "Arcana",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/9/9d/Card22.png/revision/latest?cb=20250930082318",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788158575859",
+          "name": "[XXIII] Strength",
+          "desc": "",
+          "category": "Arcana",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/5/5e/Card23.png/revision/latest?cb=20250930082352",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788158584352",
+          "name": "[XXIV] Divinity",
+          "desc": "",
+          "category": "Arcana",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/e/eb/Card24.png/revision/latest?cb=20250930082420",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788158593703",
+          "name": "[XXV] Judgement",
+          "desc": "",
+          "category": "Arcana",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/1/1c/Card25.png/revision/latest?cb=20250930082436",
+          "videoUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "1788156083694",
+      "title": "Keepsakes",
+      "items": [
+        {
+          "id": "1788483631720",
+          "name": "Silver Wheel",
+          "desc": "Gain +50/75/100/150 Mana this night",
+          "category": "Keepsake",
+          "location": "Hecate",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/4/49/Silver_Wheel.png/revision/latest?cb=20240604193121",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788483776781",
+          "name": "Knuckle Bones",
+          "desc": "The next Guardian loses -5/10/15/25% HP. You take -10% damage from Guardians. ",
+          "category": "Keepsake",
+          "location": "Odysseus",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/6/61/Knuckle_Bones.png/revision/latest?cb=20240604193120",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788483812343",
+          "name": "Luckier Tooth",
+          "desc": "After you fall to 0 HP, automatically restore 51/76/101/151 HP once this night. ",
+          "category": "Keepsake",
+          "location": "Schelemeus",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/8/85/Luckier_Tooth.png/revision/latest?cb=20240604193120",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788483884801",
+          "name": "Ghost Onion",
+          "desc": "Whenever you exit a Location, fully restore your HP, up to a total of 50/75/100/150 HP this night. ",
+          "category": "Keepsake",
+          "location": "Dora",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/8/84/Ghost_Onion.png/revision/latest?cb=20240604193120",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788484052236",
+          "name": "Evil Eye",
+          "desc": "Deal +20/25/30/40% damage to the last foe that vanquished you. ",
+          "category": "Keepsake",
+          "location": "Nemesis",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/2/27/Evil_Eye.png/revision/latest?cb=20240604193120",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788484083451",
+          "name": "Gold Purse",
+          "desc": "Gain +100/125/150/200 Obols this night. ",
+          "category": "Keepsake",
+          "location": "Charon",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/7/7c/Gold_Purse.png/revision/latest?cb=20240604193120",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788484106882",
+          "name": "Engraved Pin",
+          "desc": "When first you fall to 0 HP in an Encounter, become Doomed. Clear it in time for 30/45/60/90 HP. ",
+          "category": "Keepsake",
+          "location": "Moros",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/e/e0/Engraved_Pin.png/revision/latest?cb=20240604193119",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788484180782",
+          "name": "Discordant Bell",
+          "desc": "After each Encounter all this night, you deal +0.5/0.75/1/1.5% damage, but also take that much more. ",
+          "category": "Keepsake",
+          "location": "Eris",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/5/5d/Discordant_Bell.png/revision/latest?cb=20240604193120",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788484205159",
+          "name": "Metallic Droplet",
+          "desc": "You move, strike, and Channel 20% faster for the next 200/250/300/400 Sec.",
+          "category": "Keepsake",
+          "location": "Hermes",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/8/8c/Metallic_Droplet.png/revision/latest?cb=20240604193120",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788484235740",
+          "name": "White Antler",
+          "desc": "For the next Region, gain +20/25/30/50% Critical damage chance, but you are limited to 30 Max HP. ",
+          "category": "Keepsake",
+          "location": "Artemis",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/0/06/White_Antler.png/revision/latest?cb=20240604193120",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788484259472",
+          "name": "Moon Beam",
+          "desc": "A reward from Selene is likely. The next Path of Stars you find grants +3/4/5/7 upgrades.",
+          "category": "Keepsake",
+          "location": "Selene",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/e/e9/Moon_Beam.png/revision/latest?cb=20240604193120",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788484299857",
+          "name": "Cloud Bangle",
+          "desc": "A Boon of Zeus is likely. You can Rarify his Common/Rare/Epic blessings once this night. ",
+          "category": "Keepsake",
+          "location": "Zeus",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/c/c2/Cloud_Bangle.png/revision/latest?cb=20240604193119",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788484320297",
+          "name": "Iridescent Fan",
+          "desc": "A Boon of Hera is likely. You can Rarify her Common/Rare/Epic blessings once this night. \t",
+          "category": "Keepsake",
+          "location": "Hera",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/3/31/Iridescent_Fan.png/revision/latest?cb=20240604193120",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788484356792",
+          "name": "Vivid Sea",
+          "desc": "A Boon of Poseidon is likely. You can Rarify his Common/Rare/Epic blessings once this night. ",
+          "category": "Keepsake",
+          "location": "Poseidon",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/e/ed/Vivid_Sea.png/revision/latest?cb=20240604193120",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788484383554",
+          "name": "Barley Sheaf",
+          "desc": "A Boon of Demeter is likely. You can Rarify her Common/Rare/Epic blessings once this night. ",
+          "category": "Keepsake",
+          "location": "Demeter",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/9/9a/Barley_Sheaf.png/revision/latest?cb=20240604193120",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788484405743",
+          "name": "Harmonic Photon",
+          "desc": "A Boon of Apollo is likely. You can Rarify his Common/Rare/Epic blessings once this night. ",
+          "category": "Keepsake",
+          "location": "Apollo",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/7/7e/Harmonic_Photon.png/revision/latest?cb=20240604193120",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788484423727",
+          "name": "Beautiful Mirror",
+          "desc": "A Boon of Aphrodite is likely. You can Rarify her Common/Rare/Epic blessings once this night.",
+          "category": "Keepsake",
+          "location": "Aphrodite",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/9/9b/Beautiful_Mirror.png/revision/latest?cb=20240604193120",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788484439440",
+          "name": "Adamant Shard",
+          "desc": "A Boon of Hephaestus is likely. You can Rarify his Common/Rare/Epic blessings once this night.",
+          "category": "Keepsake",
+          "location": "Hephaestus",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/d/d7/Adamant_Shard.png/revision/latest?cb=20240604193118",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788484482740",
+          "name": "Everlasting Ember",
+          "desc": "A Boon of Hestia is likely. You can Rarify her Common/Rare/Epic blessings once this night.",
+          "category": "Keepsake",
+          "location": "Hestia",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/9/9d/Everlasting_Ember.png/revision/latest?cb=20240604193120",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788484502117",
+          "name": "Sword Hilt",
+          "desc": "A Boon of Ares is likely. You can Rarify his Common/Rare/Epic blessings once this night.",
+          "category": "Keepsake",
+          "location": "Ares",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/8/8e/Sword_Hilt.png/revision/latest?cb=20250220205925",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788484630470",
+          "name": "Gorgon Amulet",
+          "desc": "While you have no Death Defiances, Athena may appear once this night with at least Common/Rare/Epic/Heroic Boons. ",
+          "category": "Keepsake",
+          "location": "Athena",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/6/68/Gorgon_Amulet.png/revision/latest?cb=20241021210148",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788484669170",
+          "name": "Fig Leaf",
+          "desc": "A single Encounter in 1/2/3/4 Region(s) may be blissfully free from foes the rest of this night. ",
+          "category": "Keepsake",
+          "location": "Dionysus",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/7/73/Fig_Leaf.png/revision/latest?cb=20241021210149",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788484683992",
+          "name": "Silken Sash",
+          "desc": "Gain +30 Armor. While you have at least 1 Armor, gain +2/3/4/6 Armor after each Location. ",
+          "category": "Keepsake",
+          "location": "Arachne",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/3/3f/Silken_Sash.png/revision/latest?cb=20240604193120",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788484763433",
+          "name": "Aromatic Phial",
+          "desc": "Fountains restore +20% Health. The next turns 1 random Common Boon of yours Rare/Epic/Heroic. ",
+          "category": "Keepsake",
+          "location": "Narcissus",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/3/33/Aromatic_Phial.png/revision/latest?cb=20240604193119",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788484789781",
+          "name": "Concave Stone",
+          "desc": "After choosing a Boon, 25/50/75/100% of the time randomly take 1 more, once this night.",
+          "category": "Keepsake",
+          "location": "Echo",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/8/83/Concave_Stone.png/revision/latest?cb=20240604193119",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788484816476",
+          "name": "Lion Fang",
+          "desc": "Deal +30/40/50/70% damage, but lose 5% of this bonus after each Encounter. ",
+          "category": "Keepsake",
+          "location": "Heracles",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/d/d9/Lion_Fang.png/revision/latest?cb=20240604193120",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788484842588",
+          "name": "Blackened Fleece",
+          "desc": "After you take 250 damage, your Ω Moves deal +20/30/40/60% damage.",
+          "category": "Keepsake",
+          "location": "Medea",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/7/7b/Blackened_Fleece.png/revision/latest?cb=20240604193119",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788484921720",
+          "name": "Crystal Figurine",
+          "desc": "After the next Guardian, activate 2 random inactive Common/Rare/Epic/Heroic Arcana Cards. ",
+          "category": "Keepsake",
+          "location": "Circe",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/7/7c/Crystal_Figurine.png/revision/latest?cb=20240604193120",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788484945188",
+          "name": "Experimental Hammer",
+          "desc": "Gain 1 random Daedalus Hammer that lasts for 10/15/20/30 Encounters. ",
+          "category": "Keepsake",
+          "location": "Icarus",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/f/fd/Experimental_Hammer.png/revision/latest?cb=20240604193120",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788485001520",
+          "name": "Jeweled Pom",
+          "desc": "While at Fates' Whim, gain a random Hades blessing and most Boons have +1/2/3/4 Lv.",
+          "category": "Post-Game",
+          "location": "Hades & Persephone",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/8/83/Jeweled_Pom.png/revision/latest?cb=20250927180947",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788485063868",
+          "name": "Calling Card",
+          "desc": "While at Fates' Whim, you can rarify Olympian blessings up to 2/4/6/8 times this night. ",
+          "category": "Post-Game",
+          "location": "Zagreus",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/1/17/Calling_Card.png/revision/latest?cb=20250926204430",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788485096232",
+          "name": "Time Piece",
+          "desc": "While at Fates' Whim, you can purge most rewards for Obols up to 2/3/4/5 time(s) this night. ",
+          "category": "Post-Game",
+          "location": "Chronos",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/5/56/Time_Piece.png/revision/latest?cb=20250928151754",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788485123352",
+          "name": "Transcendent Embryo",
+          "desc": "Gain a random Common/Rare/Epic/Heroic Chaos blessing. Every 8 Encounters, replace it. ",
+          "category": "Keepsake",
+          "location": "Chaos",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/7/73/Transcendent_Embryo.png/revision/latest?cb=20240604193120",
+          "videoUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "1788480238548",
+      "title": "Prophecy: Bearing Dark Gifts & The Unseen Sentinel",
+      "items": [
+        {
+          "id": "1788480297122",
+          "name": "Aspect of Melinoë",
+          "desc": "",
+          "category": "Witch's Staff",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/4/4f/Hammer_Staff_Melino%C3%AB.png/revision/latest?cb=20240604225046",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788480312194",
+          "name": "Aspect of Circe",
+          "desc": "",
+          "category": "Witch's Staff",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/9/95/Hammer_Staff_Circe.png/revision/latest?cb=20240604225047",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788480320849",
+          "name": "Aspect of Momus",
+          "desc": "",
+          "category": "Witch's Staff",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/5/54/Hammer_Staff_Momus.png/revision/latest?cb=20240604225047",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788480334916",
+          "name": "Aspect of Anubis",
+          "desc": "To unlock the hidden aspect you have to:\n- Unlock all other aspects of this weapon\n- Have the aspect of Circe or Momus at max level\n- Talk to Circe to get the waking phrase\n- Head back to the Silver Pool in the hub",
+          "category": "Witch's Staff",
+          "location": "Hidden Aspect",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/8/82/HammerStaff_42.png/revision/latest?cb=20250618092757",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788480427374",
+          "name": "Aspect of Melinoë",
+          "desc": "",
+          "category": "Sister Blades",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/1/1d/Hammer_Daggers_Melino%C3%AB_II.png/revision/latest?cb=20240604225945",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788480439618",
+          "name": "Aspect of Artemis",
+          "desc": "",
+          "category": "Sister Blades",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/3/33/Aspect_of_Artemis_II.png/revision/latest?cb=20240604225945",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788480449425",
+          "name": "Aspect of Pan",
+          "desc": "",
+          "category": "Sister Blades",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/f/f4/Aspect_of_Pan_II.png/revision/latest?cb=20240604225945",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788480457359",
+          "name": "Aspect of the Morrigan",
+          "desc": "To unlock the hidden aspect you have to:\n- Unlock all other aspects of this weapon\n- Have the aspect of Artemis or Pan at max level\n- Talk to Artemis to get the waking phrase\n- Head back to the Silver Pool in the hub",
+          "category": "Sister Blades",
+          "location": "Hidden Aspect",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/7/73/HammerDaggers_42.png/revision/latest?cb=20250618184122",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788480537836",
+          "name": "Aspect of Melinoë",
+          "desc": "",
+          "category": "Umbral Flames",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/5/53/Hammer_Torch_Melino%C3%AB.png/revision/latest?cb=20240604225945",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788480553740",
+          "name": "Aspect of Moros",
+          "desc": "",
+          "category": "Umbral Flames",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/a/ad/Hammer_Torch_Moros.png/revision/latest?cb=20240604225945",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788480573249",
+          "name": "Aspect of Eos",
+          "desc": "",
+          "category": "Umbral Flames",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/4/45/Hammer_Torch_Eos.png/revision/latest?cb=20240604225945",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788480598731",
+          "name": "Aspect of Supay",
+          "desc": "To unlock the hidden aspect you have to:\n- Unlock all other aspects of this weapon and do a run with each of them\n- Have the aspect of Moros or Eos at max level\n- Talk to Moros to get the waking phrase\n- Head back to the Silver Pool in the hub",
+          "category": "Umbral Flames",
+          "location": "Hidden Aspect",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/c/cc/HammerTorch_42.png/revision/latest?cb=20250618230512",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788480623952",
+          "name": "Aspect of Melinoë",
+          "desc": "",
+          "category": "Moonstone Axe",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/e/ea/Hammer_Axe_Melino%C3%AB.png/revision/latest?cb=20240604225944",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788480639759",
+          "name": "Aspect of Charon",
+          "desc": "",
+          "category": "Moonstone Axe",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/d/d4/Hammer_Axe_Charon.png/revision/latest?cb=20240604225945",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788480666252",
+          "name": "Aspect of Thanatos",
+          "desc": "",
+          "category": "Moonstone Axe",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/7/7d/Hammer_Axe_Thanatos.png/revision/latest?cb=20240604225945",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788480687803",
+          "name": "Aspect of Nergal",
+          "desc": "To unlock the hidden aspect you have to:\n- Unlock all other aspects of this weapon\n- Have the aspect of Charon or Thanatos at max level\n- Talk to Charon to get the waking phrase\n- Head back to the Silver Pool in the hub",
+          "category": "Moonstone Axe",
+          "location": "Hidden Aspect",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/2/2a/HammerAxe_43.png/revision/latest?cb=20250617204255",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788480733140",
+          "name": "Aspect of Melinoë",
+          "desc": "",
+          "category": "Argent Skull",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/a/a5/Aspect_of_Melino%C3%AB_II.png/revision/latest?cb=20240604225946",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788480752560",
+          "name": "Aspect of Medea",
+          "desc": "",
+          "category": "Argent Skull",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/7/74/Aspect_of_Medea_II.png/revision/latest?cb=20240604225945",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788480766663",
+          "name": "Aspect of Persephone",
+          "desc": "",
+          "category": "Argent Skull",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/f/f8/Aspect_of_Persephone_II.png/revision/latest?cb=20240604225946",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788480787039",
+          "name": "Aspect of Hel",
+          "desc": "To unlock the hidden aspect you have to:\n- Unlock all other aspects of this weapon\n- Have the aspect of Medea or Persephone at max level\n- Talk to Medea to get the waking phrase\n- Head back to the Silver Pool in the hub",
+          "category": "Argent Skull",
+          "location": "Hidden Aspect",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/b/bf/HammerLob_16.png/revision/latest?cb=20250618230557",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788480814148",
+          "name": "Aspect of Melinoë",
+          "desc": "",
+          "category": "Black Coat",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/5/56/Coat_Melino%C3%AB.png/revision/latest?cb=20241113133239",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788480828755",
+          "name": "Aspect of Selene",
+          "desc": "",
+          "category": "Black Coat",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/3/35/Coat_Selene.png/revision/latest?cb=20241113133304",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788480837307",
+          "name": "Aspect of Nyx",
+          "desc": "",
+          "category": "Black Coat",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/5/57/Coat_Nyx.png/revision/latest?cb=20241113133317",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788480859743",
+          "name": "Aspect of Shiva",
+          "desc": "To unlock the hidden aspect you have to:\n- Unlock all other aspects of this weapon\n- Have the aspect of Selene or Nyx at max level\n- Talk to Selene to get the waking phrase\n- Head back to the Silver Pool in the hub",
+          "category": "Black Coat",
+          "location": "Hidden Aspect",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/d/dc/HammerSuit_16.png/revision/latest?cb=20250617230730",
+          "videoUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "1788742667947",
+      "title": "Animal Familiars",
+      "items": [
+        {
+          "id": "1788750477675",
+          "name": "Faith of Familiar Spirits",
+          "desc": "(Prerequisite to get Animal Familiars)\nUnlocked by: \n- Defeating Hecate 7 times or more\n- Gathering 2 times with the Crescent Pick\n- Gathering 8 times with the Tablet of Peace\n- Gathering 1 time with the Silver Spade",
+          "category": "Animal Familiar",
+          "location": "Cauldron, Incantation",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/b/b8/Cauldron_familiar.png/revision/latest?cb=20250422003053",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788742706456",
+          "name": "Frinos, the Toad",
+          "desc": "Frinos is located at the \"spawn\", after finishing a run.\nJust give em some treats and they'll join you.",
+          "category": "Animal Familiar",
+          "location": "Crossroads",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/4/41/Frinos_Bond.png/revision/latest?cb=20241124165149",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788742733898",
+          "name": "Toula, the Cat",
+          "desc": "Requirements:\n- Succesfully fished 1 fish or more in any run\n- Able to get to the second zone of the Surface Route\n\nAt the start of the second zone, Rift of Thessaly, you'll find Toula the cat at the north west. Interact with Toula in two runs to unlock them.",
+          "category": "Animal Familiar",
+          "location": "Docks, Rift of Thessaly",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/e/e1/Toula_Bond.png/revision/latest?cb=20241124165210",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788747132797",
+          "name": "Raki, the Raven",
+          "desc": "Visit the Fountain Room in the first zone of the Underworld, Erebus, more than once. You'll find Raki inside that room.",
+          "category": "Animal Familiar",
+          "location": "Erebus, Fountain Room",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/2/2f/Raki_Bond.png/revision/latest?cb=20250117111715",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788747143750",
+          "name": "Hecuba, the Hound",
+          "desc": "Requirements:\n- Be on night 12+\n- Nemesis can't be in Echo's room\n- Spend at least 2 treats in total recruiting animals\n- Use Frinos's ability on a Lost Soul at least once\n\nAfter those requirements are met, interact with Hecuba in two different runs and they will join you. \nYou can find Hecuba in the Fields of Morning, where Echo is.",
+          "category": "Animal Familiar",
+          "location": "Echo's Room, Fields of Mourning",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/2/25/Hecuba_Bond.png/revision/latest?cb=20250117111727",
+          "videoUrl": ""
+        },
+        {
+          "id": "1788747157456",
+          "name": "Gale, the Polecat",
+          "desc": "Requirements:\n- Be on night 12+\n- Spend at least 3 treats in total recruiting animals\n- Use Frinos's ability on a Lost Soul at least once\n\nAfter those requirements are met, interact with Gale in two different runs and they will join you.\nYou can find Gale in Mount Olympus's Charon Shop, before Prometheus.",
+          "category": "Animal Familiar",
+          "location": "Charon's Shop Mount Olympus",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/hades_gamepedia_en/images/9/9b/Gale_Bond.png/revision/latest?cb=20250221054803",
+          "videoUrl": ""
+        }
+      ]
+    }
+  ]
+}
