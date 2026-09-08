@@ -1,0 +1,51 @@
+{
+  "appId": "7760",
+  "author": "Batur",
+  "description": "",
+  "checklists": [
+    {
+      "id": "1788181833243",
+      "items": [
+        {
+          "category": "fasfasf",
+          "chapter": "",
+          "completed": false,
+          "desc": "",
+          "id": "1788434266319",
+          "imageUrl": "",
+          "location": "fasfsafsa",
+          "name": "asfasf",
+          "videoUrl": ""
+        },
+        {
+          "category": "fasfasf",
+          "chapter": "",
+          "completed": false,
+          "desc": "fsafasfas",
+          "id": "1788434240375",
+          "imageUrl": "",
+          "location": "fsafsa",
+          "name": "as",
+          "videoUrl": ""
+        },
+        {
+          "category": "AAA",
+          "chapter": "",
+          "completed": false,
+          "desc": "bbb",
+          "id": "1788434279519",
+          "imageUrl": "",
+          "location": "bb",
+          "name": "bb",
+          "videoUrl": ""
+        }
+      ],
+      "title": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    },
+    {
+      "id": "1788858316983",
+      "items": [],
+      "title": "Test"
+    }
+  ]
+}
