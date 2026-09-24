@@ -1,0 +1,292 @@
+{
+  "gameName": "FINAL FANTASY",
+  "chapters": [
+    "Story",
+    "Sidetrack",
+    "Grind"
+  ],
+  "links": [],
+  "achievements": [
+    {
+      "apiname": "all_achievement",
+      "display_name": "Master of I",
+      "description": "Earned all achievements.",
+      "chapter": "",
+      "hint": "Final Fantasy I doesn't have any missable achievements.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "scenario_1",
+        "scenario_5",
+        "pazzle_play",
+        "monster_hunt_500",
+        "treasure_box_125",
+        "total_gil_10000",
+        "scenario_2",
+        "scenario_6",
+        "level_all_50",
+        "picture_book_12",
+        "total_gil_50000",
+        "treasure_box_249",
+        "area_visit",
+        "total_gil_100000",
+        "monster_hunt_100",
+        "picture_book_64",
+        "scenario_7",
+        "scenario_3",
+        "scenario_4",
+        "scenario_8",
+        "monster_hunt_300",
+        "picture_book_128",
+        "treasure_box_25"
+      ]
+    },
+    {
+      "apiname": "scenario_1",
+      "display_name": "A Hero's Journey",
+      "chapter": "Story",
+      "hint": "Story achievement, Impossible to miss.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "scenario_2",
+      "display_name": "Earth's Blessing",
+      "chapter": "Story",
+      "hint": "Story achievement, Impossible to miss.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "scenario_3",
+      "display_name": "Rekindled Flame",
+      "chapter": "Story",
+      "hint": "Story achievement, Impossible to miss.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "scenario_4",
+      "display_name": "Revitalizing Waters",
+      "chapter": "Story",
+      "hint": "Story achievement, Impossible to miss.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "scenario_5",
+      "display_name": "Wind's Caress",
+      "chapter": "Story",
+      "hint": "Story achievement, Impossible to miss.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "scenario_6",
+      "display_name": "Token of Courage",
+      "chapter": "Story",
+      "hint": "Story achievement, Impossible to miss.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "scenario_7",
+      "display_name": "Prophecy Foretold",
+      "chapter": "Story",
+      "hint": "Story achievement, Impossible to miss.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "scenario_8",
+      "display_name": "Sword of Myth",
+      "description": "Obtained Excalibur.",
+      "chapter": "Sidetrack",
+      "hint": "After coming out of the Flying Fortress, In Mount Duergar, talk to the Dwarf with the red cap to obtain the Excalibur.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "pazzle_play",
+      "display_name": "Hidden Game",
+      "description": "Played the 15 Puzzle game.",
+      "chapter": "Sidetrack",
+      "hint": "After getting the ship from the pirates enter the ship, hold the Confirm button and spam \"Cancel\" to get the achievement.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "level_all_50",
+      "display_name": "Seasoned Hero",
+      "description": "Reached level 50 for all party members.",
+      "chapter": "Grind",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "monster_hunt_100",
+      "display_name": "Apprentice Warrior",
+      "description": "Defeated 100 monsters.",
+      "chapter": "Grind",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "monster_hunt_300",
+      "display_name": "Experienced Warrior",
+      "description": "Defeated 300 monsters.",
+      "chapter": "Grind",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "monster_hunt_500",
+      "display_name": "Legendary Warrior",
+      "description": "Defeated 500 monsters.",
+      "chapter": "Grind",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "picture_book_12",
+      "display_name": "Field Research - Basic",
+      "description": "Completed 10% of the Bestiary entries.",
+      "chapter": "Grind",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "picture_book_64",
+      "display_name": "Field Research - Advanced",
+      "description": "Completed 50% of the Bestiary entries.",
+      "chapter": "Grind",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "picture_book_128",
+      "display_name": "Field Research - Professional",
+      "description": "Completed 100% of the Bestiary entries.",
+      "chapter": "Grind",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "total_gil_10000",
+      "display_name": "Thrifty Spender",
+      "description": "Obtained 10,000 gil.",
+      "chapter": "Grind",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "total_gil_50000",
+      "display_name": "Smart Saver",
+      "description": "Obtained 50,000 gil.",
+      "chapter": "Grind",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "total_gil_100000",
+      "display_name": "Moneybags",
+      "description": "Obtained 100,000 gil.",
+      "chapter": "Grind",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "treasure_box_25",
+      "display_name": "Rookie Treasure Hunter",
+      "description": "Collected treasure from 10% of the chests.",
+      "chapter": "Sidetrack",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "treasure_box_125",
+      "display_name": "Veteran Treasure Hunter",
+      "description": "Collected treasure from 50% of the chests.",
+      "chapter": "Sidetrack",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "treasure_box_249",
+      "display_name": "Legendary Treasure Hunter",
+      "description": "Collected treasure from 100% of the chests.",
+      "chapter": "Sidetrack",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "area_visit",
+      "display_name": "Adventurous Wayfarer",
+      "description": "Traveled to all the map locations.",
+      "chapter": "Sidetrack",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    }
+  ]
+}
