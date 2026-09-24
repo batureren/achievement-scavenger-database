@@ -12,7 +12,7 @@
       "display_name": "Master of V",
       "description": "Earned all achievements.",
       "chapter": "",
-      "hint": "Big bridge: make sure yo uahve the 4 enemies before gilgamesh's second encounter or gg",
+      "hint": "",
       "is_missable": true,
       "is_spoiler": false,
       "video_url": "",
@@ -227,7 +227,7 @@
       "description": "Became a master pianist.",
       "chapter": "Sidetrack",
       "hint": "Missable only after entering the final dungeon (Interdimensional Rift).",
-      "is_missable": false,
+      "is_missable": true,
       "is_spoiler": false,
       "video_url": "",
       "requires": []
@@ -259,7 +259,7 @@
       "display_name": "Job Trainee",
       "description": "Mastered one job.",
       "chapter": "Grinding",
-      "hint": "",
+      "hint": "The achievement only counts for the character with the most mastered jobs and only the jobs that character maxed, meaning if you have 21/22 jobs in one character and you do the last one on another it wont count, that character has to have all 22/22 jobs maxed.",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
@@ -270,7 +270,7 @@
       "display_name": "Senior Worker",
       "description": "Mastered 5 kinds of jobs.",
       "chapter": "Grinding",
-      "hint": "",
+      "hint": "The achievement only counts for the character with the most mastered jobs and only the jobs that character maxed, meaning if you have 21/22 jobs in one character and you do the last one on another it wont count, that character has to have all 22/22 jobs maxed.",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
@@ -281,7 +281,7 @@
       "display_name": "Lead Operator",
       "description": "Mastered 15 kinds of jobs.",
       "chapter": "Grinding",
-      "hint": "",
+      "hint": "The achievement only counts for the character with the most mastered jobs and only the jobs that character maxed, meaning if you have 21/22 jobs in one character and you do the last one on another it wont count, that character has to have all 22/22 jobs maxed.",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
@@ -463,6 +463,5 @@
       "video_url": "",
       "requires": []
     }
-  ],
-  "checklists": []
+  ]
 }
