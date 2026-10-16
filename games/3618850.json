@@ -1,0 +1,973 @@
+{
+  "gameName": "Pronoun Palace",
+  "chapters": [
+    "Win Condition",
+    "Sidetrack",
+    "Cerulean Clearance",
+    "Red Clearance",
+    "Act I",
+    "Act II",
+    "Act III",
+    "Completionist"
+  ],
+  "links": [],
+  "achievements": [
+    {
+      "apiname": "beat_clearance_0",
+      "display_name": "Beige Clearance",
+      "description": "Beat the game on Beige Clearance in a non-daily run.",
+      "chapter": "Win Condition",
+      "hint": "Base difficulty. You'll get this after winning your first run.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "beat_clearance_1",
+      "display_name": "Black Clearance",
+      "description": "Beat the game on Black Clearance in a non-daily run.",
+      "chapter": "Win Condition",
+      "hint": "Second difficulty, obtained after beating the game on Beige Clearance.\nEnemies deal more damage and have more health.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "beat_clearance_0"
+      ]
+    },
+    {
+      "apiname": "beat_clearance_2",
+      "display_name": "Violet Clearance",
+      "description": "Beat the game on Violet Clearance in a non-daily run.",
+      "chapter": "Win Condition",
+      "hint": "Third difficulty, obtained after beating the game on Black Clearance.\nSpells can have curses (1 in 3 chance).\nAll previous Clearences are also applied.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "beat_clearance_1"
+      ]
+    },
+    {
+      "apiname": "beat_clearance_3",
+      "display_name": "Blue Clearance",
+      "description": "Beat the game on Blue Clearance in a non-daily run.",
+      "chapter": "Win Condition",
+      "hint": "Fourth difficulty, obtained after beating the game on Violet Clearance.\nTiles can start with capitals, periods or bigrams.\nAll previous Clearences are also applied.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "beat_clearance_2"
+      ]
+    },
+    {
+      "apiname": "beat_clearance_4",
+      "display_name": "Cerulean Clearance",
+      "description": "Beat the game on Cerulean Clearance in a non-daily run.",
+      "chapter": "Win Condition",
+      "hint": "Fifth difficulty, obtained after beating the game on Blue Clearance.\nYou can't do repeated words. You can bypass this however by using hole/screw tiles. \nAll previous Clearences are also applied.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "beat_clearance_3"
+      ]
+    },
+    {
+      "apiname": "beat_clearance_5",
+      "display_name": "Teal Clearance",
+      "description": "Beat the game on Teal Clearance in a non-daily run.",
+      "chapter": "Win Condition",
+      "hint": "Sixth difficulty, obtained after beating the game on Cerulean Clearance.\nEnemies deal even more damage.\nAll previous Clearences are also applied.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "beat_clearance_4"
+      ]
+    },
+    {
+      "apiname": "beat_clearance_6",
+      "display_name": "Green Clearance",
+      "description": "Beat the game on Green Clearance in a non-daily run.",
+      "chapter": "Win Condition",
+      "hint": "Seventh difficulty, obtained after beating the game on Teal Clearance.\nEnemies have even more health.\nAll previous Clearences are also applied.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "beat_clearance_5"
+      ]
+    },
+    {
+      "apiname": "beat_clearance_7",
+      "display_name": "Yellow Clearance",
+      "description": "Beat the game on Yellow Clearance in a non-daily run.",
+      "chapter": "Win Condition",
+      "hint": "Eight difficulty, obtained after beating the game on Green Clearance.\nSpells now have 2 in 3 chance of being cursed and the effects \"Laced, Fragile and Shiny\" are now in the pool.\nAll previous Clearences are also applied.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "beat_clearance_6"
+      ]
+    },
+    {
+      "apiname": "beat_clearance_8",
+      "display_name": "Orange Clearance",
+      "description": "Beat the game on Orange Clearance in a non-daily run.",
+      "chapter": "Win Condition",
+      "hint": "Ninth difficulty, obtained after beating the game on Yellow Clearance.\nThe heal after a boss fight is reduced by half.\nAll previous Clearences are also applied.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "beat_clearance_7"
+      ]
+    },
+    {
+      "apiname": "beat_clearance_9",
+      "display_name": "Red Clearance",
+      "description": "Beat the game on Red Clearance in a non-daily run.",
+      "chapter": "Win Condition",
+      "hint": "Tenth difficulty, obtained after beating the game on Yellow Clearance.\nBuffed debuffs.\nAll previous Clearences are also applied.\n\nThe following debuffs are affected:\n- All damaging status effects have their damage increased by 1.\n- Bruised Tiles add 1 additional bruise per tile.\n- Bomb Tiles deal 3x damage when detonating instead of 2x.\n- Haze Tiles spread 5 seconds faster.\n- Coal Tiles last for 1 additional turn.\n- Linked Tiles keep their chains for 1 additional turn.\n- Mystery Tiles can be 1 of 7 possible letters, up from 5.\n(info taken from the wiki, game version 1.2.10)",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "first_run",
+      "display_name": "Census Survey",
+      "description": "Start your first run.",
+      "chapter": "Completionist",
+      "hint": "Just press play.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "unlock_jubilist",
+      "display_name": "Jubilant",
+      "description": "Beat the game.",
+      "chapter": "Win Condition",
+      "hint": "Finish a run with any character, unlocks the Jubilant.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "unlock_fisher",
+      "display_name": "Hooked",
+      "description": "Spell a 10+ letter word.",
+      "chapter": "Sidetrack",
+      "hint": "You will most likely have to use a suffix to make a word longer. Just note that it has to be 10+ letter in the same word so you can't cheese it with spaces.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "unlock_addict",
+      "display_name": "Refund Requested",
+      "description": "Beat the game in under 45 minutes.",
+      "chapter": "Sidetrack",
+      "hint": "Default clearance and aiming for big words while playing as Lexicographer/Jubilist to build up crits will get you to the final boss in no time. Best of luck!",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "praxice",
+      "display_name": "Praxice",
+      "description": "Beat the game as the Jubilist on Cerulean Clearance in a non-daily run.",
+      "chapter": "Cerulean Clearance",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "unlock_jubilist",
+        "beat_clearance_3"
+      ]
+    },
+    {
+      "apiname": "broken_heart",
+      "display_name": "Broken Heart",
+      "description": "Beat an enemy with <3 health left.",
+      "chapter": "Sidetrack",
+      "hint": "You, the player, has to have under three health and then win. Easier to get with The Child.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "c4",
+      "display_name": "C-4",
+      "description": "Beat Paradigm without letting any bombs explode.",
+      "chapter": "Act III",
+      "hint": "Paradigm is Copycat's Shadow. Despite the achievement naming Paradigm, it also works with Copycat.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "draft_card"
+      ]
+    },
+    {
+      "apiname": "cats_cradle",
+      "display_name": "Cat's Cradle",
+      "description": "Let a bomb explode.",
+      "chapter": "Sidetrack",
+      "hint": "Either have Copycat/Paradigm spawn a bomb and let it explode or play with the addict and use their ability to obtain a bomb.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "lip_balm",
+      "display_name": "Lip Balm",
+      "description": "Beat the game without taking damage.",
+      "chapter": "Win Condition",
+      "hint": "I found this easier to obtain with The Child. Just make sure to grab the guaranteed defense spell at the beginning.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "cotton_candy_tampon",
+      "display_name": "Cotton Candy Tampon",
+      "description": "Spell an 8+ letter word with a period.",
+      "chapter": "Act II",
+      "hint": "Without the use of spells, the Anti Sex Worker/Sex Traitor can help you get this. Alternatively, just play in anything above Blue Clearance.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "clown_cache",
+      "display_name": "Clown Cache",
+      "description": "Beat the game as the Jubilist in a non-daily run.",
+      "chapter": "Win Condition",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "unlock_jubilist"
+      ]
+    },
+    {
+      "apiname": "corkline",
+      "display_name": "Corkline",
+      "description": "Beat the game as the Fisher in a non-daily run.",
+      "chapter": "Win Condition",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "unlock_fisher"
+      ]
+    },
+    {
+      "apiname": "damaged_goods",
+      "display_name": "Damaged Goods",
+      "description": "Beat the game as the Child on Cerulean Clearance in a non-daily run.",
+      "chapter": "Cerulean Clearance",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "unlock_child",
+        "beat_clearance_3"
+      ]
+    },
+    {
+      "apiname": "dime",
+      "display_name": "Dime",
+      "description": "Beat the game as the Addict in a non-daily run.",
+      "chapter": "Win Condition",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "unlock_addict"
+      ]
+    },
+    {
+      "apiname": "sealed_packet",
+      "display_name": "Sealed Packet",
+      "description": "Use 4+ chained tiles against Umami.",
+      "chapter": "Act II",
+      "hint": "The achievement lists Umami but I'm sure it also works with their shadow, \"Salt\". If you're having a hard time, The Fisher can give you more options for chained letters.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "dna_tweezers",
+      "display_name": "DNA Tweezers",
+      "description": "Submit a word with 5+ different status effects.",
+      "chapter": "Sidetrack",
+      "hint": "Any tile that isn't just wood or plastic counts as it having a \"status effect\".\nI recommend attempting this with jubilist for the natural crit roll chance + spells that could give status effects. ",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "eight_ball",
+      "display_name": "Eight Ball",
+      "description": "Take 8+ damage in a single turn.",
+      "chapter": "Sidetrack",
+      "hint": "Whenever an enemy does 8 or more damage, don't block, eat the hit and get the achievement.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "t_gel",
+      "display_name": "T Gel",
+      "description": "Beat the game as the Child in a non-daily run.",
+      "chapter": "Win Condition",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "unlock_child"
+      ]
+    },
+    {
+      "apiname": "fishing_rifle",
+      "display_name": "Fishing Rifle",
+      "description": "Beat the game as the Fisher on Cerulean Clearance in a non-daily run.",
+      "chapter": "Cerulean Clearance",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "unlock_fisher",
+        "beat_clearance_3"
+      ]
+    },
+    {
+      "apiname": "floppy_disk",
+      "display_name": "Floppy Disk",
+      "description": "Beat the game as the Lexicographer on Cerulean Clearance in a non-daily run.",
+      "chapter": "Cerulean Clearance",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "beat_clearance_3",
+        "first_run"
+      ]
+    },
+    {
+      "apiname": "fuel_ration",
+      "display_name": "Fuel Ration",
+      "description": "Beat the game without selecting any new spells.",
+      "chapter": "Win Condition",
+      "hint": "The achievement description is a bit confusing but it's basically asking you to not grab a spell during a run, aka rawdogging it with the spell you enter the run with, pressing skip whenever you get the option for a spell.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "girl_chunks",
+      "display_name": "Girl Chunks",
+      "description": "Spell a word with 2+ shimmering tiles.",
+      "chapter": "Act III",
+      "hint": "At the end of Act III, just before the final boss, you'll be fighting Bammon, which spawns shimmering tiles. Shimmering tiles require you that both letters can be used to form a word. The achievement requires you to use two of these shimmering tiles. ",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "gray_goo",
+      "display_name": "Gray Goo",
+      "description": "Spell a word with 2+ pairs of repeat letters.",
+      "chapter": "Act I",
+      "hint": "During Act 1 you can find Noppy and Soppy. Noppy can turn your tiles into \"zz\" meanwhile Soppy can turn them into \"mi\".\nWith Noppy you can make the word \"pizzazz\" and with Soppy you can do the word \"miming\" which will get you this achievement.\n\nYou can of course do it elsewhere, with for example \"ll\" doing the word \"unparallelled\" but good luck getting 4 ls or two \"ll\" bigrams on top of all the other letters required.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ice_ix",
+      "display_name": "Ice IX",
+      "description": "Block 6+ damage with wildcards.",
+      "chapter": "Act II",
+      "hint": "During Act II, you can find the enemy \"Freezer\" whose main gimmick is giving you frozen wildcards. They tend to also do 6 damage so it shouldnt be too complicated to get. Do remember you wont be able to use plastic and that frozen tiles can thaw, so you need to spell something like \"pizza\" or \"jazz\" with the wildcards being the z to get 3+3. You don't have to cover the entire attack worth of damage, just at least 6.\n",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "lucky_cat",
+      "display_name": "Lucky Cat",
+      "description": "Roll 4+ natural crits in a single turn.",
+      "chapter": "Sidetrack",
+      "hint": "Heavily dependant on RNG and character you're playing. With Lexicographer or Jubilist, keep doing long words to build up crit chance and you'll eventually get it. You can use things like T gel to increase the chances, but even if you got that spell it doesn't guarantee you'll get the acheivement.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "mba",
+      "display_name": "MBA",
+      "description": "Spell a 3 letter word.",
+      "chapter": "Sidetrack",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "modern_heart",
+      "display_name": "Modern Heart",
+      "description": "Use all tiles while the board is locked.",
+      "chapter": "Act II",
+      "hint": "At the end of Act II, you'll be fighting the Brutalist. The brutalist eventually vacuums you inside of their body so you can fight the heart. In there, tiles dont refresh for three turns. After leaving the board empty, you'll get the achievement. Easier to do with the Child, although make sure you think turns in advance to guarantee having enough letters (mostly vowels) to make words.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "panic_button",
+      "display_name": "Panic Button",
+      "description": "Beat the game as the Addict on Cerulean Clearance in a non-daily run.",
+      "chapter": "Cerulean Clearance",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "beat_clearance_3",
+        "unlock_addict"
+      ]
+    },
+    {
+      "apiname": "pentameter",
+      "display_name": "Pentameter",
+      "description": "Spell a 5 letter word 5 times in a row.",
+      "chapter": "Sidetrack",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "perfect_metal_carapace",
+      "display_name": "Perfect Metal Carapace",
+      "description": "Gain 20+ defense from tiles at once.",
+      "chapter": "Sidetrack",
+      "hint": "Easily done with crits/multipliers in bammon or sock puppet by multiplying a plastic crit.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "political_compass",
+      "display_name": "Political Compass",
+      "description": "Beat the game on Cerulean Clearance in a non-daily run.",
+      "chapter": "Cerulean Clearance",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "beat_clearance_4"
+      ]
+    },
+    {
+      "apiname": "red_letter",
+      "display_name": "Red Letter",
+      "description": "Beat the game as the Lexicographer in a non-daily run.",
+      "chapter": "Win Condition",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "rotary_dial",
+      "display_name": "Rotary Dial",
+      "description": "Spell a 5+ letter word using only numbers.",
+      "chapter": "Act III",
+      "hint": "During Act III, you can find \"Parole\" and \"Receiver\". They will both give you number tiles but Receiver gives you a separate boards of just numbers. Be sure to not use the wild card or it wont count.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "six_shooter",
+      "display_name": "Six Shooter",
+      "description": "Beat New Cop in his second phase.",
+      "chapter": "Act III",
+      "hint": "\"New Cop\" is an enemy form Act III. He enters his second phase after reaching 5 HP or lower.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "skinner_box",
+      "display_name": "Skinner Box",
+      "description": "Play the game for 8 hours.",
+      "chapter": "Completionist",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "sobriety_test",
+      "display_name": "Sobriety Test",
+      "description": "Select 3+ cursed spells in a run.",
+      "chapter": "Sidetrack",
+      "hint": "Starting from Violet Clearance, spells you get can have curses. Just keep selecting the cursed spells until you get them. It's honestly hard to miss if you do the clearances with every character tbh.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "beat_clearance_1"
+      ]
+    },
+    {
+      "apiname": "tumor",
+      "display_name": "Tumor",
+      "description": "Spell a 6+ letter word with 0 value.",
+      "chapter": "Act II",
+      "hint": "During Act II, Xrafstar and Pseud will give you tarnished tiles, whose values are 0.\nIf you're struggling, you can use any spell that generates money wildcards as money tiles also have 0 value.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "twelve_gauge_clay",
+      "display_name": "12-Gauge Clay",
+      "description": "Select 30 different spells.",
+      "chapter": "Sidetrack",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "vampire_teeth",
+      "display_name": "Vampire Teeth",
+      "description": "Let Oenone have a snack.",
+      "chapter": "Act III",
+      "hint": "During Act 3, you'll find a floating vampire that will do a bunch of stuff. Whenever the bite icon is on top of their character, don't block and allow yourself to take the damage to get the cheevo.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "verification_can",
+      "display_name": "Verification Can",
+      "description": "Beat Dew Jubilist without any acid reaching the bottom.",
+      "chapter": "Act II",
+      "hint": "Dew Jubilist, and its shadow, Dew Jubajalist, spawn acid in the board that deals unblockable damage once it reaches the bottom row. Just make sure to use the acid tiles without getting hit and you'll get it easily.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "lexicographer_completion",
+      "display_name": "Retransition, Baby",
+      "description": "Beat the game as the Lexicographer on Red Clearance in a non-daily run.",
+      "chapter": "Red Clearance",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "beat_clearance_8",
+        "first_run"
+      ]
+    },
+    {
+      "apiname": "jubilist_completion",
+      "display_name": "Praxis in Action",
+      "description": "Beat the game as the Jubilist on Red Clearance in a non-daily run.",
+      "chapter": "Red Clearance",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "beat_clearance_8",
+        "unlock_jubilist"
+      ]
+    },
+    {
+      "apiname": "fisher_completion",
+      "display_name": "No Seaman",
+      "description": "Beat the game as the Fisher on Red Clearance in a non-daily run.",
+      "chapter": "Red Clearance",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "beat_clearance_8",
+        "unlock_fisher"
+      ]
+    },
+    {
+      "apiname": "addict_completion",
+      "display_name": "One of the Good Ones",
+      "description": "Beat the game as the Addict on Red Clearance in a non-daily run.",
+      "chapter": "Red Clearance",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "beat_clearance_8",
+        "unlock_addict"
+      ]
+    },
+    {
+      "apiname": "act_1_champions",
+      "display_name": "HOA Inspection",
+      "description": "Beat every enemy found in the Suburbs.",
+      "chapter": "Act I",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "act_2_champions",
+      "display_name": "Party Planner",
+      "description": "Beat every enemy found in the Party.",
+      "chapter": "Act II",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "act_3_champions",
+      "display_name": "Full Audit",
+      "description": "Beat every enemy found in the Palace.",
+      "chapter": "Act III",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "phonebook_completion",
+      "display_name": "Doxx",
+      "description": "Read every Phonebook entry.",
+      "chapter": "Sidetrack",
+      "hint": "After defeating a new enemy or shadow, it'll be listed in the phonebook. Check \"Draft card\" for more details.\nDo note that you do need to open the phonebook and click on the enemy for it to give you the achievement so make sure it doesnt keep showing that notification.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "act_1_champions",
+        "act_2_champions",
+        "act_3_champions",
+        "draft_card"
+      ]
+    },
+    {
+      "apiname": "unlock_child",
+      "display_name": "Problem Child",
+      "description": "Lose a run... or beat the game as every other character.",
+      "chapter": "Completionist",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "child_completion",
+      "display_name": "Irreversible Good",
+      "description": "Beat the game as the Child on Red Clearance in a non-daily run.",
+      "chapter": "Red Clearance",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "beat_clearance_8",
+        "unlock_child"
+      ]
+    },
+    {
+      "apiname": "retz",
+      "display_name": "Retz",
+      "description": "Heal an inner child.",
+      "chapter": "Act III",
+      "hint": "During Act III you can find the \"Age Regressor\" whose main thing is that whatever tile is placed in specific spots reduces the defense or attack value by however much the tile is worth. If you make your attack value reach negative numbers (not 0) you'll get the achievement.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "draft_card",
+      "display_name": "Draft Card",
+      "description": "Beat an enemy’s shadow.",
+      "chapter": "Sidetrack",
+      "hint": "Shadows are alternate versions of an enemy that are unlocked after all the enemies from an act are unlocked. Once that requisite happens, there's a 1 in 3 chance of an enemy being replaced with a shadow. \nThe game guarantees you will see at least three unseen enemies until you fill the phonebook so just keep playing! You'll find a shadow soon enough.\n\n*Note that the listed prerequisite achievements are \"get this OR this one OR this one\", for shadows to appear in that act",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "act_1_champions",
+        "act_2_champions",
+        "act_3_champions"
+      ]
+    },
+    {
+      "apiname": "beat_friends_daily",
+      "display_name": "Pyramid Scheme",
+      "description": "Beat two of your friends’ scores on a daily run.",
+      "chapter": "Sidetrack",
+      "hint": "Do note that the achievement says \"two of your friends\" so you need to beat two people.\nYou can find a lot of people in the steam forums making posts asking for help with the achievement but if you wanna lone wolf it, you can always do family share lol",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "gurolaga",
+      "display_name": "Gurolaga",
+      "description": "Deal 40+ damage in a single hit.",
+      "chapter": "Act III",
+      "hint": "Stack crits on Bammon's fight and then use them all at once with The Child to easily get the achievement.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "taffy_hook",
+      "display_name": "Taffy Hook",
+      "description": "Heal 26 health with candy in a single run.",
+      "chapter": "Sidetrack",
+      "hint": "Easier to get this with the Jubilist, just keep grabbing defense gifts and using wild card whenever (and however) you can.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "unlock_jubilist"
+      ]
+    },
+    {
+      "apiname": "sockpuppet",
+      "display_name": "Sockpuppet",
+      "description": "Submit a word containing a tile with a value of 9 or higher.",
+      "chapter": "Act I",
+      "hint": "During Public Broadcaster's fight, put a tile with a value of 3 or higher inside the x3 modifier slot to get this.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "jo_permit",
+      "display_name": "J/O Permit",
+      "description": "Submit a slur.",
+      "chapter": "Sidetrack",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "slashfic",
+      "display_name": "Slashfic",
+      "description": "Submit a word containing 3+ yuri and 3+ yaoi tiles.",
+      "chapter": "Act II",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "doubleplusgood",
+      "display_name": "Good++",
+      "description": "100% the game.",
+      "chapter": "Completionist",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "wax_stamp",
+      "display_name": "Wax Stamp",
+      "description": "Spell an 8+ letter word with 4 tiles or fewer.",
+      "chapter": "Sidetrack",
+      "hint": "I recommend doing this in Blue Clearance or above (or while fighting Liquid Human/Paradigm) because Blue Clearance adds bigrams into the pool of tiles you can get. It is very hard to do with with bigrams alone, but you can do it. If you're able to though, use trigrams",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "beat_clearance_2"
+      ]
+    },
+    {
+      "apiname": "ssn",
+      "display_name": "SSN",
+      "description": "Win a daily run.",
+      "chapter": "Win Condition",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "quality_of_life_adjustment",
+      "display_name": "Quality of Life Adjustment",
+      "description": "Spell 500 unique words. Know when you spell a new word!",
+      "chapter": "Sidetrack",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "red_tape",
+      "display_name": "Red Tape",
+      "description": "Beat the game on Red Clearance in a non-daily run.",
+      "chapter": "Red Clearance",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "linguistic_drift",
+      "display_name": "Linguistic Drift",
+      "description": "Spell “alright” the correct way.",
+      "chapter": "Sidetrack",
+      "hint": "A lot of people think \"alright\" is spelled allright when it should be \"alright\". Spell \"alright\" to get the achievement.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "good",
+      "display_name": "Good",
+      "description": "Beat the game in a non-daily run as every character.",
+      "chapter": "Completionist",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "red_letter",
+        "clown_cache",
+        "t_gel",
+        "corkline",
+        "dime"
+      ]
+    },
+    {
+      "apiname": "plusgood",
+      "display_name": "Good+",
+      "description": "Beat the game on Cerulean Clearance in a non-daily run as every character.",
+      "chapter": "Completionist",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "political_compass",
+        "panic_button",
+        "floppy_disk",
+        "fishing_rifle",
+        "damaged_goods",
+        "praxice",
+        "beat_clearance_4"
+      ]
+    },
+    {
+      "apiname": "mood_screw",
+      "display_name": "Mood Screw",
+      "description": "Submit 4+ words at once.",
+      "chapter": "Sidetrack",
+      "hint": "Use The Child's ability enough times to have 4 holes ready and then submit 4 words in one turn.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "unlock_child"
+      ]
+    },
+    {
+      "apiname": "expired_ration",
+      "display_name": "Expired Ration",
+      "description": "Beat the game with an unused Party Ration.",
+      "chapter": "Sidetrack",
+      "hint": "Randomly get the Party Ration spell in a run and after grabbing it, finish the game without ever using it to get the achievement.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "archived_achievement",
+      "display_name": "Test Achievement",
+      "chapter": "",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    }
+  ]
+}
