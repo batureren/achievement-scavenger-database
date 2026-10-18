@@ -1,0 +1,87 @@
+{
+  "gameName": "Money for Girls: Amortized",
+  "chapters": [],
+  "links": [],
+  "achievements": [
+    {
+      "apiname": "GIRLS_END",
+      "display_name": "GIRLS END",
+      "chapter": "",
+      "hint": "True ending (be aware this one spoils other endings)\nHave more good hearts than bad hearts with Agne. Just keep loving her and if you have the pink sticker, then you're set. Just be sure to select the pink sticker choice at the end.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "BUSINESS_END",
+      "display_name": "BUSINESS END",
+      "chapter": "",
+      "hint": "Keep making the Sugar Mommy happy. You'll know you're deep down in the sugar if you get the lollipop sticker.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "MONEY_END",
+      "display_name": "MONEY END",
+      "chapter": "",
+      "hint": "Get to the money goal. You can do this with the sugar mommy or by working at the mall with the fast food outfit.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "CHAINS_END",
+      "display_name": "CHAINS END",
+      "chapter": "",
+      "hint": "Don't fulfill any ending criteria (Be broke and waste time).",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "COIN_END",
+      "display_name": "COIN END",
+      "chapter": "",
+      "hint": "Have more bad hearts than good hearts. Alternatively, don't commit to loving Agne too much.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "HYGIENE_END",
+      "display_name": "HYGIENE END",
+      "chapter": "",
+      "hint": "Have your Hygiene meter reach 0.\nYou can get this pretty quickly by using the trait \"Slob\" and selecting \"Do It\" followed by \"Swallow Money\" until you're dead.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "MOOD_END",
+      "display_name": "MOOD END",
+      "chapter": "",
+      "hint": "Have your Mood meter reach 0.\n",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "BLEED_END",
+      "display_name": "BLEED END",
+      "chapter": "",
+      "hint": "On Week 8, Outside -> Sleuth -> Break In -> Follow the Ants -> 3rd option (Keep eyes shut).",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    }
+  ]
+}
