@@ -1,0 +1,189 @@
+{
+  "appId": "239350",
+  "author": "Renia",
+  "description": "For the achievement \"The Entire Gang\"",
+  "checklists": [
+    {
+      "id": "1792313838887",
+      "title": "All unlockable characters",
+      "items": [
+        {
+          "id": "1792313972100",
+          "completed": false,
+          "name": "Tina Flan",
+          "desc": "",
+          "category": "Random Coffin (No Location)",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://images.steamusercontent.com/ugc/884115325862504373/B30F6C8C41A051B6A4257EBA84AFF51A312CAD76/",
+          "videoUrl": ""
+        },
+        {
+          "id": "1792313986009",
+          "completed": false,
+          "name": "Mariachi",
+          "desc": "",
+          "category": "Random Coffin (No Location)",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/spelunky/images/0/06/XBLA_C6.png/revision/latest?cb=20130602180554",
+          "videoUrl": ""
+        },
+        {
+          "id": "1792313992026",
+          "completed": false,
+          "name": "Pirate",
+          "desc": "",
+          "category": "Random Coffin (No Location)",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/spelunky/images/8/85/XBLA_C7.png/revision/latest?cb=20130602182305",
+          "videoUrl": ""
+        },
+        {
+          "id": "1792314002107",
+          "completed": false,
+          "name": "Bearguy",
+          "desc": "",
+          "category": "Random Coffin (No Location)",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/spelunky/images/5/56/XBLA_C8.png/revision/latest?cb=20130602182313",
+          "videoUrl": ""
+        },
+        {
+          "id": "1792314517221",
+          "completed": false,
+          "name": "Valerie Crump",
+          "desc": "In the Mines, you might the Level Feeling \"My skin is crawling...\". \nFind the tomb with the king's crown and bomb under it to reach the Haunted Castle. There, you'll find a coffin with the new character.",
+          "category": "Area Specific",
+          "location": "Mines",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/spelunky/images/4/44/XBLA_C14.png/revision/latest?cb=20130602180720",
+          "videoUrl": ""
+        },
+        {
+          "id": "1792314686285",
+          "completed": false,
+          "name": "Little Jay",
+          "desc": "Inside the Jungle, Tiki Village tiles can spawn. \"Little Jay\" will be inside a coffin in there.",
+          "category": "Area Specific",
+          "location": "Jungle",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/spelunky/images/a/a9/XBLA_C16.png/revision/latest?cb=20130602182349",
+          "videoUrl": ""
+        },
+        {
+          "id": "1792314764003",
+          "completed": false,
+          "name": "Viking",
+          "desc": "In the Jungle, you might the Level Feeling \"The dead are restless...\" / \"I hear rushing water!\".\nOpen a coffin here to get this character.",
+          "category": "Area Specific",
+          "location": "Jungle",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/spelunky/images/2/21/XBLA_C18.png/revision/latest?cb=20130602180753",
+          "videoUrl": ""
+        },
+        {
+          "id": "1792314136572",
+          "completed": false,
+          "name": "Van Horsing",
+          "desc": "In the Jungle, you might the Level Feeling \"The dead are restless...\". \nFind the tomb with the king's crown and bomb under it to reach the Haunted Castle. There, you'll find a coffin with the new character.",
+          "category": "Area Specific",
+          "location": "Haunted Castle (Jungle sub-area)",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/spelunky/images/9/93/XBLA_C9.png/revision/latest?cb=20130602180639",
+          "videoUrl": ""
+        },
+        {
+          "id": "1792314742472",
+          "completed": false,
+          "name": "Carl",
+          "desc": "For sale at the Black Market for $10,000. ",
+          "category": "Area Specific",
+          "location": "Black Market (Jungle sub-area)",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/spelunky/images/1/13/XBLA_C17.png/revision/latest?cb=20130602182457",
+          "videoUrl": ""
+        },
+        {
+          "id": "1792314173925",
+          "completed": false,
+          "name": "Meat Boy",
+          "desc": "In either the Jungle or Ice Caves, you can find a worm's sticky tongue in the wall. Throw a damsel (dead or alive) and stay on the tongue. Let yourself be devoured to enter the worm.\nInside, You'll find a \"green coffin\" in the wall with Meat Boy.",
+          "category": "Area Specific",
+          "location": "Jungle/Ice Caves",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/spelunky/images/2/22/XBLA_C11.png/revision/latest?cb=20130602182330",
+          "videoUrl": ""
+        },
+        {
+          "id": "1792314423621",
+          "completed": false,
+          "name": "Inuk",
+          "desc": "In the Ice Caves, you might get the Level Feeling \"It smells like wet fur in here!\"\nFind the coffin and you'll unlock this fella.",
+          "category": "Area Specific",
+          "location": "Ice Caves",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/spelunky/images/e/e0/XBLA_C13.png/revision/latest?cb=20130602180712",
+          "videoUrl": ""
+        },
+        {
+          "id": "1792314889528",
+          "completed": false,
+          "name": "Robot",
+          "desc": "You can find the Robot inside a green pod in the Mothership.",
+          "category": "Area Specific",
+          "location": "Mothership (Ice Caves sub-area)",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/spelunky/images/f/f4/XBLA_C19.png/revision/latest?cb=20130602182405",
+          "videoUrl": ""
+        },
+        {
+          "id": "1792314958001",
+          "completed": false,
+          "name": "Au",
+          "desc": "Found inside a coffin in the City of Gold. ",
+          "category": "Area Specific",
+          "location": "City of Gold (Temple sub-area)",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/spelunky/images/9/98/XBLA_C20.png/revision/latest?cb=20130602182412",
+          "videoUrl": ""
+        },
+        {
+          "id": "1792314583258",
+          "completed": false,
+          "name": "Ninja",
+          "desc": "At the top of the Olmec boss fight, you'll find a coffin with the Ninja inside. Be sure to bring either ropes or a jetpack.",
+          "category": "Area Specific",
+          "location": "Olmec's Lair (Temple)",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/spelunky/images/6/68/XBLA_C15.png/revision/latest?cb=20130602182339",
+          "videoUrl": ""
+        },
+        {
+          "id": "1792314157584",
+          "completed": false,
+          "name": "Aztec",
+          "desc": "Beat the game by defeating Olmec and leaving through the main exit. ",
+          "category": "Area Specific",
+          "location": "Ending",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/spelunky/images/2/23/XBLA_C10.png/revision/latest?cb=20130602182321",
+          "videoUrl": ""
+        },
+        {
+          "id": "1792314311907",
+          "completed": false,
+          "name": "Yang",
+          "desc": "Beat the game by defeating King Yama and leaving through the exit. ",
+          "category": "Area Specific",
+          "location": "Ending",
+          "chapter": "",
+          "imageUrl": "https://static.wikia.nocookie.net/spelunky/images/0/01/XBLA_C12.png/revision/latest?cb=20130602180704",
+          "videoUrl": ""
+        }
+      ]
+    }
+  ]
+}
