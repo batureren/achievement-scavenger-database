@@ -1,0 +1,282 @@
+{
+  "gameName": "Tenebris Somnia",
+  "chapters": [
+    "Story",
+    "Sidetrack",
+    "Combat",
+    "Ending"
+  ],
+  "links": [],
+  "achievements": [
+    {
+      "apiname": "Star-lockers",
+      "display_name": "Stella Plena",
+      "description": "Open all star lockers",
+      "chapter": "Sidetrack",
+      "hint": "POINT OF NO RETURN: Sanguis/Dog boss fight. Regardless, do prioritize these since some are well hidden.\nThere's a guide showing all the locations of the stars and lockers under the \"checklists\" section.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Knock-door",
+      "display_name": "Maybe He's In The Bathroom",
+      "description": "Knock on Iván's door 10 times",
+      "chapter": "Sidetrack",
+      "hint": "At the very beginning of the game, when you gotta use your apartment keys to enter Ivan's Apartment... don't. Keep on interacting with the closed door 10 times to get the achievement.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Look-at-picture",
+      "display_name": "Thinking About Him, huh?",
+      "description": "Look at Ivan's picture 5 times",
+      "chapter": "Sidetrack",
+      "hint": "The first time that you get to the 2nd floor apartment, head to the room next to the tv, where the computers and the revolver is. There you'll find a picture of Iván. Interact with it 5 times to get the achievement.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Kill-enemies-at-once",
+      "display_name": "The Two Stooges",
+      "description": "Kill two or more enemies at once (not Carnitos)",
+      "chapter": "Combat",
+      "hint": "Easily doable in the hallways outside the elevators. If there's a single enemy, leave em alone so they stack with the next respawned enemies. Easier to do with Shotgun or Wrench. Just be sure to save before attempting and just tank the hit.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Kill-Carnitos-at-once",
+      "display_name": "Valiant Little Taylor",
+      "description": "Kill three Carnitos with one hit",
+      "chapter": "Combat",
+      "hint": "Carnitos is the third boss. You are able to get there after using the \"Chisel\" key item. It'll spawn enemies that die in one hit with any weapon. Just stack them together and hit away!",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Kill-all-ghosts",
+      "display_name": "Heart of Lead",
+      "chapter": "Sidetrack",
+      "hint": "Near the end of the game, when going for Ending #2, kill all relicta ghosts. Not just the ones on the way to Séptimo Arte, but the ones in every floor too.\nNOTE: I tried this achievement a total of three times since it had troubles registering the kills. Avoid multikills and stay until the gold particles go away just in case.",
+      "is_missable": true,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Escape-Vorax",
+      "display_name": "He Just Wanted a Hug",
+      "description": "Escape from a Vorax to another room before he explodes",
+      "chapter": "Combat",
+      "hint": "Only doable with guns. If you're doing \"Wrench Queen\" feel free use the gun and then reload a prior save.\nShoot the fat enemies (Vorax) until they get red and start running at you then switch rooms. You'll hear an explosion once it is safe to go back. Regardless, you don't need to go back to get the achievement.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "https://www.youtube.com/watch?v=Tgsr9yjUsFI",
+      "requires": []
+    },
+    {
+      "apiname": "Sanguis-mannequins",
+      "display_name": "Bad Puppy",
+      "chapter": "Sidetrack",
+      "hint": "During the \"dog boss fight\" (Sanguis), bait the attacks of the boss towards the standing mannequins for the boss to break em. Be careful not to accidentally kill the boss.",
+      "is_missable": true,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Endless-corridor",
+      "display_name": "You Can Stop Now",
+      "description": "Keep going down the endless corridor",
+      "chapter": "Sidetrack",
+      "hint": "One of the last puzzles of the game have you going through an infinite green corridor. Just keep going left until you get the cheevo.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Iron-pipe",
+      "display_name": "Classics Never Die",
+      "description": "Pickup the iron pipe",
+      "chapter": "Sidetrack",
+      "hint": "The iron pipe is found in the bathroom and requires the screwdiver to obtain. You can get the screwdiver on top of a box in the stairs of the place where you can watch the reels.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "All-canisters",
+      "display_name": "Devora",
+      "description": "Find all 3 film canisters",
+      "chapter": "Story",
+      "hint": "Story Achievement, impossible to miss.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Extra-health",
+      "display_name": "One More For The Road",
+      "description": "Drink Lavendoleum while having full health",
+      "chapter": "Sidetrack",
+      "hint": "",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Wrench-only",
+      "display_name": "Wrench Queen",
+      "description": "Complete the game using only the wrench",
+      "chapter": "Combat",
+      "hint": "Self explanatory for the most part. As long as you don't \"use\" (shoot, attack, aim) weapons, it should be fine.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Obscuratus-wrench-only"
+      ]
+    },
+    {
+      "apiname": "Carnitos-no-damage",
+      "display_name": "Butcheress",
+      "description": "Defeat the carnitos without getting hit",
+      "chapter": "Combat",
+      "hint": "Carnitos is the third boss. You are able to get there after using the \"Chisel\" key item.\nI found a blindspot that kinda breaks the AI. just stand at the bottom right corner and shoot or, if you're doing Wrench Queen, get out enough for the enemies to chase you and it's still a great spot, you'll just have to time your hits well.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "https://www.youtube.com/watch?v=fq-FkxFN84U",
+      "requires": []
+    },
+    {
+      "apiname": "Obscuratus-wrench-only",
+      "display_name": "Iron and wax",
+      "description": "Defeat Obscuratus using only the wrench",
+      "chapter": "Combat",
+      "hint": "*Feel free to pair this with Wrench Queen.\nObscuratus is the first boss of the game, located in the room full of candles that you enter by the window.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Fumus-pipe-only",
+      "display_name": "Exhaust Pipe",
+      "description": "Defeat Fumus using only the pipe",
+      "chapter": "Combat",
+      "hint": "*Do note this will invalidate the Wrench Queen achievement! So be sure to reload a prior save if you are going for that.\nFumus is the second boss that you get after you use the animal skull key item. It's the one that has a hole in the middle of their face. Just kill them with the pipe you get from the bar's bathroom.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Iron-pipe"
+      ]
+    },
+    {
+      "apiname": "Bottle-full",
+      "display_name": "Have You Chosen... Wisely?",
+      "description": "Fill the silver bottle by removing 3 save points",
+      "chapter": "Story",
+      "hint": "Story Achievement, impossible to miss.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "All-book-pages",
+      "display_name": "De Relictis",
+      "description": "Read all the pages of the old book",
+      "chapter": "Story",
+      "hint": "Story achievement, you can technically miss this by finishing the game without reading the book. Please, before the game ends, make sure to have read all the pages.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Lacuna-abduction",
+      "display_name": "Acrophobia",
+      "chapter": "Combat",
+      "hint": "Lacuna is the boss you'll get when going for Ending #1. \nDuring Phase 1, she'll have this attack where she screams, jump and then land. Stay still when that happens to get grabbed and killed.",
+      "is_missable": true,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Hermes-suction",
+      "display_name": "Devoured",
+      "chapter": "Combat",
+      "hint": "Hermes is the boss you'll get when going for Ending #2.\nDuring phase 2, you'll be able to see the mouth. Just get close/inside the mouth until you die and get the achievement.",
+      "is_missable": true,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Ending-1",
+      "display_name": "SOLVE ET COAGULA",
+      "description": "Get Ending #1",
+      "chapter": "Ending",
+      "hint": "*You might want to save ASAP to try the other ending later.\nAfter obtaining the Aurifer (yellow knife), don't kill any of the Relicta and enter the Séptimo Arte Theather/Gallery.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Ending-2",
+      "display_name": "MAGNUM OPUS",
+      "description": "Get Ending #2",
+      "chapter": "Ending",
+      "hint": "*You might want to save ASAP to try the other ending.\n*You might want to combine this with the \"Heart of Lead\" missable achievement.\nAfter obtaining the Aurifer (yellow knife), kill a lot of Relicta and enter the Séptimo Arte Theather/Gallery.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Kill-all-ghosts"
+      ]
+    },
+    {
+      "apiname": "Ending-3",
+      "display_name": "VIVUS EX MORTIBUS",
+      "chapter": "Ending",
+      "hint": "After getting ending #1 and #2, start a new run, then pickup the book at the table.\nWe'll have to get somewhat far into the game, doing alternate solutions to puzzles we already did *before they are completed*.\nWith the bible obtained, now we have to:\n*Get to the second floor apartment and use the bible on the TV with static. You'll be told what to do (Step on Male/Mars symbol and hit every symbol counterclockwise 6 times). After you're done, pick up the red cross.\n*Go to the Community Center (where you watch the film reels and obtain their items) and instead of inputting the normal combination, use the bible and input the combination that the cutscene shows.\n*Go to Floor 0 and obtain the yellow cable then enter the green door and use the bible inside the room. Put the cable and cycle through the camera 6 times (or just spam the shit out of the camera).\nAfter the bible is used in any of those places you'll get an inverted red cross. Bring them to the street outside Séptimo Arte, where you'll find a spot to put the inverted crosses on. Put them there and then enter the door. You'll know what to do there.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Ending-1",
+        "Ending-2"
+      ]
+    },
+    {
+      "apiname": "Ending-4",
+      "display_name": "RENUNTIATIO",
+      "chapter": "Ending",
+      "hint": "After getting ending #1 and #2, start a new run and immediately turn around and use the keys to go out of the apartment complex.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Ending-1",
+        "Ending-2"
+      ]
+    }
+  ]
+}
