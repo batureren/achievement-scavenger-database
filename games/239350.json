@@ -1,0 +1,240 @@
+{
+  "gameName": "Spelunky",
+  "chapters": [
+    "Normal Path",
+    "Hard Path",
+    "Challenge",
+    "Co-op",
+    "Sidetrack"
+  ],
+  "links": [],
+  "achievements": [
+    {
+      "apiname": "ACH_SO_IT_BEGINS",
+      "display_name": "So It Begins",
+      "description": "Beat the Tutorial.",
+      "chapter": "",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_MINES_SHAFTED",
+      "display_name": "Mines Shafted",
+      "description": "Reach the Jungle.",
+      "chapter": "Normal Path",
+      "hint": "The Jungle is the second area of the game.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_JUNGLE_JAMMED",
+      "display_name": "Jungle Jammed",
+      "description": "Reach the Ice Caves.",
+      "chapter": "Normal Path",
+      "hint": "The Ice Caves is the third area of the game.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_ICE_CREAMED",
+      "display_name": "Ice Creamed",
+      "description": "Reach the Temple.",
+      "chapter": "Normal Path",
+      "hint": "The Temple is the fourth area of the game.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_MADE_IT",
+      "display_name": "Made It",
+      "description": "Complete the game.",
+      "chapter": "Normal Path",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_BIG_MONEY",
+      "display_name": "Big Money",
+      "description": "Obtain 500,000 gold.",
+      "chapter": "Challenge",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "https://www.youtube.com/watch?v=S18nrhE7q2U",
+      "requires": [
+        "ACH_CITY_OF_GOLD"
+      ]
+    },
+    {
+      "apiname": "ACH_CITY_OF_GOLD",
+      "display_name": "City of Gold",
+      "description": "Reach the City of Gold.",
+      "chapter": "Hard Path",
+      "hint": "To reach \"The City of Gold\" you have to complete a series of steps in all biomes.\n- Mines: Open the chest with the key to obtain the Udjat Eye.\n- Jungle: With the Udjat Eye, find the entrance to the black market and buy the Ankh for 50,000 $\n- Ice Caves: Look for a level that has a blue Moai then die. You'll respawn inside the Moai head and the next item, the Hedjet, will drop.\n- Temple: Defeat Anubis and bring their scepter to the entrance to the City of Gold.\n\nIf you have all items, you'll be able to enter the City of Gold.\nCheck the achievement \"To Hell and Back\" for the remaining steps of the side quest.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": [
+        "ACH_ETERNAL_LIFE"
+      ]
+    },
+    {
+      "apiname": "ACH_ETERNAL_LIFE",
+      "display_name": "Eternal Life",
+      "description": "Obtain the Ankh.",
+      "chapter": "Hard Path",
+      "hint": "You can find the Ankh in the Jungle's black market for $50,000.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_IRONMAN",
+      "display_name": "Ironman",
+      "description": "Complete the game without using shortcuts.",
+      "chapter": "Challenge",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_SPEEDLUNKY",
+      "display_name": "Speedlunky",
+      "description": "Complete the game in under 8 minutes. No shortcuts.",
+      "chapter": "Challenge",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_ADDICTED",
+      "display_name": "Addicted",
+      "description": "Play Adventure Mode 1000 times.",
+      "chapter": "Sidetrack",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_TO_HELL_AND_BACK",
+      "display_name": "To Hell and Back",
+      "description": "Complete the game the hard way.",
+      "chapter": "Hard Path",
+      "hint": "To reach \"Hell\" you have to complete a series of steps in all biomes.\n- Mines: Open the chest with the key to obtain the Udjat Eye.\n- Jungle: With the Udjat Eye, find the entrance to the black market and buy the Ankh for 50,000 $\n- Ice Caves: Look for a level that has a blue Moai then die. You'll respawn inside the Moai head and the next item, the Hedjet, will drop.\n- Temple: Defeat Anubis and bring their scepter to the entrance to the City of Gold.\n\nIf you have all items, you'll be able to enter the City of Gold.\nOnce inside, grab the Book of the Dead (beware that this will spawn Anubis II. Feel free to either leave or kill them) and enter Olmec's Lair.\n\nInside Olmec's Lair, the Book of the Dead will start to glow in the hud the closer you are to the top of the entrance to Hell. Make sure Olmec falls to the lava in that specific spot so you can use their head as a platform to get to Hell.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "https://www.youtube.com/watch?v=OskIT96LRdg",
+      "requires": [
+        "ACH_ETERNAL_LIFE",
+        "ACH_CITY_OF_GOLD"
+      ]
+    },
+    {
+      "apiname": "ACH_SEEN_A_LOT",
+      "display_name": "Seen a Lot",
+      "description": "Complete 50% of the journal.",
+      "chapter": "Sidetrack",
+      "hint": "For a great, complete and quick guide on how to get a specific thing from the journal, check the wiki's guide!\nhttps://spelunky.fandom.com/wiki/Guides:_Spelunky_HD_All_Journal_Entries",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_SEEN_IT_ALL",
+      "display_name": "Seen It All",
+      "description": "Complete 100% of the journal.",
+      "chapter": "Sidetrack",
+      "hint": "For a great, complete and quick guide on how to get a specific thing from the journal, check the wiki's guide!\nhttps://spelunky.fandom.com/wiki/Guides:_Spelunky_HD_All_Journal_Entries",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_CASANOVA",
+      "display_name": "Casanova",
+      "description": "Rescue 10 or more damsels in one game.",
+      "chapter": "Sidetrack",
+      "hint": "Spelunky has a total of 16 levels, with only 14 of them having guaranteed damsels. Be sure to get 1 Damsel per level as much as you can!",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_PUBLIC_ENEMY",
+      "display_name": "Public Enemy",
+      "description": "Kill 12 or more shopkeepers in one game.",
+      "chapter": "Sidetrack",
+      "hint": "Spelunky has a total of 16 levels, 15 of them having a shopkeeper somewhere. Either a vault, a shop or the exit (when shopkeepers are angry at you). There are 7 shopkeepers in the black market so if you kill them all, just do a normal run killing the shopkeeper at the end every time and you should get it pretty easily.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_LOW_SCORER",
+      "display_name": "Low Scorer",
+      "description": "Complete the game without collecting any treasure. No shortcuts.",
+      "chapter": "Challenge",
+      "hint": "Avoid using bombs as much as possible and be ready to whip gold that has no way around it! \nTeleporter sounds nice but it's very easy to accidentally grab a piece of gold laying around.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "https://youtu.be/RERv7pcbDs4?si=emhiedYXtQOUik8_&t=33",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_GOOD_TEAMWORK",
+      "display_name": "Good Teamwork",
+      "description": "Complete the game with at least two players alive. No shortcuts.",
+      "chapter": "Co-op",
+      "hint": "The achievement specifically mentions that at least two players have to stay alive by the end.\nI did this with a friend using remote play/parsec, leave them at the very top of Olmec's arena, bait olmec somewhere away, bomb a path for Olmec to fall into the lava then grab my friend and go all while refreshing the camera timer.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_HER_FAVORITE",
+      "display_name": "Her Favorite",
+      "description": "Win the kapala from Kali.",
+      "chapter": "Sidetrack",
+      "hint": "Kali requires 16 favor points to give you the Kapala. That's 2 alive damsels, hired hands or players being sacrificed as they are all worth 8 points. If they're dead, the value gets halved.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_THE_ENTIRE_GANG",
+      "display_name": "The Entire Gang",
+      "description": "Rescue all 16 hidden characters.",
+      "chapter": "Sidetrack",
+      "hint": "You can find a checklist and guide in the checklists section!",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    }
+  ]
+}
