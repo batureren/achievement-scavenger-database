@@ -1,0 +1,158 @@
+{
+  "gameName": "Home Safety Hotline",
+  "chapters": [
+    "Story",
+    "Sidetrack"
+  ],
+  "links": [],
+  "achievements": [
+    {
+      "apiname": "Day1Complete",
+      "display_name": "Monday",
+      "description": "Complete your first day at Home Safety Hotline.",
+      "chapter": "Story",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Day3Complete",
+      "display_name": "Wednesday",
+      "description": "Complete your third day on the job. Wednesdays, am I right?",
+      "chapter": "Story",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Day1Complete",
+        "Day2Complete"
+      ]
+    },
+    {
+      "apiname": "Day4Complete",
+      "display_name": "Thursday",
+      "description": "Complete your fourth day on the job.",
+      "chapter": "Story",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Day1Complete",
+        "Day3Complete",
+        "Day2Complete"
+      ]
+    },
+    {
+      "apiname": "Day5Complete",
+      "display_name": "Friday",
+      "description": "Complete your fifth day on the job.",
+      "chapter": "Story",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Day1Complete",
+        "Day2Complete",
+        "Day4Complete",
+        "Day3Complete"
+      ]
+    },
+    {
+      "apiname": "GameFinished",
+      "display_name": "Junior Supervisor",
+      "chapter": "Story",
+      "hint": "Witness the ending.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Day1Complete",
+        "Day3Complete",
+        "Day4Complete",
+        "Day5Complete",
+        "Day2Complete",
+        "Day6Complete"
+      ]
+    },
+    {
+      "apiname": "PerfectGame",
+      "display_name": "Home Safety Expert",
+      "description": "Complete the game with 100% Accuracy.",
+      "chapter": "Sidetrack",
+      "hint": "",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Artbook",
+      "display_name": "Behind the Screams",
+      "description": "Read through the Art Book.",
+      "chapter": "Sidetrack",
+      "hint": "After finishing the game, flip all of the pages of the art book.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "GameFinished"
+      ]
+    },
+    {
+      "apiname": "Day2Complete",
+      "display_name": "Tuesday",
+      "description": "Complete your second day on the job.",
+      "chapter": "Story",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Day1Complete"
+      ]
+    },
+    {
+      "apiname": "Coupon",
+      "display_name": "Job Perks",
+      "description": "Earn an exclusive employee discount.",
+      "chapter": "Sidetrack",
+      "hint": "Finish a day having 90% or more accuracy (Sunday doesn't count). Technically missable, since after beating the game you can only play through Sunday unless you delete the save file.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Fired",
+      "display_name": "Unemployed",
+      "chapter": "Sidetrack",
+      "hint": "Get fired by having an accuracy of 0% for multiple days.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Day6Complete",
+      "display_name": "Saturday",
+      "description": "Complete your sixth day on the job.",
+      "chapter": "Story",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "Day1Complete",
+        "Day3Complete",
+        "Day4Complete",
+        "Day5Complete",
+        "Day2Complete"
+      ]
+    }
+  ]
+}
