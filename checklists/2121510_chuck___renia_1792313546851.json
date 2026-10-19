@@ -1,0 +1,145 @@
+{
+  "appId": "2121510",
+  "author": "Chuck & Renia",
+  "description": "Pictures taken from Chuck's steam guide. Ported to Achievement Scavenger by Renia.",
+  "checklists": [
+    {
+      "id": "1792312915618",
+      "title": "Copper Stars",
+      "items": [
+        {
+          "id": "1792312984395",
+          "completed": false,
+          "name": "Copper Star #1",
+          "desc": "Floor 3, go through blue door to the street. Hidden in trash",
+          "category": "Copper Stars",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://images.steamusercontent.com/ugc/12257723106745472160/39972FC838165342C20A44FBA5D281460D30C79B/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false",
+          "videoUrl": ""
+        },
+        {
+          "id": "1792313036493",
+          "completed": false,
+          "name": "Star Locker #1",
+          "desc": "Floor 2, in the director's room there is a trophy cabinet on the right\nNote: Temporarily this room will be inaccessible but later on you can come back if you didn't have a star on hand at the time to open this first",
+          "category": "Star Locker",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://images.steamusercontent.com/ugc/15679153352419152334/BFD68CB6EBC092ECBC60C4EA4F7FF40C89798893/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false",
+          "videoUrl": ""
+        },
+        {
+          "id": "1792313080191",
+          "completed": false,
+          "name": "Copper Star #2",
+          "desc": "Floor 1, go through door 'A', then double glass doors, star will be visible here on the floor",
+          "category": "Copper Stars",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://images.steamusercontent.com/ugc/13055720289931679643/1EDB5F6689926ADF335DD6512E397B85E43BBC02/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false",
+          "videoUrl": ""
+        },
+        {
+          "id": "1792313139210",
+          "completed": false,
+          "name": "Copper Star #3",
+          "desc": "Copper Star 3: Floor 0, in this plant near elevator",
+          "category": "Copper Stars",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://images.steamusercontent.com/ugc/15062015206683810914/AA64E541EC25D0A6AEDCBE2E968F7565084E35AE/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false",
+          "videoUrl": ""
+        },
+        {
+          "id": "1792313195658",
+          "completed": false,
+          "name": "Copper Star #4",
+          "desc": "After copper seed puzzle, in the room that you light up using tvs on the right is a shelf hiding a star",
+          "category": "Copper Stars",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://images.steamusercontent.com/ugc/9770759300145165202/E6FC77AB8B76E6BC40D2A1B0BCEA718FD0ACF20A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false",
+          "videoUrl": ""
+        },
+        {
+          "id": "1792313232159",
+          "completed": false,
+          "name": "Copper Star #5",
+          "desc": "After the boss behind the skull door, in the drawers in same room",
+          "category": "Copper Stars",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://images.steamusercontent.com/ugc/14498970176278380473/C6E5AE082CB7FD6321CB8BF8B28CBB158BBE28DC/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false",
+          "videoUrl": ""
+        },
+        {
+          "id": "1792313238770",
+          "completed": false,
+          "name": "Copper Star #6",
+          "desc": "Floor 1, red guy that was holding the green object at top of stairs, you will see it drop after getting the chisel",
+          "category": "Copper Stars",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://images.steamusercontent.com/ugc/17040710305212547592/A2A41FFB06DF7221C05BECA8E8C7C3A9DD82362D/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false",
+          "videoUrl": ""
+        },
+        {
+          "id": "1792313297056",
+          "completed": false,
+          "name": "Star Locker #2",
+          "desc": "Floor 2, ivan's apartment, in the kitchen, top right cabinet",
+          "category": "Star Locker",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://images.steamusercontent.com/ugc/14318124331389477810/1B7AB893254C52794A7F75106ABA6EF2239052F2/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false",
+          "videoUrl": ""
+        },
+        {
+          "id": "1792313301136",
+          "completed": false,
+          "name": "Star Locker #3",
+          "desc": "Floor 1, go through door 'B', inside bathroom that you can save in, right cabinet",
+          "category": "Star Locker",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://images.steamusercontent.com/ugc/11618451154146680601/11A5D8FCBE9F15F2C139D53FABBA76D6B3037A51/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false",
+          "videoUrl": ""
+        },
+        {
+          "id": "1792313311595",
+          "completed": false,
+          "name": "Star Locker #4",
+          "desc": "Floor 1, go through door 'A', upstairs with the projector, on the right shelf",
+          "category": "Star Locker",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://images.steamusercontent.com/ugc/13284870788037475252/7A1A07903DF832257D17E42277B12770068B569B/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false",
+          "videoUrl": ""
+        },
+        {
+          "id": "1792313316428",
+          "completed": false,
+          "name": "Star Locker #5",
+          "desc": "Floor 3, ivan's apartment, the room that was locked by green symbol, left closet",
+          "category": "Star Locker",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://images.steamusercontent.com/ugc/16002780712675809893/04A0367C624D25B2EE2AFA4D1C85A7D174C0138A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false",
+          "videoUrl": ""
+        },
+        {
+          "id": "1792313323153",
+          "completed": false,
+          "name": "Star Locker #6",
+          "desc": "Floor 0, through glass door, through emergency exit, up 1 set of stairs, through the door and next to it",
+          "category": "Star Locker",
+          "location": "",
+          "chapter": "",
+          "imageUrl": "https://images.steamusercontent.com/ugc/12880486996141636691/522CB9508831B58EFC0DEE00EA84E7ADB29AE908/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false",
+          "videoUrl": ""
+        }
+      ]
+    }
+  ]
+}
