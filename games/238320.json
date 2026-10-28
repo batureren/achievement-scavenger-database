@@ -1,0 +1,164 @@
+{
+  "gameName": "Outlast",
+  "chapters": [
+    "Story",
+    "Collectibles",
+    "Win Condition",
+    "[DLC] Story",
+    "[DLC] Collectibles",
+    "[DLC] Win Condition",
+    "Document",
+    "Recording"
+  ],
+  "links": [],
+  "achievements": [
+    {
+      "apiname": "Achievement_0",
+      "display_name": "ILLUMINATED",
+      "chapter": "Story",
+      "hint": "Restore power to the Administrative Block.\nUnmissable.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Achievement_1",
+      "display_name": "FLUSHED",
+      "chapter": "Story",
+      "hint": "Drain the Sewers.\nUnmissable.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Achievement_2",
+      "display_name": "SOAKED",
+      "chapter": "Story",
+      "hint": "Activate the sprinklers in the Male Ward.\nUnmissable.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Achievement_3",
+      "display_name": "EMANCIPATED",
+      "chapter": "Story",
+      "hint": "Collect the key in the Female Ward.\nUnmissable.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Achievement_4",
+      "display_name": "EDUCATED",
+      "description": "Collect 15 documents and complete 15 recordings",
+      "chapter": "Collectibles",
+      "hint": "Head to the checklists section for a guide on all documents and recordings, including DLC.\nThis achievements takes into consideration the main game only.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Achievement_5",
+      "display_name": "PUNISHED",
+      "description": "Finish the game",
+      "chapter": "Win Condition",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Achievement_6",
+      "display_name": "PULITZER",
+      "description": "Collect all documents and complete all recordings",
+      "chapter": "Collectibles",
+      "hint": "Head to the checklists section for a guide on all documents and recordings, including DLC.\nThis achievements takes into consideration the main game only.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Achievement_7",
+      "display_name": "LUNATIC",
+      "description": "Finish the game in Insane mode",
+      "chapter": "Win Condition",
+      "hint": "\"Insane Mode\" is essentially a permadeath mode. No checkpoints and no saves either. Save this one for when you're familiar with the game.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "https://youtu.be/qEFyK_wrRMM",
+      "requires": []
+    },
+    {
+      "apiname": "Achievement_8",
+      "display_name": "GAS LEAKER",
+      "chapter": "[DLC] Story",
+      "hint": "Turn off the gas.\nUnmissable.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Achievement_9",
+      "display_name": "SHOCKER",
+      "chapter": "[DLC] Story",
+      "hint": "Turn off the electricity.\nUnmissable.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Achievement_10",
+      "display_name": "WHISTLEBLOWER",
+      "description": "Finish the Whistleblower DLC",
+      "chapter": "[DLC] Win Condition",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Achievement_11",
+      "display_name": "BOWELWHISTLER",
+      "description": "Finish the DLC in Insane mode",
+      "chapter": "[DLC] Win Condition",
+      "hint": "\"Insane Mode\" is essentially a permadeath mode. No checkpoints and no saves either. Save this one for when you're familiar with the game.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "https://youtu.be/7EascEIqO6w",
+      "requires": []
+    },
+    {
+      "apiname": "Achievement_12",
+      "display_name": "ARCHIVIST",
+      "description": "Collect all documents",
+      "chapter": "[DLC] Collectibles",
+      "hint": "Head to the checklists section for a guide on all documents and recordings, including DLC.\nThis achievements takes into consideration the DLC only.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "Achievement_13",
+      "display_name": "LEGACY",
+      "description": "Complete all recordings",
+      "chapter": "[DLC] Collectibles",
+      "hint": "Head to the checklists section for a guide on all documents and recordings, including DLC.\nThis achievements takes into consideration the DLC only.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    }
+  ]
+}
