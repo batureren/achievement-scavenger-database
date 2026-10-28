@@ -1,0 +1,284 @@
+{
+  "gameName": "The Outlast Trials",
+  "chapters": [
+    "Co-Op",
+    "Completion",
+    "Health",
+    "Item Usage",
+    "Time Spent",
+    "Interaction"
+  ],
+  "links": [],
+  "achievements": [
+    {
+      "apiname": "achievement_big_saver",
+      "display_name": "Big Saver",
+      "chapter": "Interaction",
+      "hint": "Collect 15 evidence documents.\nUsually like 3 spawn per map. They're lore pieces that don't occupy an inventory slot. You can use the X-Ray rig if you want to spot them easily.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "achievement_sleight_of_hand",
+      "display_name": "Sleight of Hand",
+      "chapter": "Item Usage",
+      "hint": "Unlock 100 containers.\nUse a picklock to unlock containers. You can use the \"Key Master\" amp to make them last for two uses.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "achievement_mechanophiliac",
+      "display_name": "Mechanophiliac",
+      "chapter": "Item Usage",
+      "hint": "Use your rig 100 times.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "achievement_together_we_are_stong",
+      "display_name": "Together We Are Strong",
+      "chapter": "Co-Op",
+      "hint": "Perform 50 co-op moves.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "achievement_crowd_control",
+      "display_name": "Crowd Control",
+      "chapter": "Co-Op",
+      "hint": "Help teammates by kicking 50 enemies.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "achievement_hypochondriac",
+      "display_name": "Hypochondriac",
+      "chapter": "Item Usage",
+      "hint": "Consume 200 medicines.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "achievement_no_time_to_sleep",
+      "display_name": "Sawbones",
+      "chapter": "Co-Op",
+      "hint": "Revive or help up a friend 50 times.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "achievement_gotta_go_fast",
+      "display_name": "Speed Freak",
+      "chapter": "Item Usage",
+      "hint": "Use 50 adrenalines.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "achievement_breathe_in",
+      "display_name": "Breathe In",
+      "chapter": "Item Usage",
+      "hint": "Use 100 antidotes.\nCan only be used with at least 1 psychosis bar damaged.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "achievement_power_surge",
+      "display_name": "Power Surge",
+      "chapter": "Item Usage",
+      "hint": "Use 100 batteries.\nIf you want to farm this, you can disarm the traps by slowly opening the door then removing the battery from the other side. This will also count for the \"Trigger Happy\" achievement.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "achievement_bullseye",
+      "display_name": "Bullseye",
+      "chapter": "Item Usage",
+      "hint": "Headshot 50 enemies.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "achievement_major_league_player",
+      "display_name": "Major League Player",
+      "chapter": "Item Usage",
+      "hint": "Hit 100 enemies with throwables.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "achievement_bamboozle",
+      "display_name": "Bamboozler",
+      "chapter": "Item Usage",
+      "hint": "Distract 50 enemies with throwables.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "achievement_chicken_shit",
+      "display_name": "Chicken in a Pot",
+      "chapter": "Item Usage",
+      "hint": "Use 100 hiding spots.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "achievement_trigger_happy",
+      "display_name": "Trigger Happy",
+      "chapter": "Interaction",
+      "hint": "Disarm 50 door traps.\nBe sure to use the batteries too if you don't have the \"Power Surge\" achievement.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "achievement_anger_issues",
+      "display_name": "Anger Issues",
+      "chapter": "Interaction",
+      "hint": "Break down 50 locked doors.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "achievement_determined",
+      "display_name": "Glutton for Therapy",
+      "chapter": "Completion",
+      "hint": "Complete 25 Trials.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "achievement_boost_me_up",
+      "display_name": "Toastmaster",
+      "chapter": "Item Usage",
+      "hint": "Use 50 rig rechargers.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "achievement_clear_vision",
+      "display_name": "Tapetum Lucidum",
+      "chapter": "Time Spent",
+      "hint": "Spend 36,000 seconds in night vision.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "achievement_high_as_a_kite",
+      "display_name": "Vision Quest",
+      "chapter": "Time Spent",
+      "hint": "Spend 600 seconds in full psychosis.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "achievement_step_on_me_daddy",
+      "display_name": "Get Down",
+      "chapter": "Health",
+      "hint": "Knocked down 50 times.\nHard to get if you're cautious, good at the game or going for a good rank.\nYou can get this passively by playing the highest difficulty but you can also farm the lowest difficulty since it has the most amount of auto-revives solo.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "achievement_hemophiliac",
+      "display_name": "Hemophiliac",
+      "chapter": "Health",
+      "hint": "Lose 10,000 health points.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "achievement_hoarder",
+      "display_name": "Hoarder",
+      "chapter": "Item Usage",
+      "hint": "Collect 1,000 items.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "achievement_drift_king",
+      "display_name": "Slip and Slider",
+      "chapter": "Time Spent",
+      "hint": "Spend 120 seconds sliding.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "achievement_marathonian",
+      "display_name": "Marathoner",
+      "chapter": "Time Spent",
+      "hint": "Spend 3,600 seconds running.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "achievement_hunchback",
+      "display_name": "Hunchback",
+      "chapter": "Time Spent",
+      "hint": "Spend 3,600 seconds crouched.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "achievement_cant_touch_this",
+      "display_name": "Can't Touch This",
+      "chapter": "Completion",
+      "hint": "Take no damage during a trial 10 times.\nBest done in Introductory, in trials like \"Kill the Snitch\" or \"Open the Vault\" as they can take 10~ minutes once you know what to do, although the latter is harder.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    }
+  ]
+}
