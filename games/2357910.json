@@ -1,5 +1,10 @@
 {
   "gameName": "Home Safety Hotline",
+  "completion": {
+    "difficulty": 2,
+    "length": 2,
+    "hours": 4
+  },
   "chapters": [
     "Story",
     "Sidetrack"
