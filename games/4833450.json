@@ -1,5 +1,10 @@
 {
   "gameName": "Money for Girls: Amortized",
+  "completion": {
+    "difficulty": 1,
+    "length": 2,
+    "hours": 9
+  },
   "chapters": [],
   "links": [],
   "achievements": [
