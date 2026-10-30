@@ -1,5 +1,10 @@
 {
   "gameName": "FINAL FANTASY V",
+  "completion": {
+    "difficulty": 7,
+    "length": 6,
+    "hours": 55
+  },
   "chapters": [
     "Story",
     "Sidetrack",
