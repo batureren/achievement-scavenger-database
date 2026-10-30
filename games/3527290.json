@@ -1,5 +1,9 @@
 {
   "gameName": "PEAK",
+  "completion": {
+    "difficulty": 5,
+    "length": 6
+  },
   "chapters": [
     "Any biome",
     "Shore",
@@ -726,6 +730,5 @@
       "video_url": "",
       "requires": []
     }
-  ],
-  "checklists": []
+  ]
 }
