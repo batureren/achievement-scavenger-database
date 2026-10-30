@@ -1,5 +1,10 @@
 {
   "gameName": "Outlast",
+  "completion": {
+    "difficulty": 7,
+    "length": 4,
+    "hours": 11
+  },
   "chapters": [
     "Story",
     "Collectibles",
