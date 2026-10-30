@@ -1,5 +1,10 @@
 {
   "gameName": "Mewgenics",
+  "completion": {
+    "difficulty": 8,
+    "length": 10,
+    "hours": 220
+  },
   "chapters": [],
   "links": [],
   "achievements": [
@@ -2912,6 +2917,5 @@
       "video_url": "",
       "requires": []
     }
-  ],
-  "checklists": []
+  ]
 }
