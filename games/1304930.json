@@ -1,5 +1,10 @@
 {
   "gameName": "The Outlast Trials",
+  "completion": {
+    "difficulty": 2,
+    "length": 7,
+    "hours": 40
+  },
   "chapters": [
     "Co-Op",
     "Completion",
