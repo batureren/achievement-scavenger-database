@@ -1,5 +1,10 @@
 {
   "gameName": "Fallout: New Vegas",
+  "completion": {
+    "difficulty": 6,
+    "length": 9,
+    "hours": 135
+  },
   "chapters": [
     "Story",
     "Character",
@@ -875,6 +880,5 @@
       "video_url": "",
       "requires": []
     }
-  ],
-  "checklists": []
+  ]
 }
