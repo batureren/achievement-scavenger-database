@@ -1,5 +1,10 @@
 {
   "gameName": "Tenebris Somnia",
+  "completion": {
+    "difficulty": 3,
+    "length": 4,
+    "hours": 9
+  },
   "chapters": [
     "Story",
     "Sidetrack",
@@ -13,7 +18,7 @@
       "display_name": "Stella Plena",
       "description": "Open all star lockers",
       "chapter": "Sidetrack",
-      "hint": "POINT OF NO RETURN: Sanguis/Dog boss fight. Regardless, do prioritize these since some are well hidden.\nThere's a guide showing all the locations of the stars and lockers under the \"checklists\" section.",
+      "hint": "POINT OF NO RETURN: Developing Photo and Sanguis/Dog boss fight. Regardless, do prioritize these since some are well hidden.\nThere's a guide showing all the locations of the stars and lockers under the \"checklists\" section.",
       "is_missable": true,
       "is_spoiler": false,
       "video_url": "",
@@ -143,7 +148,7 @@
       "display_name": "Wrench Queen",
       "description": "Complete the game using only the wrench",
       "chapter": "Combat",
-      "hint": "Self explanatory for the most part. As long as you don't \"use\" (shoot, attack, aim) weapons, it should be fine.",
+      "hint": "Self explanatory for the most part. As long as you don't \"use\" (shoot, attack, aim) weapons, it should be fine.\nPretty sure it *has* to be done with ending #1 or #2 otherwise it won't count.",
       "is_missable": true,
       "is_spoiler": false,
       "video_url": "",
@@ -156,7 +161,7 @@
       "display_name": "Butcheress",
       "description": "Defeat the carnitos without getting hit",
       "chapter": "Combat",
-      "hint": "Carnitos is the third boss. You are able to get there after using the \"Chisel\" key item.\nI found a blindspot that kinda breaks the AI. just stand at the bottom right corner and shoot or, if you're doing Wrench Queen, get out enough for the enemies to chase you and it's still a great spot, you'll just have to time your hits well.",
+      "hint": "Carnitos is the third boss. You are able to get there after using the \"Chisel\" key item.\nI found a blindspot that kinda breaks the AI. just stand at the bottom right corner and shoot or, if you're doing Wrench Queen, get out enough for the enemies to chase you and it's still a great spot, you'll just have to time your hits well.\nIf you're not doing Wrench Queen and want to save bullets, just use the pipe as it has longer reach than the wrench.\n",
       "is_missable": true,
       "is_spoiler": false,
       "video_url": "https://www.youtube.com/watch?v=fq-FkxFN84U",
@@ -269,7 +274,7 @@
       "apiname": "Ending-4",
       "display_name": "RENUNTIATIO",
       "chapter": "Ending",
-      "hint": "After getting ending #1 and #2, start a new run and immediately turn around and use the keys to go out of the apartment complex.",
+      "hint": "After getting ending #1 and #2, start a new run and immediately turn around and use the keys to go out of the apartment complex.\nNOTE: You can't get Wrench Queen with this ending.",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
