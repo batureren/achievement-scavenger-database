@@ -1,5 +1,10 @@
 {
   "gameName": "The Silver Case",
+  "completion": {
+    "difficulty": 2,
+    "length": 4,
+    "hours": 18
+  },
   "chapters": [
     "Story",
     "#0 Lunatic",
@@ -177,7 +182,7 @@
       "apiname": "ACH_QUIZ_COMPLETE",
       "display_name": "Your score is in your heart.",
       "chapter": "#2 Spectrum",
-      "hint": "Near the end of the case #2 Spectrum, you'll be in some sort of \"break room\" with Morikawa. He will give you a timed 100 questions quiz. You need to finish it without making a mistake so be sure to save before trying! Head to the guides section for a list of all the 100 answers of the quiz.",
+      "hint": "Near the end of the case #2 Spectrum, you'll be in some sort of \"break room\" with Morikawa. He will give you a timed 100 questions quiz. You need to finish it without making a mistake so be sure to save before trying! Head to the guides section for a list of all the 100 answers of the quiz.\n\nMizoguchi\nWumpa fruit\nBatman\nEntruscan Shrew\n1995\nTsugaru Strait\nOkinawa\nDr. Pepper\nJ. Fox\nAtari\nHiruma\nSatoru Nakajima\nStrawweight\nTruffles\nAtlanta, USA\n4\nMomotaro\nThe thing called love\nMr. Watson, come here\nNoodles\n301\nIchiro Suzuki\n2 (judo)\n1996 (Playstation)\nAkebono\nUpper Egypt\nAmaterasu\nTruman\n1968\nExecutive\nAccidental death\nCroatia\nPrincess Mononoke\nGreen tea\nA fistful of dollars\nChemical reaction\nDiet\nBlue whale\nARPANET\nOlympus Mons\nNone\nBogey\nTatsumi Fujinami\nStewed fish and other ingredients\nGiant Steps\nReplicant\nYamato\nTetris\nOpal\nLee Jun-Fan\nRevenge\nSuperintendant\nRed\nHubble\nTrumpet\nEinstein\nFrance\nNetherlands\nMerci\nPKO\nAlcohol\nSuper Smash Bros\nRyoma Sakamoto\n13 years old\n52 (deck of cards)\nJames Cameron\nElvis Presley\nSahara\n200m\nTetsugoro Kusabi\n5th floor\nFlush\nWashington, D.C.\nLadies Love\nBaccarat\nRedwood\nGermany\nA rabbit\nUnited Kingdom\nSumio\nHeart attack\nPlaystation\nK2\nSkinner\nKlondike\nNago\nMozart\nNeil Armstrong\nFrance\nEric Cantona\nA sticker stuck behind his keyhole\nThe One\nBlue whale\nPhonograph\nShirano River\nJohn McClane\nFerrari\nGold\nABBA\nOdin\n",
       "is_missable": true,
       "is_spoiler": false,
       "video_url": "https://www.youtube.com/watch?v=ro93Jz03nfU",
@@ -263,6 +268,5 @@
       "video_url": "",
       "requires": []
     }
-  ],
-  "checklists": []
+  ]
 }
