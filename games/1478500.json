@@ -1,5 +1,10 @@
 {
   "gameName": "Big Walk",
+  "completion": {
+    "difficulty": 3,
+    "length": 5,
+    "hours": 16
+  },
   "chapters": [
     "Progression related achievement",
     "Character progression achievement",
@@ -139,6 +144,5 @@
       "video_url": "",
       "requires": []
     }
-  ],
-  "checklists": []
+  ]
 }
