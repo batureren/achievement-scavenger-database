@@ -1,5 +1,10 @@
 {
   "gameName": "FINAL FANTASY",
+  "completion": {
+    "difficulty": 2,
+    "length": 4,
+    "hours": 21
+  },
   "chapters": [
     "Story",
     "Sidetrack",
