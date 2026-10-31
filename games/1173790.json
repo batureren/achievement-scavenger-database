@@ -1,5 +1,10 @@
 {
   "gameName": "FINAL FANTASY III",
+  "completion": {
+    "difficulty": 3,
+    "length": 3,
+    "hours": 18
+  },
   "chapters": [
     "Story",
     "Sidetrack",
