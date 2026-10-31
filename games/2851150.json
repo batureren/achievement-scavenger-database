@@ -1,5 +1,10 @@
 {
   "gameName": "Tomba! Special Edition",
+  "completion": {
+    "difficulty": 2,
+    "length": 3,
+    "hours": 12
+  },
   "chapters": [
     "Village of All Beginnings",
     "100 Flower Forest & Dwarf Village",
@@ -17,9 +22,18 @@
     "Final Boss"
   ],
   "links": [
-    "https://steamcommunity.com/app/2851150/guides/",
-    "https://gamefaqs.gamespot.com/pc/414518-tomba-special-edition/faqs/82382/tomba-special-edition-100-completion-guide-all-130-events-and-steam-achievements",
-    "https://gamefaqs.gamespot.com/pc/414518-tomba-special-edition/faqs/34506"
+    {
+      "title": "Community Link",
+      "url": "https://steamcommunity.com/app/2851150/guides/"
+    },
+    {
+      "title": "Community Link",
+      "url": "https://gamefaqs.gamespot.com/pc/414518-tomba-special-edition/faqs/82382/tomba-special-edition-100-completion-guide-all-130-events-and-steam-achievements"
+    },
+    {
+      "title": "Community Link",
+      "url": "https://gamefaqs.gamespot.com/pc/414518-tomba-special-edition/faqs/34506"
+    }
   ],
   "achievements": [
     {
@@ -402,6 +416,5 @@
         "ACH_5_GOLDEN_ITEMS"
       ]
     }
-  ],
-  "checklists": []
+  ]
 }
