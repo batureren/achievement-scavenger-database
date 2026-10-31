@@ -1,5 +1,10 @@
 {
   "gameName": "Spelunky",
+  "completion": {
+    "difficulty": 9,
+    "length": 8,
+    "hours": 80
+  },
   "chapters": [
     "Normal Path",
     "Hard Path",
