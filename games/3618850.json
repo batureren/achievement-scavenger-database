@@ -1,5 +1,10 @@
 {
   "gameName": "Pronoun Palace",
+  "completion": {
+    "difficulty": 6,
+    "length": 7,
+    "hours": 60
+  },
   "chapters": [
     "Win Condition",
     "Sidetrack",
@@ -954,16 +959,6 @@
       "description": "Beat the game with an unused Party Ration.",
       "chapter": "Sidetrack",
       "hint": "Randomly get the Party Ration spell in a run and after grabbing it, finish the game without ever using it to get the achievement.",
-      "is_missable": false,
-      "is_spoiler": false,
-      "video_url": "",
-      "requires": []
-    },
-    {
-      "apiname": "archived_achievement",
-      "display_name": "Test Achievement",
-      "chapter": "",
-      "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
