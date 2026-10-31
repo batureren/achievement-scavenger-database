@@ -1,0 +1,323 @@
+{
+  "gameName": "Labyrinth Of The Demon King",
+  "completion": {
+    "difficulty": 4,
+    "length": 4,
+    "hours": 12
+  },
+  "chapters": [
+    "Progression",
+    "Blacksmith",
+    "Sidetrack"
+  ],
+  "links": [],
+  "achievements": [
+    {
+      "apiname": "CompleteTutorial",
+      "display_name": "Graduation",
+      "chapter": "Sidetrack",
+      "hint": "Complete the tutorial.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "SkipTutorial",
+      "display_name": "No Time For That",
+      "chapter": "Sidetrack",
+      "hint": "Skip the tutorial.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "EnterTower1",
+      "display_name": "First Time",
+      "chapter": "Progression",
+      "hint": "Obtained upon entering the first tower: Tower of Repetition.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "EnterTower2",
+      "display_name": "Bath Time",
+      "chapter": "Progression",
+      "hint": "Obtained upon entering the second tower: Tower of Lamentation.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "EnterTower3",
+      "display_name": "Hard Time",
+      "chapter": "Progression",
+      "hint": "Obtained upon entering the third tower: Tower of Crushing Assembly.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "EnterTower4",
+      "display_name": "Show Time",
+      "chapter": "Progression",
+      "hint": "Obtained upon entering the fourth tower: Tower of No Interval.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "EnterTeahouse",
+      "display_name": "Tea Time",
+      "chapter": "Progression",
+      "hint": "Enter the Tea House (the hub)",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "DefeatUbume",
+      "display_name": "A Mother's Love",
+      "chapter": "Progression",
+      "hint": "Defeat the final boss in the Tower of Repetition.\nIf you have bow and arrows, I recommend saving them for the next boss since this one is pretty easy.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": [
+        "EnterTower1"
+      ]
+    },
+    {
+      "apiname": "DefeatNuppeppo",
+      "display_name": "Pop Goes The Nuppeppo",
+      "chapter": "Progression",
+      "hint": "Defeat the final boss in the Tower of Lamentation.\nThis boss has a high resistance to blunt damage so use something sharp.\nMy favorite method of dealing with them is to use arrows.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": [
+        "EnterTower2"
+      ]
+    },
+    {
+      "apiname": "DefeatTsuchigumo",
+      "display_name": "Down Came The Ashigaru",
+      "chapter": "Progression",
+      "hint": "Defeat the first boss in the Tower of Crushing Assembly.\nMy favorite method of dealing with them is to use the flintlock from the tea house vendor and finish them with arrows. I hope you leveled some of your hp up tho, since this boss is a bit of an HP/resource check.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": [
+        "EnterTower3"
+      ]
+    },
+    {
+      "apiname": "DefeatJailer",
+      "display_name": "Jailbreak",
+      "chapter": "Progression",
+      "hint": "Defeat the final boss in the Tower of Crushing Assembly.\nLow slash resistance, can easily be beaten (and stunlocked) with any of the reforged/repaired katanas and enough stamina.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": [
+        "EnterTower3"
+      ]
+    },
+    {
+      "apiname": "DefeatDemonKing",
+      "display_name": "Revenge",
+      "chapter": "Progression",
+      "hint": "Defeat the final boss in the Tower of No Interval.\nBest way I found to defeat this boss is to rush to arena -> die, let the game revive you then use all of your arrows and ammo. It should be dead before running out of ammo but this strategy does make for an underwhelming final fight.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": [
+        "EnterTower4"
+      ]
+    },
+    {
+      "apiname": "MeetMerchant",
+      "display_name": "What are you buying?",
+      "chapter": "Sidetrack",
+      "hint": "In the Tower of Repetition, you are able to find the Merchant at the cook's room.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "EnterTower1"
+      ]
+    },
+    {
+      "apiname": "RescueKappa",
+      "display_name": "Seeker of Shirikodama",
+      "chapter": "Sidetrack",
+      "hint": "In the Tower of Repetition, the Blacksmith will be trapped in the Pantry. To obtain the key to free them you must complete a side-quest involving the Merchant.\nFor more information about this, check the achievement \"What Could go Wrong?\".",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "MeetMerchant",
+        "TakeStatue",
+        "EnterTower1"
+      ]
+    },
+    {
+      "apiname": "RescueServant",
+      "display_name": "Knight In Rusty Armour",
+      "chapter": "Sidetrack",
+      "hint": "In the Tower of Lamentation, you can find the Servant behind a door, screaming and crying. Kill all the enemies there to free her. Required to obtain the Brown Gem Wheel which is needed to progress.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "EnterTower2"
+      ]
+    },
+    {
+      "apiname": "RescuePriest",
+      "display_name": "Holy Rescue",
+      "chapter": "Sidetrack",
+      "hint": "In the Tower of Crushing Assembly, defeat the first boss and then interact with the blinking/flashing cocoon to free the priest.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "DefeatTsuchigumo"
+      ]
+    },
+    {
+      "apiname": "TakeStatue",
+      "display_name": "What Could Go Wrong?",
+      "chapter": "Sidetrack",
+      "hint": "In the Tower of Lamentation, find the Panty and interact with the door to speak with the Blacksmith. Agree to free him and then go to the merchant to ask him for the key.\nHe will ask you to steal a statue from a butsudan (buddha shrine) which will make an unkillable roaming monster spawn (but there's an achievement for \"restoring the peace\" after this so just do it). After getting the statue, deliver it to the merchant in exchange of the key to complete the quest. I recommend going to the pantry ASAP to rescue the blacksmith to get another achievement.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "MeetMerchant"
+      ]
+    },
+    {
+      "apiname": "ReturnStatue",
+      "display_name": "Butsudan Restored",
+      "chapter": "Sidetrack",
+      "hint": "Check the achievement \"What Could Go Wrong\" and after you do that, come back here.\nIn the Tower of Crushing Assembly, after killing the first boss and going up the stairs, behind one of the doors in the hexagon shape room, you'll find a long hallway with a buddha statuette for the batsudan of Tower of Repetition.\nSo basically, with the statuette from the Tower of Crushing Assembly, head to the batsudan in the Tower of Repetition. This will also stop that unkillable enemy from spawning, but there isn't any other achievement tied to it so don't worry about that.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "TakeStatue",
+        "EnterTower3"
+      ]
+    },
+    {
+      "apiname": "SolveKingsCourt",
+      "display_name": "Hanging With The Boys",
+      "chapter": "Progression",
+      "hint": "Obtained after finishing the King's Court Puzzle.\nRequired to finish the Tower of Repetition.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "MakeTea",
+      "display_name": "Chajin",
+      "description": "Make some tea",
+      "chapter": "Sidetrack",
+      "hint": "Obtained inside the Tea House. \nTo make tea, interact with the table then add two scoops of matcha to the chawan (cup) then pour boiling water and whisk the tea.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "EnterTeahouse"
+      ]
+    },
+    {
+      "apiname": "RepairKatana",
+      "display_name": "Restored Glory",
+      "description": "Repair your broken katana",
+      "chapter": "Sidetrack",
+      "hint": "There are 4 possible katanas you can use to repair the broken katana. You must choose only one per NG.\nThe first one is the Rusty Katana, found at the Tower of Repetition and has the lowest damage.\nThe second one is the Royal Katana, found at the Teahouse vendor and has high damage.\nThe third one is Kodoku Katana, found in the Tower of Lamentation. It deals poison damage.\nThe fourth one is in the Tower of Crushing Assembly. It deals bleed damage.\n\nWhich one should you choose? Honestly it depends if you're aiming to do NG+ or not because the developer's favorite (and highkey the best one) is the bleed katana, but that is obtained so far in the game that you'll have like an hour or two of playtime left. Maybe less if you know where to go. \n\nI went for the poison katana and regretted it because the third tower has mostly skeletons as enemies, which require blunt type damage to get killed.\nThere are no achievements for NG+ but there is new enemy variants and content so it really is up to you.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "CleanWeapon",
+      "display_name": "Buff And Shine",
+      "description": "Clean a weapon",
+      "chapter": "Sidetrack",
+      "hint": "In the Tower of Lamentation, obtain a muddied weapon (red gem) and then bring it to the Servant in the teahouse.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "RescueServant"
+      ]
+    },
+    {
+      "apiname": "UpgradeWeapon",
+      "display_name": "Increasing Aggression",
+      "description": "Upgrade a weapon",
+      "chapter": "Blacksmith",
+      "hint": "Think well which weapon you want to upgrade as the upgrade materials are limited.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "UpgradeArmour",
+      "display_name": "Fortifying Fortitude",
+      "description": "Upgrade a piece of armour",
+      "chapter": "Blacksmith",
+      "hint": "Think well which armour you want to upgrade as the upgrade materials are limited.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "FullyUpgradeItem",
+      "display_name": "Way of the Blacksmith",
+      "description": "Fully upgrade one weapon or piece of armour",
+      "chapter": "Blacksmith",
+      "hint": "Max upgrade level is +5.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "UpgradeStats",
+      "display_name": "Blessed",
+      "description": "Upgrade your health or stamina for the first time",
+      "chapter": "Sidetrack",
+      "hint": "After you obtain a burning incense, use it at the shrines (where you save the game) to upgrade your stats.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "CombineItem",
+      "display_name": "Genius",
+      "description": "Combine two items to make a new one",
+      "chapter": "Sidetrack",
+      "hint": "Can be done as early as Tower of Repetition, but Tower of Lamentation and Tower of Crushing Assembly requires you to do this to progress so don't stress out.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    }
+  ]
+}
