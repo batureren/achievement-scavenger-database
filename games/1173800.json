@@ -1,5 +1,10 @@
 {
   "gameName": "FINAL FANTASY IV",
+  "completion": {
+    "difficulty": 4,
+    "length": 4,
+    "hours": 26
+  },
   "chapters": [
     "Story",
     "Sidetrack",
