@@ -5,14 +5,37 @@
     "length": 10,
     "hours": 220
   },
-  "chapters": [],
+  "chapters": [
+    "Progression",
+    "Collarless",
+    "Fighter",
+    "Hunter",
+    "Mage",
+    "Tank",
+    "Cleric",
+    "Thief",
+    "Necromancer",
+    "Tinkerer",
+    "Butcher",
+    "Druid",
+    "Psychic",
+    "Monk",
+    "Jester",
+    "All Classes",
+    "Side-quest",
+    "NPC",
+    "House Boss",
+    "Hard Difficulty",
+    "Crazy Difficulty",
+    "Impossible Difficulty"
+  ],
   "links": [],
   "achievements": [
     {
       "apiname": "class_unlock_fighter_ability",
       "display_name": "Paw Breaker",
       "description": "Complete the Caves with the Fighter.",
-      "chapter": "",
+      "chapter": "Fighter",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -23,7 +46,7 @@
       "apiname": "class_unlock_hunter_ability",
       "display_name": "Ball of Spiders",
       "description": "Complete the Caves with the Hunter.",
-      "chapter": "",
+      "chapter": "Hunter",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -34,7 +57,7 @@
       "apiname": "class_unlock_mage_ability",
       "display_name": "Hyper Beam",
       "description": "Complete the Caves with the Mage.",
-      "chapter": "",
+      "chapter": "Mage",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -45,7 +68,7 @@
       "apiname": "class_unlock_medic_ability",
       "display_name": "Ethereal",
       "description": "Complete the Caves with the Cleric.",
-      "chapter": "",
+      "chapter": "Cleric",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -56,7 +79,7 @@
       "apiname": "class_unlock_thief_ability",
       "display_name": "Nail Flurry",
       "description": "Complete the Caves with the Thief.",
-      "chapter": "",
+      "chapter": "Thief",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -67,7 +90,7 @@
       "apiname": "class_unlock_tank_ability",
       "display_name": "Suplex",
       "description": "Complete the Caves with the Tank.",
-      "chapter": "",
+      "chapter": "Tank",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -77,7 +100,8 @@
     {
       "apiname": "class_unlock_necro_ability",
       "display_name": "Summon Shade",
-      "chapter": "",
+      "description": "Complete the Caves with the Necromancer.",
+      "chapter": "Necromancer",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -87,7 +111,8 @@
     {
       "apiname": "class_unlock_psychic_ability",
       "display_name": "Supernova",
-      "chapter": "",
+      "description": "Complete the Caves with the Psychic.",
+      "chapter": "Psychic",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -97,7 +122,8 @@
     {
       "apiname": "class_unlock_tinkerer_ability",
       "display_name": "Mech Suit",
-      "chapter": "",
+      "description": "Complete the Caves with the Tinkerer.",
+      "chapter": "Tinkerer",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -107,7 +133,8 @@
     {
       "apiname": "class_unlock_butcher_ability",
       "display_name": "Slice And Dice",
-      "chapter": "",
+      "description": "Complete the Caves with the Butcher.",
+      "chapter": "Butcher",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -117,7 +144,8 @@
     {
       "apiname": "class_unlock_monk_ability",
       "display_name": "Hundred Hand Slap",
-      "chapter": "",
+      "description": "Complete the Caves with the Monk.",
+      "chapter": "Monk",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -127,7 +155,8 @@
     {
       "apiname": "class_unlock_jester_ability",
       "display_name": "Smart Metronome (and more!)",
-      "chapter": "",
+      "description": "Complete the Caves with the Jester.",
+      "chapter": "Jester",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -138,7 +167,7 @@
       "apiname": "class_unlock_colorless_ability",
       "display_name": "Metronome",
       "description": "Complete the Caves with a Collarless cat.",
-      "chapter": "",
+      "chapter": "Collarless",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -149,7 +178,7 @@
       "apiname": "class_unlock_fighter_passive",
       "display_name": "Dual Wield",
       "description": "Complete the Boneyard with the Fighter.",
-      "chapter": "",
+      "chapter": "Fighter",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -160,7 +189,7 @@
       "apiname": "class_unlock_hunter_passive",
       "display_name": "Thrill Of The Hunt",
       "description": "Complete the Boneyard with the Hunter.",
-      "chapter": "",
+      "chapter": "Hunter",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -171,7 +200,7 @@
       "apiname": "class_unlock_mage_passive",
       "display_name": "Three",
       "description": "Complete the Boneyard with the Mage.",
-      "chapter": "",
+      "chapter": "Mage",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -182,7 +211,7 @@
       "apiname": "class_unlock_medic_passive",
       "display_name": "Evil Patron",
       "description": "Complete the Boneyard with the Cleric.",
-      "chapter": "",
+      "chapter": "Cleric",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -193,7 +222,7 @@
       "apiname": "class_unlock_thief_passive",
       "display_name": "First Strike",
       "description": "Complete the Boneyard with the Thief.",
-      "chapter": "",
+      "chapter": "Thief",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -203,7 +232,8 @@
     {
       "apiname": "class_unlock_necro_passive",
       "display_name": "Servus Mortem",
-      "chapter": "",
+      "description": "Complete the Boneyard with the Necromancer.",
+      "chapter": "Necromancer",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -213,7 +243,8 @@
     {
       "apiname": "class_unlock_psychic_passive",
       "display_name": "Gravity Well",
-      "chapter": "",
+      "description": "Complete the Boneyard with the Psychic.",
+      "chapter": "Psychic",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -223,7 +254,8 @@
     {
       "apiname": "class_unlock_tinkerer_passive",
       "display_name": "Armor Specialist",
-      "chapter": "",
+      "description": "Complete the Boneyard with the Tinkerer.",
+      "chapter": "Tinkerer",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -233,7 +265,8 @@
     {
       "apiname": "class_unlock_butcher_passive",
       "display_name": "Indigestion",
-      "chapter": "",
+      "description": "Complete the Boneyard with the Butcher.",
+      "chapter": "Butcher",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -243,7 +276,8 @@
     {
       "apiname": "class_unlock_druid_passive",
       "display_name": "Suicide Squad",
-      "chapter": "",
+      "description": "Complete the Boneyard with the Druid.",
+      "chapter": "Druid",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -253,7 +287,8 @@
     {
       "apiname": "class_unlock_druid_ability",
       "display_name": "Summon Bear",
-      "chapter": "",
+      "description": "Complete the Caves with the Druid.",
+      "chapter": "Druid",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -263,7 +298,8 @@
     {
       "apiname": "class_unlock_monk_passive",
       "display_name": "Unstoppable",
-      "chapter": "",
+      "description": "Complete the Boneyard with the Monk.",
+      "chapter": "Monk",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -273,7 +309,8 @@
     {
       "apiname": "class_unlock_jester_passive",
       "display_name": "Super Luck & Goofball",
-      "chapter": "",
+      "description": "Complete the Boneyard with the Jester.",
+      "chapter": "Jester",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -283,7 +320,8 @@
     {
       "apiname": "class_unlock_colorless_passive",
       "display_name": "Skill Share",
-      "chapter": "",
+      "description": "Complete the Boneyard with a Collarless cat.",
+      "chapter": "Collarless",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -294,7 +332,7 @@
       "apiname": "class_unlock_tank_passive",
       "display_name": "Bouncer",
       "description": "Complete the Boneyard with the Tank.",
-      "chapter": "",
+      "chapter": "Tank",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -305,7 +343,7 @@
       "apiname": "class_unlock_fighter_colorless_ability",
       "display_name": "Path Of The Fighter",
       "description": "Complete the Core with the Fighter.",
-      "chapter": "",
+      "chapter": "Fighter",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -316,7 +354,7 @@
       "apiname": "class_unlock_hunter_colorless_ability",
       "display_name": "Path Of The Hunter",
       "description": "Complete the Core with the Hunter.",
-      "chapter": "",
+      "chapter": "Hunter",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -327,7 +365,7 @@
       "apiname": "class_unlock_mage_colorless_ability",
       "display_name": "Path Of The Mage",
       "description": "Complete the Core with the Mage.",
-      "chapter": "",
+      "chapter": "Mage",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -338,7 +376,7 @@
       "apiname": "class_unlock_medic_colorless_ability",
       "display_name": "Path Of The Cleric",
       "description": "Complete the Core with the Cleric.",
-      "chapter": "",
+      "chapter": "Cleric",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -349,7 +387,7 @@
       "apiname": "class_unlock_thief_colorless_ability",
       "display_name": "Path Of The Thief",
       "description": "Complete the Core with the Thief.",
-      "chapter": "",
+      "chapter": "Thief",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -360,7 +398,7 @@
       "apiname": "class_unlock_tank_colorless_ability",
       "display_name": "Path Of The Tank",
       "description": "Complete the Core with the Tank.",
-      "chapter": "",
+      "chapter": "Tank",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -370,7 +408,8 @@
     {
       "apiname": "class_unlock_necro_colorless_ability",
       "display_name": "Path Of The Necromancer",
-      "chapter": "",
+      "description": "Complete the Core with the Necromancer.",
+      "chapter": "Necromancer",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -380,7 +419,8 @@
     {
       "apiname": "class_unlock_psychic_colorless_ability",
       "display_name": "Path Of The Psychic",
-      "chapter": "",
+      "description": "Complete the Core with the Psychic.",
+      "chapter": "Psychic",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -390,7 +430,8 @@
     {
       "apiname": "class_unlock_tinkerer_colorless_ability",
       "display_name": "Path Of The Tinkerer",
-      "chapter": "",
+      "description": "Complete the Core with the Tinkerer.",
+      "chapter": "Tinkerer",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -400,7 +441,8 @@
     {
       "apiname": "class_unlock_butcher_colorless_ability",
       "display_name": "Path Of The Butcher",
-      "chapter": "",
+      "description": "Complete the Core with the Butcher.",
+      "chapter": "Butcher",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -410,7 +452,8 @@
     {
       "apiname": "class_unlock_druid_colorless_ability",
       "display_name": "Path Of The Druid",
-      "chapter": "",
+      "description": "Complete the Core with the Druid.",
+      "chapter": "Druid",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -420,7 +463,8 @@
     {
       "apiname": "class_unlock_monk_colorless_ability",
       "display_name": "Path Of The Monk",
-      "chapter": "",
+      "description": "Complete the Core with the Monk.",
+      "chapter": "Monk",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -431,7 +475,7 @@
       "apiname": "class_unlock_colorless_colorless_ability",
       "display_name": "Path Of The Void",
       "description": "Complete the Core with a Collarless cat.",
-      "chapter": "",
+      "chapter": "Collarless",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -441,7 +485,8 @@
     {
       "apiname": "class_unlock_jester_colorless_ability",
       "display_name": "Path Of The Jester",
-      "chapter": "",
+      "description": "Complete the Core with the Jester.",
+      "chapter": "Jester",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -452,7 +497,7 @@
       "apiname": "class_unlock_fighter_colorless_passive",
       "display_name": "Fighters Soul",
       "description": "Complete the Moon with the Fighter.",
-      "chapter": "",
+      "chapter": "Fighter",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -463,7 +508,7 @@
       "apiname": "class_unlock_hunter_colorless_passive",
       "display_name": "Hunters Soul",
       "description": "Complete the Moon with the Hunter.",
-      "chapter": "",
+      "chapter": "Hunter",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -474,7 +519,7 @@
       "apiname": "class_unlock_mage_colorless_passive",
       "display_name": "Mages Soul",
       "description": "Complete the Moon with the Mage.",
-      "chapter": "",
+      "chapter": "Mage",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -485,7 +530,7 @@
       "apiname": "class_unlock_medic_colorless_passive",
       "display_name": "Clerics Soul",
       "description": "Complete the Moon with the Cleric.",
-      "chapter": "",
+      "chapter": "Cleric",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -496,7 +541,7 @@
       "apiname": "class_unlock_thief_colorless_passive",
       "display_name": "Thiefs Soul",
       "description": "Complete the Moon with the Thief.",
-      "chapter": "",
+      "chapter": "Thief",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -507,7 +552,7 @@
       "apiname": "class_unlock_tank_colorless_passive",
       "display_name": "Tanks Soul",
       "description": "Complete the Moon with the Tank.",
-      "chapter": "",
+      "chapter": "Tank",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -517,7 +562,8 @@
     {
       "apiname": "class_unlock_necro_colorless_passive",
       "display_name": "Necromancers Soul",
-      "chapter": "",
+      "description": "Complete the Moon with the Necromancer.",
+      "chapter": "Necromancer",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -527,7 +573,8 @@
     {
       "apiname": "class_unlock_psychic_colorless_passive",
       "display_name": "Psychics Soul",
-      "chapter": "",
+      "description": "Complete the Moon with the Psychic.",
+      "chapter": "Psychic",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -537,7 +584,8 @@
     {
       "apiname": "class_unlock_tinkerer_colorless_passive",
       "display_name": "Tinkerers Soul",
-      "chapter": "",
+      "description": "Complete the Moon with the Tinkerer.",
+      "chapter": "Tinkerer",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -547,7 +595,8 @@
     {
       "apiname": "class_unlock_butcher_colorless_passive",
       "display_name": "Butchers Soul",
-      "chapter": "",
+      "description": "Complete the Moon with the Butcher.",
+      "chapter": "Butcher",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -557,7 +606,8 @@
     {
       "apiname": "class_unlock_monk_colorless_passive",
       "display_name": "Monks Soul",
-      "chapter": "",
+      "description": "Complete the Moon with the Monk.",
+      "chapter": "Monk",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -568,7 +618,7 @@
       "apiname": "class_unlock_colorless_colorless_passive",
       "display_name": "Void Soul",
       "description": "Complete the Moon with a Collarless cat.",
-      "chapter": "",
+      "chapter": "Collarless",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -578,7 +628,8 @@
     {
       "apiname": "class_unlock_jester_colorless_passive",
       "display_name": "Jesters Soul",
-      "chapter": "",
+      "description": "Complete the Moon with the Jester.",
+      "chapter": "Jester",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -588,7 +639,8 @@
     {
       "apiname": "class_unlock_fighter_weapon",
       "display_name": "Battle Axe",
-      "chapter": "",
+      "description": "Complete the Jurassic with the Fighter.",
+      "chapter": "Fighter",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -598,7 +650,8 @@
     {
       "apiname": "class_unlock_hunter_weapon",
       "display_name": "Arrow of Infinity",
-      "chapter": "",
+      "description": "Complete the Jurassic with the Hunter.",
+      "chapter": "Hunter",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -608,7 +661,8 @@
     {
       "apiname": "class_unlock_mage_weapon",
       "display_name": "Staff Of Flame",
-      "chapter": "",
+      "description": "Complete the Jurassic with the Mage.",
+      "chapter": "Mage",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -618,7 +672,8 @@
     {
       "apiname": "class_unlock_medic_weapon",
       "display_name": "Anointing Oil",
-      "chapter": "",
+      "description": "Complete the Jurassic with the Cleric.",
+      "chapter": "Cleric",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -628,7 +683,8 @@
     {
       "apiname": "class_unlock_thief_weapon",
       "display_name": "Laced Needle",
-      "chapter": "",
+      "description": "Complete the Jurassic with the Thief.",
+      "chapter": "Thief",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -638,7 +694,8 @@
     {
       "apiname": "class_unlock_tank_weapon",
       "display_name": "Girder",
-      "chapter": "",
+      "description": "Complete the Jurassic with the Tank.",
+      "chapter": "Tank",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -648,7 +705,8 @@
     {
       "apiname": "class_unlock_necro_weapon",
       "display_name": "Staff of the Underworld",
-      "chapter": "",
+      "description": "Complete the Jurassic with the Necromancer.",
+      "chapter": "Necromancer",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -658,7 +716,8 @@
     {
       "apiname": "class_unlock_psychic_weapon",
       "display_name": "Bent Spoon",
-      "chapter": "",
+      "description": "Complete the Jurassic with the Psychic.",
+      "chapter": "Psychic",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -668,7 +727,8 @@
     {
       "apiname": "class_unlock_tinkerer_weapon",
       "display_name": "Ball Peen Hammer",
-      "chapter": "",
+      "description": "Complete the Jurassic with the Tinkerer.",
+      "chapter": "Tinkerer",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -678,7 +738,8 @@
     {
       "apiname": "class_unlock_druid_weapon",
       "display_name": "Rain Staff",
-      "chapter": "",
+      "description": "Complete the Jurassic with the Druid.",
+      "chapter": "Druid",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -688,7 +749,8 @@
     {
       "apiname": "class_unlock_monk_weapon",
       "display_name": "Bo",
-      "chapter": "",
+      "description": "Complete the Jurassic with the Monk.",
+      "chapter": "Monk",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -698,7 +760,8 @@
     {
       "apiname": "class_unlock_colorless_weapon",
       "display_name": "Lil Kitty",
-      "chapter": "",
+      "description": "Complete the Jurassic with a Collarless cat.",
+      "chapter": "Collarless",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -708,7 +771,8 @@
     {
       "apiname": "class_unlock_jester_weapon",
       "display_name": "Ninny Stick",
-      "chapter": "",
+      "description": "Complete the Jurassic with the Jester.",
+      "chapter": "Jester",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -718,7 +782,8 @@
     {
       "apiname": "class_unlock_butcher_weapon",
       "display_name": "Butchers Cleaver",
-      "chapter": "",
+      "description": "Complete the Jurassic with the Butcher.",
+      "chapter": "Butcher",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -728,7 +793,8 @@
     {
       "apiname": "class_unlock_fighter_trinket",
       "display_name": "Rage Juice",
-      "chapter": "",
+      "description": "Complete The End with the Fighter.",
+      "chapter": "Fighter",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -738,7 +804,8 @@
     {
       "apiname": "class_unlock_hunter_trinket",
       "display_name": "Hunters Flute",
-      "chapter": "",
+      "description": "Complete The End with the Hunter.",
+      "chapter": "Hunter",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -748,7 +815,8 @@
     {
       "apiname": "class_unlock_mage_trinket",
       "display_name": "Ring Of Frost",
-      "chapter": "",
+      "description": "Complete The End with the Mage.",
+      "chapter": "Mage",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -758,7 +826,8 @@
     {
       "apiname": "class_unlock_medic_trinket",
       "display_name": "Holy Water",
-      "chapter": "",
+      "description": "Complete The End with the Cleric.",
+      "chapter": "Cleric",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -768,7 +837,8 @@
     {
       "apiname": "class_unlock_thief_trinket",
       "display_name": "Lucky Coin Purse",
-      "chapter": "",
+      "description": "Complete The End with the Thief.",
+      "chapter": "Thief",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -778,7 +848,8 @@
     {
       "apiname": "class_unlock_tank_trinket",
       "display_name": "Tank Juice",
-      "chapter": "",
+      "description": "Complete The End with the Tank.",
+      "chapter": "Tank",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -788,7 +859,8 @@
     {
       "apiname": "class_unlock_necro_trinket",
       "display_name": "Satanic Bible",
-      "chapter": "",
+      "description": "Complete The End with the Necromancer.",
+      "chapter": "Necromancer",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -798,7 +870,8 @@
     {
       "apiname": "class_unlock_psychic_trinket",
       "display_name": "Tarot Deck",
-      "chapter": "",
+      "description": "Complete The End with the Psychic.",
+      "chapter": "Psychic",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -808,7 +881,8 @@
     {
       "apiname": "class_unlock_tinkerer_trinket",
       "display_name": "Scrap Bag",
-      "chapter": "",
+      "description": "Complete The End with the Tinkerer.",
+      "chapter": "Tinkerer",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -818,7 +892,8 @@
     {
       "apiname": "class_unlock_butcher_trinket",
       "display_name": "Cookbook",
-      "chapter": "",
+      "description": "Complete The End with the Butcher.",
+      "chapter": "Butcher",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -828,7 +903,8 @@
     {
       "apiname": "class_unlock_druid_trinket",
       "display_name": "Druids Whistle",
-      "chapter": "",
+      "description": "Complete The End with the Druid.",
+      "chapter": "Druid",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -838,7 +914,8 @@
     {
       "apiname": "class_unlock_monk_trinket",
       "display_name": "Empty Hand",
-      "chapter": "",
+      "description": "Complete The End with the Monk.",
+      "chapter": "Monk",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -848,7 +925,8 @@
     {
       "apiname": "class_unlock_colorless_trinket",
       "display_name": "Ball Of Yarn",
-      "chapter": "",
+      "description": "Complete The End with a Collarless cat.",
+      "chapter": "Collarless",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -858,7 +936,8 @@
     {
       "apiname": "class_unlock_jester_trinket",
       "display_name": "Toy Gun",
-      "chapter": "",
+      "description": "Complete The End with the Jester.",
+      "chapter": "Jester",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -868,147 +947,190 @@
     {
       "apiname": "class_unlock_fighter_helmet",
       "display_name": "Fighter Helm",
-      "chapter": "",
+      "description": "Defeat the King with the Fighter.",
+      "chapter": "Fighter",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "meat_world_open"
+      ]
     },
     {
       "apiname": "class_unlock_hunter_helmet",
       "display_name": "Hunter Cap",
-      "chapter": "",
+      "description": "Defeat the King with the Hunter.",
+      "chapter": "Hunter",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "meat_world_open"
+      ]
     },
     {
       "apiname": "class_unlock_mage_helmet",
       "display_name": "Mage Hat",
-      "chapter": "",
+      "description": "Defeat the King with the Mage.",
+      "chapter": "Mage",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "meat_world_open"
+      ]
     },
     {
       "apiname": "class_unlock_medic_helmet",
       "display_name": "Cleric's Mitre",
-      "chapter": "",
+      "description": "Defeat the King with the Cleric.",
+      "chapter": "Cleric",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "meat_world_open"
+      ]
     },
     {
       "apiname": "class_unlock_thief_helmet",
       "display_name": "Thief Hood",
-      "chapter": "",
+      "description": "Defeat the King with the Thief.",
+      "chapter": "Thief",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "meat_world_open"
+      ]
     },
     {
       "apiname": "class_unlock_tank_helmet",
       "display_name": "Tank Helmet",
-      "chapter": "",
+      "description": "Defeat the King with the Tank.",
+      "chapter": "Tank",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "meat_world_open"
+      ]
     },
     {
       "apiname": "class_unlock_necro_helmet",
       "display_name": "Spider Hat",
-      "chapter": "",
+      "description": "Defeat the King with the Necromancer.",
+      "chapter": "Necromancer",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "meat_world_open"
+      ]
     },
     {
       "apiname": "class_unlock_psychic_helmet",
       "display_name": "Tinfoil Hat",
-      "chapter": "",
+      "description": "Defeat the King with the Psychic.",
+      "chapter": "Psychic",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "meat_world_open"
+      ]
     },
     {
       "apiname": "class_unlock_tinkerer_helmet",
       "display_name": "Scrappers Hat",
-      "chapter": "",
+      "description": "Defeat the King with the Tinkerer.",
+      "chapter": "Tinkerer",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "meat_world_open"
+      ]
     },
     {
       "apiname": "class_unlock_butcher_helmet",
       "display_name": "Flesh Shroud",
-      "chapter": "",
+      "description": "Defeat the King with the Butcher.",
+      "chapter": "Butcher",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "meat_world_open"
+      ]
     },
     {
       "apiname": "class_unlock_druid_helmet",
       "display_name": "Mushroom Hat",
-      "chapter": "",
+      "description": "Defeat the King with the Druid.",
+      "chapter": "Druid",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "meat_world_open"
+      ]
     },
     {
       "apiname": "class_unlock_monk_helmet",
       "display_name": "Head Brand",
-      "chapter": "",
+      "description": "Defeat the King with the Monk.",
+      "chapter": "Monk",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "meat_world_open"
+      ]
     },
     {
       "apiname": "class_unlock_colorless_helmet",
       "display_name": "Normal Ears",
-      "chapter": "",
+      "description": "Defeat the King with a Collarless cat.",
+      "chapter": "Collarless",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "meat_world_open"
+      ]
     },
     {
       "apiname": "class_unlock_jester_helmet",
       "display_name": "Cap And Bells",
-      "chapter": "",
+      "description": "Defeat the King with the Jester.",
+      "chapter": "Jester",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "meat_world_open"
+      ]
     },
     {
       "apiname": "class_unlock_fighter_face",
       "display_name": "Fighter Scar",
-      "chapter": "",
+      "description": "Defeat Chaos with the Fighter.",
+      "chapter": "Fighter",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -1018,7 +1140,8 @@
     {
       "apiname": "class_unlock_hunter_face",
       "display_name": "Hunter Monocle",
-      "chapter": "",
+      "description": "Defeat Chaos with the Hunter.",
+      "chapter": "Hunter",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -1028,7 +1151,8 @@
     {
       "apiname": "class_unlock_mage_face",
       "display_name": "Mage Robe",
-      "chapter": "",
+      "description": "Defeat Chaos with the Mage.",
+      "chapter": "Mage",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -1038,7 +1162,8 @@
     {
       "apiname": "class_unlock_medic_face",
       "display_name": "Cleric Tears",
-      "chapter": "",
+      "description": "Defeat Chaos with the Cleric.",
+      "chapter": "Cleric",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -1048,7 +1173,8 @@
     {
       "apiname": "class_unlock_thief_face",
       "display_name": "Thief Tattoo",
-      "chapter": "",
+      "description": "Defeat Chaos with the Thief.",
+      "chapter": "Thief",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -1058,7 +1184,8 @@
     {
       "apiname": "class_unlock_tank_face",
       "display_name": "Tank Tattoo",
-      "chapter": "",
+      "description": "Defeat Chaos with the Tank.",
+      "chapter": "Tank",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -1068,7 +1195,8 @@
     {
       "apiname": "class_unlock_necro_face",
       "display_name": "Death Mask",
-      "chapter": "",
+      "description": "Defeat Chaos with the Necromancer.",
+      "chapter": "Necromancer",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -1078,7 +1206,8 @@
     {
       "apiname": "class_unlock_psychic_face",
       "display_name": "Mystic Eye",
-      "chapter": "",
+      "description": "Defeat Chaos with the Psychic.",
+      "chapter": "Psychic",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -1088,7 +1217,8 @@
     {
       "apiname": "class_unlock_tinkerer_face",
       "display_name": "Scrappers Mask",
-      "chapter": "",
+      "description": "Defeat Chaos with the Tinkerer.",
+      "chapter": "Tinkerer",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -1098,7 +1228,8 @@
     {
       "apiname": "class_unlock_butcher_face",
       "display_name": "Iron Jaw",
-      "chapter": "",
+      "description": "Defeat Chaos with the Butcher.",
+      "chapter": "Butcher",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -1108,7 +1239,8 @@
     {
       "apiname": "class_unlock_druid_face",
       "display_name": "Greenman Mask",
-      "chapter": "",
+      "description": "Defeat Chaos with the Druid.",
+      "chapter": "Druid",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -1118,7 +1250,8 @@
     {
       "apiname": "class_unlock_monk_face",
       "display_name": "Face Brand",
-      "chapter": "",
+      "description": "Defeat Chaos with the Monk.",
+      "chapter": "Monk",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -1128,7 +1261,8 @@
     {
       "apiname": "class_unlock_colorless_face",
       "display_name": "Ordinary Whiskers",
-      "chapter": "",
+      "description": "Defeat Chaos with a Collarless cat.",
+      "chapter": "Collarless",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -1138,7 +1272,8 @@
     {
       "apiname": "class_unlock_jester_face",
       "display_name": "Clown Makeup",
-      "chapter": "",
+      "description": "Defeat Chaos with the Jester.",
+      "chapter": "Jester",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -1148,7 +1283,8 @@
     {
       "apiname": "class_unlock_fighter_neck",
       "display_name": "Fighter Shoulder Pad",
-      "chapter": "",
+      "description": "Defeat The Creator with the Fighter.",
+      "chapter": "Fighter",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -1158,7 +1294,8 @@
     {
       "apiname": "class_unlock_hunter_neck",
       "display_name": "Hunter Quiver",
-      "chapter": "",
+      "description": "Defeat The Creator with the Hunter.",
+      "chapter": "Hunter",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -1168,7 +1305,8 @@
     {
       "apiname": "class_unlock_mage_neck",
       "display_name": "Mage Scarf",
-      "chapter": "",
+      "description": "Defeat The Creator with the Mage.",
+      "chapter": "Mage",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -1178,7 +1316,8 @@
     {
       "apiname": "class_unlock_medic_neck",
       "display_name": "Cleric Relic",
-      "chapter": "",
+      "description": "Defeat The Creator with the Cleric.",
+      "chapter": "Cleric",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -1188,7 +1327,8 @@
     {
       "apiname": "class_unlock_thief_neck",
       "display_name": "Thief Cloak",
-      "chapter": "",
+      "description": "Defeat The Creator with the Thief.",
+      "chapter": "Thief",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -1198,7 +1338,8 @@
     {
       "apiname": "class_unlock_tank_neck",
       "display_name": "Tank Pads",
-      "chapter": "",
+      "description": "Defeat The Creator with the Tank.",
+      "chapter": "Tank",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -1208,7 +1349,8 @@
     {
       "apiname": "class_unlock_necro_neck",
       "display_name": "Leech Necklace",
-      "chapter": "",
+      "description": "Defeat The Creator with the Necromancer.",
+      "chapter": "Necromancer",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -1218,7 +1360,8 @@
     {
       "apiname": "class_unlock_psychic_neck",
       "display_name": "Diviners Cloth",
-      "chapter": "",
+      "description": "Defeat The Creator with the Psychic.",
+      "chapter": "Psychic",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -1228,7 +1371,8 @@
     {
       "apiname": "class_unlock_butcher_neck",
       "display_name": "Hooked Necklace",
-      "chapter": "",
+      "description": "Defeat The Creator with the Butcher.",
+      "chapter": "Butcher",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -1238,7 +1382,8 @@
     {
       "apiname": "class_unlock_tinkerer_neck",
       "display_name": "Scrappers Backpack",
-      "chapter": "",
+      "description": "Defeat The Creator with the Tinkerer.",
+      "chapter": "Tinkerer",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -1248,7 +1393,8 @@
     {
       "apiname": "class_unlock_druid_neck",
       "display_name": "Ring Of Mushrooms",
-      "chapter": "",
+      "description": "Defeat The Creator with the Druid.",
+      "chapter": "Druid",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -1258,7 +1404,8 @@
     {
       "apiname": "class_unlock_monk_neck",
       "display_name": "Prayer Beads",
-      "chapter": "",
+      "description": "Defeat The Creator with the Monk.",
+      "chapter": "Monk",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -1268,7 +1415,8 @@
     {
       "apiname": "class_unlock_colorless_neck",
       "display_name": "Mundane Collar",
-      "chapter": "",
+      "description": "Defeat The Creator with a Collarless cat.",
+      "chapter": "Collarless",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -1278,7 +1426,8 @@
     {
       "apiname": "class_unlock_jester_neck",
       "display_name": "Ruffle",
-      "chapter": "",
+      "description": "Defeat The Creator with the Jester.",
+      "chapter": "Jester",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -1289,7 +1438,7 @@
       "apiname": "class_unlock_fighter_trinket2",
       "display_name": "Steroids",
       "description": "Complete all areas with the Fighter.",
-      "chapter": "",
+      "chapter": "Fighter",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -1300,7 +1449,7 @@
       "apiname": "class_unlock_hunter_trinket2",
       "display_name": "Bag Of Seeds",
       "description": "Complete all areas with the Hunter.",
-      "chapter": "",
+      "chapter": "Hunter",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -1311,7 +1460,7 @@
       "apiname": "class_unlock_mage_trinket2",
       "display_name": "Spell Book",
       "description": "Complete all areas with the Mage.",
-      "chapter": "",
+      "chapter": "Mage",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -1322,7 +1471,7 @@
       "apiname": "class_unlock_medic_trinket2",
       "display_name": "Prayer Card",
       "description": "Complete all areas with the Cleric.",
-      "chapter": "",
+      "chapter": "Cleric",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -1333,7 +1482,7 @@
       "apiname": "class_unlock_thief_trinket2",
       "display_name": "Bag Of Bags",
       "description": "Complete all areas with the Thief.",
-      "chapter": "",
+      "chapter": "Thief",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -1344,7 +1493,7 @@
       "apiname": "class_unlock_tank_trinket2",
       "display_name": "Tank Toy",
       "description": "Complete all areas with the Tank.",
-      "chapter": "",
+      "chapter": "Tank",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -1354,7 +1503,8 @@
     {
       "apiname": "class_unlock_necro_trinket2",
       "display_name": "Cambion Conception",
-      "chapter": "",
+      "description": "Complete all areas with the Necromancer.",
+      "chapter": "Necromancer",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -1364,7 +1514,8 @@
     {
       "apiname": "class_unlock_psychic_trinket2",
       "display_name": "Friendship Bracelet",
-      "chapter": "",
+      "description": "Complete all areas with the Psychic.",
+      "chapter": "Psychic",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -1374,7 +1525,8 @@
     {
       "apiname": "class_unlock_tinkerer_trinket2",
       "display_name": "Fireworks",
-      "chapter": "",
+      "description": "Complete all areas with the Tinkerer.",
+      "chapter": "Tinkerer",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -1384,7 +1536,8 @@
     {
       "apiname": "class_unlock_butcher_trinket2",
       "display_name": "Sack Of Meat",
-      "chapter": "",
+      "description": "Complete all areas with the Butcher.",
+      "chapter": "Butcher",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -1394,7 +1547,8 @@
     {
       "apiname": "class_unlock_druid_trinket2",
       "display_name": "Tiny Cage",
-      "chapter": "",
+      "description": "Complete all areas with the Druid.",
+      "chapter": "Druid",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -1404,7 +1558,8 @@
     {
       "apiname": "class_unlock_monk_trinket2",
       "display_name": "Tiny Pebble",
-      "chapter": "",
+      "description": "Complete all areas with the Monk.",
+      "chapter": "Monk",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -1415,7 +1570,7 @@
       "apiname": "class_unlock_colorless_trinket2",
       "display_name": "Skill Split",
       "description": "Complete all areas with a Collarless cat.",
-      "chapter": "",
+      "chapter": "Collarless",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -1425,7 +1580,8 @@
     {
       "apiname": "class_unlock_jester_trinket2",
       "display_name": "Joker Card",
-      "chapter": "",
+      "description": "Complete all areas with the Jester.",
+      "chapter": "Jester",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -1435,371 +1591,480 @@
     {
       "apiname": "steven_unlock_throb_hard",
       "display_name": "Throbbing Crown",
-      "chapter": "",
+      "description": "Defeat the King on hard.",
+      "chapter": "Hard Difficulty",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "map_unlock_iceage"
+      ]
     },
     {
       "apiname": "steven_unlock_rift_hard",
       "display_name": "Crown Of Chaos",
-      "chapter": "",
+      "description": "Defeat Chaos on hard.",
+      "chapter": "Hard Difficulty",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "map_unlock_iceage"
+      ]
     },
     {
       "apiname": "steven_unlock_infinite_hard",
       "display_name": "Childs Crown",
-      "chapter": "",
+      "description": "Defeat the Creator on hard.",
+      "chapter": "Hard Difficulty",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "map_unlock_iceage"
+      ]
     },
     {
       "apiname": "steven_unlock_tina1_hard",
       "display_name": "Tinas Belly Button",
-      "chapter": "",
+      "description": "Defeat Guillotina on hard.",
+      "chapter": "Hard Difficulty",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "map_unlock_iceage"
+      ]
     },
     {
       "apiname": "steven_unlock_tina2_hard",
       "display_name": "Tinas Larynx",
-      "chapter": "",
+      "description": "Defeat Guillotina 2 on hard.",
+      "chapter": "Hard Difficulty",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "steven_unlock_tina1_hard"
+      ]
     },
     {
       "apiname": "steven_unlock_tina3_hard",
       "display_name": "Tinas Friend",
-      "chapter": "",
+      "description": "Defeat Guillotina 3 on hard.",
+      "chapter": "Hard Difficulty",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "map_unlock_iceage",
+        "steven_unlock_tina2_hard"
+      ]
     },
     {
       "apiname": "steven_unlock_pyro_hard",
       "display_name": "Pyrophinas Toenail",
-      "chapter": "",
+      "description": "Defeat Pyrophina on hard.",
+      "chapter": "Hard Difficulty",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "steven_unlock_tina3_hard"
+      ]
     },
     {
       "apiname": "steven_unlock_zara_hard",
       "display_name": "Zaratana Turd",
-      "chapter": "",
+      "description": "Defeat Zaratana on hard.",
+      "chapter": "Hard Difficulty",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "steven_unlock_pyro_hard"
+      ]
     },
     {
       "apiname": "steven_unlock_kfight_hard",
       "display_name": "Scorched Earth",
-      "chapter": "",
+      "description": "Survive Pyrophina vs Zaratana on hard.",
+      "chapter": "Hard Difficulty",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "steven_unlock_zara_hard"
+      ]
     },
     {
       "apiname": "steven_unlock_t1_hard",
       "display_name": "Robotic Arm",
-      "chapter": "",
+      "description": "Defeat the C-800 on hard.",
+      "chapter": "Hard Difficulty",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "steven_unlock_kfight_hard"
+      ]
     },
     {
       "apiname": "steven_unlock_t2_hard",
       "display_name": "Liquid Metal",
-      "chapter": "",
+      "description": "Defeat the C-1000 on hard.",
+      "chapter": "Hard Difficulty",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "steven_unlock_t1_hard"
+      ]
     },
     {
       "apiname": "steven_unlock_t3_hard",
       "display_name": "Hitlers Toupe",
-      "chapter": "",
+      "description": "Defeat Hitler III on hard.",
+      "chapter": "Hard Difficulty",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "steven_unlock_t2_hard"
+      ]
     },
     {
       "apiname": "steven_unlock_throb_crazy",
       "display_name": "Stevens Gobbler",
-      "chapter": "",
+      "description": "Defeat the King on crazy.",
+      "chapter": "Crazy Difficulty",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "steven_unlock_tina3_hard"
+      ]
     },
     {
       "apiname": "steven_unlock_rift_crazy",
       "display_name": "Stevens Fart Face",
-      "chapter": "",
+      "description": "Defeat Chaos on crazy.",
+      "chapter": "Crazy Difficulty",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "steven_unlock_tina3_hard"
+      ]
     },
     {
       "apiname": "steven_unlock_infinite_crazy",
       "display_name": "Stevens Shotgun",
-      "chapter": "",
+      "description": "Defeat the Creator on crazy.",
+      "chapter": "Crazy Difficulty",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "steven_unlock_tina3_hard"
+      ]
     },
     {
       "apiname": "steven_unlock_tina1_crazy",
       "display_name": "Stevens Mustache",
-      "chapter": "",
+      "description": "Defeat Guillotina on crazy.",
+      "chapter": "Crazy Difficulty",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "steven_unlock_tina3_hard"
+      ]
     },
     {
       "apiname": "steven_unlock_tina2_crazy",
       "display_name": "Stevens Gristle",
-      "chapter": "",
+      "description": "Defeat Guillotina 2 on crazy.",
+      "chapter": "Crazy Difficulty",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "steven_unlock_tina1_crazy"
+      ]
     },
     {
       "apiname": "steven_unlock_tina3_crazy",
       "display_name": "Stevens Bag of Rocks",
-      "chapter": "",
+      "description": "Defeat Guillotina 3 on crazy.",
+      "chapter": "Crazy Difficulty",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "steven_unlock_tina2_crazy"
+      ]
     },
     {
       "apiname": "steven_unlock_pyro_crazy",
       "display_name": "Stevens Helmet",
-      "chapter": "",
+      "description": "Defeat Pyrophina on crazy.",
+      "chapter": "Crazy Difficulty",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "steven_unlock_kfight_hard"
+      ]
     },
     {
       "apiname": "steven_unlock_zara_crazy",
       "display_name": "Stevens Friend",
-      "chapter": "",
+      "description": "Defeat Zaratana on crazy.",
+      "chapter": "Crazy Difficulty",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "steven_unlock_pyro_crazy"
+      ]
     },
     {
       "apiname": "steven_unlock_kfight_crazy",
       "display_name": "Steven Stone",
-      "chapter": "",
+      "description": "Survive Pyrophina vs Zaratana on crazy.",
+      "chapter": "Crazy Difficulty",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "steven_unlock_zara_crazy"
+      ]
     },
     {
       "apiname": "steven_unlock_t1_crazy",
       "display_name": "Steven Marrow",
-      "chapter": "",
+      "description": "Defeat the C-800 on crazy.",
+      "chapter": "Crazy Difficulty",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "steven_unlock_t3_hard"
+      ]
     },
     {
       "apiname": "steven_unlock_t2_crazy",
       "display_name": "Stevens Bottle",
-      "chapter": "",
+      "description": "Defeat the C-1000 on crazy.",
+      "chapter": "Crazy Difficulty",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "steven_unlock_t1_crazy"
+      ]
     },
     {
       "apiname": "steven_unlock_t3_crazy",
       "display_name": "Stevens Hat",
-      "chapter": "",
+      "description": "Defeat Hitler III on crazy.",
+      "chapter": "Crazy Difficulty",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "steven_unlock_t2_crazy"
+      ]
     },
     {
       "apiname": "steven_unlock_throb_impossible",
       "display_name": "Steven",
-      "chapter": "",
+      "description": "Defeat the King on impossible.",
+      "chapter": "Impossible Difficulty",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "steven_unlock_tina2_crazy"
+      ]
     },
     {
       "apiname": "steven_unlock_rift_impossible",
       "display_name": "Steven",
-      "chapter": "",
+      "description": "Defeat Chaos on impossible.",
+      "chapter": "Impossible Difficulty",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "steven_unlock_tina2_crazy"
+      ]
     },
     {
       "apiname": "steven_unlock_infinite_impossible",
       "display_name": "Steven",
-      "chapter": "",
+      "description": "Defeat the Creator on impossible.",
+      "chapter": "Impossible Difficulty",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "steven_unlock_tina2_crazy"
+      ]
     },
     {
       "apiname": "steven_unlock_tina1_impossible",
       "display_name": "Steven",
-      "chapter": "",
+      "description": "Defeat Guillotina on Impossible.",
+      "chapter": "Impossible Difficulty",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "steven_unlock_tina2_crazy"
+      ]
     },
     {
       "apiname": "steven_unlock_tina2_impossible",
       "display_name": "Steven",
-      "chapter": "",
+      "description": "Defeat Guillotina 2 on Impossible.",
+      "chapter": "Impossible Difficulty",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "steven_unlock_tina1_impossible"
+      ]
     },
     {
       "apiname": "steven_unlock_tina3_impossible",
       "display_name": "Steven",
-      "chapter": "",
+      "description": "Defeat Guillotina 3 on Impossible.",
+      "chapter": "Impossible Difficulty",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "steven_unlock_tina2_impossible"
+      ]
     },
     {
       "apiname": "steven_unlock_pyro_impossible",
       "display_name": " Steven",
-      "chapter": "",
+      "description": "Defeat Pyrophina on impossible.",
+      "chapter": "Impossible Difficulty",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "steven_unlock_kfight_crazy"
+      ]
     },
     {
       "apiname": "steven_unlock_zara_impossible",
       "display_name": "Steven",
-      "chapter": "",
+      "description": "Defeat Zaratana on impossible.",
+      "chapter": "Impossible Difficulty",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "steven_unlock_pyro_impossible"
+      ]
     },
     {
       "apiname": "steven_unlock_kfight_impossible",
       "display_name": "Steven",
-      "chapter": "",
+      "description": "Survive Pyrophina vs Zaratana on impossible.",
+      "chapter": "Impossible Difficulty",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "steven_unlock_zara_impossible"
+      ]
     },
     {
       "apiname": "steven_unlock_t1_impossible",
       "display_name": "Steven",
-      "chapter": "",
+      "description": "Defeat the C-800 on impossible.",
+      "chapter": "Impossible Difficulty",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "steven_unlock_t3_crazy"
+      ]
     },
     {
       "apiname": "steven_unlock_t2_impossible",
       "display_name": "Steven",
-      "chapter": "",
+      "description": "Defeat the C-1000 on impossible.",
+      "chapter": "Impossible Difficulty",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "steven_unlock_t1_impossible"
+      ]
     },
     {
       "apiname": "steven_unlock_t3_impossible",
       "display_name": "Steven",
-      "chapter": "",
+      "description": "Defeat Hitler III on impossible.",
+      "chapter": "Impossible Difficulty",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "steven_unlock_t2_impossible"
+      ]
     },
     {
       "apiname": "map_unlock_sewers",
       "display_name": "The Sewers",
       "description": "Complete the Alley.",
-      "chapter": "",
-      "hint": "",
+      "chapter": "Progression",
+      "hint": "Act 1 Area.",
       "is_missable": false,
-      "is_spoiler": false,
+      "is_spoiler": true,
       "video_url": "",
       "requires": []
     },
@@ -1807,10 +2072,10 @@
       "apiname": "map_unlock_junkyard",
       "display_name": "The Junkyard",
       "description": "Complete the hard path in the Alley.",
-      "chapter": "",
-      "hint": "",
+      "chapter": "Progression",
+      "hint": "Act 1 Area.",
       "is_missable": false,
-      "is_spoiler": false,
+      "is_spoiler": true,
       "video_url": "",
       "requires": []
     },
@@ -1818,10 +2083,10 @@
       "apiname": "map_unlock_boneyard",
       "display_name": "The Boneyard",
       "description": "Complete the Junkyard.",
-      "chapter": "",
-      "hint": "",
+      "chapter": "Progression",
+      "hint": "Act 1 Area.",
       "is_missable": false,
-      "is_spoiler": false,
+      "is_spoiler": true,
       "video_url": "",
       "requires": []
     },
@@ -1829,10 +2094,10 @@
       "apiname": "map_unlock_caves",
       "display_name": "The Caves",
       "description": "Complete the Sewers.",
-      "chapter": "",
-      "hint": "",
+      "chapter": "Progression",
+      "hint": "Act 1 Area.",
       "is_missable": false,
-      "is_spoiler": false,
+      "is_spoiler": true,
       "video_url": "",
       "requires": []
     },
@@ -1840,10 +2105,10 @@
       "apiname": "map_unlock_desert",
       "display_name": "The Desert",
       "description": "Complete the Caves and Boneyard.",
-      "chapter": "",
-      "hint": "",
+      "chapter": "Progression",
+      "hint": "Unlocks Act 2.",
       "is_missable": false,
-      "is_spoiler": false,
+      "is_spoiler": true,
       "video_url": "",
       "requires": []
     },
@@ -1851,10 +2116,10 @@
       "apiname": "map_unlock_bunker",
       "display_name": "The Bunker",
       "description": "Complete the Desert.",
-      "chapter": "",
-      "hint": "",
+      "chapter": "Progression",
+      "hint": "Act 2 Area.",
       "is_missable": false,
-      "is_spoiler": false,
+      "is_spoiler": true,
       "video_url": "",
       "requires": []
     },
@@ -1862,10 +2127,10 @@
       "apiname": "map_unlock_crater",
       "display_name": "The Crater",
       "description": "Complete the Desert.",
-      "chapter": "",
-      "hint": "",
+      "chapter": "Progression",
+      "hint": "Act 2 Area.",
       "is_missable": false,
-      "is_spoiler": false,
+      "is_spoiler": true,
       "video_url": "",
       "requires": []
     },
@@ -1873,10 +2138,10 @@
       "apiname": "map_unlock_core",
       "display_name": "The Core",
       "description": "Complete the Bunker.",
-      "chapter": "",
-      "hint": "",
+      "chapter": "Progression",
+      "hint": "Act 2 Area.",
       "is_missable": false,
-      "is_spoiler": false,
+      "is_spoiler": true,
       "video_url": "",
       "requires": []
     },
@@ -1884,97 +2149,118 @@
       "apiname": "map_unlock_moon",
       "display_name": "The Moon",
       "description": "Complete the Crater.",
-      "chapter": "",
-      "hint": "",
+      "chapter": "Progression",
+      "hint": "Act 2 Area.",
       "is_missable": false,
-      "is_spoiler": false,
+      "is_spoiler": true,
       "video_url": "",
       "requires": []
     },
     {
       "apiname": "map_unlock_lab",
       "display_name": "The Lab",
-      "chapter": "",
-      "hint": "",
+      "description": "Complete the Core and the Moon.",
+      "chapter": "Progression",
+      "hint": "Unlocks Act 3.",
       "is_missable": false,
-      "is_spoiler": false,
+      "is_spoiler": true,
       "video_url": "",
       "requires": []
     },
     {
       "apiname": "map_unlock_iceage",
       "display_name": "The Iceage",
-      "chapter": "",
-      "hint": "",
+      "description": "Fix the time machine.",
+      "chapter": "Progression",
+      "hint": "Unlocks Act 3.",
       "is_missable": false,
-      "is_spoiler": false,
+      "is_spoiler": true,
       "video_url": "",
       "requires": []
     },
     {
       "apiname": "map_unlock_jurassic",
       "display_name": "The Jurassic",
-      "chapter": "",
-      "hint": "",
+      "description": "Complete the Ice age.",
+      "chapter": "Progression",
+      "hint": "Act 3 Area.",
       "is_missable": false,
-      "is_spoiler": false,
+      "is_spoiler": true,
       "video_url": "",
       "requires": []
     },
     {
       "apiname": "map_unlock_future",
       "display_name": "The Future",
-      "chapter": "",
-      "hint": "",
+      "description": "Complete the Jurassic.",
+      "chapter": "Progression",
+      "hint": "Act 3 Area.",
       "is_missable": false,
-      "is_spoiler": false,
+      "is_spoiler": true,
       "video_url": "",
       "requires": []
     },
     {
       "apiname": "map_unlock_theend",
       "display_name": "The End",
-      "chapter": "",
-      "hint": "",
+      "description": "Complete the Future.",
+      "chapter": "Progression",
+      "hint": "Act 3 Area.",
       "is_missable": false,
-      "is_spoiler": false,
+      "is_spoiler": true,
       "video_url": "",
       "requires": []
     },
     {
       "apiname": "meat_world_open",
       "display_name": "The Throbbing Domain",
-      "chapter": "",
-      "hint": "",
+      "description": "Complete the correct quest items.",
+      "chapter": "Progression",
+      "hint": "Act 1 Extra Area",
       "is_missable": false,
-      "is_spoiler": false,
+      "is_spoiler": true,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "quest_begin_gristle",
+        "quest_begin_leech",
+        "quest_begin_tinahead"
+      ]
     },
     {
       "apiname": "map_unlock_dimensionx",
       "display_name": "The Rift",
-      "chapter": "",
-      "hint": "",
+      "description": "Complete the correct quest items.",
+      "chapter": "Progression",
+      "hint": "Act 2 Extra Area",
       "is_missable": false,
-      "is_spoiler": false,
+      "is_spoiler": true,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "quest_begin_scaldingorb",
+        "quest_begin_blackshard",
+        "steven_unlock_kfight_hard"
+      ]
     },
     {
       "apiname": "end_of_time_unlock",
       "display_name": "The Infinite",
-      "chapter": "",
-      "hint": "",
+      "description": "Complete the correct quest items.",
+      "chapter": "Progression",
+      "hint": "Act 3 Extra Area",
       "is_missable": false,
-      "is_spoiler": false,
+      "is_spoiler": true,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "quest_begin_receiver2",
+        "quest_begin_transmitter2",
+        "quest_begin_amplifier2"
+      ]
     },
     {
       "apiname": "nuke_quest_complete",
       "display_name": "???",
-      "chapter": "",
+      "description": "Complete the game.",
+      "chapter": "Progression",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -1985,40 +2271,46 @@
       "apiname": "quest_begin_gristle",
       "display_name": "Throbbing Gristle",
       "description": "Defeat Guillotina.",
-      "chapter": "",
+      "chapter": "House Boss",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "meat_world_open"
+      ]
     },
     {
       "apiname": "quest_begin_leech",
       "display_name": "Putrid Leech",
       "description": "Defeat Guillotina 2.",
-      "chapter": "",
+      "chapter": "House Boss",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "quest_begin_gristle"
+      ]
     },
     {
       "apiname": "quest_begin_tinahead",
       "display_name": "Guillotinas Head",
       "description": "Defeat Guillotina 3.",
-      "chapter": "",
+      "chapter": "House Boss",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "quest_begin_leech"
+      ]
     },
     {
       "apiname": "quest_begin_scaldingorb",
       "display_name": "Scalding Orb",
       "description": "Defeat Pyrophina.",
-      "chapter": "",
+      "chapter": "House Boss",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2029,7 +2321,7 @@
       "apiname": "quest_begin_blackshard",
       "display_name": "Black Shard",
       "description": "Defeat Zaratana.",
-      "chapter": "",
+      "chapter": "House Boss",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2040,28 +2332,35 @@
       "apiname": "quest_begin_pcollar",
       "display_name": "Pyrophinas Collar",
       "description": "Help Pyrophina win.",
-      "chapter": "",
-      "hint": "You have to choose to side with Pyrophina or Zaratana. You can only do one per save file.",
+      "chapter": "House Boss",
+      "hint": "During the story, you'll have to choose to side with Pyrophina or Zaratana. You can only do one per save file.\n\nTo be more specific, the choice is made during Act 2 House Boss 3. Kill the one you don't want to side with.",
       "is_missable": true,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "quest_begin_scaldingorb",
+        "quest_begin_blackshard"
+      ]
     },
     {
       "apiname": "quest_begin_zcollar",
       "display_name": "Zaratanas Collar",
       "description": "Help Zaratana win.",
-      "chapter": "",
-      "hint": "You have to choose to side with Pyrophina or Zaratana. You can only do one per save file.",
+      "chapter": "House Boss",
+      "hint": "During the story, you'll have to choose to side with Pyrophina or Zaratana. You can only do one per save file.\n\nTo be more specific, the choice is made during Act 2 House Boss 3. Kill the one you don't want to side with.",
       "is_missable": true,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "quest_begin_scaldingorb",
+        "quest_begin_blackshard"
+      ]
     },
     {
       "apiname": "quest_begin_receiver2",
       "display_name": "Receiver Antenna",
-      "chapter": "",
+      "description": "Defeat the C-800.",
+      "chapter": "House Boss",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2071,7 +2370,8 @@
     {
       "apiname": "quest_begin_transmitter2",
       "display_name": "Transmitter Antenna",
-      "chapter": "",
+      "description": "Defeat the C-1000.",
+      "chapter": "House Boss",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2081,7 +2381,8 @@
     {
       "apiname": "quest_begin_amplifier2",
       "display_name": "Signal Amplifier",
-      "chapter": "",
+      "description": "Defeat Hitler III.",
+      "chapter": "House Boss",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2092,7 +2393,7 @@
       "apiname": "upgrade_storage_1",
       "display_name": "Storage upgrade 1",
       "description": "Send Butch 1 cat.",
-      "chapter": "",
+      "chapter": "NPC",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2103,7 +2404,7 @@
       "apiname": "upgrade_storage_2",
       "display_name": "Storage upgrade 2",
       "description": "Send Butch 10 more cats.",
-      "chapter": "",
+      "chapter": "NPC",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2114,7 +2415,7 @@
       "apiname": "upgrade_storage_3",
       "display_name": "Storage upgrade 3",
       "description": "Send Butch 10 more cats.",
-      "chapter": "",
+      "chapter": "NPC",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2125,7 +2426,7 @@
       "apiname": "upgrade_storage_4",
       "display_name": "Storage upgrade 4",
       "description": "Send Butch 15 more cats.",
-      "chapter": "",
+      "chapter": "NPC",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2136,7 +2437,7 @@
       "apiname": "upgrade_storage_5",
       "display_name": "Storage upgrade 5",
       "description": "Send Butch 15 more cats.",
-      "chapter": "",
+      "chapter": "NPC",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2147,7 +2448,7 @@
       "apiname": "upgrade_storage_6",
       "display_name": "Storage upgrade 6",
       "description": "Send Butch 20 more cats.",
-      "chapter": "",
+      "chapter": "NPC",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2158,7 +2459,7 @@
       "apiname": "upgrade_storage_7",
       "display_name": "Storage upgrade 7",
       "description": "Send Butch 20 more cats.",
-      "chapter": "",
+      "chapter": "NPC",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2169,7 +2470,7 @@
       "apiname": "tink_prettybow",
       "display_name": "Tink reward 1",
       "description": "Send Tink a kitten.",
-      "chapter": "",
+      "chapter": "NPC",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2180,7 +2481,7 @@
       "apiname": "tink_basestats",
       "display_name": "Tink reward 2",
       "description": "Send Tink 10 more kittens.",
-      "chapter": "",
+      "chapter": "NPC",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2191,7 +2492,7 @@
       "apiname": "tink_inbreeding",
       "display_name": "Tink reward 3",
       "description": "Send Tink 10 more kittens.",
-      "chapter": "",
+      "chapter": "NPC",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2202,7 +2503,7 @@
       "apiname": "tink_sexuality",
       "display_name": "Tink reward 4",
       "description": "Send Tink 10 more kittens.",
-      "chapter": "",
+      "chapter": "NPC",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2213,7 +2514,7 @@
       "apiname": "tink_tags",
       "display_name": " Tink reward 5",
       "description": "Send Tink 10 more kittens.",
-      "chapter": "",
+      "chapter": "NPC",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2224,7 +2525,7 @@
       "apiname": "tink_aggression",
       "display_name": "Tink reward 6",
       "description": "Send Tink 10 more kittens.",
-      "chapter": "",
+      "chapter": "NPC",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2235,7 +2536,7 @@
       "apiname": "tink_relationships",
       "display_name": " Tink reward 7",
       "description": "Send Tink 10 more kittens.",
-      "chapter": "",
+      "chapter": "NPC",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2246,7 +2547,7 @@
       "apiname": "house_upgrade_attic",
       "display_name": "House upgrade 1",
       "description": "Send Frank 1 cat.",
-      "chapter": "",
+      "chapter": "NPC",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2257,7 +2558,7 @@
       "apiname": "house_upgrade_mediumhouse",
       "display_name": "House upgrade 2",
       "description": "Send Frank 25 more cats.",
-      "chapter": "",
+      "chapter": "NPC",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2268,7 +2569,7 @@
       "apiname": "house_upgrade_largehouse",
       "display_name": " House upgrade 3",
       "description": "Send Frank 50 more cats.",
-      "chapter": "",
+      "chapter": "NPC",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2279,7 +2580,7 @@
       "apiname": "house_upgrade_4throom",
       "display_name": " House upgrade 4",
       "description": "Send Frank 100 more cats.",
-      "chapter": "",
+      "chapter": "NPC",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2290,7 +2591,7 @@
       "apiname": "jack_shopupgrade1",
       "display_name": "Jack's shack upgrade 1",
       "description": "Send Jack 1 cat.",
-      "chapter": "",
+      "chapter": "NPC",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2301,7 +2602,7 @@
       "apiname": "jack_shopupgrade2",
       "display_name": "Jack's shack upgrade 2",
       "description": "Send Jack 10 more cats.",
-      "chapter": "",
+      "chapter": "NPC",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2312,7 +2613,7 @@
       "apiname": "jack_shopupgrade3",
       "display_name": " Jack's shack upgrade 3",
       "description": "Send Jack 20 more cats.",
-      "chapter": "",
+      "chapter": "NPC",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2323,7 +2624,7 @@
       "apiname": "jack_shopupgrade4",
       "display_name": " Jack's shack upgrade 4",
       "description": "Send Jack 30 more cats.",
-      "chapter": "",
+      "chapter": "NPC",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2334,7 +2635,7 @@
       "apiname": "tracy_foodstorage1",
       "display_name": "Food storage upgrade 1",
       "description": "Send Tracy 1 cat.",
-      "chapter": "",
+      "chapter": "NPC",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2345,7 +2646,7 @@
       "apiname": "tracy_blankcollar1",
       "display_name": "Blank collar unlock 1",
       "description": "Send Tracy 10 more cats.",
-      "chapter": "",
+      "chapter": "NPC",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2356,7 +2657,7 @@
       "apiname": "tracy_foodstorage2",
       "display_name": "Food storage upgrade 2",
       "description": "Send Tracy 10 more cats.",
-      "chapter": "",
+      "chapter": "NPC",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2367,7 +2668,7 @@
       "apiname": "tracy_idol1",
       "display_name": "Mysterious Idol unlock 1",
       "description": "Send Tracy 10 more cats.",
-      "chapter": "",
+      "chapter": "NPC",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2378,7 +2679,7 @@
       "apiname": "tracy_foodstorage3",
       "display_name": " Food storage upgrade 3",
       "description": "Send Tracy 10 more cats.",
-      "chapter": "",
+      "chapter": "NPC",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2389,7 +2690,7 @@
       "apiname": "tracy_blankcollar2",
       "display_name": "Blank collar unlock 2",
       "description": "Send Tracy 10 more cats.",
-      "chapter": "",
+      "chapter": "NPC",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2400,7 +2701,7 @@
       "apiname": "tracy_foodstorage4",
       "display_name": "Food storage upgrade 4",
       "description": "Send Tracy 10 more cats.",
-      "chapter": "",
+      "chapter": "NPC",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2411,7 +2712,7 @@
       "apiname": "tracy_idol2",
       "display_name": "Mysterious Idol unlock 2",
       "description": "Send Tracy 10 more cats.",
-      "chapter": "",
+      "chapter": "NPC",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2422,7 +2723,7 @@
       "apiname": "tracy_foodstorage5",
       "display_name": "Food storage upgrade 5",
       "description": "Send Tracy 10 more cats.",
-      "chapter": "",
+      "chapter": "NPC",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2433,7 +2734,7 @@
       "apiname": "tracy_blankcollar3",
       "display_name": "Blank collar unlock 3",
       "description": "Send Tracy 10 more cats.",
-      "chapter": "",
+      "chapter": "NPC",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2444,7 +2745,7 @@
       "apiname": "tracy_foodstorage6",
       "display_name": "Food storage upgrade 6",
       "description": "Send Tracy 10 more cats.",
-      "chapter": "",
+      "chapter": "NPC",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2455,7 +2756,7 @@
       "apiname": "tracy_idol3",
       "display_name": " Mysterious Idol unlock 3",
       "description": "Send Tracy 10 more cats.",
-      "chapter": "",
+      "chapter": "NPC",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2466,7 +2767,7 @@
       "apiname": "tracy_foodstorage7",
       "display_name": "Food storage upgrade 7",
       "description": "Send Tracy 10 more cats.",
-      "chapter": "",
+      "chapter": "NPC",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2477,7 +2778,7 @@
       "apiname": "tracy_idol4",
       "display_name": "Mysterious Idol unlock 4",
       "description": "Send Tracy 10 more cats.",
-      "chapter": "",
+      "chapter": "NPC",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2488,7 +2789,7 @@
       "apiname": "tracy_foodstorage8",
       "display_name": "Food storage upgrade 8",
       "description": "Send Tracy 10 more cats.",
-      "chapter": "",
+      "chapter": "NPC",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2499,7 +2800,7 @@
       "apiname": "tracy_idol5",
       "display_name": " Mysterious Idol unlock 5",
       "description": "Send Tracy 10 more cats.",
-      "chapter": "",
+      "chapter": "NPC",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2510,7 +2811,7 @@
       "apiname": "tracy_foodstorage9",
       "display_name": "Food storage upgrade 9",
       "description": "Send Tracy 10 more cats.",
-      "chapter": "",
+      "chapter": "NPC",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2521,7 +2822,7 @@
       "apiname": "tracy_idol6",
       "display_name": "Mysterious Idol unlock 6",
       "description": "Send Tracy 10 more cats.",
-      "chapter": "",
+      "chapter": "NPC",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2532,7 +2833,7 @@
       "apiname": "tracy_foodstorage10",
       "display_name": "Food storage upgrade 10",
       "description": "Send Tracy 10 more cats.",
-      "chapter": "",
+      "chapter": "NPC",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2543,7 +2844,7 @@
       "apiname": "tracy_idol7",
       "display_name": "Mysterious Idol unlock 7",
       "description": "Send Tracy 10 more cats.",
-      "chapter": "",
+      "chapter": "NPC",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2554,7 +2855,7 @@
       "apiname": "organ_unlock",
       "display_name": "Mystery man upgrade 1",
       "description": "Send the mystery man a dead cat.",
-      "chapter": "",
+      "chapter": "NPC",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2565,7 +2866,7 @@
       "apiname": "organ_upgrade1",
       "display_name": "Mystery man upgrade 2",
       "description": "Send the mystery man 10 more dead cats.",
-      "chapter": "",
+      "chapter": "NPC",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2576,7 +2877,7 @@
       "apiname": "organ_upgrade2",
       "display_name": "Mystery man upgrade 3",
       "description": "Send the mystery man 25 more dead cats.",
-      "chapter": "",
+      "chapter": "NPC",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2587,7 +2888,7 @@
       "apiname": "organ_upgrade3",
       "display_name": "Mystery man upgrade 4",
       "description": "Send the mystery man 50 more dead cats.",
-      "chapter": "",
+      "chapter": "NPC",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2598,7 +2899,7 @@
       "apiname": "organ_upgrade4",
       "display_name": " Mystery man upgrade 5",
       "description": "Send the mystery man 75 more dead cats.",
-      "chapter": "",
+      "chapter": "NPC",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2609,7 +2910,7 @@
       "apiname": "organ_upgrade5",
       "display_name": "Mystery man upgrade 6",
       "description": "Send the mystery man 100 more dead cats.",
-      "chapter": "",
+      "chapter": "NPC",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2620,7 +2921,7 @@
       "apiname": "organ_upgrade6",
       "display_name": "Mystery man upgrade 7",
       "description": "Send the mystery man 150 more dead cats.",
-      "chapter": "",
+      "chapter": "NPC",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
@@ -2630,8 +2931,9 @@
     {
       "apiname": "class_unlock_box0",
       "display_name": "The Box",
-      "chapter": "",
-      "hint": "",
+      "description": "Complete all chapters with every class.",
+      "chapter": "All Classes",
+      "hint": "Complete all chapters with every class.",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
@@ -2640,68 +2942,83 @@
     {
       "apiname": "class_unlock_box1",
       "display_name": "The bOx",
-      "chapter": "",
-      "hint": "",
+      "description": "Complete all chapters on hard with every class.",
+      "chapter": "All Classes",
+      "hint": "Complete all chapters on hard with every class.\nDifficulties are unlocked upon reaching Act 3's Ice area. To unlock the next difficulty, you must kill all of the house bosses in that difficulty and finish chapter 4 of that act (ch4. being the epilogue/ending of an act)",
       "is_missable": false,
-      "is_spoiler": false,
+      "is_spoiler": true,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "map_unlock_iceage"
+      ]
     },
     {
       "apiname": "class_unlock_box2",
       "display_name": "The boX",
-      "chapter": "",
-      "hint": "",
+      "description": "Complete all chapters on crazy with every class.",
+      "chapter": "All Classes",
+      "hint": "Complete all chapters on crazy with every class.\nDifficulties are unlocked upon reaching Act 3's Ice area. To unlock the next difficulty, you must kill all of the house bosses in that difficulty and finish chapter 4 of that act (ch4. being the epilogue/ending of an act)",
       "is_missable": false,
-      "is_spoiler": false,
+      "is_spoiler": true,
       "video_url": "",
       "requires": []
     },
     {
       "apiname": "class_unlock_box3",
       "display_name": "the box",
-      "chapter": "",
-      "hint": "",
+      "description": "Complete all chapters on impossible with every class.",
+      "chapter": "All Classes",
+      "hint": "Complete all chapters on impossible with every class.\nDifficulties are unlocked upon reaching Act 3's Ice area. To unlock the next difficulty, you must kill all of the house bosses in that difficulty and finish chapter 4 of that act (ch4. being the epilogue/ending of an act)",
       "is_missable": false,
-      "is_spoiler": false,
+      "is_spoiler": true,
       "video_url": "",
       "requires": []
     },
     {
       "apiname": "class_unlock_monocolorless_head",
       "display_name": "Copy Cat 1",
-      "chapter": "",
+      "description": "Defeat the King with only collarless cats.",
+      "chapter": "Collarless",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "meat_world_open"
+      ]
     },
     {
       "apiname": "class_unlock_monocolorless_face",
       "display_name": "Copy Cat 2",
-      "chapter": "",
+      "description": "Defeat Chaos with only collarless cats.",
+      "chapter": "Collarless",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "map_unlock_dimensionx"
+      ]
     },
     {
       "apiname": "class_unlock_monocolorless_neck",
       "display_name": " Copy Cat 3",
-      "chapter": "",
+      "description": "Defeat the Creator with only collarless cats.",
+      "chapter": "Collarless",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
-      "requires": []
+      "requires": [
+        "end_of_time_unlock"
+      ]
     },
     {
       "apiname": "beaniesquest_complete_PersuasionDevice",
       "display_name": "Persuasion Device",
-      "chapter": "",
-      "hint": "",
+      "description": "Complete the Persuasion Device sidequest.",
+      "chapter": "Side-quest",
+      "hint": "Complete the Persuasion Device sidequest.\nSide-quests are given at random guaranteeing an unlock you don't have first, in areas/acts you have already beaten. \nOnce you do all sidequests, they will start repeating at random. If you fail a side-quest, you can retry again next time you draw it.",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
@@ -2710,8 +3027,9 @@
     {
       "apiname": "beaniesquest_complete_MagicMirror",
       "display_name": "Magic Mirror",
-      "chapter": "",
-      "hint": "",
+      "description": "Complete the Magic Mirror sidequest.",
+      "chapter": "Side-quest",
+      "hint": "Complete the Magic Mirror sidequest.\nSide-quests are given at random guaranteeing an unlock you don't have first, in areas/acts you have already beaten. \nOnce you do all sidequests, they will start repeating at random. If you fail a side-quest, you can retry again next time you draw it.",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
@@ -2720,8 +3038,9 @@
     {
       "apiname": "beaniesquest_complete_ChaosDevice",
       "display_name": "Chaos Device",
-      "chapter": "",
-      "hint": "",
+      "description": "Complete the Chaos Device sidequest.",
+      "chapter": "Side-quest",
+      "hint": "Complete the Chaos Device sidequest.\nSide-quests are given at random guaranteeing an unlock you don't have first, in areas/acts you have already beaten. \nOnce you do all sidequests, they will start repeating at random. If you fail a side-quest, you can retry again next time you draw it.",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
@@ -2730,8 +3049,9 @@
     {
       "apiname": "beaniesquest_complete_MeStone",
       "display_name": "Me Stone",
-      "chapter": "",
-      "hint": "",
+      "description": " Complete the Me Stone sidequest.",
+      "chapter": "Side-quest",
+      "hint": "Complete the Me Stone sidequest.\nSide-quests are given at random guaranteeing an unlock you don't have first, in areas/acts you have already beaten. \nOnce you do all sidequests, they will start repeating at random. If you fail a side-quest, you can retry again next time you draw it.",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
@@ -2740,8 +3060,9 @@
     {
       "apiname": "beaniesquest_complete_AngryFace",
       "display_name": "Angry Face",
-      "chapter": "",
-      "hint": "",
+      "description": "Complete the Angry Face sidequest.",
+      "chapter": "Side-quest",
+      "hint": "Complete the Angry Face sidequest.\nSide-quests are given at random guaranteeing an unlock you don't have first, in areas/acts you have already beaten. \nOnce you do all sidequests, they will start repeating at random. If you fail a side-quest, you can retry again next time you draw it.",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
@@ -2750,8 +3071,9 @@
     {
       "apiname": "beaniesquest_complete_FartFace",
       "display_name": "Fart Face",
-      "chapter": "",
-      "hint": "",
+      "description": "Complete the Fart Face sidequest.",
+      "chapter": "Side-quest",
+      "hint": "Complete the Fart Face sidequest.\nSide-quests are given at random guaranteeing an unlock you don't have first, in areas/acts you have already beaten. \nOnce you do all sidequests, they will start repeating at random. If you fail a side-quest, you can retry again next time you draw it.",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
@@ -2760,8 +3082,9 @@
     {
       "apiname": "beaniesquest_complete_SpiderInjector",
       "display_name": "Spider Injector",
-      "chapter": "",
-      "hint": "",
+      "description": "Complete the Spider Injector sidequest.",
+      "chapter": "Side-quest",
+      "hint": "Complete the Spider Injector sidequest.\nSide-quests are given at random guaranteeing an unlock you don't have first, in areas/acts you have already beaten. \nOnce you do all sidequests, they will start repeating at random. If you fail a side-quest, you can retry again next time you draw it.",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
@@ -2770,8 +3093,9 @@
     {
       "apiname": "beaniesquest_complete_PartyDetonator",
       "display_name": "Party Detonator",
-      "chapter": "",
-      "hint": "",
+      "description": "Complete the Party Detonator sidequest.",
+      "chapter": "Side-quest",
+      "hint": "Complete the Party Detonator sidequest.\nSide-quests are given at random guaranteeing an unlock you don't have first, in areas/acts you have already beaten. \nOnce you do all sidequests, they will start repeating at random. If you fail a side-quest, you can retry again next time you draw it.",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
@@ -2780,8 +3104,9 @@
     {
       "apiname": "beaniesquest_complete_AirHorn",
       "display_name": "Air Horn",
-      "chapter": "",
-      "hint": "",
+      "description": "Complete the Air Horn sidequest.",
+      "chapter": "Side-quest",
+      "hint": "Complete the Air Horn sidequest.\nSide-quests are given at random guaranteeing an unlock you don't have first, in areas/acts you have already beaten. \nOnce you do all sidequests, they will start repeating at random. If you fail a side-quest, you can retry again next time you draw it.",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
@@ -2790,8 +3115,9 @@
     {
       "apiname": "beaniesquest_complete_NuclearKnife",
       "display_name": "Nuclear Knife",
-      "chapter": "",
-      "hint": "",
+      "description": "Complete the Nuclear Knife sidequest.",
+      "chapter": "Side-quest",
+      "hint": "Complete the Nuclear Knife sidequest.\nSide-quests are given at random guaranteeing an unlock you don't have first, in areas/acts you have already beaten. \nOnce you do all sidequests, they will start repeating at random. If you fail a side-quest, you can retry again next time you draw it.",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
@@ -2800,8 +3126,9 @@
     {
       "apiname": "beaniesquest_complete_TheLoner",
       "display_name": "The Loner",
-      "chapter": "",
-      "hint": "",
+      "description": "Complete the The Loner sidequest.",
+      "chapter": "Side-quest",
+      "hint": "Complete the The Loner sidequest.\nSide-quests are given at random guaranteeing an unlock you don't have first, in areas/acts you have already beaten. \nOnce you do all sidequests, they will start repeating at random. If you fail a side-quest, you can retry again next time you draw it.",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
@@ -2810,8 +3137,9 @@
     {
       "apiname": "beaniesquest_complete_GlassCannon",
       "display_name": "Glass Cannon",
-      "chapter": "",
-      "hint": "",
+      "description": "Complete the Glass Cannon sidequest.",
+      "chapter": "Side-quest",
+      "hint": "Complete the Glass Cannon sidequest.\nSide-quests are given at random guaranteeing an unlock you don't have first, in areas/acts you have already beaten. \nOnce you do all sidequests, they will start repeating at random. If you fail a side-quest, you can retry again next time you draw it.",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
@@ -2820,8 +3148,9 @@
     {
       "apiname": "beaniesquest_complete_Stopwatch",
       "display_name": "Stopwatch",
-      "chapter": "",
-      "hint": "",
+      "description": "Complete the Stopwatch sidequest.",
+      "chapter": "Side-quest",
+      "hint": "Complete the Stopwatch sidequest.\nSide-quests are given at random guaranteeing an unlock you don't have first, in areas/acts you have already beaten. \nOnce you do all sidequests, they will start repeating at random. If you fail a side-quest, you can retry again next time you draw it.",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
@@ -2830,8 +3159,9 @@
     {
       "apiname": "beaniesquest_complete_HardPill",
       "display_name": "Unidentified Pills",
-      "chapter": "",
-      "hint": "",
+      "description": "Complete the Unidentified Pills sidequest.",
+      "chapter": "Side-quest",
+      "hint": "Complete the Unidentified Pills sidequest.\nSide-quests are given at random guaranteeing an unlock you don't have first, in areas/acts you have already beaten. \nOnce you do all sidequests, they will start repeating at random. If you fail a side-quest, you can retry again next time you draw it.",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
@@ -2840,8 +3170,9 @@
     {
       "apiname": "beaniesquest_complete_MysteriousDice",
       "display_name": "Mysterious Dice",
-      "chapter": "",
-      "hint": "",
+      "description": "Complete the Mysterious Dice sidequest.",
+      "chapter": "Side-quest",
+      "hint": "Complete the Mysterious Dice sidequest.\nSide-quests are given at random guaranteeing an unlock you don't have first, in areas/acts you have already beaten. \nOnce you do all sidequests, they will start repeating at random. If you fail a side-quest, you can retry again next time you draw it.",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
@@ -2850,8 +3181,9 @@
     {
       "apiname": "beaniesquest_complete_ExperimentalTreatment",
       "display_name": "Experimental Treatment",
-      "chapter": "",
-      "hint": "",
+      "description": "Complete the Experimental Treatment sidequest.",
+      "chapter": "Side-quest",
+      "hint": "Complete the Experimental Treatment sidequest.\nSide-quests are given at random guaranteeing an unlock you don't have first, in areas/acts you have already beaten. \nOnce you do all sidequests, they will start repeating at random. If you fail a side-quest, you can retry again next time you draw it.",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
@@ -2860,8 +3192,9 @@
     {
       "apiname": "beaniesquest_complete_Redacted",
       "display_name": "Redacted",
-      "chapter": "",
-      "hint": "",
+      "description": "Complete the Redacted sidequest.",
+      "chapter": "Side-quest",
+      "hint": "Complete the Redacted sidequest.\nSide-quests are given at random guaranteeing an unlock you don't have first, in areas/acts you have already beaten. \nOnce you do all sidequests, they will start repeating at random. If you fail a side-quest, you can retry again next time you draw it.",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
@@ -2870,8 +3203,9 @@
     {
       "apiname": "beaniesquest_complete_UltraVision3000",
       "display_name": "Ultra Vision 3000 ",
-      "chapter": "",
-      "hint": "",
+      "description": "Complete the Ultra Vision 3000  sidequest.",
+      "chapter": "Side-quest",
+      "hint": "Complete the Ultra Vision 3000 sidequest.\nSide-quests are given at random guaranteeing an unlock you don't have first, in areas/acts you have already beaten. \nOnce you do all sidequests, they will start repeating at random. If you fail a side-quest, you can retry again next time you draw it.",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
@@ -2880,8 +3214,9 @@
     {
       "apiname": "beaniesquest_complete_StorageLocker",
       "display_name": "Storage Locker",
-      "chapter": "",
-      "hint": "",
+      "description": "Complete the Storage Locker sidequest.",
+      "chapter": "Side-quest",
+      "hint": "Complete the Storage Locker sidequest.\nSide-quests are given at random guaranteeing an unlock you don't have first, in areas/acts you have already beaten. \nOnce you do all sidequests, they will start repeating at random. If you fail a side-quest, you can retry again next time you draw it.",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
@@ -2890,8 +3225,9 @@
     {
       "apiname": "beaniesquest_complete_BubbleBoy",
       "display_name": "Bubble Boy",
-      "chapter": "",
-      "hint": "",
+      "description": "Complete the Bubble Boy sidequest.",
+      "chapter": "Side-quest",
+      "hint": "Complete the Bubble Boy sidequest.\nSide-quests are given at random guaranteeing an unlock you don't have first, in areas/acts you have already beaten. \nOnce you do all sidequests, they will start repeating at random. If you fail a side-quest, you can retry again next time you draw it.",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
@@ -2900,8 +3236,9 @@
     {
       "apiname": "beaniesquest_complete_PrincessHat",
       "display_name": "Princess Hat",
-      "chapter": "",
-      "hint": "",
+      "description": "Complete the Princess Hat sidequest.",
+      "chapter": "Side-quest",
+      "hint": "Complete the Princess Hat sidequest.\nSide-quests are given at random guaranteeing an unlock you don't have first, in areas/acts you have already beaten. \nOnce you do all sidequests, they will start repeating at random. If you fail a side-quest, you can retry again next time you draw it.",
       "is_missable": false,
       "is_spoiler": false,
       "video_url": "",
@@ -2910,7 +3247,8 @@
     {
       "apiname": "class_unlock_druid_colorless_passive",
       "display_name": "Druid's Soul",
-      "chapter": "",
+      "description": "Complete the Moon with the Druid.",
+      "chapter": "Druid",
       "hint": "",
       "is_missable": false,
       "is_spoiler": false,
