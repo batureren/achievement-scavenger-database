@@ -1,0 +1,427 @@
+{
+  "gameName": "SILENT HILL: Townfall",
+  "completion": {
+    "difficulty": 5,
+    "length": 6,
+    "hours": 24
+  },
+  "chapters": [
+    "Story",
+    "Sidetrack",
+    "Ending",
+    "NG+"
+  ],
+  "links": [
+    {
+      "title": "100% Walkthrough",
+      "url": "https://www.powerpyx.com/silent-hill-townfall-collectible-guide-100-walkthrough/"
+    },
+    {
+      "title": "Ending Scoring guide",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3813402302"
+    }
+  ],
+  "achievements": [
+    {
+      "apiname": "ACH_1",
+      "display_name": "Welcome To St. Amelia",
+      "description": "Escape the Otherworld and return to the town square.",
+      "chapter": "Story",
+      "hint": "Story, impossible to miss.\nFinish Part 1, Chapter 2.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_2",
+      "display_name": "Resignation",
+      "description": "At the Shorefront Family Clinic, show Zoe you understand.",
+      "chapter": "Story",
+      "hint": "Story, impossible to miss.\nFinish Part 1, Chapter 4.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_3",
+      "display_name": "A Long Night Ahead",
+      "description": "Report to Dr. Glenn at the Medical Centre.",
+      "chapter": "Story",
+      "hint": "Story, impossible to miss.\nFinish Part 2, Chapter 5.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_4",
+      "display_name": "The Patient",
+      "description": "Tend to the Patient.",
+      "chapter": "Story",
+      "hint": "Story, impossible to miss.\nFinish Part 3, Chapter 7.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_5",
+      "display_name": "Many Into One",
+      "description": "Accept the transfusion in the Alternate Medical Centre.",
+      "chapter": "Story",
+      "hint": "Story, impossible to miss.\nFinish Part 3, Chapter 8.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_6",
+      "display_name": "Key To The Castle",
+      "description": "Unlock the path to CEG Tower.",
+      "chapter": "Story",
+      "hint": "Story, impossible to miss.\nFinish Part 4, Chapter 10.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_7",
+      "display_name": "Find Yourself",
+      "description": "Make it back to the office on the 10th Floor.",
+      "chapter": "Story",
+      "hint": "Story, impossible to miss.\nFinish Part 5, Chapter 13.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_8",
+      "display_name": "Can't Change Things",
+      "description": "Exhaust the options in the Alternate Facility.",
+      "chapter": "Story",
+      "hint": "Story, impossible to miss.\nFinish Part 6, Chapter 15.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_9",
+      "display_name": "Eraser",
+      "description": "Defeat The Weight.",
+      "chapter": "Story",
+      "hint": "Story, impossible to miss.\nDefeat the final boss in Part 6, Chapter 16.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_10",
+      "display_name": "Reliving A Nightmare",
+      "description": "Complete New Game Plus (any difficulty).",
+      "chapter": "Sidetrack",
+      "hint": "NG+ is called that way because it allows you to do Dog & Sci-Fi ending but you don't keep anything from the previous playthrough.\nHere you can get the Axe (which instakills enemies) and the Pistol-3000 after completing Sci-Fi ending once.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_11",
+      "display_name": "For St. Amelia",
+      "description": "Reach the \"Justice\" ending.",
+      "chapter": "Ending",
+      "hint": "Achieve the \"Good\" ending.\nTo do so you must considerably have more discoveries than kills by the end of the game. (21+ points)\nThere are 80 discoveries and you'll have to kill at least 20 unavoidable enemies.\n\nFor a full ending scoring guide, check out the shortcuts & tools section.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_12",
+      "display_name": "Here To Stay",
+      "description": "Reach the \"Forever\" ending.",
+      "chapter": "Ending",
+      "hint": "Achieve the \"Normal\" ending.\nTo do so you must have slightly more discoveries than kills by the end of the game. (Points between 0 to 20)\nThere are 80 discoveries and you'll have to kill at least 20 unavoidable enemies.\n\nFor a full ending scoring guide, check out the shortcuts & tools section.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_13",
+      "display_name": "Just Making Things Worse",
+      "description": "Reach the \"Abandoned\" ending.",
+      "chapter": "Ending",
+      "hint": "Achieve the \"Bad\" ending.\nTo do so you must have more kills than discoveries by the end of the game. (Negative points, below zero)\nThere are 80 discoveries and you'll have to kill at least 20 unavoidable enemies.\n\nFor a full ending scoring guide, check out the shortcuts & tools section.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_14",
+      "display_name": "Let's Talk This Out",
+      "description": "Reached the \"Dog\" ending.",
+      "chapter": "Ending",
+      "hint": "Achieve the \"Dog\" ending in NG+.\nTo do so you must get and use the following items***:\nPart 1: \n- Obtain the item \"Bronze Coin\", found in the Video Store at the Shorefront District - South.\n- After getting it, go to the Main Street close to the Pharmacy, where you can find \"Guide Dogs for the Blind\". Interact with it with the coin in your inventory to proceed.\nPart 4:\n- Obtain the item \"Silver Coin\", found in Clara Woods, where the strange postcard was.\n- You'll find another Guide Dog in Clara Woods > Ground Level where the laundromat is, where the postcard used to be.\nPart 6:\n- Obtain the item \"Gold Coin\", found in Clara SWDP - Different, in the puzzle where you have to open doors with a valve, open door 793 and you'll find the coin\n- After finishing the puzzle and dropping the container, go to the next area and in the four way split with the red lights, go towards the end of the hallway to find the final dog.\nOnce every coin is inserted, you'll get the ending after defeating the final boss.\n\n***NOTE: You can prepare a save file that has the requirements for both the UFO and Dog ending almost done then reload whenever you need to get one or the other.\nTo do this get all strange books and the access card while at the same time get all the dog coins and deposit them except for the last one in the last chapter.\nOnce the only step missing is the final one for each ending, make a save then choose whatever ending you want and after you're done reload the save you previously prepared to do the other one.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": [
+        "ACH_10"
+      ]
+    },
+    {
+      "apiname": "ACH_15",
+      "display_name": "Sci-fi-lent Hill",
+      "description": "Reached the \"Sci-fi\" ending.",
+      "chapter": "Ending",
+      "hint": "Achieve the \"Sci-fi\" ending in NG+.\nTo do so you must get and use the following items***:\nDuring Part 1: Go to Zoe's House bedroom and under the nightstand you'll find a book \"History of Space Flight, 1952 - 1992\"\nDuring Part 2: After accepting Richard's Gift, go into the upstairs of the hotel and find a door with buttons on it and input the code given by the strange postcards. It should spell out the following password: Bird, Tree, Planet, Bird, three-legged triangle, Satellite, Satellite, Fish, Rocket, Planet, Dog, Pillar\nAfter the door opens, grab the \"Strange Access Card\" in the dresser, near the Elephant statue.\nDuring Part 4: Get the book \"Freeze me / Wake Me, Elias Fisher\" located inside the Stenhouse store within the Atlas Square\nDuring Part 6: Open door 621 in the control room and grab the \"a map of nowhere else, the future of interstellar travel\" book. In the final corridor, instead of going the normal way, interact with the reader on the wall and use the strange access card to confirm the sci-fi ending.\n\n***NOTE: You can prepare a save file that has the requirements for both the UFO and Dog ending almost done then reload whenever you need to get one or the other.\nTo do this get all strange books and the access card while at the same time get all the dog coins and deposit them except for the last one in the last chapter.\nOnce the only step missing is the final one for each ending, make a save then choose whatever ending you want and after you're done reload the save you previously prepared to do the other one.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_16",
+      "display_name": "Fleeting Visit",
+      "description": "Finish the game in under 4 hours.",
+      "chapter": "Sidetrack",
+      "hint": "I recommend doing this in ng+ for the axe and maybe pistol from the sci-fi ending. You can also do this while going for the \"Just Making Things Worse\" achievement, since it requires you to have more kills than evidence.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_17",
+      "display_name": "Cold Calling",
+      "description": "Call all the phone numbers found in St. Amelia.",
+      "chapter": "Sidetrack",
+      "hint": "Some numbers are tied to progression or exploration, while some others can only be seen after beating the game, but inputted earlier. All numbers and the earliest time you can call them is:\nPart 1:\n#900 - Seen in the first booth\n#010 - Seen in the first booth\n#100 - Seen in the first booth\n#496 0496 - Seen at the bottom of your map\n#496 0244 - Seen in a phamplet at the Hotel before exiting\n#946 - Seen after finishing first playthrough. Doable only in Part 1.\n#496 0842 - Told by #946\n\nPart 2:\nChapter 5:\n#0163 296 0595 - Can only be done as Zoe, seen in the water warning document.\n#496 0103 - Can only be done as Zoe, Zoe's house\n#496 0556 - Unmissable, needed to progress the story\n\nPart 3:\n#5353 - Unmissable, needed to progress the story\n\nPart 4: \n#946 - (The number from before, doing it here won't give you 496 0842 but another number). Seen in a poster.\n#496 0112 - Given by #946\n#496 0993 - Seen at the top left of the Locker Barcode. Call this number when in Clara Woods.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_18",
+      "display_name": "Observation",
+      "description": "Collect 50% of all documents.",
+      "chapter": "Sidetrack",
+      "hint": "Documents refer to those that count as evidence/clues but also those that don't. Try and aim for this when going for the good ending.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_19",
+      "display_name": "Thorough Inspection",
+      "description": "Collect all of the documents.",
+      "chapter": "Sidetrack",
+      "hint": "Documents refer to those that count as evidence/clues but also those that don't. Try and aim for this when going for the good ending.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_20",
+      "display_name": "Blur Your Eyes",
+      "description": "Collect all of the strange postcards",
+      "chapter": "Sidetrack",
+      "hint": "Collect all Strange Postcards.\nThere are a total of #15 Postcards in the game.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_21",
+      "display_name": "Sweeping Signals",
+      "description": "Tune into all signals on the CRTV.",
+      "chapter": "Sidetrack",
+      "hint": "There are #18 total CRTV signals. \nEnemy frequencies don't count.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_22",
+      "display_name": "Future Hardware",
+      "description": "Obtain the Pistol-3000.",
+      "chapter": "NG+",
+      "hint": "After Finishing the Sci-Fi ending in NG+, start another NG+ and head to storage section past the rail with all the \"For Sale\" signs and pick up the Pistol-3000.\nAs Richard, you can find it in the Boardroom close to the Level 3/4 Access Card you need to obtain to progress.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "https://youtu.be/yHx7pqtb2ik?si=y0BafPgzTAK3wXAe&t=43",
+      "requires": [
+        "ACH_15",
+        "ACH_10"
+      ]
+    },
+    {
+      "apiname": "ACH_23",
+      "display_name": "Here's Simon!",
+      "description": "Obtain the Axe.",
+      "chapter": "NG+",
+      "hint": "At the start of a NG+, head to storage section past the rail with all the \"For Sale\" signs and pick up the Axe.\nAs Zoe, you can find the Axe in the shed in front of Mr. Stewart's house.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "https://youtu.be/BBUCjI_nFeU?si=KwS8_GmkQCuUmXeR&t=9",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_24",
+      "display_name": "From Scratch",
+      "description": "Create 20 new items by combining others.",
+      "chapter": "Sidetrack",
+      "hint": "Gause + Alcohol or IV Fluid + IV Bag and some story/key items will be how you'll get this. If you don't get it in your first run, don't worry, you can do it in the next one.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_25",
+      "display_name": "Creative Process",
+      "description": "Kill at least one enemy with Plank, Pipe, Pistol, Shotgun, Flare Gun, Bottle and Brick in a single playthrough.",
+      "chapter": "Sidetrack",
+      "hint": "Kill at least one enemy with Plank, Pipe, Pistol, Shotgun, Flare Gun, Bottle and Brick in a single playthrough.\nCheck \"Pinpoint Inaccuracy\" and \"Long-Range Masonry\" for other killing related achievements.\n\n*Be sure to get the Plank kill before Clara Woods, as it will stop spawning after that part.\n**You can make your brick kill be the \"Long-range Masonry\" achievement.\n***Since enemies take around 10+ bottles to kill normally, get the bottle kill with one of the Crawlers or laying enemies in the ground.\n****If you're really worried about your ending score, do know that when you don't play as Simon, kills don't count for those characters, and that Crawlers also don't count as kills for any of the characters.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_26",
+      "display_name": "Long-Range Masonry",
+      "description": "Hit any enemy in the head with a brick from over 15 meters away.",
+      "chapter": "Sidetrack",
+      "hint": "The tricky part is that it has to hit *the head*. A body-shot won't count.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "https://www.youtube.com/watch?v=Soo2IrCvHCk",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_27",
+      "display_name": "Pinpoint Inaccuracy",
+      "description": "Land a head shot on any enemy with the Flare Gun from over 10 meters away",
+      "chapter": "Sidetrack",
+      "hint": "You find the Flare Gun in one of the lockers of Part 4's Clara Woods. The flare-gun is incredibly inaccurate so this can be a bit of a frustrating achievement to get. Be sure to keep a save nearby and if possible use a stationary target such as the many fake corpses in Clara Woods.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "https://www.youtube.com/watch?v=blvDGl8ZwOo",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_28",
+      "display_name": "Missing The Point Entirely",
+      "description": "Silence 30 Widows.",
+      "chapter": "Sidetrack",
+      "hint": "Silence (kill) 30 Widows.\nThere aren't enough Widows in a single playthrough to get this achievement, but during Richard's sections of the game, you'll be able to find these enemies. Feel free to reload a save close to a spot where you know there will be a few of them so you can farm it. In the linked video, the video showcases a single widow, but I was able to get 3 in that spot so it was quite easy.\n\nRichard segments don't count for the \"enemy kills\" required for endings.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "https://youtu.be/Wxw5zmEYdlM?si=4UH1kVZEtt_NTXv_&t=6",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_29",
+      "display_name": "Pull!",
+      "description": "Throw a bottle into the air, and shoot it with the pistol.",
+      "chapter": "Sidetrack",
+      "hint": "Throw a bottle into the air, and shoot it with the pistol. I found it easier to do when throwing the bottle directly upwards.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "https://www.youtube.com/watch?v=IJQ-7n0QcY8",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_30",
+      "display_name": "Isolating Experience",
+      "description": "Wait in a hiding spot for 60 seconds.",
+      "chapter": "Sidetrack",
+      "hint": "What counts as a \"hiding spot\" is anything you can interact with that says \"Hide\".",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_31",
+      "display_name": "Static Distractions",
+      "description": "Distract 10 Enemies with a radio in the world.",
+      "chapter": "Sidetrack",
+      "hint": "You can do this with the same enemy and with the same radio you find, if you want.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_32",
+      "display_name": "Lured Off Track",
+      "description": "Distract 20 Enemies with a bottle.",
+      "chapter": "Sidetrack",
+      "hint": "While undetected by an enemy, throw a bottle to the ground to make them head there. I believe you must remain undetected for it to count as a distraction.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_33",
+      "display_name": "Alarmingly Effective",
+      "description": "Successfully distract an enemy by setting off a car alarm.",
+      "chapter": "Sidetrack",
+      "hint": "Throw an object to a car or hit it with a melee weapon to start an alarm.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_34",
+      "display_name": "Reject The Help",
+      "description": "After meeting Richard, do not use a phone to save the game.",
+      "chapter": "Sidetrack",
+      "hint": "Don't do manual saves. You have to do one manual save, that won't count, the first time to progress the story and meet richard, but after that don't use manual saves and you should be good. This game has auto-saves so dont worry too much.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_35",
+      "display_name": "Resourceful",
+      "description": "Unlock all resource containers.",
+      "chapter": "Sidetrack",
+      "hint": "There are 7 keys and 7 Containers, one in each Part with Part 6 having two.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACH_36",
+      "display_name": "Save It For The Patients",
+      "description": "During the missions “Rounds” and “The Patient”, don’t use any healing items.",
+      "chapter": "Sidetrack",
+      "hint": "Complete all Zoe chapters without using healing items.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    }
+  ]
+}
