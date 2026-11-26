@@ -1,0 +1,836 @@
+{
+  "id": "1795654754463",
+  "name": "Maps and Checklist for Lunacid",
+  "author": "Renia",
+  "description": "Every Lunacid level fully mapped in MS paint! Drawn by yours truly",
+  "indexes": [
+    {
+      "id": "1795654967811",
+      "title": "Hollow Basin",
+      "blocks": [
+        {
+          "id": "1795654972859",
+          "type": "media",
+          "content": "https://i.imgur.com/BtIdfpS.png"
+        },
+        {
+          "id": "1795656504690",
+          "type": "text",
+          "content": "Random Rare Drops (unlisted:\n- Milk Snails: Ice Sickle"
+        },
+        {
+          "id": "1795654987860",
+          "type": "checklist",
+          "content": "1795495909279"
+        },
+        {
+          "id": "1795655011614",
+          "type": "checklist",
+          "content": "1795495864081"
+        },
+        {
+          "id": "1795654993462",
+          "type": "checklist",
+          "content": "1795490609363"
+        },
+        {
+          "id": "1795655003008",
+          "type": "checklist",
+          "content": "1795489867943"
+        },
+        {
+          "id": "1795656501092",
+          "type": "checklist",
+          "content": "1795495957106"
+        }
+      ]
+    },
+    {
+      "id": "1795655052534",
+      "title": "Temple of Silence",
+      "blocks": [
+        {
+          "id": "1795655070324",
+          "type": "media",
+          "content": "https://i.imgur.com/Y7MdFCy.png"
+        },
+        {
+          "id": "1795655075984",
+          "type": "text",
+          "content": "Rare unlisted enemy drops\n- Rusted Sword (Dropped from the knight mummies) Evolves into Dark Greatsword"
+        },
+        {
+          "id": "1795655102180",
+          "type": "checklist",
+          "content": "1795494727955"
+        },
+        {
+          "id": "1795655132092",
+          "type": "checklist",
+          "content": "1795494618503"
+        },
+        {
+          "id": "1795655115566",
+          "type": "checklist",
+          "content": "1795489151882"
+        },
+        {
+          "id": "1795655121652",
+          "type": "checklist",
+          "content": "1795489802413"
+        },
+        {
+          "id": "1795655139707",
+          "type": "checklist",
+          "content": "1795488903750"
+        }
+      ]
+    },
+    {
+      "id": "1795655204558",
+      "title": "The Fetid Mire",
+      "blocks": [
+        {
+          "id": "1795655213292",
+          "type": "media",
+          "content": "https://i.imgur.com/PH13WEr.png"
+        },
+        {
+          "id": "1795655544467",
+          "type": "achievement",
+          "content": "ACHIEVEMENT_1_3"
+        },
+        {
+          "id": "1795655277659",
+          "type": "checklist",
+          "content": "1795490043915"
+        },
+        {
+          "id": "1795655237842",
+          "type": "checklist",
+          "content": "1795488517708"
+        },
+        {
+          "id": "1795655214317",
+          "type": "checklist",
+          "content": "1795491147472"
+        },
+        {
+          "id": "1795655215049",
+          "type": "checklist",
+          "content": "1795492780905"
+        },
+        {
+          "id": "1795655247177",
+          "type": "checklist",
+          "content": "1795493531580"
+        },
+        {
+          "id": "1795655256382",
+          "type": "checklist",
+          "content": "1795493587860"
+        }
+      ]
+    },
+    {
+      "id": "1795655350001",
+      "title": "The Sanguine Sea",
+      "blocks": [
+        {
+          "id": "1795655352816",
+          "type": "media",
+          "content": "https://i.imgur.com/VtGr4G9.png"
+        },
+        {
+          "id": "1795655554563",
+          "type": "achievement",
+          "content": "ACHIEVEMENT_1_6"
+        },
+        {
+          "id": "1795655367889",
+          "type": "checklist",
+          "content": "1795494824729"
+        },
+        {
+          "id": "1795655372391",
+          "type": "checklist",
+          "content": "1795494023862"
+        },
+        {
+          "id": "1795655908372",
+          "type": "achievement",
+          "content": "ACHIEVEMENT_1_8"
+        },
+        {
+          "id": "1795655380165",
+          "type": "checklist",
+          "content": "1795490786813"
+        }
+      ]
+    },
+    {
+      "id": "1795655434574",
+      "title": "The Accursed Tomb",
+      "blocks": [
+        {
+          "id": "1795655441206",
+          "type": "media",
+          "content": "https://i.imgur.com/iEinEKL.png"
+        },
+        {
+          "id": "1795655451634",
+          "type": "checklist",
+          "content": "1795490680545"
+        }
+      ]
+    },
+    {
+      "id": "1795655470026",
+      "title": "Catacombs",
+      "blocks": [
+        {
+          "id": "1795655491303",
+          "type": "media",
+          "content": "https://i.imgur.com/9jFMevX.png"
+        },
+        {
+          "id": "1795655731223",
+          "type": "achievement",
+          "content": "ACHIEVEMENT_1_4"
+        },
+        {
+          "id": "1795655500595",
+          "type": "checklist",
+          "content": "1795499515632"
+        },
+        {
+          "id": "1795655514465",
+          "type": "checklist",
+          "content": "1795489089310"
+        },
+        {
+          "id": "1795655519737",
+          "type": "checklist",
+          "content": "1795492905291"
+        }
+      ]
+    },
+    {
+      "id": "1795655838871",
+      "title": "Mausoleum",
+      "blocks": [
+        {
+          "id": "1795655842914",
+          "type": "media",
+          "content": "https://i.imgur.com/lveB1or.png"
+        },
+        {
+          "id": "1795655858904",
+          "type": "text",
+          "content": "Rare unlisted enemy drops:\n- Cursed Blade dropped from the pink orb enemies. Best strat is to try and kill them all, if drop isn't there, use corpse transformation spell (from the grand archives) to go back to the checkpoint without using a crystal shard. Once you get it, just crystal shard out. Alternatively, wait to farm this at Castle Le Fanu.\n- Dark Skull (SR) dropped from the Skeleton enemies\n- Skeleton's Axe dropped from the Skeleton enemies"
+        },
+        {
+          "id": "1795655885727",
+          "type": "checklist",
+          "content": "1795499256860"
+        },
+        {
+          "id": "1795655895959",
+          "type": "checklist",
+          "content": "1795494297379"
+        },
+        {
+          "id": "1795655934482",
+          "type": "checklist",
+          "content": "1795489266007"
+        },
+        {
+          "id": "1795655939936",
+          "type": "checklist",
+          "content": "1795498953680"
+        },
+        {
+          "id": "1795657600176",
+          "type": "achievement",
+          "content": "ACHIEVEMENT_1_19"
+        }
+      ]
+    },
+    {
+      "id": "1795655955458",
+      "title": "Yosei Forest",
+      "blocks": [
+        {
+          "id": "1795656085740",
+          "type": "media",
+          "content": "https://i.imgur.com/IJ9yGU5.png"
+        },
+        {
+          "id": "1795655961685",
+          "type": "text",
+          "content": "Rare unlisted enemy drops:\n- Summon Kodama (SR, dropped from bunnies)"
+        },
+        {
+          "id": "1795655969613",
+          "type": "achievement",
+          "content": "ACHIEVEMENT_1_5"
+        },
+        {
+          "id": "1795655974449",
+          "type": "checklist",
+          "content": "1795488880649"
+        },
+        {
+          "id": "1795655985315",
+          "type": "checklist",
+          "content": "1795494727955"
+        },
+        {
+          "id": "1795656094409",
+          "type": "checklist",
+          "content": "1795490643684"
+        },
+        {
+          "id": "1795656099839",
+          "type": "checklist",
+          "content": "1795495038316"
+        },
+        {
+          "id": "1795656118839",
+          "type": "checklist",
+          "content": "1795495205057"
+        },
+        {
+          "id": "1795656126458",
+          "type": "checklist",
+          "content": "1795495091509"
+        },
+        {
+          "id": "1795656144762",
+          "type": "checklist",
+          "content": "1795490810521"
+        },
+        {
+          "id": "1795656106452",
+          "type": "checklist",
+          "content": "1795490666757"
+        },
+        {
+          "id": "1795656111572",
+          "type": "checklist",
+          "content": "1795490896992"
+        }
+      ]
+    },
+    {
+      "id": "1795656195128",
+      "title": "Forest Canopy",
+      "blocks": [
+        {
+          "id": "1795656198263",
+          "type": "media",
+          "content": "https://i.imgur.com/U3q7iO9.png"
+        },
+        {
+          "id": "1795656208636",
+          "type": "checklist",
+          "content": "1795491185450"
+        },
+        {
+          "id": "1795656216008",
+          "type": "checklist",
+          "content": "1795491166633"
+        }
+      ]
+    },
+    {
+      "id": "1795656266184",
+      "title": "Forbidden Archives",
+      "blocks": [
+        {
+          "id": "1795656268032",
+          "type": "media",
+          "content": "https://i.imgur.com/2SySFZ9.png"
+        },
+        {
+          "id": "1795656543342",
+          "type": "text",
+          "content": "Rare unlisted enemy drops:\n- Quick Stride (SR, dropped from Chimeras)\n- Ice Sickle (Dropped from Milky Slimes)"
+        },
+        {
+          "id": "1795656271127",
+          "type": "achievement",
+          "content": "ACHIEVEMENT_1_10"
+        },
+        {
+          "id": "1795656276031",
+          "type": "checklist",
+          "content": "1795489248038"
+        },
+        {
+          "id": "1795656282700",
+          "type": "checklist",
+          "content": "1795492649253"
+        },
+        {
+          "id": "1795656289463",
+          "type": "checklist",
+          "content": "1795499609095"
+        },
+        {
+          "id": "1795656295554",
+          "type": "checklist",
+          "content": "1795490666757"
+        },
+        {
+          "id": "1795656301226",
+          "type": "checklist",
+          "content": "1795488880649"
+        },
+        {
+          "id": "1795656567504",
+          "type": "checklist",
+          "content": "1795489215562"
+        },
+        {
+          "id": "1795656570645",
+          "type": "checklist",
+          "content": "1795495957106"
+        },
+        {
+          "id": "1795656317850",
+          "type": "text",
+          "content": "The following spells are tied to Daedalus, an NPC that requires 3 black books (obtained from different places) and some time to decipher them."
+        },
+        {
+          "id": "1795656354738",
+          "type": "checklist",
+          "content": "1795489376123"
+        },
+        {
+          "id": "1795656360304",
+          "type": "checklist",
+          "content": "1795488794292"
+        },
+        {
+          "id": "1795656366407",
+          "type": "checklist",
+          "content": "1795490749110"
+        }
+      ]
+    },
+    {
+      "id": "1795656377304",
+      "title": "Laetus Chasm",
+      "blocks": [
+        {
+          "id": "1795656379177",
+          "type": "media",
+          "content": "https://i.imgur.com/E1YFWTy.png"
+        },
+        {
+          "id": "1795656386560",
+          "type": "checklist",
+          "content": "1795490068429"
+        },
+        {
+          "id": "1795656392900",
+          "type": "checklist",
+          "content": "1795493250707"
+        }
+      ]
+    },
+    {
+      "id": "1795656437401",
+      "title": "Great Well Surface",
+      "blocks": [
+        {
+          "id": "1795656438723",
+          "type": "media",
+          "content": "https://i.imgur.com/gaIsejm.png"
+        }
+      ]
+    },
+    {
+      "id": "1795656459195",
+      "title": "Castle Le Fanu",
+      "blocks": [
+        {
+          "id": "1795656460963",
+          "type": "media",
+          "content": "https://i.imgur.com/3HuZ0RQ.png"
+        },
+        {
+          "id": "1795656624831",
+          "type": "text",
+          "content": "Rare unlisted enemy drops:\n- Cursed Blade (From the Phantom enemies outside the castle and in the upper floor. They also drop from Poltergeist enemies in the upper floor)\n- Lyrian Longsword (From the Vampire Page enemies). Evolves into Lyrian Greatsword\n\n**PLEASE NOTE:**\n1. If you're a Vampire or Undead, the red doors will ALWAYS be open for you, otherwise you'll need to use a blood spell.\n2. The White VHS Tape is the only non-completionist requirement for ending E so you might want to hold off doing this if you want to see all endings in one save file!\n3. The White VHS Quest, if done before 1.0, you'll have to do save manipulation to get it back. Just open the game files, find your save file + slot (file is .MIDNIGHT) and open with a text editor changing White VHS Tape from 00 to 01."
+        },
+        {
+          "id": "1795656467216",
+          "type": "achievement",
+          "content": "ACHIEVEMENT_1_7"
+        },
+        {
+          "id": "1795656471511",
+          "type": "checklist",
+          "content": "1795490584905"
+        },
+        {
+          "id": "1795656608345",
+          "type": "checklist",
+          "content": "1795492963930"
+        },
+        {
+          "id": "1795656615336",
+          "type": "checklist",
+          "content": "1795499571931"
+        },
+        {
+          "id": "1795656618016",
+          "type": "checklist",
+          "content": "1795494120809"
+        },
+        {
+          "id": "1795656621333",
+          "type": "checklist",
+          "content": "1795494160119"
+        },
+        {
+          "id": "1795656676625",
+          "type": "checklist",
+          "content": "1795494297379"
+        },
+        {
+          "id": "1795656679976",
+          "type": "checklist",
+          "content": "1795497523081"
+        },
+        {
+          "id": "1795656686986",
+          "type": "checklist",
+          "content": "1795497547864"
+        },
+        {
+          "id": "1795656829014",
+          "type": "achievement",
+          "content": "ACHIEVEMENT_1_13"
+        }
+      ]
+    },
+    {
+      "id": "1795656702625",
+      "title": "A Holy Battleground",
+      "blocks": [
+        {
+          "id": "1795656715652",
+          "type": "media",
+          "content": "https://i.imgur.com/oP7tawI.png"
+        }
+      ]
+    },
+    {
+      "id": "1795656767128",
+      "title": "Throne Chamber",
+      "blocks": [
+        {
+          "id": "1795656769106",
+          "type": "media",
+          "content": "https://i.imgur.com/sSEMjWX.png"
+        }
+      ]
+    },
+    {
+      "id": "1795656785913",
+      "title": "Sealed Ballroom",
+      "blocks": [
+        {
+          "id": "1795656787633",
+          "type": "media",
+          "content": "https://i.imgur.com/yBJYMUT.png"
+        },
+        {
+          "id": "1795656797279",
+          "type": "text",
+          "content": "Rare unlisted enemy drops:\n- Brittle Arming Sword (Obtained by killing a Malformed Elefant)"
+        },
+        {
+          "id": "1795656802027",
+          "type": "checklist",
+          "content": "1795490913476"
+        },
+        {
+          "id": "1795656812420",
+          "type": "checklist",
+          "content": "1795497680920"
+        },
+        {
+          "id": "1795656837305",
+          "type": "checklist",
+          "content": "1795499014081"
+        },
+        {
+          "id": "1795656842131",
+          "type": "checklist",
+          "content": "1795493445072"
+        }
+      ]
+    },
+    {
+      "id": "1795656858617",
+      "title": "Boiling Grotto",
+      "blocks": [
+        {
+          "id": "1795656860538",
+          "type": "media",
+          "content": "https://i.imgur.com/qKfnDOE.png"
+        },
+        {
+          "id": "1795656862604",
+          "type": "text",
+          "content": "Note: You can spam Ignis Calor on Sir Hicket's armor to make \"something\" happen.\nAfter you do that, talk to Sheryl the crow and then reload the area for new wares.\n\nRare unlisted enemy drops:\n- Obsidian Cursebrand (Obtained from killing Obsidian Skeletons. Can only hold one of the two, but can swap them at no cost in the oil fountain at wing's rest)\n- Obsidian Poisonguard (Obtained from killing Obsidian Skeletons. Can only hold one of the two, but can swap them at no cost in the oil fountain at wing's rest)\n- Golden Sickle (Obtained by killing Anpus)\n- Golden Khopesh (Obtained by killing Anpus)"
+        },
+        {
+          "id": "1795656893315",
+          "type": "checklist",
+          "content": "1795490989814"
+        },
+        {
+          "id": "1795656910433",
+          "type": "checklist",
+          "content": "1795496093272"
+        },
+        {
+          "id": "1795656915436",
+          "type": "checklist",
+          "content": "1795496124630"
+        },
+        {
+          "id": "1795656922533",
+          "type": "checklist",
+          "content": "1795496194938"
+        },
+        {
+          "id": "1795656927858",
+          "type": "checklist",
+          "content": "1795489887750"
+        },
+        {
+          "id": "1795656933427",
+          "type": "checklist",
+          "content": "1795495449994"
+        },
+        {
+          "id": "1795656940039",
+          "type": "checklist",
+          "content": "1795495485232"
+        },
+        {
+          "id": "1795657318670",
+          "type": "checklist",
+          "content": "1795497884317"
+        },
+        {
+          "id": "1795657343385",
+          "type": "checklist",
+          "content": "1795497906706"
+        }
+      ]
+    },
+    {
+      "id": "1795656955633",
+      "title": "Tower of Abyss",
+      "blocks": [
+        {
+          "id": "1795656959378",
+          "type": "media",
+          "content": "https://i.imgur.com/zqV4kLe.png"
+        },
+        {
+          "id": "1795656965558",
+          "type": "checklist",
+          "content": "1795497723650"
+        },
+        {
+          "id": "1795656973144",
+          "type": "achievement",
+          "content": "ACHIEVEMENT_1_18"
+        }
+      ]
+    },
+    {
+      "id": "1795656986545",
+      "title": "Terminus Prison",
+      "blocks": [
+        {
+          "id": "1795656989481",
+          "type": "media",
+          "content": "https://i.imgur.com/cAR7duf.png"
+        },
+        {
+          "id": "1795657036932",
+          "type": "achievement",
+          "content": "ACHIEVEMENT_1_22"
+        },
+        {
+          "id": "1795657121023",
+          "type": "text",
+          "content": "Rare unlisted enemy drops:\n- Jailor's Candle (Obtained by killing Jailors)"
+        },
+        {
+          "id": "1795657126629",
+          "type": "checklist",
+          "content": "1795495348434"
+        },
+        {
+          "id": "1795657138068",
+          "type": "checklist",
+          "content": "1795493691852"
+        },
+        {
+          "id": "1795657142757",
+          "type": "checklist",
+          "content": "1795493778103"
+        },
+        {
+          "id": "1795657152628",
+          "type": "checklist",
+          "content": "1795490949051"
+        },
+        {
+          "id": "1795657147494",
+          "type": "checklist",
+          "content": "1795488989714"
+        },
+        {
+          "id": "1795657184654",
+          "type": "checklist",
+          "content": "1795496516332"
+        }
+      ]
+    },
+    {
+      "id": "1795657205481",
+      "title": "Forlorn Arena",
+      "blocks": [
+        {
+          "id": "1795657207554",
+          "type": "media",
+          "content": "https://i.imgur.com/47hTfv6.png"
+        },
+        {
+          "id": "1795657221444",
+          "type": "achievement",
+          "content": "ACHIEVEMENT_1_24"
+        },
+        {
+          "id": "1795657241475",
+          "type": "text",
+          "content": "Rare unlisted enemy drops:\n- Sucsarian Spear (Obtained by killing Sucsarians)\n- Sucsarian Dagger (Obtained by killing Sucsarians)"
+        },
+        {
+          "id": "1795657266803",
+          "type": "checklist",
+          "content": "1795498803614"
+        },
+        {
+          "id": "1795657273867",
+          "type": "checklist",
+          "content": "1795498864015"
+        },
+        {
+          "id": "1795657279991",
+          "type": "checklist",
+          "content": "1795497970824"
+        },
+        {
+          "id": "1795657435218",
+          "type": "checklist",
+          "content": "1795498025419"
+        },
+        {
+          "id": "1795657438766",
+          "type": "checklist",
+          "content": "1795499142048"
+        },
+        {
+          "id": "1795657443831",
+          "type": "checklist",
+          "content": "1795499171762"
+        }
+      ]
+    },
+    {
+      "id": "1795657461155",
+      "title": "Chamber of Fate",
+      "blocks": [
+        {
+          "id": "1795657463169",
+          "type": "media",
+          "content": "https://i.imgur.com/kFGmtVF.png"
+        },
+        {
+          "id": "1795657465162",
+          "type": "achievement",
+          "content": "ACHIEVEMENT_1_21"
+        }
+      ]
+    },
+    {
+      "id": "1795657490898",
+      "title": "Grave of the Sleeper",
+      "blocks": [
+        {
+          "id": "1795657504632",
+          "type": "media",
+          "content": "https://i.imgur.com/pDGufai.png"
+        },
+        {
+          "id": "1795657507576",
+          "type": "achievement",
+          "content": "ACHIEVEMENT_1_11"
+        },
+        {
+          "id": "1795657515044",
+          "type": "achievement",
+          "content": "ACHIEVEMENT_1_20"
+        },
+        {
+          "id": "1795657524950",
+          "type": "achievement",
+          "content": "ACHIEVEMENT_1_14"
+        }
+      ]
+    },
+    {
+      "id": "1795657552719",
+      "title": "Labyrinth of Ash",
+      "blocks": [
+        {
+          "id": "1795657569845",
+          "type": "media",
+          "content": "https://i.imgur.com/qIN3ecf.png"
+        },
+        {
+          "id": "1795657560545",
+          "type": "achievement",
+          "content": "ACHIEVEMENT_1_23"
+        },
+        {
+          "id": "1795657572970",
+          "type": "checklist",
+          "content": "1795490005388"
+        },
+        {
+          "id": "1795657580680",
+          "type": "checklist",
+          "content": "1795490769811"
+        },
+        {
+          "id": "1795657588912",
+          "type": "achievement",
+          "content": "ACHIEVEMENT_1_15"
+        }
+      ]
+    }
+  ]
+}
