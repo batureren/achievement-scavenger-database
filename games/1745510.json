@@ -1,0 +1,361 @@
+{
+  "gameName": "Lunacid",
+  "completion": {
+    "difficulty": 3,
+    "length": 4
+  },
+  "chapters": [
+    "Progression",
+    "Sidetrack",
+    "Ending"
+  ],
+  "links": [
+    {
+      "title": "Lunacid Fandom wiki",
+      "url": "https://lunacid.fandom.com/wiki/Lunacid_Wiki"
+    },
+    {
+      "title": "Lunacid Mirahaze wiki",
+      "url": "https://lunacid.miraheze.org/wiki/Main_Page"
+    },
+    {
+      "title": "Lunacid Maps",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2780163437"
+    },
+    {
+      "title": "Lunacid Alchemy Guide",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2779749928"
+    },
+    {
+      "title": "Lunacid Ingredients Guide",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2779752825"
+    }
+  ],
+  "achievements": [
+    {
+      "apiname": "ACHIEVEMENT_1_0",
+      "display_name": "Fledgling",
+      "description": "Reached Level 25",
+      "chapter": "Progression",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACHIEVEMENT_1_1",
+      "display_name": "Warrior",
+      "description": "Reached Level 50",
+      "chapter": "Progression",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACHIEVEMENT_1_2",
+      "display_name": "Knight of The Moon",
+      "description": "Reached Level 75",
+      "chapter": "Progression",
+      "hint": "",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACHIEVEMENT_1_3",
+      "display_name": "Fetid Mire",
+      "description": "Reached the Sewer",
+      "chapter": "Progression",
+      "hint": "The Hollow Basin: Temple of Silence, ends in two paths. One of them is the Fetid Mire.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACHIEVEMENT_1_4",
+      "display_name": "Came Back Haunted",
+      "description": "Reached the Catacombs",
+      "chapter": "Progression",
+      "hint": "The Sanguine Sea connects to the Accursed Tomb which connects to the Catacombs.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": [
+        "ACHIEVEMENT_1_6"
+      ]
+    },
+    {
+      "apiname": "ACHIEVEMENT_1_5",
+      "display_name": "Yosei Forest",
+      "description": "Reached the Forest",
+      "chapter": "Progression",
+      "hint": "The Hollow Basin: Temple of Silence, ends in two paths. One of them is the Yosei Forest.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACHIEVEMENT_1_6",
+      "display_name": "Blood Lake",
+      "description": "Reached the Lake",
+      "chapter": "Progression",
+      "hint": "The only new location that the Fetid Mire connects to is the Sanguine Sea.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": [
+        "ACHIEVEMENT_1_3"
+      ]
+    },
+    {
+      "apiname": "ACHIEVEMENT_1_7",
+      "display_name": "Hollow Castle",
+      "description": "Reached the Castle",
+      "chapter": "Progression",
+      "hint": "In the middle of the Sanguine Sea, you'll see a bridge that connects to the Castle Le Fanu.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": [
+        "ACHIEVEMENT_1_6"
+      ]
+    },
+    {
+      "apiname": "ACHIEVEMENT_1_8",
+      "display_name": "Demon Slayer",
+      "description": "Slew an Abyssal Demon in a lake",
+      "chapter": "Sidetrack",
+      "hint": "From the fetid mire entrance, south west and around the corner will lead you to an abyssal demon.\n\nI recommend doing this ASAP, preferably before the \"Gate of Tartarus\" achievement's steps.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "ACHIEVEMENT_1_6"
+      ]
+    },
+    {
+      "apiname": "ACHIEVEMENT_1_9",
+      "display_name": "Strange VHS",
+      "description": "Found the Second VHS Tape",
+      "chapter": "Sidetrack",
+      "hint": "-The first VHS tape is located in the Temple of Silence, behind a fake wall. in the south west part of the map.\n*This will show you how to get the key you need for the second VHS tape. \n- The video shows you a gate that needs light elemental damage and that is the gate that's right next to the first VHS Tape. Do what the video says to get the corrupt key.\n- With the corrupt key in your inventory, head to the south west part of the catacombs (where the stairs are at) and use the corrupt key in the glitchy textured wall. Inside you'll find the second tape, giving you the achievement.\n\nNOTE: This is related to an alternate ending and there's more to do if you want to go for that ending.\n\n",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "ACHIEVEMENT_1_7",
+        "ACHIEVEMENT_1_4",
+        "ACHIEVEMENT_1_14"
+      ]
+    },
+    {
+      "apiname": "ACHIEVEMENT_1_10",
+      "display_name": "Forbidden Archives",
+      "description": "Reached the Grand Library",
+      "chapter": "Progression",
+      "hint": "The Hollow Basin ends in multiple paths. One of them is the Forbidden Archives. Specifically the south west path.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACHIEVEMENT_1_11",
+      "display_name": "LUNACID",
+      "description": "Woke the Old One, achieved the true end.",
+      "chapter": "Ending",
+      "hint": "Default ending (Ending A)\n\n*NOTE: If you did all the VHS steps *and* have obtained all of the spell rings, you'll miss out on this ending, as that other ending replaces this one. so get this one first! You'll be able to reload the save to just before you interact with the Old One so don't worry.\nGonna risk being redundant for the sake of clarity; This means don't get all of the spells OR *insert* the white VHS as those two are the requirements for Ending E, which will replace this one.\n\nJust reach the dreamer and wake them up without meeting the requirements for the other ending (not getting all spells).\nAfter getting this ending, one can load their save and try to get another ending.",
+      "is_missable": true,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "ACHIEVEMENT_1_24"
+      ]
+    },
+    {
+      "apiname": "ACHIEVEMENT_1_12",
+      "display_name": "Basilisk",
+      "description": "Found a strange old corpse",
+      "chapter": "Sidetrack",
+      "hint": "Obtained upon getting the Corpse Transformation ring.\nThis is in the Forbidden Archives, 2nd floor before the first elevator, there's a fake wall nearby.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "ACHIEVEMENT_1_10"
+      ]
+    },
+    {
+      "apiname": "ACHIEVEMENT_1_13",
+      "display_name": "Vampire Prince",
+      "description": "Fought Crilall",
+      "chapter": "Progression",
+      "hint": "Defeat the boss of Castle Le Fanu.\nNOTE: If fighting under a full moon IRL, the boxx regenerates HP 10x faster so do keep that in mind!",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": [
+        "ACHIEVEMENT_1_7"
+      ]
+    },
+    {
+      "apiname": "ACHIEVEMENT_1_14",
+      "display_name": "Ending E",
+      "description": "Became the Dreamer",
+      "chapter": "Ending",
+      "hint": "*NOTE: This ending replaces the normal ending of the game so be sure to get the normal ending first to not miss out on an achievement!\n\nContinuing from the \"Strange VHS\" achievement's indications, bring the newly obtained White VHS to Castle Le Fanu's dining room, take a right and then take a right again to enter a room with a coffin in the middle. Go past it and interact with the fake wall to find an elevator. Put the VHS tape in the VHS slot, left of the TV.\n\nOnce you did the VHS stuff and have collected all of the spell rings, head to the Grave of the Sleeper and finish the game like normal.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": [
+        "ACHIEVEMENT_1_9",
+        "ACHIEVEMENT_1_17"
+      ]
+    },
+    {
+      "apiname": "ACHIEVEMENT_1_15",
+      "display_name": "Gates of Tartarus",
+      "description": "Opened a doorway to another realm",
+      "chapter": "Ending",
+      "hint": "NOTE: This ending does not conflict with any other so feel free to do the requirements whenever you want!\n\nIn the Labyrinth of Ash, you can find the Gates of Tartarus with a lore passage reading a bunch of things required to make the doors open. Many of these already happened before the events and only 3 are missing. These are:\n\n- Slay a giant of magic (Kill the Jotunn with the Jotunn Slayer, available for purchase after defeating Sucsarius for 350 at Sheryl the Crow)\n- Disrupt the flow of souls to the afterlife (Kill Death using the Limbus weapon)\n- Desecrate a shrine to an elder being (Splatter blood at the altar in the Temple of Silence)\n\nAfter you finish doing all of that, head to the Gates of Tartarus to see the ending.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": [
+        "ACHIEVEMENT_1_24",
+        "ACHIEVEMENT_1_23",
+        "ACHIEVEMENT_1_19"
+      ]
+    },
+    {
+      "apiname": "ACHIEVEMENT_1_16",
+      "display_name": "Complete Arsenal",
+      "description": "Obtained every weapon",
+      "chapter": "Sidetrack",
+      "hint": "For the achievement to count, one must also hold each weapon in their hand so be sure to take it out at least once.\nFor a full list of weapons (and a way to track what you have), head to the checklists section.\nIf the achievement doesn't pop out as soon as you get your last weapon, try turning the shining blade into shadow blade. If that still does not work, try with other weapons that can still earn weapon xp (even if it's just to swap or make the same weapon)\n\nIn my opinion, the best place to farm XP is killing the Labyrinth of Ash's Centaurs then hitting their heads with a charged attack.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "https://youtu.be/yjCIbyNy7T4",
+      "requires": []
+    },
+    {
+      "apiname": "ACHIEVEMENT_1_17",
+      "display_name": "Moonlight Mage",
+      "description": "Obtained every spell",
+      "chapter": "Sidetrack",
+      "hint": "For the achievement to count, one must also equip each spell ring so be sure to equip them at least once.\nFor a full list of spell rings (and a way to track what you have), head to the checklists section.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "https://youtu.be/EBs4c9BsoD0",
+      "requires": []
+    },
+    {
+      "apiname": "ACHIEVEMENT_1_18",
+      "display_name": "A Moonlight Sword",
+      "description": "Found the ancient relic of Lyria",
+      "chapter": "Sidetrack",
+      "hint": "Reach floor 50 of the Tower of Abyss.\nThe Tower of Abyss is located in the Boiling Grotto. From the warp crystal, go north then all the way west until hitting a fake wall. Open it to enter the Tower of Abyss.\nThe Tower of Abyss is a gauntlet-dungeon that consists of 50 floors with enemies on each floor. You just have to kill them all and reach the end.\n\nTo enter the boiling grotto, head to the upper floor of the Castle Le Fanu and you'll find the entrance in the southest area. It's surrounded by two mirages and the Vampiric Symbol (E).",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "ACHIEVEMENT_1_7"
+      ]
+    },
+    {
+      "apiname": "ACHIEVEMENT_1_19",
+      "display_name": "Death Reborn",
+      "description": "Removed an aspect of the Universe.",
+      "chapter": "Progression",
+      "hint": "Defeat Death using the \"Limbo\" weapon then fully evolve the weapon. \nTo find how to craft Limbo, head to the weapons/alchemy section under the checklists tab.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": []
+    },
+    {
+      "apiname": "ACHIEVEMENT_1_20",
+      "display_name": "Ending CD",
+      "description": "Got the Message",
+      "chapter": "Ending",
+      "hint": "In the Grave of the Sleeper, head to the south east, ignoring the dreamer. There will be a path towards a puddle and a lot of rocks. Keep looking at the puddle until you obtain the achievement.\n\nNOTE: This can be done before or after any of the endings.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": [
+        "ACHIEVEMENT_1_24"
+      ]
+    },
+    {
+      "apiname": "ACHIEVEMENT_1_21",
+      "display_name": "The Unkillable Curse",
+      "description": "Defeat Cursed Knight Sucsarius",
+      "chapter": "Progression",
+      "hint": "The Forlon Arena connects to a single different location. \nEnter the door that was sealed to enter the Chamber of Fate and fight a formidable foe.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": [
+        "ACHIEVEMENT_1_24"
+      ]
+    },
+    {
+      "apiname": "ACHIEVEMENT_1_22",
+      "display_name": "Terminus Prison",
+      "description": "Reached the Prison",
+      "chapter": "Progression",
+      "hint": "The Throne Chamber, besides Castle Le Fanu, connects only to one place; The Terminus Prison.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": [
+        "ACHIEVEMENT_1_13"
+      ]
+    },
+    {
+      "apiname": "ACHIEVEMENT_1_23",
+      "display_name": "Labyrinth of Ash",
+      "description": "Reached the Forgotten Temple",
+      "chapter": "Progression",
+      "hint": "In the Terminus Prison, head underground to find a path towards the Labyrinth of Ash, an optional area.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": [
+        "ACHIEVEMENT_1_22"
+      ]
+    },
+    {
+      "apiname": "ACHIEVEMENT_1_24",
+      "display_name": "Forlorn Arena",
+      "description": "Reached the Ruined Arena",
+      "chapter": "Progression",
+      "hint": "The Terminus Prison connects to multiple areas, one of them is the area just before the final boss; Forlorn Arena.",
+      "is_missable": false,
+      "is_spoiler": true,
+      "video_url": "",
+      "requires": [
+        "ACHIEVEMENT_1_22"
+      ]
+    },
+    {
+      "apiname": "ACHIEVEMENT_1_25",
+      "display_name": "Master Alchemist",
+      "description": "Unlocked all of Etna's alchemy recipes",
+      "chapter": "Sidetrack",
+      "hint": "For a full list of ingredients and recipes, head to the checklists section.\nThe earliest you can get all recipes and materials is Forlorn Arena.",
+      "is_missable": false,
+      "is_spoiler": false,
+      "video_url": "",
+      "requires": [
+        "ACHIEVEMENT_1_24"
+      ]
+    }
+  ]
+}
